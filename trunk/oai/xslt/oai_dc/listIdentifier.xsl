@@ -21,7 +21,8 @@
             <xsl:element name="datestamp">
               <xsl:value-of select="LastModified" />
   	    </xsl:element>
-	    <xsl:apply-templates select="profileDesc"/>
+	<!-- sets are determined by profile description -->
+	    <xsl:apply-templates select="profileDesc" mode="set"/>
         </xsl:element>
     </xsl:template>
 

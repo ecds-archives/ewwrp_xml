@@ -3,8 +3,13 @@
 
 <!-- templates to determine which sets a record is a member of -->
 
+
+<xsl:template match="profileDesc" mode="set">
+  <xsl:apply-templates mode="set"/>
+</xsl:template>
+
 <!-- ethnicity -->
-<xsl:template match="profileDesc/creation/rs[@type='ethnicity']">
+<xsl:template match="profileDesc/creation/rs[@type='ethnicity']" mode="set">
     <xsl:choose>
 	<xsl:when test=". = 'African American'">
 	  <xsl:element name="setSpec">afam</xsl:element>
@@ -19,7 +24,7 @@
 </xsl:template>
 
 <!-- form (edited or not) -->
-<xsl:template match="profileDesc/creation/rs[@type='form']">
+<xsl:template match="profileDesc/creation/rs[@type='form']" mode="set">
     <xsl:choose>
 	<xsl:when test=". = 'Edited'">
 	  <xsl:element name="setSpec">ed</xsl:element>
@@ -31,7 +36,7 @@
 </xsl:template>
 
 <!-- genre -->
-<xsl:template match="profileDesc/creation/rs[@type='genre']">
+<xsl:template match="profileDesc/creation/rs[@type='genre']" mode="set">
     <xsl:choose>
 	<xsl:when test=". = 'Poetry'">
 	  <xsl:element name="setSpec">poetry</xsl:element>
@@ -46,7 +51,7 @@
 </xsl:template>
 
 <!-- geography -->
-<xsl:template match="profileDesc/creation/rs[@type='geography']">
+<xsl:template match="profileDesc/creation/rs[@type='geography']" mode="set">
     <xsl:choose>
 	<xsl:when test=". = 'France'">
 	  <xsl:element name="setSpec">FR</xsl:element>
@@ -61,7 +66,7 @@
 </xsl:template>
 
 <!-- time period -->
-<xsl:template match="profileDesc/creation/date">
+<xsl:template match="profileDesc/creation/date" mode="set">
     <xsl:choose>
 	<xsl:when test=". = '1600-1699'">
 	  <xsl:element name="setSpec">16c</xsl:element>
