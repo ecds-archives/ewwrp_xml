@@ -37,88 +37,88 @@
                </let>
                <!-- DEFAULT query is used when a set is not requested and should return all records most likely will be blank-->
                <where>
-                   <set name="DEFAULT"/>
+                   <set setSpec="DEFAULT"/>
 
 		<!-- ethnicity sets -->
- 		   <set name="African American">
+ 		   <set setSpec="afam">
 			<![CDATA[
 			  $ethnicity='African American'
 			]]>
 		   </set>
-	  	   <set name="Caucasian">
+	  	   <set setSpec="cauc">
 			<![CDATA[
 			  $ethnicity='Caucasian'
 			]]>
 	       	   </set>
-		   <set name="Native American">
+		   <set setSpec="natam">
 			<![CDATA[
 			  $ethnicity='Native American'
 			]]>
 		  </set>
 
 		<!--- form sets -->
-		  <set name="Edited">
+		  <set setSpec="ed">
 			<![CDATA[
 			  $form='Edited'
 			]]>
 		  </set>
-		  <set name="Unedited">
+		  <set setSpec="uned">
 			<![CDATA[
 			  $form='Unedited'
 			]]>
 		  </set>
 
 		<!-- genre sets -->
-		  <set name="Poetry">
+		  <set setSpec="poetry">
 			<![CDATA[
 			  $genre='Poetry'
 			]]>
 		  </set>
-		  <set name="Prose">
+		  <set setSpec="prose">
 			<![CDATA[
 			  $genre='Prose'
 			]]>
 		  </set>
-		  <set name="Drama">
+		  <set setSpec="drama">
 			<![CDATA[
 			  $genre='Drama'
 			]]>
 		  </set>
 
 		<!-- geography sets -->
-		  <set name="France">
+		  <set setSpec="fr">
 			<![CDATA[
 			  $geography='France'
 			]]>
 		  </set>
-		  <set name="Great Britain">
+		  <set setSpec="gb">
 			<![CDATA[
 			  $geography='Great Britain'
 			]]>
 		  </set>
-		  <set name="United States">
+		  <set setSpec="us">
 			<![CDATA[
 			  $geography='United States'
 			]]>
 		  </set>
 
 		<!-- period sets -->
-		  <set name="1600-1699">
+		  <set setSpec="16c">
 			<![CDATA[
 			  $period='1600-1699'
 			]]>
 		  </set>
-		  <set name="1700-1799">
+		  <set setSpec="17c">
 			<![CDATA[
 			  $period='1700-1799'
 			]]>
 		  </set>
-		  <set name="1800-1899">
+		  <set setSpec="18c">
 			<![CDATA[
 			  $period='1800-1899'
 			]]>
 		  </set>
-		  <set name="1900-1999">
+		  <set setSpec="19c">
 			<![CDATA[
 			  $period='1900-1999'
 			]]>
@@ -173,11 +173,13 @@
                     ]]>                
                </let>
                <where>
-                   <set name="DEFAULT">
+                   <set setSpec="DEFAULT">
                         <![CDATA[
                          $docname = "?"
                         ]]>
                     </set>
+    		    <from />
+    		    <until />
                </where>
                <return>
                     <![CDATA[
@@ -233,88 +235,88 @@
                </let>
                <!-- DEFAULT query is used when a set is not requested and should return all records most likely will be blank-->
                <where>
-                   <set name="DEFAULT"/>
+                   <set setSpec="DEFAULT"/>
 
 		<!-- ethnicity sets -->
- 		   <set name="African American">
+ 		   <set setSpec="afam">
 			<![CDATA[
 			  $ethnicity='African American'
 			]]>
 		   </set>
-	  	   <set name="Caucasian">
+	  	   <set setSpec="cauc">
 			<![CDATA[
 			  $ethnicity='Caucasian'
 			]]>
 	       	   </set>
-		   <set name="Native American">
+		   <set setSpec="natam">
 			<![CDATA[
 			  $ethnicity='Native American'
 			]]>
 		  </set>
 
 		<!--- form sets -->
-		  <set name="Edited">
+		  <set setSpec="ed">
 			<![CDATA[
 			  $form='Edited'
 			]]>
 		  </set>
-		  <set name="Unedited">
+		  <set setSpec="uned">
 			<![CDATA[
 			  $form='Unedited'
 			]]>
 		  </set>
 
 		<!-- genre sets -->
-		  <set name="Poetry">
+		  <set setSpec="poetry">
 			<![CDATA[
 			  $genre='Poetry'
 			]]>
 		  </set>
-		  <set name="Prose">
+		  <set setSpec="prose">
 			<![CDATA[
 			  $genre='Prose'
 			]]>
 		  </set>
-		  <set name="Drama">
+		  <set setSpec="drama">
 			<![CDATA[
 			  $genre='Drama'
 			]]>
 		  </set>
 
 		<!-- geography sets -->
-		  <set name="France">
+		  <set setSpec="fr">
 			<![CDATA[
 			  $geography='France'
 			]]>
 		  </set>
-		  <set name="Great Britain">
+		  <set setSpec="gb">
 			<![CDATA[
 			  $geography='Great Britain'
 			]]>
 		  </set>
-		  <set name="United States">
+		  <set setSpec="us">
 			<![CDATA[
 			  $geography='United States'
 			]]>
 		  </set>
 
 		<!-- period sets -->
-		  <set name="1600-1699">
+		  <set setSpec="16c">
 			<![CDATA[
 			  $period='1600-1699'
 			]]>
 		  </set>
-		  <set name="1700-1799">
+		  <set setSpec="17c">
 			<![CDATA[
 			  $period='1700-1799'
 			]]>
 		  </set>
-		  <set name="1800-1899">
+		  <set setSpec="18c">
 			<![CDATA[
 			  $period='1800-1899'
 			]]>
 		  </set>
-		  <set name="1900-1999">
+		  <set setSpec="19c">
 			<![CDATA[
 			  $period='1900-1999'
 			]]>
