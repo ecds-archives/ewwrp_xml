@@ -128,6 +128,7 @@ $javacmd = "java $javaMemoryHeapSize -classpath $classpath com.softwareag.tamino
 if ($debug) { print "JAVALOAD COMMAND:\n$javacmd\n"; }
 
 STDOUT->autoflush();
+
 my($child, $pid);
 if ($pid = fork()) {  	# parent process
   do {
@@ -136,15 +137,29 @@ if ($pid = fork()) {  	# parent process
    $child = waitpid($pid, WNOHANG);      # check if java is still running
   } until $child > 0;
 } elsif (defined $pid) { # child process  -- run java command
-  ## redirect the output away from the screen
+  my($errfile);
+  # redirect std error to a temp file
+  $errfile = "/tmp/tamino-load.$$.err";		# use PID to create unique file
+  open(ERR, ">$errfile") || confess("Can't open $errfile: $!\n");
+  STDERR->fdopen(\*ERR, "w") || die $!;
+  ## store the output to check & redirect away from the screen
   $output = `$javacmd`;
   if ($output =~ '1 elements uploaded') {
     print "\nSuccess!\n";
   } elsif (($output =~ 'ERROR')||($output =~ '0 elements uploaded')) {
     print "\nLoad failed.\n";
+  } else {	## outcome uncertain
+    print "\nCould not determine if load succeeded or failed.\n";
   }
-
+  close(ERRFILE);
   print LOG $output;
+
+  ## open errfile to copy to log file
+  open (ERRFILE, "$errfile");
+  while(<ERRFILE>) { print LOG $_; }
+  close(ERRFILE);
+  ## now delete the temp file
+  system("rm $errfile");
   exit();
 }
 #    open(JAVALOADER, "|$javacmd") or confess ("Can't start java: $!");
