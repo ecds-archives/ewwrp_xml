@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt n=" REGION OF LUTANY">
             <title>REGION OF LUTANY</title>
-            <author>Bryher, W. [Annie Winifred Ellerman]</author>
+            <author n="Bryher, Annie Winifred Ellerman">Bryher, W. [Annie Winifred Ellerman]</author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
@@ -30,7 +30,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <title>Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Bryher, W. [Annie Winifred Ellerman]. REGION OF LUTANY. CHAPMAN &#x0026; HALL, 1914.</bibl>
+            <bibl>Bryher, W. [Annie Winifred Ellerman]. REGION OF LUTANY. CHAPMAN &amp; HALL, 1914.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -67,7 +67,7 @@ Women Writers Resource Project at Emory University</p>
             <argument>
                <p>This is a collection of Bryher's poetry.</p>
             </argument>
-            <bibl>CHAPMAN &#x0026; HALL
+            <bibl>CHAPMAN &amp; HALL
 1914</bibl>
             <p>
                <pb/>
@@ -77,7 +77,7 @@ Women Writers Resource Project at Emory University</p>
 Region of Lutany	       5<lb/>
 Corfu		       7<lb/>
 Leaderless		       8<lb/>
-Pal&#x00E6;okastrizza	     13<lb/>
+Pal&aelig;okastrizza	     13<lb/>
 To Francis Thompson     14<lb/>
 Pansies 		     16<lb/>
 Dwelt a Maid in Lutany  18<lb/>
@@ -210,12 +210,12 @@ Tristfulness		     31<pb n="5"/>
                      <l>And the garland round thy head,</l>
                      <l>And triumph in thine eyes</l>
                      <l>Faded and drooped,</l>
-                     <l>And thy gold-wing&#x00E8;d soul</l>
+                     <l>And thy gold-wing&egrave;d soul</l>
                      <l>Grew tired.</l>
                   </lg>
                   <pb n="10"/>
                   <lg type="stanza">
-                     <l>But still thou wovest greater-soul&#x00E8;d songs,</l>
+                     <l>But still thou wovest greater-soul&egrave;d songs,</l>
                      <l>From out the desolation of thine heart,</l>
                      <l>For in thy dreams thou saw the lucent waves,</l>
                      <l>And heard the sea call to thee in the wind,</l>
@@ -309,7 +309,7 @@ Tristfulness		     31<pb n="5"/>
                   <lg type="stanza">
                      <l n="1">The perfect silence of a southern noon,</l>
                      <l>The distant islands lulled to unstirred peace,</l>
-                     <l>And I had reached a long desir&#x00E8;d realm,</l>
+                     <l>And I had reached a long desir&egrave;d realm,</l>
                      <l>The Land of Greece.</l>
                   </lg>
                   <p>CORFU,</p>
@@ -369,7 +369,7 @@ Tristfulness		     31<pb n="5"/>
                      <l>Scatter a shimmering handful of fancies,</l>
                      <l>  My heart might gather, and hide away.</l>
                      <l>For when your blossoms are veiled with night,</l>
-                     <l>	In a wing&#x00E8;d boat,</l>
+                     <l>	In a wing&egrave;d boat,</l>
                      <l>	I could often float</l>
                      <l>To the land of your dreamings, all purple white.</l>
                   </lg>
@@ -437,7 +437,7 @@ Tristfulness		     31<pb n="5"/>
                   <lb/>
                   <lg type="stanza">
                      <l n="1">Long ago, there dwelt a maid,</l>
-                     <l>Where wing&#x00E8;d joys fly merrily,</l>
+                     <l>Where wing&egrave;d joys fly merrily,</l>
                      <l>Ah, but long ago she strayed</l>
                      <l>  From the fields of Fantasy.</l>
                      <l>Now she seeketh, all day long,</l>
@@ -461,7 +461,7 @@ Tristfulness		     31<pb n="5"/>
                   <lb/>
                   <lg type="stanza">
                      <l n="1">Thou whispered to me all thy sweetest tales,</l>
-                     <l>The rhym&#x00E8;d flutt'rings of thy fishing sails,</l>
+                     <l>The rhym&egrave;d flutt'rings of thy fishing sails,</l>
                      <l>The southern thunders of Sirrocan gales</l>
                      <l>That suddenly </l>
                      <l>Storm over thee.</l>
@@ -513,7 +513,7 @@ Tristfulness		     31<pb n="5"/>
                   </lg>
                   <pb n="23"/>
                   <lg type="stanza">
-                     <l>	Laugh not, song-wing&#x00E8;d Sea,</l>
+                     <l>	Laugh not, song-wing&egrave;d Sea,</l>
                      <l>	Thou shalt not fly form me,</l>
                      <l>My hand's upon thy robe of azure air,</l>
                      <l>	And my wind-sandalled feet</l>
@@ -524,7 +524,7 @@ Tristfulness		     31<pb n="5"/>
                   <lg type="stanza">
                      <l n="1">Until I seize thy locks, all dream-inwrought,</l>
                      <l>Mingle my unsung melodies with thine,</l>
-                     <l>	Till all thy veil&#x00E8;d thought</l>
+                     <l>	Till all thy veil&egrave;d thought</l>
                      <l>And foam-born harmonies are mine, are mine.</l>
                      <l>	Alas, what hast thou done,</l>
                      <l>	Just as my crown was won,</l>
@@ -535,10 +535,10 @@ Tristfulness		     31<pb n="5"/>
                   </lg>
                   <lb/>
                   <lg type="stanza">
-                     <l n="1">My dream&#x00E8;d triumph is dissolved in mist,</l>
+                     <l n="1">My dream&egrave;d triumph is dissolved in mist,</l>
                      <l>Some withered leaves for garlanding, I twist,</l>
                      <l>	Only a hap of seed,</l>
-                     <l>	Of some engloom&#x00E8;d weed,</l>
+                     <l>	Of some engloom&egrave;d weed,</l>
                   </lg>
                   <pb n="24"/>
                   <lg type="stanza">
@@ -625,12 +625,12 @@ Tristfulness		     31<pb n="5"/>
                   </lg>
                   <lb/>
                   <lg type="stanza">
-                     <l n="1">Where the bronz&#x00E8;d pansies sleep,</l>
+                     <l n="1">Where the bronz&egrave;d pansies sleep,</l>
                      <l>	Creep, creep,</l>
                      <l>In your gold and azure wings,</l>
                      <l>fold the lupine's echoings,</l>
                      <l>	Creep, creep,</l>
-                     <l>Where the bronz&#x00E8;d pansies sleep.</l>
+                     <l>Where the bronz&egrave;d pansies sleep.</l>
                   </lg>
                   <pb n="28"/>
                   <lg type="stanza">
@@ -684,9 +684,9 @@ Tristfulness		     31<pb n="5"/>
                   <head>TRISTFULNESS</head>
                   <docDate>1913</docDate>
                   <lg type="stanza">
-                     <l n="1">O azure-wing&#x00E8;d dream, why flit from me?</l>
+                     <l n="1">O azure-wing&egrave;d dream, why flit from me?</l>
                      <l>A wind anemone,</l>
-                     <l>Shaken with unreveal&#x00E8;d loneliness,</l>
+                     <l>Shaken with unreveal&egrave;d loneliness,</l>
                      <l>Deep in the wilderness,</l>
                      <l>Of some secreted region in my heart,</l>
                      <l>Whose roseal veils, that folded thy surprise</l>
@@ -695,7 +695,7 @@ Tristfulness		     31<pb n="5"/>
                   </lg>
                   <lb/>
                   <lg type="stanza">
-                     <l n="1">O azure-wing&#x00E8;d dream, why flit from me</l>
+                     <l n="1">O azure-wing&egrave;d dream, why flit from me</l>
                      <l>So tristfully? </l>
                      <l>Hast thou not made a summer of December,</l>
                      <l>With blossoms of September?</l>

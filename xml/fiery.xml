@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt n="THE FIERY CROSS">
             <title>THE FIERY CROSS: An Anthology of War Poems</title>
-            <author>Edwards, Mabel C. and Mary Booth, eds.</author>
+            <author n="Edwards, Mabel C. and Booth, Mary">Edwards, Mabel C. and Mary Booth, eds.</author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
@@ -209,7 +209,7 @@
                <head rend="center">
                   <hi rend="bold">The Tirailleur</hi>
                </head>
-               <head rend="center">TO THE MEMORY OF REN&#x00C9;.</head>
+               <head rend="center">TO THE MEMORY OF REN&Eacute;.</head>
                <lg type="stanza">
                   <l>HE was so young to die--</l>
                   <l>Ah; these are catchwords now</l>
@@ -255,7 +255,7 @@
                </lg>
                <lb/>
                <byline>
-                  <hi rend="italic">Millicent Sutherland.</hi>&#x003E;</byline>
+                  <hi rend="italic">Millicent Sutherland.</hi>&gt;</byline>
             </div2>
             <div2 id="fiery13" n="Gifts" type="poem">
                <pb n="[ 45 ]"/>
@@ -402,7 +402,7 @@
                </head>
                <argument>
                   <p>
-                     <hi rend="italic">Niu&#x00EB;, a little island in the South Seas, sent a message, on the outbreak of war, to offer to Great Britain "From a little child of the Empire," two portions--first, men; secondly, money.</hi>
+                     <hi rend="italic">Niu&euml;, a little island in the South Seas, sent a message, on the outbreak of war, to offer to Great Britain "From a little child of the Empire," two portions--first, men; secondly, money.</hi>
                   </p>
                </argument>
                <lg type="stanza">
@@ -411,7 +411,7 @@
                   <l>Two portions have I, men and gold,</l>
                   <l>Would I could give a hundredfold!</l>
                   <l>To Britain's mighty army then</l>
-                  <l>Does "Niu&#x00EB;" offer twenty men</l>
+                  <l>Does "Niu&euml;" offer twenty men</l>
                   <l>And money in a like degree,</l>
                   <l>With dark hearts' love and loyalty.</l>
                   <l>For surely he, our Great White King,</l>
