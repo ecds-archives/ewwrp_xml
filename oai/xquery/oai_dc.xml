@@ -347,7 +347,6 @@
 		        <docName>{$docname}</docName>
                         <LastModified>{$time}</LastModified>                       
 		    </TEI.2>
->>>>>>> 1.4
                     ]]>                
                </return>
 	</xquery>
