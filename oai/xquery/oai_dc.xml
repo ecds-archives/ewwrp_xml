@@ -20,14 +20,14 @@
                </declaration>
                <for>
                     <![CDATA[
-	    		for $a in input()/TEI.2/teiHeader
+	    		for $a in input()/TEI.2
                     ]]>
                </for>
                <let>
                     <![CDATA[
 			let $time      := tf:getLastModified(xf:root($a))
 			let $docname   := tf:getDocname(xf:root($a))
-			let $profile   := $a/profileDesc
+			let $profile   := $a/teiHeader/profileDesc
 			let $ethnicity := $profile/creation/rs[@type='ethnicity']
 			let $form      := $profile/creation/rs[@type='form']
 			let $genre     := $profile/creation/rs[@type='genre']
@@ -183,12 +183,14 @@
                     <![CDATA[
                        return <TEI.2>
 		       {$a/teiHeader}
-		       <div1>
-			 {$div1/@n}
-			 {$div1/@type}
-			 {$div1//docAuthor}
-			 {$div1//docDate}
-		       </div1>
+			{ for $div in $a//div1 
+			  return <div1>
+				 {$div/@n}
+				 {$div/@type}
+			 	 {$div/docAuthor}
+			 	 {$div/docDate}
+		       		</div1>
+				}
 			 <docName>{$docname}</docName>                       
 			 <LastModified>{$time}</LastModified>                       
 		        
@@ -210,14 +212,14 @@
                </declaration>
                <for>
                     <![CDATA[
-	    		for $a in input()/TEI.2/teiHeader
+	    		for $a in input()/TEI.2
                     ]]>
                </for>
                <let>
                     <![CDATA[
 			let $time      := tf:getLastModified(xf:root($a))
 			let $docname   := tf:getDocname(xf:root($a))
-			let $profile   := $a/profileDesc
+			let $profile   := $a/teiHeader/profileDesc
 			let $ethnicity := $profile/creation/rs[@type='ethnicity']
 			let $form      := $profile/creation/rs[@type='form']
 			let $genre     := $profile/creation/rs[@type='genre']
@@ -330,15 +332,17 @@
                     <![CDATA[
 		    return <TEI.2>
 		       {$a/teiHeader}
-		       <docName>{$docname}</docName>
-		       <div1>
-			 {$div1/@n}
-			 {$div1/@type}
-			 {$div1//docAuthor}
-			 {$div1//docDate}
-                       <LastModified>{$time}</LastModified>                       
-		        </div1>
-			</TEI.2>
+			{ for $div in $a//div1 
+			  return <div1>
+				 {$div/@n}
+				 {$div/@type}
+			 	 {$div/docAuthor}
+			 	 {$div/docDate}
+		       		</div1>
+				}
+		        <docName>{$docname}</docName>
+                        <LastModified>{$time}</LastModified>                       
+		    </TEI.2>
                     ]]>                
                </return>
 	</xquery>
