@@ -35,7 +35,27 @@
             <set setName="Drama" setSpec="drama">
                 <description>Dramatic texts.</description>
             </set>            
-
+	    <set setName="France" setSpec="fr">
+                <description>French texts.</description>
+            </set>
+	    <set setName="Great Britain" setSpec="gb">
+                <description>British Texts.</description>
+            </set>
+	    <set setName="United States" setSpec="us">
+                <description>Texts from the United States.</description>
+            </set>
+	    <set setName="1600-1699" setSpec="17c">
+                <description>Texts from the 17th century.</description>
+            </set>
+	    <set setName="1700-1799" setSpec="18c">
+                <description>Texts from the 18th century.</description>
+            </set>
+	    <set setName="1800-1899" setSpec="19c">
+                <description>Texts from the 19th century.</description>
+            </set>
+	    <set setName="1900-1999" setSpec="20c">
+                <description>Texts from the 20th century.</description>
+            </set>
 	<!-- FIXME: fill in other sets, write better descriptions. -->
 
         </sets>
