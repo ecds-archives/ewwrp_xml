@@ -4,10 +4,11 @@ use LWP::UserAgent;
 
 ## a script to delete data from tamino, using tamino's web interface
 
-$usage = "tamino-data-delete.pl -d database -c collection -e element
-   -d	tamino database name (e.g., META)
-   -c	tamino collection name (e.g, epoet)
-   -e   element to delete (e.g., poetgrp)
+$usage = "tamino-data-delete.pl [-f] -d database -c collection -e element
+   -d		tamino database name (e.g., META)
+   -c		tamino collection name (e.g, epoet)
+   -e   	element to delete (e.g., poetgrp)
+   -f,--force	don't ask, just delete (only valid if all values are specified)
 
 ";
 
@@ -16,11 +17,14 @@ $usage = "tamino-data-delete.pl -d database -c collection -e element
 ## element: poetgrp, TEI.2
 
 $debug = 0;
+$force = 0;
 
 for (my $i=0; $i<=$#ARGV; $i++){
     if ($ARGV[$i] =~ /^-d/) { $i++; $tamino_db = $ARGV[$i]; }
     if ($ARGV[$i] =~ /^-c/) { $i++; $tamino_coll = $ARGV[$i]; }
     if ($ARGV[$i] =~ /^-e/) { $i++; $element = $ARGV[$i]; }
+    if (($ARGV[$i] =~ /^-f/) || ($ARGV[$i] =~ /^--force/))
+      { $force = 1; }
     if ($ARGV[$i] =~ /^-h/) {$help="1";}
 #    if ($ARGV[$i] =~ /^-debug/) {$debug="1";}
 }
@@ -28,6 +32,12 @@ for (my $i=0; $i<=$#ARGV; $i++){
 if ($help) {
 print $usage;
 exit(0);
+}
+
+if (($force) && (!($tamino_db) || !($tamino_coll) || !($element))) {
+  print "Error: force mode is only valid when all options are specified.\n";
+  print $usage;
+  exit(0);
 }
 
 
@@ -61,11 +71,15 @@ $ua->agent("CTI Tamino-deletion perlbot/0.1 ");
 $del_url = "$base_url?_Delete=/$element";
 if ($debug) { print "delete url is $del_url\n"; }
 
-print "Are you sure? (y/n) ";
-$continue = readline(*STDIN);
-chop($continue);
-if (!($continue =~ m/[yY]/)) {
-  exit(0);
+
+## don't interact if user specified force delete
+unless ($force) {
+  print "Are you sure? (y/n) ";
+  $continue = readline(*STDIN);
+  chop($continue);
+  if (!($continue =~ m/[yY]/)) {
+    exit(0);
+  }
 }
 print "Deleting $element from $tamino_db/$tamino_coll.\n\n";
 
