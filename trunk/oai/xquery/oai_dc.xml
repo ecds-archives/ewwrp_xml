@@ -193,6 +193,11 @@
 			 	 {$div/docAuthor}
 			 	 {$div/docDate}
 				 {$div/argument}
+			{ for $div2 in $div/div2
+			return <div2>
+			       {$div2/@n}
+			       {$div2/@type}
+			       </div2>}
 		       		</div1>
 				}
 
@@ -344,6 +349,11 @@
 			 	 {$div/docAuthor}
 			 	 {$div/docDate}
 				 {$div/argument}
+		{ for $div2 in $div/div2
+			return <div2>
+			       {$div2/@n}
+			       {$div2/@type}
+			       </div2>}
 		       		</div1>
 				}
 		        <docName>{$docname}</docName>
