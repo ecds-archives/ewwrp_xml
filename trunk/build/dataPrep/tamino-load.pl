@@ -18,9 +18,9 @@ use IO::Handle;
 
 
 my($debug);
-$debug = 0;
+$debug = 1;
 
-my ($db, $coll, $root, $argmax, $arg, @files, $f, $wd, $javacmd);
+my ($db, $coll, $root, $argmax, $arg, @files);
 my($usage, $exename);
 $exename = "tamino-load.pl";
 $usage = "Usage:
@@ -34,6 +34,10 @@ $usage = "Usage:
 	-c,--coll	Tamino collection
 	-r,--root	root element in collection (defaults to TEI.2)
 	-h,--help	Display usage information
+
+Note: filenames should specified either with an absolute path or a path relative
+to the current directory, but must not contain '../'
+
 ";
 $argmax = $#ARGV;
 
@@ -60,27 +64,42 @@ if (!($root)) {
   $root = "TEI.2";
 }
 
-$wd = `pwd`;
-chop($wd);
-
 if ($debug) {
   print "Settings:\tDB = $db\tcollection = $coll\troot element = $root\n";
 }
 
 my($javaMemoryHeapSzie, $classpath);
 my $javaMemoryHeapSize="-Xmx510m";
-$classpath="JavaLoader.jar:xercesTamino.jar";
+## FIXME: this classpath should be relative or absolute????
+#$classpath=" JavaLoader.jar:xercesTamino.jar";
+$classpath="dataPrep/JavaLoader.jar:dataPrep/xercesTamino.jar";
 
 #increase memory with the mx parameter. must be multiple of 1024k greater than 2mb
 my($logfile, $output);
 $logfile = "tamino-load.log";
 open(LOG, ">$logfile") || confess("Can't open $logfile: $!\n");
 
+my($f, $fullf, $basef, $wd, $javacmd);
+$wd = `pwd`;
+chop($wd);
+
+
 foreach $f (@files) {
 print  "Loading $f to tamino.";
+$basef = `basename $f`;
+chop($basef);
+if ($debug) {  print "File basename is $basef.\n"; }
+if (!($f =~ m|^/|)) {
+  if ($debug) {  print "File does not have full path, adding wd to path.\n"; }
+  $fullf = "$wd/$f";
+} else {
+  $fullf = $f;
+}
+
 
 ## NOTE: using root element & filename sets ino:docname in tamino
-$javacmd = "java $javaMemoryHeapSize -classpath $classpath com.softwareag.tamino.db.tools.loader.TaminoLoad -f $wd/$f -u http://vip.library.emory.edu/tamino/$db/$coll/$root/$f -d";
+$javacmd = "java $javaMemoryHeapSize -classpath $classpath com.softwareag.tamino.db.tools.loader.TaminoLoad -f $fullf -u http://vip.library.emory.edu/tamino/$db/$coll/$root/$basef -d";
+
 ## debugging info
 if ($debug) { print "JAVALOAD COMMAND:\n$javacmd\n"; }
 
