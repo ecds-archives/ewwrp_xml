@@ -104,8 +104,16 @@ $basef = `basename $f`;
 chop($basef);
 if ($debug) {  print "File basename is $basef.\n"; }
 if (!($f =~ m|^/|)) {
-  if ($inputdir) { $path = "$wd/$inputdir"; }
-  else { $path = $wd; }
+  if ($inputdir) {
+    ## check if inputdir is absolute
+    if ($inputdir =~ m|^/|) {
+      $path = $inputdir;
+    } else {
+      $path = "$wd/$inputdir";
+    }
+  } else {
+    $path = $wd;
+  }
   if ($debug) {  print "File does not have full path, adding wd/inputdir to path.\n"; }
   $fullf = "$path/$f";
 } else {
