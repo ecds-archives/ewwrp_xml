@@ -7,26 +7,30 @@
 <xsl:include href="setSpec.xsl"/>
 
 
-    <xsl:template match="div2">
+    <xsl:template match="TEI.2">
       <xsl:element name="record">            
         <xsl:element name="header">            
             <xsl:element name="identifier">
               <xsl:value-of select="$prefix" />
-              <xsl:value-of select="./@id"/>
+              <xsl:value-of select="docName"/>
             </xsl:element>
             <xsl:element name="datestamp">
-              <xsl:value-of select="$datestamp" />
+              <xsl:value-of select="LastModified" />
   	    </xsl:element>
-	    <xsl:call-template name="determine_sets">
-	      <xsl:with-param name="type" select="./@type"/>	
-	    </xsl:call-template>
+
+	<!-- sets are determined by profile description -->
+	    <xsl:apply-templates select="teiHeader/profileDesc" mode="set"/>
         </xsl:element>  <!-- end header -->
 
       <xsl:element name="metadata">
 	<xsl:element name="oai_dc:dc">
 	    <xsl:apply-templates />
- 	    <xsl:element name="dc:type"><xsl:value-of select="@type"/></xsl:element>
-	    <xsl:call-template name="description"/>
+
+		<!-- Note: MIME type format, as recommended by DCMI -->
+		<xsl:element name="dc:format">text/xml</xsl:element>
+
+<!-- 	    <xsl:call-template name="description"/> -->
+
  	<!-- Note: uncomment identifier template when there is a set url -->
 <!-- 	    <xsl:call-template name="identifier"/> -->
   	
@@ -35,25 +39,22 @@
       </xsl:element>  <!-- end record -->
     </xsl:template>
 
-<!-- article title -->
-<xsl:template match="div2/head">
+
+
+
+<!-- title -->
+<xsl:template match="teiHeader/fileDesc/titleStmt/title">
   <xsl:element name="dc:title"><xsl:value-of select="."/></xsl:element>
 </xsl:template>
 
-<!-- source = original publication information -->
-<xsl:template match="div2/bibl">
-  <xsl:element name="dc:source">
-    <xsl:value-of select="title"/>, <xsl:value-of
-	select="biblScope[@type='volume']"/>, <xsl:value-of
-	select="biblScope[@type='issue']"/>, <xsl:value-of
-	select="biblScope[@type='pages']"/>.</xsl:element>
-  <!-- pick up the date -->
-   <xsl:apply-templates/>
+<!-- author -->
+<xsl:template match="teiHeader/fileDesc/titleStmt/author">
+  <xsl:element name="dc:author"><xsl:value-of select="@n"/></xsl:element>
 </xsl:template>
 
-<!-- article date -->
-<xsl:template match="div2/bibl/date">
-  <xsl:element name="dc:date"><xsl:value-of select="."/></xsl:element>
+<!-- source = original publication information -->
+<xsl:template match="teiHeader/fileDesc/sourceDesc/bibl">
+  <xsl:element name="dc:source"><xsl:value-of select="."/></xsl:element>
 </xsl:template>
 
 <!-- contributor -->
@@ -80,29 +81,54 @@ select="address/addrLine"/>.</xsl:element>
   <xsl:element name="dc:subject"><xsl:value-of select="."/></xsl:element>
 </xsl:template>
 
+<xsl:template match="div1">
+  <!-- Note: This is the relevant term from the Dublin Core
+  	Recommended Type Vocabulary -->
+  <xsl:element name="dc:type">text</xsl:element>
+
+  <!-- A more specific type term from the document itself. -->
+  <xsl:element name="dc:type"><xsl:value-of select="@type"/></xsl:element>
+  <xsl:apply-templates/>
+</xsl:template>
+
+<xsl:template match="profileDesc">
+  <xsl:apply-templates />
+</xsl:template>
+
+
+<!--  geographic coverage -->
+<xsl:template match="profileDesc/creation/rs[@type='geography']">
+  <xsl:element name="dc:coverage"><xsl:value-of select="."/></xsl:element>
+</xsl:template>
+
+<!-- temporal coverage -->
+<xsl:template match="profileDesc/creation/date">
+  <xsl:element name="dc:coverage"><xsl:value-of select="."/></xsl:element>
+</xsl:template>
+
+<!-- Display multiple dates together, if there are more than one -->
+<xsl:template name="date">
+	<xsl:apply-templates select="//docDate"/>
+</xsl:template>
+
+<!-- document date -->
+<xsl:template match="docDate">
+  <xsl:element name="dc:date"><xsl:value-of select="."/></xsl:element>
+</xsl:template>
+
+
+
 <!-- description -->
 <xsl:template name="description">
-  <xsl:variable name="figure_count"><xsl:value-of select="count(figure)"/></xsl:variable>
-  <xsl:element name="dc:description"><xsl:value-of
-select="bibl/extent"/> <xsl:if test="$figure_count > 0">,
-<xsl:value-of select="$figure_count"/> illustration<xsl:if
-test="$figure_count > 1">s</xsl:if>: <xsl:apply-templates select="figure" mode="description"/></xsl:if>.</xsl:element>
 
 </xsl:template>
 
-<!-- mode = description : only output figure titles in list for description -->
-<xsl:template match="figure" mode="description">
-  "<xsl:value-of select="head"/>"<xsl:if
-test="following-sibling::figure">, </xsl:if>
-</xsl:template>
+
 
 <!-- identifier -->
-<!-- Note: this url is not yet firmly in place, but eventually it should be ... -->
-<xsl:template name="identifier">
-  <xsl:element
-name="dc:identifier">http://beckptolemy.library.emory.edu/iln/browse.php?id=<xsl:value-of
-select="@id"/></xsl:element>
-</xsl:template>
+<!-- Note: we do not yet have a usable url -->
+<!--  <xsl:template name="identifier"> -->
+<!-- </xsl:template> -->
 
 
 <!-- default: ignore anything not explicitly selected -->
