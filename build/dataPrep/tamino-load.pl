@@ -67,7 +67,10 @@ my($javaMemoryHeapSzie, $classpath);
 my $javaMemoryHeapSize="-Xmx510m";
 ## FIXME: this classpath should be relative or absolute????
 #$classpath=" JavaLoader.jar:xercesTamino.jar";
-$classpath="JavaLoader.jar:xercesTamino.jar";
+#$classpath="JavaLoader.jar:xercesTamino.jar";
+
+## grab classpath from environment variable
+$classpath = $ENV{"CLASSPATH"};
 
 #increase memory with the mx parameter. must be multiple of 1024k greater than 2mb
 my($logfile, $output);
