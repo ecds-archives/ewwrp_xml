@@ -57,7 +57,7 @@
 
 <!-- FIXME: Would it be better to redirect output to a log file? -->
  <apply executable="nsgmls" parallel="false" failonerror="true">
- <arg line="-s -wunclosed -wmin-tag -C=/chaucer/data/dtd/linux_catalog /chaucer/data/dtd/tei_doctype"/>
+ <arg line="-s -wunclosed -wmin-tag -c /chaucer/data/dtd/linux_catalog /chaucer/data/dtd/tei_doctype"/>
   <fileset dir="${sgmldir}" id="sgmlfiles">
     <include name="*.sgm"/>
     <include name="*.sgml"/>
