@@ -28,8 +28,12 @@
 
 		<!-- Note: MIME type format, as recommended by DCMI -->
 		<xsl:element name="dc:format">text/xml</xsl:element>
+               <!-- Note: This is the relevant term from the Dublin Core
+    	            Recommended Type Vocabulary -->
+                <xsl:element name="dc:type">text</xsl:element>
 
-<!-- 	    <xsl:call-template name="description"/> -->
+
+ 	    <xsl:call-template name="contents"/> 
 
  	<!-- Note: uncomment identifier template when there is a set url -->
 <!-- 	    <xsl:call-template name="identifier"/> -->
@@ -82,10 +86,6 @@ select="address/addrLine"/>.</xsl:element>
 </xsl:template>
 
 <xsl:template match="div1">
-  <!-- Note: This is the relevant term from the Dublin Core
-  	Recommended Type Vocabulary -->
-  <xsl:element name="dc:type">text</xsl:element>
-
   <!-- A more specific type term from the document itself. -->
   <xsl:element name="dc:type"><xsl:value-of select="@type"/></xsl:element>
   <xsl:apply-templates/>
@@ -116,12 +116,61 @@ select="address/addrLine"/>.</xsl:element>
   <xsl:element name="dc:date"><xsl:value-of select="."/></xsl:element>
 </xsl:template>
 
-
-
-<!-- description -->
-<xsl:template name="description">
-
+<!-- many texts have an argument: one kind of description -->
+<xsl:template match="argument">
+  <xsl:element name="dc:description">
+    <xsl:apply-templates/>
+  </xsl:element>
 </xsl:template>
+
+<!-- dc:description : description of text -->
+<!-- Note: not all texts have an argument. -->
+<xsl:template match="argument/p">
+  <xsl:value-of select="."/>
+</xsl:template>
+
+
+<!-- dc:description - Table of Contents -->
+<xsl:template name="contents">
+  <xsl:element name="dc:description">Contents:
+  <xsl:apply-templates select=".//div1" mode="contents"/>
+  </xsl:element>
+</xsl:template>
+
+
+<xsl:template match="div1" mode="contents">
+  <xsl:variable name="title">
+    <xsl:choose>
+      <xsl:when test="@n">
+        <xsl:value-of select="@n"/>    
+      </xsl:when>
+      <xsl:otherwise>[untitled]</xsl:otherwise>
+    </xsl:choose>
+  </xsl:variable>
+
+  <!-- FIXME: for some reason output does not begin a new line -->
+
+<!--   <xsl:value-of select="$title"/> (<xsl:value-of select="@type"/>) <xsl:value-of select="docAuthor"/> - <xsl:value-of select="docDate"/> -->
+<xsl:value-of select="concat($title, ' (', @type, ') ', docAuthor, ' ', docDate, '')"/> 
+
+  <xsl:apply-templates select="div2" mode="contents"/>
+</xsl:template>
+
+<xsl:template match="div2" mode="contents">
+  <xsl:variable name="title">
+    <xsl:choose>
+      <xsl:when test="@n">
+        <xsl:value-of select="@n"/>    
+      </xsl:when>
+      <xsl:otherwise>[untitled]</xsl:otherwise>
+    </xsl:choose>
+  </xsl:variable>
+
+  <!-- FIXME: for some reason output does not begin a new line -->
+<xsl:value-of select="concat($title, ' (', @type, ')')"/> 
+<!--   - <xsl:value-of select="$title"/> (<xsl:value-of select="@type"/>) -->
+</xsl:template>
+
 
 
 
