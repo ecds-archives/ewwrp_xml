@@ -5,7 +5,7 @@
 
 set exscript = "/tmp/fix_amp";
 
-echo '1,$s/ & / \&amp; /g' > $exscript;
+echo '1,$s/& /\&amp; /g' > $exscript;
 echo "write" >> $exscript;
 echo "quit" >> $exscript;
 
