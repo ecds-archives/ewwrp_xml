@@ -149,7 +149,7 @@
 
 
 
-<!-- FIXME: these are still ILN xqueries -->
+<!-- GetRecord query -->
       
         <verb name="GetRecord" xslt="xslt/oai_dc/getRecord.xsl">
             <xquery>
@@ -161,40 +161,45 @@
                </declaration>
                <for>
                     <![CDATA[
-                    for $a in input()/TEI.2//div1/div2
+                    for $a in input()/TEI.2
                     ]]>
                </for>
                 <let>
                     <![CDATA[
  		        let $root := xf:root($a)                         
 			let $time := tf:getLastModified(xf:root($a))
+			let $docname := tf:getDocname(xf:root($a))
+			let $div1    := $a//div1
                     ]]>                
                </let>
                <where>
                    <set name="DEFAULT">
                         <![CDATA[
-                         $a/@id = "?"
+                         $docname = "?"
                         ]]>
                     </set>
                </where>
                <return>
                     <![CDATA[
-                       return <div2>
-			 {$a/@id}
-			 {$a/@type}
-			 {$a/head}
-			 {$a/bibl}
-			 {for $b in $a/p/figure return $b}
-                         {$root/TEI.2/teiHeader}
-                         <LastModified>{$time}</LastModified>                       
-		        </div2>
+                       return <TEI.2>
+		       {$a/teiHeader}
+		       <docName>{$docname}</docName>
+		       <div1>
+			 {$div1/@n}
+			 {$div1/@type}
+			 {$div1//docAuthor}
+			 {$div1//docDate}
+                       <LastModified>{$time}</LastModified>                       
+		        </div1>
+			</TEI.2>
                     ]]>                
                </return>
             </xquery>
         </verb>		<!-- end GetRecord -->
 
+	<!-- ListRecords query -->
         <verb name="ListRecords" xslt="xslt/oai_dc/listRecords.xsl">
-            <xquery>
+	<xquery>
                <declaration>
                     <![CDATA[
                         declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"
@@ -204,28 +209,111 @@
                </declaration>
                <for>
                     <![CDATA[
-                        for $a in input()/TEI.2//div1/div2                    
+	    		for $a in input()/TEI.2/teiHeader
                     ]]>
                </for>
                <let>
                     <![CDATA[
- 		        let $root := xf:root($a) 
-			let $time := tf:getLastModified($root)
+			let $time      := tf:getLastModified(xf:root($a))
+			let $docname   := tf:getDocname(xf:root($a))
+			let $profile   := $a/profileDesc
+			let $ethnicity := $profile/creation/rs[@type='ethnicity']
+			let $form      := $profile/creation/rs[@type='form']
+			let $genre     := $profile/creation/rs[@type='genre']
+			let $geography := $profile/creation/rs[@type='geography']
+			let $period    := $profile/creation/date
+			let $div1      := $a//div1
                     ]]>                
                </let>
-               <!-- DEFAULT query is used when a set is not requested and should return all records -->
+               <!-- DEFAULT query is used when a set is not requested and should return all records most likely will be blank-->
                <where>
                    <set name="DEFAULT"/>
-                   <set name="Articles">
-                        <![CDATA[
-                            $a/@type = 'Article'
-                        ]]>
-                   </set>
-                   <set name="Illustrations">
-                        <![CDATA[
-                            $a/@type = 'Illustration'
-                        ]]>
-                   </set>
+
+		<!-- ethnicity sets -->
+ 		   <set name="African American">
+			<![CDATA[
+			  $ethnicity='African American'
+			]]>
+		   </set>
+	  	   <set name="Caucasian">
+			<![CDATA[
+			  $ethnicity='Caucasian'
+			]]>
+	       	   </set>
+		   <set name="Native American">
+			<![CDATA[
+			  $ethnicity='Native American'
+			]]>
+		  </set>
+
+		<!--- form sets -->
+		  <set name="Edited">
+			<![CDATA[
+			  $form='Edited'
+			]]>
+		  </set>
+		  <set name="Unedited">
+			<![CDATA[
+			  $form='Unedited'
+			]]>
+		  </set>
+
+		<!-- genre sets -->
+		  <set name="Poetry">
+			<![CDATA[
+			  $genre='Poetry'
+			]]>
+		  </set>
+		  <set name="Prose">
+			<![CDATA[
+			  $genre='Prose'
+			]]>
+		  </set>
+		  <set name="Drama">
+			<![CDATA[
+			  $genre='Drama'
+			]]>
+		  </set>
+
+		<!-- geography sets -->
+		  <set name="France">
+			<![CDATA[
+			  $geography='France'
+			]]>
+		  </set>
+		  <set name="Great Britain">
+			<![CDATA[
+			  $geography='Great Britain'
+			]]>
+		  </set>
+		  <set name="United States">
+			<![CDATA[
+			  $geography='United States'
+			]]>
+		  </set>
+
+		<!-- period sets -->
+		  <set name="1600-1699">
+			<![CDATA[
+			  $period='1600-1699'
+			]]>
+		  </set>
+		  <set name="1700-1799">
+			<![CDATA[
+			  $period='1700-1799'
+			]]>
+		  </set>
+		  <set name="1800-1899">
+			<![CDATA[
+			  $period='1800-1899'
+			]]>
+		  </set>
+		  <set name="1900-1999">
+			<![CDATA[
+			  $period='1900-1999'
+			]]>
+		  </set>
+
                    <from>
                         <![CDATA[
                            $time >= xs:dateTime("?")
@@ -235,22 +323,24 @@
                         <![CDATA[
                            $time <= xs:dateTime("?")
                         ]]>
-                    </until>
+                   </until>
                 </where>
                 <return>
                     <![CDATA[
-                        return  <div2>
-                            {$a/@id}
-                            {$a/@type}
-                            {$a/head}
-                            {$a/bibl}
-                            {for $b in $a/p/figure return $b}
- 			    {$root/TEI.2/teiHeader}
-                            <LastModified>{$time}</LastModified>  
-                       </div2>
+		    return <TEI.2>
+		       {$a/teiHeader}
+		       <docName>{$docname}</docName>
+		       <div1>
+			 {$div1/@n}
+			 {$div1/@type}
+			 {$div1//docAuthor}
+			 {$div1//docDate}
+                       <LastModified>{$time}</LastModified>                       
+		        </div1>
+			</TEI.2>
                     ]]>                
-                </return>
-	   </xquery>
-        </verb>		<!-- end ListRecords -->
-        
-    </xqueries>
+               </return>
+	</xquery>
+	</verb>      
+	<!-- end ListRecords -->
+        </xqueries>
