@@ -18,7 +18,7 @@ use IO::Handle;
 
 
 my($debug);
-$debug = 1;
+$debug = 0;
 
 my ($db, $coll, $root, $argmax, $arg, @files);
 my($usage, $exename);
@@ -34,10 +34,6 @@ $usage = "Usage:
 	-c,--coll	Tamino collection
 	-r,--root	root element in collection (defaults to TEI.2)
 	-h,--help	Display usage information
-
-Note: filenames should specified either with an absolute path or a path relative
-to the current directory, but must not contain '../'
-
 ";
 $argmax = $#ARGV;
 
@@ -54,10 +50,9 @@ for (my $i = 0; $i <= $argmax; $i++){
 
 if (!($db) || !($coll)) {
   print "Error: database and collection must be defined!\n";
+  print $usage;
   exit();
 }
-
-
 
 ## default root element is TEI.2 (specify anything else on command line)
 if (!($root)) {
@@ -72,7 +67,7 @@ my($javaMemoryHeapSzie, $classpath);
 my $javaMemoryHeapSize="-Xmx510m";
 ## FIXME: this classpath should be relative or absolute????
 #$classpath=" JavaLoader.jar:xercesTamino.jar";
-$classpath="dataPrep/JavaLoader.jar:dataPrep/xercesTamino.jar";
+$classpath="JavaLoader.jar:xercesTamino.jar";
 
 #increase memory with the mx parameter. must be multiple of 1024k greater than 2mb
 my($logfile, $output);
