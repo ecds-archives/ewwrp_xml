@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE stylesheet [
+<!ENTITY cr "<xsl:text>
+</xsl:text>">
+]>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
 	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -85,14 +89,20 @@ select="address/addrLine"/>.</xsl:element>
   <xsl:element name="dc:subject"><xsl:value-of select="."/></xsl:element>
 </xsl:template>
 
-<xsl:template match="div1">
+<!-- note: getting far too many types with this -->
+<!-- <xsl:template match="div1"> -->
   <!-- A more specific type term from the document itself. -->
-  <xsl:element name="dc:type"><xsl:value-of select="@type"/></xsl:element>
-  <xsl:apply-templates/>
-</xsl:template>
+<!--   <xsl:element name="dc:type"><xsl:value-of select="@type"/></xsl:element> -->
+<!--   <xsl:apply-templates/> -->
+<!-- </xsl:template> -->
 
 <xsl:template match="profileDesc">
   <xsl:apply-templates />
+</xsl:template>
+
+<!--  genre type -->
+<xsl:template match="profileDesc/creation/rs[@type='genre']">
+  <xsl:element name="dc:type"><xsl:value-of select="."/></xsl:element>
 </xsl:template>
 
 
@@ -106,15 +116,15 @@ select="address/addrLine"/>.</xsl:element>
   <xsl:element name="dc:coverage"><xsl:value-of select="."/></xsl:element>
 </xsl:template>
 
-<!-- Display multiple dates together, if there are more than one -->
-<xsl:template name="date">
-	<xsl:apply-templates select="//docDate"/>
+
+<!-- document date: possible to have multiple, different dates -->
+<xsl:template match="docDate">
+  <!-- only output a date if it is different from prior dates -->
+  <xsl:if test="not(. = preceding::docDate)">
+    <xsl:element name="dc:date"><xsl:value-of select="."/></xsl:element>
+  </xsl:if>
 </xsl:template>
 
-<!-- document date -->
-<xsl:template match="docDate">
-  <xsl:element name="dc:date"><xsl:value-of select="."/></xsl:element>
-</xsl:template>
 
 <!-- many texts have an argument: one kind of description -->
 <xsl:template match="argument">
@@ -132,7 +142,8 @@ select="address/addrLine"/>.</xsl:element>
 
 <!-- dc:description - Table of Contents -->
 <xsl:template name="contents">
-  <xsl:element name="dc:description">Contents:
+  <xsl:element name="dc:description">
+   Contents:&cr;
   <xsl:apply-templates select=".//div1" mode="contents"/>
   </xsl:element>
 </xsl:template>
@@ -147,11 +158,19 @@ select="address/addrLine"/>.</xsl:element>
       <xsl:otherwise>[untitled]</xsl:otherwise>
     </xsl:choose>
   </xsl:variable>
+ 
+<!-- encapsulate type in () and spaces, if defined; 
+     otherwise, display nothing -->
+ <xsl:variable name="type">
+   <xsl:choose>
+    <xsl:when test="@type">
+      <xsl:value-of select="concat(' (', @type, ') ')"/>
+    </xsl:when>
+    <xsl:otherwise> </xsl:otherwise>
+   </xsl:choose>
+ </xsl:variable>
 
-  <!-- FIXME: for some reason output does not begin a new line -->
-
-<!--   <xsl:value-of select="$title"/> (<xsl:value-of select="@type"/>) <xsl:value-of select="docAuthor"/> - <xsl:value-of select="docDate"/> -->
-<xsl:value-of select="concat($title, ' (', @type, ') ', docAuthor, ' ', docDate, '')"/> 
+<xsl:value-of select="concat($title, $type, docAuthor, ' ', docDate, ' ')"/>&cr;
 
   <xsl:apply-templates select="div2" mode="contents"/>
 </xsl:template>
@@ -166,9 +185,8 @@ select="address/addrLine"/>.</xsl:element>
     </xsl:choose>
   </xsl:variable>
 
-  <!-- FIXME: for some reason output does not begin a new line -->
-<xsl:value-of select="concat($title, ' (', @type, ')')"/> 
-<!--   - <xsl:value-of select="$title"/> (<xsl:value-of select="@type"/>) -->
+<xsl:value-of select="concat(' - ', $title, ' (', @type, ') ')"/> &cr;
+
 </xsl:template>
 
 
