@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <repository>
+        <name>Women Writers Resource Project</name>
+        <adminEmail>rsutton@emory.edu</adminEmail>
+        <protocolVersion>2.0</protocolVersion>
+        <granularity>seconds</granularity>
+        <earliestDateStamp>1970-01-01</earliestDateStamp>
+
+        <identifier>
+            <delimiter>:</delimiter>
+            <recordprefix></recordprefix>
+            <repositoryIdentifier>chaucer.library.emory.edu</repositoryIdentifier>
+            <showIdentifier>false</showIdentifier>
+        </identifier>
+
+        <resumption>
+            <maxRecords>50</maxRecords>
+            <maxIdentifers>200</maxIdentifers>
+        </resumption>
+        
+        <sets>
+            <!--set must be listed here and defined with in each metadata queries doc-->
+            <set setName="Edited" setSpec="ed">
+                <description>Critical editions of texts.</description>
+            </set>
+            <set setName="Unedited" setSpec="uned">
+                <description>Unedited texts.</description>
+            </set>            
+            <set setName="Poetry" setSpec="poetry">
+                <description>Poetry texts.</description>
+            </set>
+            <set setName="Prose" setSpec="prose">
+                <description>Prose texts.</description>
+            </set>            
+            <set setName="Drama" setSpec="drama">
+                <description>Dramatic texts.</description>
+            </set>            
+
+	<!-- FIXME: fill in other sets, write better descriptions. -->
+
+        </sets>
+        
+        <metadataFormats>
+            <!-- Add additional metadataFormat entries for each supported metadata format -->
+            <metadataFormat name="oai_dc">
+                <schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</schema>
+                <metadataNameSpace>http://www.openarchives.org/OAI/2.0/oai_dc/</metadataNameSpace>
+                <record_prefix>dc</record_prefix>
+                <recordNameSpace>http://purl.org/dc/elements/1.1</recordNameSpace>
+                <xQueries>xquery/oai_dc.xml</xQueries>
+            </metadataFormat>
+        </metadataFormats>
+        
+        <connectionParameters>
+            <tamino>
+                <host>vip.library.emory.edu/tamino</host>
+                <database>EWWRP</database>
+                <collection>wwrp</collection>
+                <qry_lang>xquery</qry_lang>
+            </tamino>        
+        </connectionParameters>
+    </repository>
