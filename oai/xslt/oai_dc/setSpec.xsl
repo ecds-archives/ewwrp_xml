@@ -64,16 +64,16 @@
 <xsl:template match="profileDesc/creation/date">
     <xsl:choose>
 	<xsl:when test=". = '1600-1699'">
-	  <xsl:element name="setSpec">1600</xsl:element>
+	  <xsl:element name="setSpec">16c</xsl:element>
  	</xsl:when>
 	<xsl:when test=". = '1700-1799'">
-	  <xsl:element name="setSpec">1700</xsl:element>
+	  <xsl:element name="setSpec">17c</xsl:element>
  	</xsl:when>
 	<xsl:when test=". = '1800-1899'">
-	  <xsl:element name="setSpec">1800</xsl:element>
+	  <xsl:element name="setSpec">18c</xsl:element>
  	</xsl:when>
 	<xsl:when test=". = '1900-1999'">
-	  <xsl:element name="setSpec">1900</xsl:element>
+	  <xsl:element name="setSpec">19c</xsl:element>
  	</xsl:when>
     </xsl:choose>
 </xsl:template>
