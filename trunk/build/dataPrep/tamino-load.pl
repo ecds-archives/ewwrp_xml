@@ -20,11 +20,12 @@ use IO::Handle;
 my($debug);
 $debug = 0;
 
-my ($db, $coll, $root, $argmax, $arg, @files);
+my ($db, $coll, $root, $inputdir, $argmax, $arg, @files);
 my($usage, $exename);
 $exename = "tamino-load.pl";
 $usage = "Usage:
  $exename --db DATABASE --coll COLLECTION [--root TEI.2] file [file2 [file3]]
+ $exename --db DATABASE --coll COLLECTION [--root TEI.2] --input-dir directory
 
  $exename loads one or several files to the specified database and
  collection in tamino.
@@ -33,6 +34,7 @@ $usage = "Usage:
 	-d,--db		Tamino Database
 	-c,--coll	Tamino collection
 	-r,--root	root element in collection (defaults to TEI.2)
+	--input-dir	load all xml files in specified directory
 	-h,--help	Display usage information
 ";
 $argmax = $#ARGV;
@@ -43,6 +45,7 @@ for (my $i = 0; $i <= $argmax; $i++){
   if (($arg =~ /^-d/)||($arg =~ /^--db/))   { $i++; $db = shift(@ARGV);}
   elsif (($arg =~ /^-c/)||($arg =~ /^--coll/)) { $i++; $coll = shift(@ARGV);}
   elsif (($arg =~ /^-r/)||($arg =~ /^--root/)) { $i++; $root = shift(@ARGV);}
+  elsif ($arg =~ /^--input-dir/) { $i++; $inputdir = shift(@ARGV);}
   elsif (($arg =~ /^-h/)||($arg =~ /^--help/)) { print $usage; exit(); }
   ## any other option should be a filename
   else { push(@files, $arg); }
@@ -63,6 +66,19 @@ if ($debug) {
   print "Settings:\tDB = $db\tcollection = $coll\troot element = $root\n";
 }
 
+if ($inputdir) {
+  if (!(opendir (DIR, $inputdir))) {
+    ("Error: Could not open input directory $inputdir");
+  }
+  @files = grep { !/^\./ && /\.xml$/ && -f "$inputdir/$_" } readdir(DIR);
+  closedir DIR;
+  if ($debug) {
+    print "Input directory is $inputdir.  Loaded files @files.\n";
+  }
+}
+
+
+
 my($javaMemoryHeapSzie, $classpath);
 my $javaMemoryHeapSize="-Xmx510m";
 ## FIXME: this classpath should be relative or absolute????
@@ -70,14 +86,14 @@ my $javaMemoryHeapSize="-Xmx510m";
 #$classpath="JavaLoader.jar:xercesTamino.jar";
 
 ## grab classpath from environment variable
-$classpath = $ENV{"CLASSPATH"};
+$classpath = $ENV{"CLASSPATH"} . ":dataPrep/JavaLoader.jar:dataPrep/xercesTamino.jar";
 
 #increase memory with the mx parameter. must be multiple of 1024k greater than 2mb
 my($logfile, $output);
 $logfile = "tamino-load.log";
 open(LOG, ">$logfile") || confess("Can't open $logfile: $!\n");
 
-my($f, $fullf, $basef, $wd, $javacmd);
+my($f, $fullf, $basef, $wd, $path, $javacmd);
 $wd = `pwd`;
 chop($wd);
 
@@ -88,8 +104,10 @@ $basef = `basename $f`;
 chop($basef);
 if ($debug) {  print "File basename is $basef.\n"; }
 if (!($f =~ m|^/|)) {
-  if ($debug) {  print "File does not have full path, adding wd to path.\n"; }
-  $fullf = "$wd/$f";
+  if ($inputdir) { $path = "$wd/$inputdir"; }
+  else { $path = $wd; }
+  if ($debug) {  print "File does not have full path, adding wd/inputdir to path.\n"; }
+  $fullf = "$path/$f";
 } else {
   $fullf = $f;
 }
