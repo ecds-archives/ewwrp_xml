@@ -1,6 +1,6 @@
 <project name="Women Writers Data Preparation" default="all" basedir=".">
 
-<target name="all" depends="xml,xml-parse" description="* Do everything"/>
+<target name="all" depends="xml,xml-parse,tamino-data-loader" description="* Do everything"/>
 <!-- unicode-entities - part of tei2xml ? -->
 
 <!-- not called by anything else... optional -->
@@ -17,6 +17,7 @@
     <property name="xmldir.data"     value="${basedir}/xml/data"/>
     <property name="xmldir.entities"     value="${basedir}/xml/entities"/>
     <property name="xmldir.doctype"     value="${basedir}/xml/doctype"/>
+    <property name="xmldir.tamino" value="${basedir}/xml/tamino"/>
 
    <!-- FIXME: where should this script be? needs a more permanent home... -->
     <property name="tei2xml.sh"     value="${dataPrepdir}/tei2xml.sh"/>
@@ -53,7 +54,7 @@
 	description="* Parse input sgml files.">
 
  <echo message="Parsing sgml files."/>
- <echo message="*********************************************"/>
+ <echo message="**********************************************"/>
 
 <!-- FIXME: Would it be better to redirect output to a log file? -->
  <apply executable="nsgmls" parallel="false" failonerror="true">
@@ -72,7 +73,7 @@
 <target name="tei2xml" depends="init,sgml-parse">  
 
  <echo message="Converting tei sgml files to xml."/>
- <echo message="*********************************************"/>
+ <echo message="**********************************************"/>
 
 
 <!-- create the necessary directories for output, if they don't already exist -->
@@ -98,7 +99,7 @@
 <!-- description="* converts entities to unicode entities " -->
 
  <echo message="Converting sgml entities to unicode entities."/>
- <echo message="*********************************************"/>
+ <echo message="**********************************************"/>
 
 <delete dir="${xmldir.entities}"/>
 <mkdir dir="${xmldir.entities}"/>
@@ -116,7 +117,7 @@
      add if="xmldir.present" to target declaration.  -->
 
  <echo message="Parsing xml files."/>
- <echo message="*********************************************"/>
+ <echo message="**********************************************"/>
 
 <delete dir="${xmldir.doctype}"/>
 <mkdir dir="${xmldir.doctype}"/>
@@ -158,5 +159,36 @@
 
 
 <!-- also need some kind of load target... -->
+
+
+<target name="tamino-data-loader" depends="init" description="* Set up
+data and scripts for loading data to Tamino">
+
+ <echo message="Setting up scripts for loading data to Tamino."/>
+ <echo message="***********************************************"/>
+
+<delete dir="${xmldir.tamino}"/>
+<mkdir dir="${xmldir.tamino}"/>
+<copy todir="${xmldir.tamino}">
+  <fileset dir="${xmldir}" includes="*.xml"/>
+</copy>
+
+
+<copy todir="${basedir}" file="${dataPrepdir}/tamino-data-load.pl"/>
+<copy todir="${basedir}" file="${dataPrepdir}/tamino-data-controller.pl"/>
+<mkdir dir="${xmldir.tamino}/done"/>
+<mkdir dir="${xmldir.tamino}/errors"/>
+
+
+<echo message="Tamino data load directory: ${xmldir.tamino}"/>
+<echo message="--------------------------------------------------------------"/>
+<echo message="To load the data in Tamino, perform the following steps:"/>
+<echo message="  1. If these records have already been loaded in Tamino and you want to replace them, remove the existing records from Tamino first."/>
+<echo message="  2. Run java loader by executing 'perl tamino-data-controller.pl'"/>
+<echo message="  3. Check for success of javaloader by examining ${xmldir.tamino}/done and ${xmldir.tamino}/errors"/>
+<echo message="--------------------------------------------------------------"/>
+
+</target>
+
 
 </project>
