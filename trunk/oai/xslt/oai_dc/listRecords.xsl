@@ -11,7 +11,7 @@
     
     <xsl:template match="/">
         <xsl:element name="ListRecords">
-            <xsl:apply-templates select="//div2" />
+            <xsl:apply-templates select="//TEI.2" />
         </xsl:element>
     </xsl:template>
 
