@@ -63,36 +63,36 @@ peint et dor&eacute;.</p>
       <item>L'Ev&ecirc;ch&eacute; de Cordouë, environ 40 mille,</item>
       <item>L'Ev&ecirc;ch&eacute; de Siguen&ccedil;a, de m&ecirc;me.</item>
       <item>L'Ev&ecirc;ch&eacute; de Segovie, 25 mille.</item>
- <item>	L'Ev&ecirc;ch&eacute; de Calahorra, 2o mille.</item>
-	 <item>L'Ev&ecirc;ch&eacute; de Salamanque, un peu plus</item>
- <item>	L'Ev&ecirc;ch&eacute; de Placencia, 50 mille.</item>
- <item>	L'Ev&ecirc;ch&eacute; de Palencia, 25 mille.</item>
- <item>	L'Ev&ecirc;ch&eacute; de Jaca, plus de 30 mille.</item>
-	 <item>L'Ev&ecirc;ch&eacute; de Malaga, 40 mille,</item>
- <item>	L'Ev&ecirc;ch&eacute; d'Osma, 22 mille.</item>
- <item>	L'Ev&ecirc;ch&eacute; de Zamora, 20 mille. </item>
- <item>L'Ev&ecirc;ch&eacute; de Coria, 20 mille.</item>
- <item>L'Ev&ecirc;ch&eacute; de Ciudad Rodrigo 10 mille.</item> 
- <item>L'Ev&ecirc;ch&eacute; des Isles Canaries, 12 mille.</item>
-	 <item>L'Ev&ecirc;ch&eacute; de Lugo, 8 mille.</item>
- <item>L'Ev&ecirc;ch&eacute; de Mondoñedo, 10 mille. </item>
- <item>L'Ev&ecirc;ch&eacute; d'Oviedo, 2o mille. </item>
- <item>L'Ev&ecirc;ch&eacute; de Leon, 22 mille. </item>
- <item>L'Ev&ecirc;ch&eacute; de Pampelune, 28 mille.</item>
-  <item>L'Ev&ecirc;ch&eacute; de Cadix, 12 mille. </item>
- <item>L'Ev&ecirc;ch&eacute; d'Orense, 10 mille. </item>
- <item>L'Ev&ecirc;ch&eacute; d'Onguela, 10 mille. </item>
- <item>L'Ev&ecirc;ch&eacute; d'Almeria, 5.ooo.</item>
- <item>L'Ev&ecirc;ch&eacute; de Guadix, 9.ooo.</item>
- <item>L'Ev&ecirc;ch&eacute; de Tuy, 4 mille.</item>
- <item>L'Ev&ecirc;ch&eacute; de Badajoz, 18 mille.</item>
- <item>L'Ev&ecirc;ch&eacute; de Vailladolid,15 mille. </item>
- <item>L'Ev&ecirc;ch&eacute; de Huesca, 12 mille.</item>
- <item>L'Ev&ecirc;ch&eacute; de Tarazona, 14 mille. </item>
- <item>L'Ev&ecirc;ch&eacute; de Balbastro, 7 mille</item>
- <item>L'Ev&ecirc;ch&eacute; d'Albarracin, 6 mille. </item>
- <item>L'Ev&ecirc;ch&eacute; de Teruel, 12 mille.</item>
- <item>L'Ev&ecirc;ch&eacute; de Jaca, 6 mille.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Calahorra, 2o mille.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Salamanque, un peu plus</item>
+      <item>L'Ev&ecirc;ch&eacute; de Placencia, 50 mille.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Palencia, 25 mille.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Jaca, plus de 30 mille.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Malaga, 40 mille,</item>
+      <item>L'Ev&ecirc;ch&eacute; d'Osma, 22 mille.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Zamora, 20 mille. </item>
+      <item>L'Ev&ecirc;ch&eacute; de Coria, 20 mille.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Ciudad Rodrigo 10 mille.</item> 
+      <item>L'Ev&ecirc;ch&eacute; des Isles Canaries, 12 mille.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Lugo, 8 mille.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Mondoñedo, 10 mille. </item>
+      <item>L'Ev&ecirc;ch&eacute; d'Oviedo, 2o mille. </item>
+      <item>L'Ev&ecirc;ch&eacute; de Leon, 22 mille. </item>
+      <item>L'Ev&ecirc;ch&eacute; de Pampelune, 28 mille.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Cadix, 12 mille. </item>
+      <item>L'Ev&ecirc;ch&eacute; d'Orense, 10 mille. </item>
+      <item>L'Ev&ecirc;ch&eacute; d'Onguela, 10 mille. </item>
+      <item>L'Ev&ecirc;ch&eacute; d'Almeria, 5.ooo.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Guadix, 9.ooo.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Tuy, 4 mille.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Badajoz, 18 mille.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Vailladolid,15 mille. </item>
+      <item>L'Ev&ecirc;ch&eacute; de Huesca, 12 mille.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Tarazona, 14 mille. </item>
+      <item>L'Ev&ecirc;ch&eacute; de Balbastro, 7 mille</item>
+      <item>L'Ev&ecirc;ch&eacute; d'Albarracin, 6 mille. </item>
+      <item>L'Ev&ecirc;ch&eacute; de Teruel, 12 mille.</item>
+      <item>L'Ev&ecirc;ch&eacute; de Jaca, 6 mille.</item>
     </list></p>
 
 <p>Je ne dois pas &ocirc;mettre de marquer que la Cathedralle de Cordouë est extraordinairement belle; elle fut b&acirc;tie par Abderhaman11, qui regnoit sur tous les Maures d'Espagne. Elle leur servoit de Mosqu&eacute;e12 en l'an 787., mais les Chr&eacute;tiens ayant pris Cordouë en 1236., ils firent une Eglise de cette Mosqu&eacute;e. Elle a 24 grandes Portes, toutes travaill&eacute;es de Sculptures et d'Ornemens d'acier, sa longueur est de 6oo pieds sur 5o de larges; il y a 29 Nefs dans la longueur, et 19 dans la largeur; elle est parfaitement bien proportionn&eacute;e et so&ucirc;tenuë de 850 Colonnes, dont la plus grande partie sont de Jaspes, et les autres de Marbre noir d'un pied et demy de diametre; la Vo&ucirc;te est tres-bien peinte, et l'on peut juger par l&agrave; de l'humeur magnifique des Maures.</p>
@@ -101,138 +101,148 @@ peint et dor&eacute;.</p>
 
 <p>La Cathedralle de Malaga14 est merveilleusement bien par&eacute;e, et d'une juste grandeur; les seules Chaises du Ch¦ur ont co&ucirc;t&eacute; 105 mille Ecus, et tout le reste r&eacute;pond &agrave; cette magnificence.</p>
 
-<p>Principaut&eacute; de Catalogne</p>
+<p>Principaut&eacute; de Catalogne
+<list>
+<item> L'Archev&ecirc;ch&eacute; de Tarragone.</item>
+<item>L'Ev&ecirc;ch&eacute; de Barcelone.</item>
+<item>L'Ev&ecirc;ch&eacute; de Lerida.</item>
+<item>L'Ev&ecirc;ch&eacute; d'Urgel.</item>
+<item>L'Ev&ecirc;ch&eacute; de Girone.</item>
+<item>L'Ev&eacute;ch&eacute; de Vique.</item>
+<item>L'Ev&ecirc;ch&eacute; de Salsona. </item>
+<item>L'Ev&ecirc;ch&eacute; de Tortose. </item>
+<item>L'Ev&ecirc;ch&eacute; d'Elm.</item></list></p>
 
-<p>L'Archev&ecirc;ch&eacute; de Tarragone.
-L'Ev&ecirc;ch&eacute; de Barcelone.
-L'Ev&ecirc;ch&eacute; de Lerida.
-L'Ev&ecirc;ch&eacute; d'Urgel.
-L'Ev&ecirc;ch&eacute; de Girone.
-L'Ev&eacute;ch&eacute; de Vique.
-L'Ev&ecirc;ch&eacute; de Salsona. 
-L'Ev&ecirc;ch&eacute; de Tortose. 
-L'Ev&ecirc;ch&eacute; d'Elm.</p>
 
-<p>Dans l'Italie -</p>
-
-<p>L'Archev&ecirc;ch&eacute; de Brindes
-L'Archev&ecirc;ch&eacute; de Lanciano.
-L'Archev&ecirc;ch&eacute; de Matera.
-L'Archev&ecirc;ch&eacute; d'Otrante.
-L'Archev&ecirc;ch&eacute; de Rocli.
-L'Archev&ecirc;ch&eacute; de Salerne.
-L'Archev&ecirc;ch&eacute; de Trani.
-L'Archev&ecirc;ch&eacute; de Tarante.
-L'Ev&ecirc;ch&eacute; d'Ariano.
-L'Ev&ecirc;ch&eacute; d'Acerra.
-L'Ev&ecirc;ch&eacute; d'Aguila.
-L'Ev&ecirc;ch&eacute; de Costan.
-L'Ev&ecirc;ch&eacute; de Castelamare.</p>
+<p>Dans l'Italie -
+<list>
+<item> L'Archev&ecirc;ch&eacute; de Brindes</item>
+<item> L'Archev&ecirc;ch&eacute; de Lanciano.</item>
+<item> L'Archev&ecirc;ch&eacute; de Matera.</item>
+<item> L'Archev&ecirc;ch&eacute; d'Otrante.</item>
+<item> L'Archev&ecirc;ch&eacute; de Rocli.</item>
+<item> L'Archev&ecirc;ch&eacute; de Salerne.</item>
+<item> L'Archev&ecirc;ch&eacute; de Trani.</item>
+<item> L'Archev&ecirc;ch&eacute; de Tarante.</item>
+<item> L'Ev&ecirc;ch&eacute; d'Ariano.</item>
+<item> L'Ev&ecirc;ch&eacute; d'Acerra.</item>
+<item> L'Ev&ecirc;ch&eacute; d'Aguila.</item>
+<item> L'Ev&ecirc;ch&eacute; de Costan.</item>
+<item> L'Ev&ecirc;ch&eacute; de Castelamare.</item></list></p>
 
 <p>Au Royaume - de Naples:
-L'Ev&ecirc;ch&eacute; de Gaëte. 
-L'Ev&ecirc;ch&eacute; de Galipoli. 
-L'Ev&ecirc;ch&eacute; de Gniovenazzo. 
-L'Ev&ecirc;ch&eacute; de Mofula. L'Ev&ecirc;ch&eacute; de Monopoli. 
-LEv&ecirc;ch&eacute; de Puzzol. 
-LEv&ecirc;ch&eacute; de Potenza. 
-L'Ev&ecirc;ch&eacute; de Trivento. 
-L'Ev&ecirc;ch&eacute; de Tropea.
-L'Ev&ecirc;ch&eacute; de Dugento.</p>
+<list>
+<item> L'Ev&ecirc;ch&eacute; de Gaëte.</item> 
+<item> L'Ev&ecirc;ch&eacute; de Galipoli. </item>
+<item> L'Ev&ecirc;ch&eacute; de Gniovenazzo. </item>
+<item> L'Ev&ecirc;ch&eacute; de Mofula. </item>
+<item> L'Ev&ecirc;ch&eacute; de Monopoli. </item>
+<item> LEv&ecirc;ch&eacute; de Puzzol. </item>
+<item> LEv&ecirc;ch&eacute; de Potenza. </item>
+<item> L'Ev&ecirc;ch&eacute; de Trivento. </item>
+<item> L'Ev&ecirc;ch&eacute; de Tropea.</item>
+<item> L'Ev&ecirc;ch&eacute; de Dugento.</item></list></p>
 
 <p>Royaume de Sicile: 
-L'Archev&ecirc;ch&eacute; de Palerme. 
-L'Archev&ecirc;ch&eacute; de Montreal.
- L'Ev&ecirc;ch&eacute; de Girgento. 
-L'Ev&ecirc;ch&eacute; de Mazara. 
-L'Ev&ecirc;ch&eacute; de Mecine.
-L'Ev&ecirc;ch&eacute; de Parti.
-L'Ev&ecirc;ch&eacute; de Cefalu.
-L'Ev&ecirc;ch&eacute; de Catania.
-L'Ev&ecirc;ch&eacute; de Zaragoza15.
-L'Ev&ecirc;ch&eacute; de Malte.</p>
+<list>
+<item> L'Archev&ecirc;ch&eacute; de Palerme.</item> 
+<item> L'Archev&ecirc;ch&eacute; de Montreal.</item>
+<item> L'Ev&ecirc;ch&eacute; de Girgento. </item>
+<item> L'Ev&ecirc;ch&eacute; de Mazara. </item>
+<item> L'Ev&ecirc;ch&eacute; de Mecine.</item>
+<item> L'Ev&ecirc;ch&eacute; de Parti.</item>
+<item> L'Ev&ecirc;ch&eacute; de Cefalu.</item>
+<item> L'Ev&ecirc;ch&eacute; de Catania.</item>
+<item> L'Ev&ecirc;ch&eacute; de Zaragoza15.</item>
+<item> L'Ev&ecirc;ch&eacute; de Malte.</item></list></p>
 
-<p>A Milan: 
-L'Archev&ecirc;ch&eacute; de Milan. 
-L'Evesch&eacute; de Vigevano.</p>
+<p>A Milan:
+<list>
+<item> L'Archev&ecirc;ch&eacute; de Milan.</item> 
+<item> L'Evesch&eacute; de Vigevano.</item></list></p>
 
 <p>Royaume de Maillorque:
-L'Evesch&eacute; de Maillorque.</p>
+<list>
+<item> L'Evesch&eacute; de Maillorque.</item></list></p>
 
 <p>Royaume de Sardagne: 
-L'Archevesch&eacute; de Cagliari. 
-L'Archevesch&eacute; d'Oristan. 
-L'Archevesch&eacute; de Sacer. 
-L'Evesch&eacute; d'Alguerales. 
-L'Evesch&eacute; de Boza. 
-L'Evesch&eacute; d'Ampurias.</p>
+<list>
+<item> L'Archevesch&eacute; de Cagliari. </item>
+<item> L'Archevesch&eacute; d'Oristan. </item>
+<item> L'Archevesch&eacute; de Sacer. </item>
+<item> L'Evesch&eacute; d'Alguerales. </item>
+<item> L'Evesch&eacute; de Boza. </item>
+<item> L'Evesch&eacute; d'Ampurias.</item></list></p>
 
 <p>En Afrique 
-L'Evesch&eacute; de Tanger. 
-L'Evesch&eacute; de Ceuta.</p>
+<list>
+<item> L'Evesch&eacute; de Tanger.</item> 
+<item> L'Evesch&eacute; de Ceuta.</item></list></p>
 
 <p>Aux Indes Orientales:
- L'Archevesch&eacute; de Goa. 
-L'Evesch&eacute; de Madere. 
-L'Evesch&eacute; d'Angola dans les Isles Terceres. 
-L'Evesch&eacute; de Cabouerde.
- L'Evesch&eacute; de Saint-Thomas.
-L'Evesch&eacute; de Cochin. 
-L'Evesch&eacute; de Malaca. 
-L'Evesch&eacute; de Maliopor. 
-L'Evesch&eacute; de Macao. De tous les Archeveschez et Eveschez, il ne revient rien au Pape de l'Evesque qui meurt, ni pendant q&ugrave;e le Beneficeest vacant. On auroit peine a rapporter le nombre d'Abbayes et d'autres Dignitez ausquelles le Roy d'Espagne presente. </p>
+<list>
+<item> L'Archevesch&eacute; de Goa. </item>
+<item> L'Evesch&eacute; de Madere. </item>
+<item> L'Evesch&eacute; d'Angola dans les Isles Terceres. </item>
+<item> L'Evesch&eacute; de Cabouerde.</item>
+<item> L'Evesch&eacute; de Saint-Thomas.</item>
+<item> L'Evesch&eacute; de Cochin. </item>
+<item> L'Evesch&eacute; de Malaca. </item>
+<item> L'Evesch&eacute; de Maliopor. </item>
+<item> L'Evesch&eacute; de Macao.</item></list>
+De tous les Archeveschez et Eveschez, il ne revient rien au Pape de l'Evesque qui meurt, ni pendant q&ugrave;e le Beneficeest vacant. On auroit peine a rapporter le nombre d'Abbayes et d'autres Dignitez ausquelles le Roy d'Espagne presente. </p>
 
 <p>Il faut parler &agrave; present des six Archev&ecirc;chez, et des trente deux Ev&ecirc;chez de la nouvelle Espagne, de ses Isles et du Perou.</p>
 
-<p>L'Archev&ecirc;ch&eacute; de la Ville de Los-Reyes, Capitale de la Province du Perou, vaut trentë mille Ecus de rente.
-L'Evesch&eacute; d'Arequipa, seize mille.
-L'Evesch&eacute; de Truxillo, quatorze mille.
-L'Evesch&eacute; de Saint Francisco de Quito, dix-huit mille.</p>
+<p>  L'Archev&ecirc;ch&eacute; de la Ville de Los-Reyes, Capitale de la Province du Perou, vaut trentë mille Ecus de rente.
+<list>
+<item> L'Evesch&eacute; d'Arequipa, seize mille.</item>
+<item> L'Evesch&eacute; de Truxillo, quatorze mille.</item>
+<item> L'Evesch&eacute; de Saint Francisco de Quito, dix-huit mille.</item>
 
-<p>L'Evesch&eacute; de la grande Ville de Cuzco, vingt-quatre mille. 
-L'Evesch&eacute; de Saint Jean de la Victoire, huit mille.
-L'Evesch&eacute; de Panama, six mille.
-L'Evesch&eacute; de Chil&eacute;, cinq mille.</p>
+<item> L'Evesch&eacute; de la grande Ville de Cuzco, vingt-quatre mille.</item> 
+<item> L'Evesch&eacute; de Saint Jean de la Victoire, huit mille.</item>
+<item> L'Evesch&eacute; de Panama, six mille.</item>
+<item> L'Evesch&eacute; de Chil&eacute;, cinq mille.</item>
 
-<p>L'Evesch&eacute; de N&ocirc;tre-Dame de Chil&eacute;, quatre mille.
-L'Archevesch&eacute; de Bogota du nouveau Royaume de Grenade, quatorze mille.
-L'Evesch&eacute; de Popaya, cinq mille.
-L'Evesch&eacute; de Cartagene, six mille.
-L'Evesch&eacute; de Sainte Marie, dix-huit mille.
-L'Evesch&eacute; de la Plata de la Province de Los Charcas, soixante mille.</p>
+<item> L'Evesch&eacute; de N&ocirc;tre-Dame de Chil&eacute;, quatre mille.</item>
+<item> L'Archevesch&eacute; de Bogota du nouveau Royaume de Grenade, quatorze mille.</item>
+<item> L'Evesch&eacute; de Popaya, cinq mille.</item>
+<item> L'Evesch&eacute; de Cartagene, six mille.</item>
+<item> L'Evesch&eacute; de Sainte Marie, dix-huit mille.</item>
+<item> L'Evesch&eacute; de la Plata de la Province de Los Charcas, soixante mille.</item></list></p>
 
 <p>L'Archidiacre de cet Evesch&eacute; en a cinq mille, le Ma&icirc;tre des Enfans de Ch¦ur, le Chantre et le Tresorier, chacun quatre mille, six Chanoines chacun trois mille.</p>
 
-<p>Six autres Dignitez, qui valent chacunes dix-huit cens &eacute;cus, et l'on remarquera, par la richesse du Chapitre de la Plata, que les autres n'en ont gu&eacute;re moins.</p>
+<p>Six autres Dignitez, qui valent chacunes dix-huit cens &eacute;cus, et l'on remarquera, par la richesse du Chapitre de la Plata, que les autres n'en ont gu&eacute;re moins.
+<list>
+<item> L'Archevesch&eacute; de la Plata a pour Suffragans</item>
+<item> L'Evesch&eacute; de Paz.</item>
+<item> L'Evesch&eacute; de Tucuman.</item>
+<item> L'Evesch&eacute; de Santa Crux de la Sierra.</item>
+<item> L'Evesch&eacute; de Paraguay de Buenos Ayres.</item>
+<item> L'Evesch&eacute; del Rio de la Plata.</item>
+<item> L'Ev&ecirc;ch&eacute; de Saint Jacques dans la Province de Tuccuman vaut six mille &eacute;cus.</item>
+<item> L'Evesch&eacute; de Saint Laurens de las Barrancas, douze mille.</item>
+<item> L'Evesch&eacute; de Paraguay, seize mille.</item>
+<item> L'Evesch&eacute; de la Sainte Trinit&eacute;, quinze mille.</item>
+<item> L'Archevesch&eacute; de Mexico, &eacute;rig&eacute; en 1518., vingt mille Reales.</item>
+<item> L'Evesch&eacute; de los Angeles, cinquante mille reales.</item>
+<item> L'Evesch&eacute; de Valadolid de la Province de Mechoacan, quatorze mille &eacute;cus.</item>
+<item> L'Evesch&eacute; d'Antequera, sept mille.</item>
+<item> L'Evesch&eacute; de Guadalaxara, Province de la nouvelle Galice, sept mille.</item>
+<item> L'Evesch&eacute; de Durango, 4 mille.</item>
+<item> L'Evesch&eacute; de Merida, Capitale de la Province de Yucatan, huit mille.</item>
+<item> L'Evesch&eacute; de Santiago de la Province de Guatemala, huit mille.</item>
+<item> L'Evesch&eacute; de Santiago de Leon, Suffragant de l'Archevesch&eacute; de Lima, trois mille.</item>
+<item> L'Evesch&eacute; de Chiapa, cinq mille.</item>
+<item> L'Archevesch&eacute; de San Domingo des Isles Espagnoles, Primat des Indes, trois mille.</item>
+<item> L'Evesch&eacute; de San Juan de Porto-Rico, 40 mille Reales.</item>
+<item> L'Evesch&eacute; de l'Isle de Cuba, huit mille &eacute;cus.</item>
+<item> L'Evesch&eacute; de Santa Anna de Coro, huit mille.</item>
+<item> L'Evesch&eacute; de Camayagua, Capitale de la Province de Honduras, trois mille.</item></list></p> 
 
-<p>L'Archevesch&eacute; de la Plata a pour Suffragans
-L'Evesch&eacute; de Paz.
-L'Evesch&eacute; de Tucuman.
-L'Evesch&eacute; de Santa Crux de la Sierra.
-L'Evesch&eacute; de Paraguay de Buenos Ayres.
-L'Evesch&eacute; del Rio de la Plata.
-L'Ev&ecirc;ch&eacute; de Saint Jacques dans la Province de Tuccuman vaut six mille &eacute;cus.
-L'Evesch&eacute; de Saint Laurens de las Barrancas, douze mille.
-L'Evesch&eacute; de Paraguay, seize mille.
-L'Evesch&eacute; de la Sainte Trinit&eacute;, quinze mille.
-L'Archevesch&eacute; de Mexico, &eacute;rig&eacute; en 1518., vingt mille Reales.
-L'Evesch&eacute; de los Angeles, cinquante mille reales.
-L'Evesch&eacute; de Valadolid de la Province de Mechoacan, quatorze mille &eacute;cus.
-L'Evesch&eacute; d'Antequera, sept mille.
-L'Evesch&eacute; de Guadalaxara, Province de la nouvelle Galice, sept mille.
-L'Evesch&eacute; de Durango, 4 mille.
-L'Evesch&eacute; de Merida, Capitale de la Province de Yucatan, huit mille.
-L'Evesch&eacute; de Santiago de la Province de Guatemala, huit mille.
-L'Evesch&eacute; de Santiago de Leon, Suffragant de l'Archevesch&eacute; de Lima, trois mille.
-L'Evesch&eacute; de Chiapa, cinq mille.
-L'Archevesch&eacute; de San Domingo des Isles Espagnoles, Primat des Indes, trois mille.
-L'Evesch&eacute; de San Juan de Porto-Rico, 40 mille Reales.
-L'Evesch&eacute; de l'Isle de Cuba, huit mille &eacute;cus.
-L'Evesch&eacute; de Santa Anna de Coro, huit mille.
-L'Evesch&eacute; de Camayagua, Capitale de la Province de Hon
-duras, trois mille.</p> 
-
-<p>	L'Archevesch&eacute; Metropolitain de Manila, Capitale des Isles Philippines, trois mille Ecus que le Roy s'est oblig&eacute; de luy payer par la Bulle accord&eacute;e en 1595. Le Roy paye de m&ecirc;me tout le Chapitre. Cet Archev&ecirc;ch&eacute; a trois Suffragans : l'un dans l'Isle de Cebu; l'autre dans l'Isle de Luzon; le troisi&egrave;me &agrave; Comorines.</p>
+<p>L'Archevesch&eacute; Metropolitain de Manila, Capitale des Isles Philippines, trois mille Ecus que le Roy s'est oblig&eacute; de luy payer par la Bulle accord&eacute;e en 1595. Le Roy paye de m&ecirc;me tout le Chapitre. Cet Archev&ecirc;ch&eacute; a trois Suffragans : l'un dans l'Isle de Cebu; l'autre dans l'Isle de Luzon; le troisi&egrave;me &agrave; Comorines.</p>
 
 <p>Apr&egrave;s avoir l&ucirc; le Memoire que l'Archevesque de Burgos m'avoit donn&eacute;, et l'avoir fait copier, il se retira en me priant de permettre qu'il m'envoy&acirc;t son Oille, parce qu'elle &eacute;toit toute pr&ecirc;te et que je n'aurois rien de meilleur &agrave; mon souPer. Je l'en remerciay, et je luy dis que la m&ecirc;me raison m'engageoit &agrave; la refuser, puisque sans elle il feroit aussi mauvaise chere que nous.</p>
 
@@ -242,35 +252,38 @@ duras, trois mille.</p>
 
 <p>Buitrago, ce 13. Mars 1679.1</p></div2>
 
-<div2>1 Brunel, p. 23-24 (R. H, p. 138). "Le plus joly bourg que nous vismes en chemin fut Aranda de Driero, où nous nous preparasmes pour passer le septiéme la Montagne de Samosierra, qui separe la vieille Castille d'avec la nouvelle, où est Madrid. On nomme ces passages Puertos, tout de mesme que si c'estoit quelque Riviere qu'on deust passer en bateau ou à gué.."
-2 Bertaut, p. 24. "Le douziéme à Buytrago, Chasteau de la forme de celuy de Lerme, mais pas si beau. Il y a un grand parc où il y a bien des bestes. C'est au Duc de Pastrana, qui est aussi Duc de l'Infantado.."
-3 Pour les tableaux de Buytrago cf. Préface, p. 66-68.
-4 Mme de Villars, p. 153. "Toute mon attention fut de regarder [au Pardo] très longtemps les portraits de cette reine Élisabeth, et de ce misérable don Carlos, en songeant à leurs funestes aventures : ils étoient bien faits l'un et l'autre."
-5 Bertaut, p. 264-276. "El Consejo de Ordenes est composé aussi d'un President & de six Oydores, sans les autres Officiers qui doivent avoir tous -El habito. Il connoist des causes civiles & criminelles de ceux des Ordres de Santiago, Calatrava & Alcantara, dont j'ay parlé, & des informations qui se font pour estre receu Chevalier de cet Ordre : car ce n'est pas le tout d'avoir le Brevet del habito que le Roy donne; il faut faire preuve que l'on est noble & venu de Christianos viejos, sans aucun mélange de Morisme ny de Iuiverie... Celuy de saint Iacques dont la marque est une Croix rouge en forme d'espée, s'appelle le Noble; celuy de Calatrava, dont la marque est une Croix rouge fleuronnée, s'appelle le Galand, & celuy d'Alcantara, dont la marque est une Croix de la mesme façon que celle de Calatrava hormis qu'elle est vei-te s'appelle le Riche... Pour l'Ordre de la Toison, c'est l'Ordre des Ducs de Bourgogne qui n'a point d'autre marque que la Toison d'or qui pend à un ruban de soye, & que les Espagnols negligent parce qu'il n'y a aucune Commanderie; le Roy ne le donne gueres qu'à des Princes ou à des Seigneurs Estrangers... Les Chevaliers de ces trois Ordres estoient en ce temps-là de vrais Religieux de saint Bernard & de saint Augustin qui ne se marioient point, mais la vie militaire à laquelle ils estoient obligez, & les grands biens qu'ils eurent aprés que les Mores furent chassez d'Espagne, firent tant d'envie, que tous les Grands voulurent estre de cet Ordre, & obtinrent des dispenses de se marier, & encore à present ils ne se marient point sans dispense, mais on ne la leur refuse point... Au commencement il y avoit un Grand-Maistre de chaque Ordre... chaque Charge de Grand-Maistre valoit bien cent mille ducats de revenu... Ferdinand & Isabelle reunirent ces trois Grandes - Maistrises en leur personne par permission du Pape, gagnant par ce moyen trois cent mille éscus de rente tout d'un coup... Ainsy le Roy d'Espagne comme Grand-Maistre donne toutes les Commanderies, & quelquefois tient Chapitre de ces Ordres dans lequel il fait couvrir tous les Chevaliers... Outre ces trente-quatre Commanderies, il y a huit tant Prieurez que Sacristias [dans l'ordre de Calatrava]_ Outre ces 33 Commanderies il y a quatre Alcadies... & quatre tant Prieurez que Chappelles [dans l'ordre d'Alcantara]... Commanderies de l'Ordre de Santiago : Encomiendas de Castilla au nombre de quarante-deux... Encomiendas de Leon au nombre de quarante-cinq... Tous les Chevaliers ont le privilege de s'asseoir & de se couvrir en presence du Roy quand il tient Chappelle de l'Ordre, ou fait quelque assemblée comme Grand-Maistre."
-En ce qui concerne Ies chiffres du revenu des trois Ordres, Bertaut ne donne pas le chiffre total, mais le revenu de toutes les commanderies séparées. Ces chiffres additionnés ne répondent pas aux sommes donnés par Mme d'Aulnoy
+<div2 id="aulnoy06" type="notes" n="Notes for Sixieme Lettre">
+<note id="aulnoy06.01">1 Brunel, p. 23-24 (R. H, p. 138). "Le plus joly bourg que nous vismes en chemin fut Aranda de Driero, où nous nous preparasmes pour passer le septiéme la Montagne de Samosierra, qui separe la vieille Castille d'avec la nouvelle, où est Madrid. On nomme ces passages Puertos, tout de mesme que si c'estoit quelque Riviere qu'on deust passer en bateau ou à gué.."</note>
+<note id="aulnoy06.02"> 2 Bertaut, p. 24. "Le douziéme à Buytrago, Chasteau de la forme de celuy de Lerme, mais pas si beau. Il y a un grand parc où il y a bien des bestes. C'est au Duc de Pastrana, qui est aussi Duc de l'Infantado.."</note>
+<note id="aulnoy06.03"> 3 Pour les tableaux de Buytrago cf. Préface, p. 66-68.</note>
+<note id="aulnoy06.04"> 4 Mme de Villars, p. 153. "Toute mon attention fut de regarder [au Pardo] très longtemps les portraits de cette reine Élisabeth, et de ce misérable don Carlos, en songeant à leurs funestes aventures : ils étoient bien faits l'un et l'autre."</note>
+<note id="aulnoy06.05"><p>5 Bertaut, p. 264-276. "El Consejo de Ordenes est composé aussi d'un President & de six Oydores, sans les autres Officiers qui doivent avoir tous -El habito. Il connoist des causes civiles & criminelles de ceux des Ordres de Santiago, Calatrava & Alcantara, dont j'ay parlé, & des informations qui se font pour estre receu Chevalier de cet Ordre : car ce n'est pas le tout d'avoir le Brevet del habito que le Roy donne; il faut faire preuve que l'on est noble & venu de Christianos viejos, sans aucun mélange de Morisme ny de Iuiverie... Celuy de saint Iacques dont la marque est une Croix rouge en forme d'espée, s'appelle le Noble; celuy de Calatrava, dont la marque est une Croix rouge fleuronnée, s'appelle le Galand, & celuy d'Alcantara, dont la marque est une Croix de la mesme façon que celle de Calatrava hormis qu'elle est vei-te s'appelle le Riche... Pour l'Ordre de la Toison, c'est l'Ordre des Ducs de Bourgogne qui n'a point d'autre marque que la Toison d'or qui pend à un ruban de soye, & que les Espagnols negligent parce qu'il n'y a aucune Commanderie; le Roy ne le donne gueres qu'à des Princes ou à des Seigneurs Estrangers... Les Chevaliers de ces trois Ordres estoient en ce temps-là de vrais Religieux de saint Bernard & de saint Augustin qui ne se marioient point, mais la vie militaire à laquelle ils estoient obligez, & les grands biens qu'ils eurent aprés que les Mores furent chassez d'Espagne, firent tant d'envie, que tous les Grands voulurent estre de cet Ordre, & obtinrent des dispenses de se marier, & encore à present ils ne se marient point sans dispense, mais on ne la leur refuse point... Au commencement il y avoit un Grand-Maistre de chaque Ordre... chaque Charge de Grand-Maistre valoit bien cent mille ducats de revenu... Ferdinand & Isabelle reunirent ces trois Grandes - Maistrises en leur personne par permission du Pape, gagnant par ce moyen trois cent mille éscus de rente tout d'un coup... Ainsy le Roy d'Espagne comme Grand-Maistre donne toutes les Commanderies, & quelquefois tient Chapitre de ces Ordres dans lequel il fait couvrir tous les Chevaliers... Outre ces trente-quatre Commanderies, il y a huit tant Prieurez que Sacristias [dans l'ordre de Calatrava]_ Outre ces 33 Commanderies il y a quatre Alcadies... & quatre tant Prieurez que Chappelles [dans l'ordre d'Alcantara]... Commanderies de l'Ordre de Santiago : Encomiendas de Castilla au nombre de quarante-deux... Encomiendas de Leon au nombre de quarante-cinq... Tous les Chevaliers ont le privilege de s'asseoir & de se couvrir en presence du Roy quand il tient Chappelle de l'Ordre, ou fait quelque assemblée comme Grand-Maistre."</p>
+<p>En ce qui concerne Ies chiffres du revenu des trois Ordres, Bertaut ne donne pas le chiffre total, mais le revenu de toutes les commanderies séparées. Ces chiffres additionnés ne répondent pas aux sommes donnés par Mme d'Aulnoy
+<list>
+<item>Calatrava :Bertaut 80.400 ducats<lb>
+	d'Aulnoy 120.000 ducats</item>
 
-Calatrava :Bertaut 80.400 ducats
-	d'Aulnoy 120.000 ducats
+<item>Alcantara :Bertaut 76.250 ducats<lb>
+	d'Aulnoy 80.000 ducats.</item>
 
-Alcantara :	Bertaut 76.250 ducats
-	d'Aulnoy 80.000 ducats.
+<item>Santiago :Bertaut 269.400 ducats<lb>
+	d'Aulnoy 272.000 ducats.</item>
+    </list>
 
-Santiago:	Bertaut 269.400 ducats
-	d'Aulnoy 272.000 ducats.
-
-Il se peut que Mme d'Aulnoy ait pris les sommes ailleurs; mais étant donné son procédé constant de majorer tous les chiffres qu'elle copie, il est plutôt probable qu'elle les a pris dans Bertaut. En effet l'écart n'est considérable que pour le revenu de l'Ordre de Calatrava.
-6 Mme d'Aulnoy s'est trompée, en copiant : l'ordre de Saint Jacques qu'elle nomme le Riche, est appelé le Noble par Bertaut; et c'est l'ordre d'Alcantara qu'elle appelle le Noble, que Bertaut qualifie de Riche.
-7 Brunel, p. 57 (R. H. p. 159). "Alcantara est le plus estimé, aussi pour l'obtenir, il faut prouver devant le Conseil des Ordres, qu'on est noble de quatre races; aux autres il ne le faut estre que de deux."
-8 Henric. de Peralta y Cardenas.mort 20. xi. 1679. (Gams, Series episcoporum,p. 18)
-9 Parmi les "sept gouvernements dans les Indes Occidentales", il en est trois, "les isles de la Madere, le Cap Vert, Saint-Thomas" qui se retroüvent un peu plus loin (p. 94) dans la liste des évêchés "aux Indes Orientales". Il est à peine besoin de faire remarquer que Mina et Angola sont en Afrique, et les Algarves en Portugal.
+Il se peut que Mme d'Aulnoy ait pris les sommes ailleurs; mais étant donné son procédé constant de majorer tous les chiffres qu'elle copie, il est plutôt probable qu'elle les a pris dans Bertaut. En effet l'écart n'est considérable que pour le revenu de l'Ordre de Calatrava.</p></note>
+<note id="aulnoy06.06"> 6 Mme d'Aulnoy s'est trompée, en copiant : l'ordre de Saint Jacques qu'elle nomme le Riche, est appelé le Noble par Bertaut; et c'est l'ordre d'Alcantara qu'elle appelle le Noble, que Bertaut qualifie de Riche.</note>
+<note id="aulnoy06.07"> 7 Brunel, p. 57 (R. H. p. 159). "Alcantara est le plus estimé, aussi pour l'obtenir, il faut prouver devant le Conseil des Ordres, qu'on est noble de quatre races; aux autres il ne le faut estre que de deux."</note>
+<note id="aulnoy06.08"> 8 Henric. de Peralta y Cardenas.mort 20. xi. 1679. (Gams, Series episcoporum,p. 18)</note>
+<note id="aulnoy06.09"> 9 Parmi les "sept gouvernements dans les Indes Occidentales", il en est trois, "les isles de la Madere, le Cap Vert, Saint-Thomas" qui se retroüvent un peu plus loin (p. 94) dans la liste des évêchés "aux Indes Orientales". Il est à peine besoin de faire remarquer que Mina et Angola sont en Afrique, et les Algarves en Portugal.
 Angola est dans l'Afrique continentale et non "dans les isles Terceres", lesquelles sont dans l'Atlantique, ainsi que "Madere" et "Cabouerde". SaintThomas est une des Antilles.
-Pour la date de composition de cette liste cf. p. 57.
-10 Coulon, p. 99-100. ".. dans la ville on admire la superbe Tour de brique de la grande Eglise large de soixante brassez & haute de 40. auec vne autre Tour esleuée au dessus, & si bien pratiquée au dedans, qu'on peut monter à cheual par sa vis en carracol, & au dehors elle est enrichie de diuerses peintures.."
-11 Bertaut, p. 141. "Elle a esté bastie par Alderramen Roy de Cordouë en 787."
-12 Coulon, p. 84. "Cette Eglise fut premierement la plus grande Mezquite, que les Mores eussent apres celle de la Meke. Mais apres que les Crestiens eurent pris Cordouë, l'an 1236 ils la conuertirent en Eglise Cathedrale. Elle a 24 portes, est longue de six cens vingt pieds, & large de quarante, en y comprenant l'espaisseur de la muraille, & contient en sa longueur vingt-neuf nefs, & en sa largeur dix-neuf, soustenuës de huict cens cinquante colomnes, presque toutes de iaspe d'vn,pied & demy de diametre chacune, & de la hauteur de huict à douze diametres ... Le couuert est de Larix peint & trauaillé fort richement..."
-13 Coulon, p. 23. "Leon ... est vne grande ville, dont l'Eglise principale surpasse en beauté toutes les autres d'Espagne, de mesme que celle de Tolede les surpasse en richesses, celle de Seuille en grandeur, & celte de Salamanque en forteresse..."
-14 Bertaut, p.100-101. "La grande Eglise de Malaga est à peu prés comme la neuve de Grenade, &je fus surpris de la trouver si belle & si ornée. Ils nous dirent que les chaises du Ch¦ur avoient cousté cent mille écus."
-15 Lire: Siracusa.
+Pour la date de composition de cette liste cf. p. 57.</note>
+<note id="aulnoy06.10"> 10 Coulon, p. 99-100. ".. dans la ville on admire la superbe Tour de brique de la grande Eglise large de soixante brassez & haute de 40. auec vne autre Tour esleuée au dessus, & si bien pratiquée au dedans, qu'on peut monter à cheual par sa vis en carracol, & au dehors elle est enrichie de diuerses peintures.."</note>
+<note id="aulnoy06.11">11 Bertaut, p. 141. "Elle a esté bastie par Alderramen Roy de Cordouë en 787."</note>
+<note id="aulnoy06.12"> 12 Coulon, p. 84. "Cette Eglise fut premierement la plus grande Mezquite, que les Mores eussent apres celle de la Meke. Mais apres que les Crestiens eurent pris Cordouë, l'an 1236 ils la conuertirent en Eglise Cathedrale. Elle a 24 portes, est longue de six cens vingt pieds, & large de quarante, en y comprenant l'espaisseur de la muraille, & contient en sa longueur vingt-neuf nefs, & en sa largeur dix-neuf, soustenuës de huict cens cinquante colomnes, presque toutes de iaspe d'vn,pied & demy de diametre chacune, & de la hauteur de huict à douze diametres ... Le couuert est de Larix peint & trauaillé fort richement..."</note>
+<note id="aulnoy06.13"> 13 Coulon, p. 23. "Leon ... est vne grande ville, dont l'Eglise principale surpasse en beauté toutes les autres d'Espagne, de mesme que celle de Tolede les surpasse en richesses, celle de Seuille en grandeur, & celte de Salamanque en forteresse..."</note>
+<note id="aulnoy06.14"> 14 Bertaut, p.100-101. "La grande Eglise de Malaga est à peu prés comme la neuve de Grenade, &je fus surpris de la trouver si belle & si ornée. Ils nous dirent que les chaises du Ch¦ur avoient cousté cent mille écus."
+15 Lire: Siracusa.</note>
+</div2>
 1
 
 
