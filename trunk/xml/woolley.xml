@@ -48,8 +48,8 @@ Writers Resource  Project at Emory University</p>
       <profileDesc>
          <creation>
             <rs n="Caucasian" type="ethnicity">Caucasian</rs>
-            <rs n="unedited" type="form">unedited</rs>
-            <rs n="drama" type="genre">drama</rs>
+            <rs n="unedited" type="form">Unedited</rs>
+            <rs n="drama" type="genre">Drama</rs>
             <rs n="Great Britain" type="geography">Great Britain</rs>
             <date value="1600-1699">1600-1699</date>
          </creation>
