@@ -5248,8 +5248,8 @@ To E. B. C.</head>
                </div1>
             </body>
          </text>
-         <text>
-            <front>
+         <text id="wa2.001" n="The Woman's Advocate, Vol. III">
+         <front>
                <titlePage>
                   <docTitle>
                      <titlePart type="main">
@@ -6151,7 +6151,7 @@ Editor of the <hi rend="italic">National Anti-Slavery Standard,</hi>
 EMELINE CLEVELAND, M. D., Sec'y., 1800 Wt. Vernon St.</p>
                      </div3>
                   </div2>
-                  <div2 id="wa2.201" n="The Womans Advocate" type="issue">
+                    <div2 id="wa2.201" n="The Womans Advocate" type="issue">
                      <head>THE WOMANS ADVOCATE</head>
                      <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                      <div3 id="wa2.202" n="Breakers! [Fourth Paper]" type="essay">
