@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title>The Stars and Stripes: A Melodrama</title>
-            <author>Child, Lydia
+            <author n="Child, Lydia Maria Francis">Child, Lydia
 Maria</author>
             <respStmt>
                <resp>Compiled and edited by</resp>
@@ -65,7 +65,7 @@ Women Writers Resource Project at Emory University</p>
             <bibl>
                <title>National Antislavery Standard</title>(January 23 and 30, 1853): 4.</bibl>
             <p>Scene I.</p>
-            <p>[A planter's house, with negro huts in the rear of it. The Fourth of July. On the open lawn, under the shadow of a group of trees, is a pic-nic table spread with fruit, flowers, decanters of wines, &#x0026;c. Near by, is an arch made of evergreens, with the word LIBERTY interwoven with flowers. A group of Carolinians, at the table, are singing a verse of "Adams and Liberty." At the close of the verse, they rise, touch glasses, and swinging them triumphantly, sing, "Ne'er shall the sons of Columbia be slaves!"</p>
+            <p>[A planter's house, with negro huts in the rear of it. The Fourth of July. On the open lawn, under the shadow of a group of trees, is a pic-nic table spread with fruit, flowers, decanters of wines, &amp;c. Near by, is an arch made of evergreens, with the word LIBERTY interwoven with flowers. A group of Carolinians, at the table, are singing a verse of "Adams and Liberty." At the close of the verse, they rise, touch glasses, and swinging them triumphantly, sing, "Ne'er shall the sons of Columbia be slaves!"</p>
             <p>[While they are singing, the American Flag is brought in by two negroes, attended by a vulgar-looking overseer, somewhat intoxicated. On the top of the flag-staff is a Liberty Cap, which falls, accidentally, while they are attempting to plant the pole in the ground. William, a genteel-looking light mulatto, the personal attendant of Mr. Masters, picks it up, and, excited by the general exhilaration, he claps it on his head, with a smile. The overseer snatches it off, and gives him a box on the ear.]</p>
             <p>
                <hi rend="italic">Overseer</hi>.---Take <hi rend="italic">that</hi>, you black rascal!</p>
@@ -156,7 +156,7 @@ exclaims:]</p>
             <lb/>
             <lg type="stanza">
                <l>
-                  <hi rend="italic">Chorus</hi>.---John Bull! you'd better not set bounds, &#x0026;c.</l>
+                  <hi rend="italic">Chorus</hi>.---John Bull! you'd better not set bounds, &amp;c.</l>
             </lg>
             <lb/>
             <lg type="stanza">
@@ -165,7 +165,7 @@ exclaims:]</p>
                <l>And land enough for twenty States,</l>
                <l>Where niggers may be sold.</l>
                <l>
-                  <hi rend="italic">Chorus</hi>.---John Bull! &#x0026;c.</l>
+                  <hi rend="italic">Chorus</hi>.---John Bull! &amp;c.</l>
             </lg>
             <lb/>
             <lg type="stanza">
@@ -174,7 +174,7 @@ exclaims:]</p>
                <l>On Hayti, too, we'll get strong hold,</l>
                <l>And rule the Central Main.</l>
                <l>
-                  <hi rend="italic">Chorus</hi>.---John Bull! &#x0026;c.</l>
+                  <hi rend="italic">Chorus</hi>.---John Bull! &amp;c.</l>
             </lg>
             <lb/>
             <lg type="stanza">
@@ -183,7 +183,7 @@ exclaims:]</p>
                <l>What business need it be to <hi rend="italic">you</hi>,</l>
                <l>How we increase our stars?</l>
                <l>
-                  <hi rend="italic">Chorus</hi>.---John Bull! &#x0026;c.</l>
+                  <hi rend="italic">Chorus</hi>.---John Bull! &amp;c.</l>
             </lg>
             <lb/>
             <lg type="stanza">
@@ -192,7 +192,7 @@ exclaims:]</p>
                <l>O'er Sandwich Isles, and far Niphon,</l>
                <l>Our flag shall be unfurled.</l>
                <l>
-                  <hi rend="italic">Chorus</hi>.---John Bull! &#x0026;c.</l>
+                  <hi rend="italic">Chorus</hi>.---John Bull! &amp;c.</l>
             </lg>
             <p>
                <hi rend="italic">Masters</hi>.---That's a capital song.</p>
@@ -487,7 +487,7 @@ exclaims:]</p>
             <p>(CONCLUDED NEXT WEEK.)</p>
             <pb n="January 30, 1853"/>
             <p>CONCLUDED.</p>
-            <p>SCENE V&#x003E;</p>
+            <p>SCENE V&gt;</p>
             <p>[Fast midnight. The moon shining on a broad river. No houses in sight. William and Ellen creep out from a quantity of boards and barrels, piled up near the river.]</p>
             <p>
                <hi rend="italic">Ellen</hi>.--It seemed frightful to be alone in the woods with wolves and snakes. But I'm more afraid here in the open country. [<hi rend="italic">She clings to him, and speaks low.</hi>] When I pressed your arm a little while ago, didn't you think you heard something breathing near us?</p>
@@ -646,7 +646,7 @@ exclaims:]</p>
                <l>"Blow ye the trumpet abroad o'er the sea!</l>
                <l>Britannia hath triumphed, the negro is free!"</l>
             </lg>
-            <p>[The women begin to unpack bread, cakes, &#x0026;c., from the baskets. While they are thus occupied, Mr. Freeman sings:]</p>
+            <p>[The women begin to unpack bread, cakes, &amp;c., from the baskets. While they are thus occupied, Mr. Freeman sings:]</p>
             <p>"Get out of the way, Old Dan Tucker!"</p>
             <p>[The women exclaim:]</p>
             <p>"O, we forgot the ice. Make haste and bring some ice!"</p>

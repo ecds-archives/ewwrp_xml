@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt n="Flower of Youth: Poems in War Time">
             <title>Flower of Youth: Poems in War Time</title>
-            <author>Tynan, Katharine</author>
+            <author n="Tynan, Katharine">Tynan, Katharine</author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
@@ -26,7 +26,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <title>Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl> Tynan, Katharine "Flower of Youth: Poems in War Time." London: Sidgwick &#x0026; Jackson, 1915.  80 pages.</bibl>
+            <bibl> Tynan, Katharine "Flower of Youth: Poems in War Time." London: Sidgwick &amp; Jackson, 1915.  80 pages.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -333,7 +333,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             </div2>
             <pb n="20 FLOWER OF YOUTH"/>
             <div2 id="ktflower06" n="THE BRIDE" type="poem">
-               <head rend="center">&#x003E;THE BRIDE</head>
+               <head rend="center">&gt;THE BRIDE</head>
                <lg type="stanza">
                   <l>WEAVE me no wreath of orange blossom, </l>
                   <l rend="indent">No bridal white shall me adorn; </l>
@@ -1203,7 +1203,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
                <head rend="center">"Flower of Youth"</head>
                <head rend="center">(Pages 54, 55)</head>
                <p>In response to numerous applications, the publishers can supply copies of this poem printed separately at twopence each (post free, 2 1/2d., or a dozen copies,   2s. 1d.). The profits will be given to the Dublin Castle Red Cross Hospital.</p>
-               <p>SIDGWICK &#x0026; JACKSON LTD.</p>
+               <p>SIDGWICK &amp; JACKSON LTD.</p>
                <p>3 ADAM STREET, LONDON, W.C.</p>
                <note id="ktflower26.n1" anchored="yes">The preceding text speaks to the popularity of this particular poem.  Printed on a small slip of paper, this advertisement was pasted into the volume after publication.  The insert is found on the same page as the poem, "The Flower of Youth."</note>
             </div2>
@@ -1331,7 +1331,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <pb n="61 THE FIELDS OF FRANCE"/>
             <div2 id="ktflower31" n="THE FIELDS OF FRANCE" type="poem">
                <head rend="center">THE FIELDS OF FRANCE</head>
-               <head rend="center">"<hi rend="italic">Nous avons chass&#x00E9; ce Jesus Christ"</hi> 
+               <head rend="center">"<hi rend="italic">Nous avons chass&eacute; ce Jesus Christ"</hi> 
                </head>
                <lg type="stanza">
                   <l>JESUS CHRIST they chased away</l>
@@ -1591,7 +1591,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
                   <l rend="indent">
                      <hi rend="italic">And taste the sun and wind: </hi>
                   </l>
-                  <l rend="italic">For I have gotten a golden key&#x003C;</l>
+                  <l rend="italic">For I have gotten a golden key&lt;</l>
                   <l rend="italic">To set all lonesome prisoners free. </l>
                </lg>
                <pb n="71 DEAD-A PRISONER"/>

@@ -2,9 +2,9 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt n="  Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, c. of Woman. Written by a Lady in Vindication of her Sex.">
-            <title> Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, &#x0026;c. of Woman.
+            <title> Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, &amp;c. of Woman.
 Written by a Lady in Vindication of her Sex. </title>
-            <author>Egerton, Sarah Fyge </author>
+            <author n="Egerton, Sarah Fyge">Egerton, Sarah Fyge</author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
@@ -32,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
          </seriesStmt>
          <sourceDesc>
             <bibl> Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and
-Inconstancy, &#x0026;c. of Woman.
+Inconstancy, &amp;c. of Woman.
 Written by a Lady in Vindication of her Sex.
 Licens'd, June 2. 1686. R. P.
 London:
@@ -71,7 +71,7 @@ Women Writers Resource Project at Emory University</p>
          <div1 id="egerton.001" n=" Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, c. of Woman. Written by a Lady in Vindication of her Sex." type="introduction">
             <docAuthor>Egerton, Sarah Fyge. </docAuthor>
             <head>
-               <title> Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, &#x0026;c. of Woman. Written by a Lady in Vindication of her Sex.</title>
+               <title> Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, &amp;c. of Woman. Written by a Lady in Vindication of her Sex.</title>
             </head>
             <docDate> 1686</docDate>
             <argument>
@@ -79,7 +79,7 @@ Women Writers Resource Project at Emory University</p>
             </argument>
             <p>Female Advocate or, an Answer to a Late Satyr Against 
 the Pride, Lust and<lb/>
-Inconstancy, &#x0026;c. of Woman.<lb/>
+Inconstancy, &amp;c. of Woman.<lb/>
 Written by a Lady in Vindication of her Sex.<lb/>
 Licens'd, June 2. 1686. R. P.<lb/>
 London:<lb/>
@@ -129,9 +129,9 @@ one of its Votaires, S. F.</p>
          </div1>
          <div1 id="egerton.003" n=" Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, c. of Woman. Written by a Lady in Vindication of her Sex." type="poem">
             <docAuthor>Egerton, Sarah Fyge</docAuthor>
-            <head>Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, &#x0026;c. of Woman. Written by a Lady in Vindication of her Sex.</head>
+            <head>Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, &amp;c. of Woman. Written by a Lady in Vindication of her Sex.</head>
             <p>The Female Advocate, or An Answer to a late Satyr against the Pride, Lust
-and Inconstancy, &#x0026;c. of woman.</p>
+and Inconstancy, &amp;c. of woman.</p>
             <lg type="stanza">
                <l>Blasphemous Wretch, thou who canst think or say</l>
                <l>Some Curst or Banisht Fiend usurp't the way</l>
@@ -145,7 +145,7 @@ and Inconstancy, &#x0026;c. of woman.</p>
                <l>Made all things glorious it did undertake;</l>
                <l>Then it in Eden's Garden freely plac'd</l>
                <l>All things pleasant to the Sight or taste,</l>
-               <l>Fill'd it with Beasts &#x0026; Birds, Trees hung with Fruit,</l>
+               <l>Fill'd it with Beasts &amp; Birds, Trees hung with Fruit,</l>
                <l>That might with man's Celestial Nature suit:</l>
                <l>The world being made thus spacious and compleat,</l>
                <l>Then Man was form'd, who seemed nobly great.</l>
@@ -648,7 +648,7 @@ and Inconstancy, &#x0026;c. of woman.</p>
                <l>And tho' Ambition still aims to be high,</l>
                <l>Yet Lust at best is but beastiality;</l>
                <l>A Sin with which there's none can compare,</l>
-               <l>Not Pride nor Envy, &#x0026;c. for this doth insnare,</l>
+               <l>Not Pride nor Envy, &amp;c. for this doth insnare,</l>
                <l>Not only those whom it at first inflam'd,</l>
                <l>This Sin must have a partner to be sham'd,</l>
                <l>And punish'd like himself. Hold, one wont do,</l>

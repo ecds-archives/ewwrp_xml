@@ -4,7 +4,7 @@
          <titleStmt n=" Mrs. Jame's vindication of the Church of England, in a Answer to a Pamphlet entitled a New Test of the Church of England's Loyalty">
             <title>Mrs. Jame's vindication of the Church of England, in a Answer to a
 Pamphlet entitled a New Test of the Church of England's Loyalty</title>
-            <author>James, Elinor </author>
+            <author n="James, Elinor">James, Elinor</author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
@@ -137,7 +137,7 @@ hope to be nevertheless.<pb n="3"/>
             </p>
             <p>Mrs. JAMES's VINDICATION<lb/>
 OF THE<lb/>
-CHURCH of ENGLAND, &#x0026;<lb/>
+CHURCH of ENGLAND, &amp;<lb/>
             </p>
             <p>SIR,<lb/>
 I am very sorry to think that you should be always such a Subtle Adversary,
