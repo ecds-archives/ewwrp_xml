@@ -10,6 +10,7 @@ echo "write" >> $exscript;
 echo "quit" >> $exscript;
 
 foreach file ($argv)
+echo "Fixing $file";
    ex $file < $exscript;
 end
 
