@@ -86,7 +86,7 @@ my $javaMemoryHeapSize="-Xmx510m";
 #$classpath="JavaLoader.jar:xercesTamino.jar";
 
 ## grab classpath from environment variable
-$classpath = $ENV{"CLASSPATH"} . ":dataPrep/JavaLoader.jar:dataPrep/xercesTamino.jar";
+$classpath = $ENV{"CLASSPATH"} . ":dataPrep/JavaLoader.jar:dataPrep/xercesTamino.jar:JavaLoader.jar:xercesTamino.jar";
 
 #increase memory with the mx parameter. must be multiple of 1024k greater than 2mb
 my($logfile, $output);
