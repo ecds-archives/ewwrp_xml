@@ -183,14 +183,15 @@
                     <![CDATA[
                        return <TEI.2>
 		       {$a/teiHeader}
-		       <docName>{$docname}</docName>
 		       <div1>
 			 {$div1/@n}
 			 {$div1/@type}
 			 {$div1//docAuthor}
 			 {$div1//docDate}
-                       <LastModified>{$time}</LastModified>                       
-		        </div1>
+		       </div1>
+			 <docName>{$docname}</docName>                       
+			 <LastModified>{$time}</LastModified>                       
+		        
 			</TEI.2>
                     ]]>                
                </return>
