@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>    
+    <xqueries>
+	<!--
+	    verb elements must be defined for ListIdentifiers, GetRecord and ListRecords
+	    each verb xquery element must contain a declaration, for, let, where and return element
+	    any of these may be empty elements but must be defined.
+	    
+	    The specified xslt should transform the output of the xquery into a valid OAI Response.
+	    
+	    It is recommended that you test your xqueries and xslts before configuring the provider as debugging may prove difficult
+	-->
+        <verb name="ListIdentifiers" xslt="xslt/oai_dc/listIdentifier.xsl">
+            <xquery>
+               <declaration>
+                    <![CDATA[
+                        declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"
+			declare namespace xs = "http://www.w3.org/2001/XMLSchema"
+			declare namespace xf="http://www.w3.org/2002/08/xquery-functions"
+                    ]]>
+               </declaration>
+               <for>
+                    <![CDATA[
+	    		for $a in input()/TEI.2/teiHeader
+                    ]]>
+               </for>
+               <let>
+                    <![CDATA[
+			let $time      := tf:getLastModified(xf:root($a))
+			let $docname   := tf:getDocname(xf:root($a))
+			let $profile   := $a/profileDesc
+			let $ethnicity := $profile/creation/rs[@type='ethnicity']
+			let $form      := $profile/creation/rs[@type='form']
+			let $genre     := $profile/creation/rs[@type='genre']
+			let $geography := $profile/creation/rs[@type='geography']
+			let $period    := $profile/creation/date
+                    ]]>                
+               </let>
+               <!-- DEFAULT query is used when a set is not requested and should return all records most likely will be blank-->
+               <where>
+                   <set name="DEFAULT"/>
+
+		<!-- ethnicity sets -->
+ 		   <set name="African American">
+			<![CDATA[
+			  $ethnicity='African American'
+			]]>
+		   </set>
+	  	   <set name="Caucasian">
+			<![CDATA[
+			  $ethnicity='Caucasian'
+			]]>
+	       	   </set>
+		   <set name="Native American">
+			<![CDATA[
+			  $ethnicity='Native American'
+			]]>
+		  </set>
+
+		<!--- form sets -->
+		  <set name="Edited">
+			<![CDATA[
+			  $form='Edited'
+			]]>
+		  </set>
+		  <set name="Unedited">
+			<![CDATA[
+			  $form='Unedited'
+			]]>
+		  </set>
+
+		<!-- genre sets -->
+		  <set name="Poetry">
+			<![CDATA[
+			  $genre='Poetry'
+			]]>
+		  </set>
+		  <set name="Prose">
+			<![CDATA[
+			  $genre='Prose'
+			]]>
+		  </set>
+		  <set name="Drama">
+			<![CDATA[
+			  $genre='Drama'
+			]]>
+		  </set>
+
+		<!-- geography sets -->
+		  <set name="France">
+			<![CDATA[
+			  $geography='France'
+			]]>
+		  </set>
+		  <set name="Great Britain">
+			<![CDATA[
+			  $geography='Great Britain'
+			]]>
+		  </set>
+		  <set name="United States">
+			<![CDATA[
+			  $geography='United States'
+			]]>
+		  </set>
+
+		<!-- period sets -->
+		  <set name="1600-1699">
+			<![CDATA[
+			  $period='1600-1699'
+			]]>
+		  </set>
+		  <set name="1700-1799">
+			<![CDATA[
+			  $period='1700-1799'
+			]]>
+		  </set>
+		  <set name="1800-1899">
+			<![CDATA[
+			  $period='1800-1899'
+			]]>
+		  </set>
+		  <set name="1900-1999">
+			<![CDATA[
+			  $period='1900-1999'
+			]]>
+		  </set>
+
+                   <from>
+                        <![CDATA[
+                           $time >= xs:dateTime("?")
+                        ]]>
+                   </from>
+                   <until>
+                        <![CDATA[
+                           $time <= xs:dateTime("?")
+                        ]]>
+                   </until>
+                </where>
+                <return>
+                    <![CDATA[
+                      return <TEI.2>
+			<docName>{$docname}</docName>
+			{$profile}
+			<LastModified>{$time}</LastModified>
+		      </TEI.2>
+                    ]]>                
+               </return>
+	   </xquery>
+	</verb>		<!-- end ListIdentifiers -->
+
+
+
+<!-- FIXME: these are still ILN xqueries -->
+      
+        <verb name="GetRecord" xslt="xslt/oai_dc/getRecord.xsl">
+            <xquery>
+               <declaration>
+                    <![CDATA[
+                        declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"
+                        declare namespace xf="http://www.w3.org/2002/08/xquery-functions"
+                    ]]>
+               </declaration>
+               <for>
+                    <![CDATA[
+                    for $a in input()/TEI.2//div1/div2
+                    ]]>
+               </for>
+                <let>
+                    <![CDATA[
+ 		        let $root := xf:root($a)                         
+			let $time := tf:getLastModified(xf:root($a))
+                    ]]>                
+               </let>
+               <where>
+                   <set name="DEFAULT">
+                        <![CDATA[
+                         $a/@id = "?"
+                        ]]>
+                    </set>
+               </where>
+               <return>
+                    <![CDATA[
+                       return <div2>
+			 {$a/@id}
+			 {$a/@type}
+			 {$a/head}
+			 {$a/bibl}
+			 {for $b in $a/p/figure return $b}
+                         {$root/TEI.2/teiHeader}
+                         <LastModified>{$time}</LastModified>                       
+		        </div2>
+                    ]]>                
+               </return>
+            </xquery>
+        </verb>		<!-- end GetRecord -->
+
+        <verb name="ListRecords" xslt="xslt/oai_dc/listRecords.xsl">
+            <xquery>
+               <declaration>
+                    <![CDATA[
+                        declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"
+			declare namespace xs = "http://www.w3.org/2001/XMLSchema"
+			declare namespace xf="http://www.w3.org/2002/08/xquery-functions"
+                    ]]>
+               </declaration>
+               <for>
+                    <![CDATA[
+                        for $a in input()/TEI.2//div1/div2                    
+                    ]]>
+               </for>
+               <let>
+                    <![CDATA[
+ 		        let $root := xf:root($a) 
+			let $time := tf:getLastModified($root)
+                    ]]>                
+               </let>
+               <!-- DEFAULT query is used when a set is not requested and should return all records -->
+               <where>
+                   <set name="DEFAULT"/>
+                   <set name="Articles">
+                        <![CDATA[
+                            $a/@type = 'Article'
+                        ]]>
+                   </set>
+                   <set name="Illustrations">
+                        <![CDATA[
+                            $a/@type = 'Illustration'
+                        ]]>
+                   </set>
+                   <from>
+                        <![CDATA[
+                           $time >= xs:dateTime("?")
+                        ]]>
+                   </from>
+                   <until>
+                        <![CDATA[
+                           $time <= xs:dateTime("?")
+                        ]]>
+                    </until>
+                </where>
+                <return>
+                    <![CDATA[
+                        return  <div2>
+                            {$a/@id}
+                            {$a/@type}
+                            {$a/head}
+                            {$a/bibl}
+                            {for $b in $a/p/figure return $b}
+ 			    {$root/TEI.2/teiHeader}
+                            <LastModified>{$time}</LastModified>  
+                       </div2>
+                    ]]>                
+                </return>
+	   </xquery>
+        </verb>		<!-- end ListRecords -->
+        
+    </xqueries>
