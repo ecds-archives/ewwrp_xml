@@ -12,7 +12,7 @@
          </titleStmt>
          <extent/>
          <publicationStmt>
-            <publisher>The Lewis H. Beck Center</publisher>
+            <Publisher>The Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
             <address>
                <addrLine>Atlanta, Georgia</addrLine>
@@ -31,8 +31,10 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Mathews, Eliza Kirkham. The Pharos. A Collection of
-	    Periodical Essays. By the author of Constance. Volume I. London, 1848. Broadside. EEB 1151:12</bibl>
+            <bibl>Mathews, Eliza Kirkham. The Pharos. A collection of
+	    periodical essays. By the author of Constance. Volume
+	    I. London, Printed for T. Hookham, New Bond Street, M
+	    DCCLXXXVII. (1787) </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -144,8 +146,8 @@ pointment tolerable. And, above all, I shall be comforted. by reflecting, that I
 <pb n="[16]"/>
 <div id="pharos002" type="issue" n="2">
 <head>No. II. SATURDAY, NOV. 11, 1786.</head>
-<quote>My humble spirit waits your social hand.</quote>
-ANN YEARSLEY.
+<epigraph lang="eng"><cit><quote>My humble spirit waits your social hand.</quote>
+<bibl>ANN YEARSLEY.</bibl></cit></epigraph>
 
 <p>WHEN I had resolved on personal concealment during the publication of there papers, I began to fear it would injure my work by discouraging correspondents. Five or six of my intimate friends I knew I could rely on for their occasional aid; but as I wished to present my readers with variety, I cast about for a way to attract contributions. This care I have reason to believe will prove needless, for from the many applications made to my book-seller since Tuesday, I am persuaded I shall have abundant communication. Many persons, I hear, approve my plan, and think my paper will be a good vehicle for their sentiments on
 *various
@@ -183,11 +185,15 @@ the work far below that justly applauded standard.</p>
 *To
 <pb n="22 THE PHAROS No. II"/>
 <p>To Satisfy the many who have enquired whether it will be a <hi rend="italic">sentimental</hi> work, I confess I know not the meaning of the term--a work <hi rend="italic">without sentiment</hi> it would be difficult to produce, therefore I do not think this will be so. If, by <hi rend="italic">sentimental</hi>, they intend that vice-varnishing cant that is used to recommend the substitution of frailty for integrity, I can promise this work will be far from sentimental.</p>
-<p>Nothing that is not honest can gain admittance into this paper--unmerited praise is not honest--therefore no puffs can gain admittance.</p>
+<p>Nothing that is not honest can gain admittance into this
+paper--unmerited praise is not honest--therefore no puffs can gain
+admittance.</p>
+</div>
 <pb n="[23]"/>
-No III. TUESDAY, Nov. 14, 1786.
-<quote>The prize belongs to none but the sincere.</quote>
-COWPER.
+<div id="pharos003" type="issue" n="3">
+<head>No III. TUESDAY, Nov. 14, 1786.</head>
+<epigraph lang="eng"><cit><quote>The prize belongs to none but the sincere.</quote>
+<bibl>COWPER.</bibl></cit></epigraph>
 <p>MY readers and myself, are, I trust by this time, tolerably well acquainted, at least sufficiently so to render superfluous any further ceremony. I shall therefore lay before them a notification, which it may be of importance to them to receive early: it is chiefly designed for the perusal of the ladies; but as many fathers, husbands, and brothers are fond of testifying their regard to the females of their family, by purchasing gifts for them, both sexes are interested in the following advertisement which I print <hi rend="italic">verbatim</hi> as it came to my hands:</p>
 *WHEREAS
 <pb n="24 THE PHAROS No. III"/>
@@ -198,7 +204,6 @@ COWPER.
 <p>Before the lots are particularized, it is necessary to mention that nobody living ever remembers any one of these articles being publicly worn; for which reason they ought to be much esteemed, as by a little judicious alteration or addition they may be made appear quite modern, and if they are named after some celebrated <hi rend="italic">frail</hi>, or <hi rend="italic">balloon-flier</hi>, they will doubtless attract public admiration. Another circumstance to be remarked is, that if kept with care, they will be liable to no misfortune or decay: time, so far from injuring them, will. render them more capable of duration: and, betide this important recommendation, they possess another still more valuable; they can never become common: the vulgar may pretend to imitate them, but the counterfeit will be easily distinguished from the original.</p>
 *VOL. I. C LOT
 <pb n="26 THE PHAROS No. III"/>
-
 *LOT I.
 <p>THE VEIL OF MODESTY. A most beautiful and becoming ornament, intended to be fastened to the back part of the head dress, and to hang over the face and neck. Its particular qualities are, that it reflects a lustre on all good actions, it makes an indifferent face agreeable, heightens real beauty, and is an effectual preservative from many mental disorders.</p>
 
@@ -208,8 +213,6 @@ COWPER.
 <pb n="27 THE PHAROS No. III"/>
 ally when they are told that nothing can injure this graceful garment if worn
 with <hi rend="italic">the sandals of Discretion</hi> hereafter described, and that its singularity, when once it is admitted, will always make it admired. Its properties are, that it always directs the affections to proper objects, and that no lady who wears it openly will be pestered with licentious conversation.</p>
-
-
 
 *LOT. III.
 <p>THE MANTLE OF DECORUM. This, though it has an antiquated name, is no other than a very becoming cloak, fit for any season of the year. Notwithstanding it is adapted to all weathers, it is transparent. A fine shape is seen to great advantage through it, and its color sets off the complexion admirably. The wearer will never be at a loss how to behave to superiors, equals or inferiors: it will teach her when to smile
@@ -259,20 +262,20 @@ sickness. To use the words of a living orator and poet, it
 
 Surely no price can be thought adequate to such a treasure! but yet, as an inducement with ladies to become purchasers in this sale, the proprietor has instructed the auctioneer to make a present of it many person who will bid, to the extent of their ability, for all the other articles with a sincere intention of wearing them. And to this gratuitous donation she has likewise ordered to be added, in case any lady buys the whole collection, the glass at which these decorations must be put on, called
 
-*LOT XII.
+LOT XII.
 <p>THE MIRROR OF CONTENT, which will convince the possessor that how-
 *ever
 <pb n="36 THE PHAROS No. III"/>
 ever dearly she may have bought some articles, she has made a very advantageous purchase, even should she have spent her last guinea at this sale; for this mirror will preclude all anxiety, furnish an inexhaustible source of new delights, and convert afflictions into blessings.</p>
 
 *Timely notice of the day and place of sale will be given.
-
+</div>
 <pb n="[37]"/>
-No IV. SATURDAY, NOV. 18, 1786.
-<quote>Nil erit ulterius, quod nostris moribus addat
-Poiteritas: eadem cupient facientque minores.</quote>
-JUVENAL.
-
+<div id="pharos004" type="issue" n="4">
+<head>No IV. SATURDAY, NOV. 18, 1786.</head>
+<epigraph lang="lat"><cit><quote><lg><l>Nil erit ulterius, quod nostris moribus addat</l>
+<l>Poiteritas: eadem cupient facientque minores.</l></lg></quote>
+<bibl>JUVENAL.</bibl></cit></epigraph>
 <p>HOWEVER manners and customs may appear to degenerate or change, we have reason to believe that virtue and vice, and all their fainter shades, remain unalterably the same* the number of persons endowed with the one, or infected by the other, may be greater or less in different centuries, but the honest man and the knave of our day, are as much like those who flourished with our progenitors as the present race of animals or natural productions of the earth are like those our ancestors fed on. No one supposes Fabricius's turnips were things different from ours; nor have the patriotic Ro-
 *man
 <pb n="38 THE PHAROS No. IV"/>
@@ -301,12 +304,24 @@ will carry it home themselves in broad day-light.</p>
 *migh
 <pb n="44 THE PHAROS No. IV"/>
 might be adduced to prove the immutable properties of good and evil, and the uniformity of opinion discoverable in the first and latest writers on the subject of ethics.</p>
-<p>Happy would it be for us, if we could emancipate our reason from the usurped dominion of custom, and steadily guide our practice by the light of this truth, that however modish levity or scepticism may palliate what is wrong, or oppose what is right, that opinion, which stamps our actions, can never change or err; that like water, all moral qualities will, when uninfluenced, find their own level; like gold, however casual or local plenty or scarcity may depreciate or raise its value, every action will retain an average worth; and that, in the revolution of time, some moment intervenes when the standard is fixed, and the irrevocable fiat, even of terrestrial judicature, will consign our characters to fame or to oblivion.</p>
+<p>Happy would it be for us, if we could emancipate our reason from
+the usurped dominion of custom, and steadily guide our practice by the
+light of this truth, that however modish levity or scepticism may
+palliate what is wrong, or oppose what is right, that opinion, which
+stamps our actions, can never change or err; that like water, all
+moral qualities will, when uninfluenced, find their own level; like
+gold, however casual or local plenty or scarcity may depreciate or
+raise its value, every action will retain an average worth; and that,
+in the revolution of time, some moment intervenes when the standard is
+fixed, and the irrevocable fiat, even of terrestrial judicature, will
+consign our characters to fame or to oblivion.</p>
+</div>
 <pb n="[45]"/>
-No V. TUESDAY, Nov. 21, 1786,
-<quote>I hold the glass
-To all, promiscuous as they pass.</quote>
-MOORE.
+<div id="pharos005" type="issue" n="5">
+<head>No V. TUESDAY, Nov. 21, 1786.</head>
+<epigraph lang="eng"><cit><quote><lg type="couplet"><l>I hold the glass</l>
+<l>To all, promiscuous as they pass.</l></lg></quote>
+<bibl>MOORE.</bibl></cit></epigraph>
 <p>SHOULD the stream of contribution flow as rapidly as it issues, I shall have no reason to complain of the labor of my undertaking: my friends shall this day cater for my readers.</p>
 
 *SIR,
@@ -382,11 +397,12 @@ avowed immorality at once shocks and disgusts every liberal mind, but
 the grossest vice veiled with art and tricked up in external
 loveliness is rendered seducing.</p>
 *A FATHER.
+</div>
 <pb n="[55]"/>
-No I. SATURDAY, Nov. 25, 1786.
-<quote>How are the powers of genius misapplied</quote>
-COWPER.
-
+<div id="pharos006" type="issue" n="6">
+<head>No VI. SATURDAY, Nov. 25, 1786.</head>
+<epigraph lang="eng"><cit><quote>How are the powers of genius misapplied</quote>
+<bibl>COWPER.</bibl></cit></epigraph>
 <p>IT was ever a favorite maxim with my old friend, PETER STEADY, that any thing might be accomplished by perseverance:--an opinion certainly capable of producing much good, but. which experience daily proves, not free from evil. He was, from his early youth, strongly attached to learning; and, by the aid of this firm persuasion, acquired a very high rank amongst the literati of Europe: but he was not content with possessing all the same that could adhere to his own character: he had three sons whom he wished to acquire the same sort of reputation, and finding, to his infinite joy, that Provi-
 *D 4
 dence
@@ -432,11 +448,23 @@ world does but exchange manual labor, subject to little error, and capable of mu
 <p>No more than an argument, founded. on false premises, can ever be supposed juft in the conclusion, can an education, pursued from motives of selfishness or
 *vanity,
 <pb n="65 THE PHAROS No. VI"/>
-vanity, be expected to prosper. Nature often kindly points out the road the would have us take, and will aid us to overcome all difficulties we meet with in it, but she will neither be compelled or thwarted. When genius or inclination is very strong, it should, if possible be indulged; but where a child discovers no particular bias, it certainly can be no injury to him to chuse for him the profession or trade most useful to himself or others; surely no judicious parent would take this absence of choice for a signal to place his son in a situation, where, if he is not what his want of attachment demonstrates he never will be, he must be useless and his fortune ruined.</p>
+vanity, be expected to prosper. Nature often kindly points out the
+road the would have us take, and will aid us to overcome all
+difficulties we meet with in it, but she will neither be compelled or
+thwarted. When genius or inclination is very strong, it should, if
+possible be indulged; but where a child discovers no particular bias,
+it certainly can be no injury to him to chuse for him the profession
+or trade most useful to himself or others; surely no judicious parent
+would take this absence of choice for a signal to place his son in a
+situation, where, if he is not what his want of attachment
+demonstrates he never will be, he must be useless and his fortune
+ruined.</p>
+</div>
 <pb n="[66]"/>
-No VII. TUESDAY, NOV. 28, 1;S6.
-*Celui qui dit incessamment qu'il a de l'honneur et de la probit&eacute;, et qui jure pour le faire croire ne fait pas m&egrave;me contrefaire l'homme de bien.
-LA BRUYERE.
+<div id="pharos007" type="issue" n="7">
+<head>No VII. TUESDAY, NOV. 28, 1786.</head>
+<epigraph lang="fr"><cit><quote><p>Celui qui dit incessamment qu'il a de l'honneur et de la probit&eacute;, et qui jure pour le faire croire ne fait pas m&egrave;me contrefaire l'homme de bien.</p></quote>
+<bibl>LA BRUYERE.</bibl></cit></epigraph>
 <p>THE following essay is the first attempt of a young female pen, in this species of composition, and as such it begs the reader's indulgence. I was desired to fit it for publication, but I am no friend to the practice of embellishing. If one person writes, and another corrects, it is impossible for those who read to judge of the author's merit; and, besides this, our own ideas are always best expressed in our own words.</p>
 <p>There is, I believe, hardly any vice whose folly, absurdity, and unprofitableness have been more frequently or
 *less
@@ -467,11 +495,13 @@ private interests, and while with their fathers, husbands, brothers, and lovers,
 <pb n="73 THE PHAROS No. VII"/>
 fair readers only to think for themselves, and to bestow five minutes in the consideration of this increasing blemish. That sterling good sense which, I hope, will ever be found amongst them, and which is now rendered so amiable by education, will shew them that this vice is in itself and its consequences dangerous and alarming; and as from the higher ranks, hairdressers and footmen, milliners and cookmaids have learned to protest <hi rend="italic">'pon their lives</hi>, and <hi rend="italic">'pon their honors</hi>. I trust a reformation will soon pervade all classes, and that they will no more be suspected of contemning the laws of omnipotence, or of uttering what they do not understand.</p>
 *VOL. I E
+</div>
 <pb n="[74]"/>
-No. VIII. SATURDAY, DeC. 2, 1786.
-<quote>Ev'n the soft sorrow of remember'd woe,
-A not unpleasing sadness may bellow.</quote>
-Miss H. MORE.
+<div id="pharos008" type="issue" n="8">
+<head>No VIII. SATURDAY, Dec. 2, 1786.</head>
+<epigraph lang="eng"><cit><quote><lg type="couplet"><l>Ev'n the soft sorrow of remember'd woe,</l>
+<l>A not unpleasing sadness may bellow.</l></lg></quote>
+<bibl>Miss H. MORE.</bibl></cit></epigraph>
 
 <p>HARDLY any office of humanity or friendship requires so much discretion in the exercise, or is so difficult to execute as that of consolation. People not only see but feel so differently that it is dangerous to suffer our own sentiments to guide us, if we would render our condolence acceptable: we must first learn how our friend estimates the misfortune we deplore, and then accommodate our sympathy to the degree of sensibility we meet with.</p>
 <p>But even this rule which gone would imagine by inclining us to become all things to all men, would at least save us from <hi rend="italic">offending</hi> any, is often fallacious, and
@@ -508,11 +538,21 @@ her spirits received this shock:—one lady therefore came, in' her way to the Cou
 *E5
 To
 <pb n="82 THE PHAROS No. VIII"/>
-To torture a mind laboring under the sense of widowhood, poverty and filial ingratitude, and enervated by sickness, with the exhibition of a *taudry gown, or by presenting much circumstances as must, in a dejected state of spirits, cause a comparison of prosperity and adversity, is, let what will be the motive, positive cruelty. Melissa's companions would have done better to let before her the vanity of transitory bliss, and to have pointed out, as objects alone worthy regard, the comforts and consolations of Christianity.</p>
+To torture a mind laboring under the sense of widowhood, poverty and
+filial ingratitude, and enervated by sickness, with the exhibition of
+a *taudry gown, or by presenting much circumstances as must, in a
+dejected state of spirits, cause a comparison of prosperity and
+adversity, is, let what will be the motive, positive
+cruelty. Melissa's companions would have done better to let before her
+the vanity of transitory bliss, and to have pointed out, as objects
+alone worthy regard, the comforts and consolations of
+Christianity.</p>
+</div>
 <pb n="[83]"/>
-No IX. TUESDAY,, Dec. 5, 1786.
-<quote>Search then the ruling passion--</quote>
-POPE.
+<div id="pharos009" type="issue" n="9">
+<head>No IX. TUESDAY,, Dec. 5, 1786.</head>
+<epigraph lang="eng"><cit><quote>Search then the ruling passion--</quote>
+<bibl>POPE.</bibl></cit></epigraph>
 <p>AVARICE, or a love of money for its own sake, is a vice so intirely factitious, is so productive of misery, and so incapable of procuring pleasure, that it is astonishing how it first found admission into the human heart: that it has, is certain; but that real and true genuine avarice, that kind of infirmity which prevents men from regarding wealth as a means to an end, and represents it as the end itself, is perhaps much less commonly met with than is generally supposed: where we cannot find out the motive to amassing wealth we are apt, too hastily, to presume that the possession of it, is the good sought, and till we are indued
 *E6
 with
@@ -561,12 +601,23 @@ being then in possession of his paternal wealth, and established in a dirty trad
 and you heap up books you cannot read. You have profited less than Durus by your labor--his heirs may bless his parsimony, your's will execrate your expensive taste; for you have purchased things whose value is ideal, and which are always, at a loss, reconverted into money.--You boast your being possessed of every edition of the Bible.--Do you think by this you testify your respect for the sacred volume? Believe me, its Great Author would have been better pleased had you attended piously to his reprobation of the covetous man.--But you say you do good to society by bartering for these incumbrances the immediate supply of want.--This sounds plausibly; but then, tell me what was the good you proposed when you at the last literary sale outbid an indigent scholar, who wanted a particular and scarce book in order to the completion of a work of science, by which his poverty
 *might
 <pb n="95 THE PHAROS No. IX"/>
-might be relieved.--To my knowledge you heard him say, I cannot afford to bid more, and yet missing it will ruin me--I shall never meet with it again.--You bore away the prize with triumphant insolence--his spirit scorned to request the loan of it, but he is amply revenged, by its being made notorious that you not only do not understand the language of that book, but cannot read its characters.--What are you then?--Are you not worse than Durus?--Avaricious, yet profuse--self-conceited, yet ignorant--a cruel tyrant, and an oppressor of indigent worth.</p>
+might be relieved.--To my knowledge you heard him say, I cannot afford
+to bid more, and yet missing it will ruin me--I shall never meet with
+it again.--You bore away the prize with triumphant insolence--his
+spirit scorned to request the loan of it, but he is amply revenged, by
+its being made notorious that you not only do not understand the
+language of that book, but cannot read its characters.--What are you
+then?--Are you not worse than Durus?--Avaricious, yet
+profuse--self-conceited, yet ignorant--a cruel tyrant, and an
+oppressor of indigent worth.</p>
+</div>
 <pb n="[96]"/>
-No X. SATURDAY, Dec. 9, 1786.
-<quote>Among unequals is what society
-Can sort, what harmony or true delight?</quote>
-MILTON.
+<div id="pharos010" type="issue" n="10">
+<head>No X. SATURDAY, Dec. 9, 1786.</head>
+<epigraph lang="eng"><cit><quote><lg><l>Among unequals is what society</l>
+<l>Can sort, what harmony or true delight?</l></lg></quote>
+<bibl>MILTON.</bibl></cit></epigraph>
+
 <p>I Am too much occupied by the subject of the two following letters to prefer any other. The first reached in the fore-noon, the other in the afternoon, of yesterday.</p>
 
 *SIR,
@@ -611,7 +662,6 @@ THOMAS----.
 ties, and am afraid I have some time since in vain assailed paternal severity on Harriet's behalf. Severity so cool, so just, and, in some measure, so necessary, that I was silenced. The good of others requires this deviation from duty to be held an unpardonable crime: easy forgiveness would authorize marriages, which, were a whole world to approve them, must still be in their nature infamous: property, the most valuable and ancient, would sink into the hands not barely of the commonalty, but of the lowest order of men, and the consequent confusion might become very seriously extensive.</p>
 <p>As I will ever listen to the dictates of impartial reason, before I hear what pity can urge, let me, in behalf of this *wholsome yet dreadful severity, observe, that the sin it punishes is of a deeper dye than those involved in it imagine. A child, probably an only one, reared with *anxiey greater than can be described, regarded
 *as
-
 <pb n="105 THE PHAROS No. X"/>
 as the hope of an ancient and honorable family, adorned with whatever can procure the choicest blessings of life, at the expence of much time, thought and labor, as if exulting in the ability to do mischief and disappoint anxious expectation, deliberately contemns all the precepts of religion and remonstrances of nature, and by an act of the greatest folly becomes a voluntary alien from a father's house, an object of universal contempt and ridicule, and a prey to want, misery and cruelty, I know no obligation a parent is under to pardon this aggravated wickedness: but here natural compassion interposes. Compassion, which is a reproach to the flinty heart that excites it for can there be greater cruelty than this, to bring down a father's grey hairs with sorrow to the grave.</p>
 <p>Yet, however justifiable may be the resentment of a parent under such cir
@@ -629,12 +679,17 @@ likewise perform: her parents and the world are not all the has offended, let he
 with her husband; but what reasoning can I adapt to a mind thus uninformed? He has undoubtedly much cause of complaint, but then he has as much cause to censure himself: the hope of wealth, he owns, actuated him; and in the true spirit of vulgar self-conceit on the precarious chance of Harriet's being forgiven, he committed an act, which proclaims an absence of every moral quality. As it was at his option, either to regard or neglect Harriet's overtures, and as an honest man, would immediately have discovered them to the power that could control her, he suffers in his disappointment, but the just punishment of his baseness, and had he the feelings of a man, he would never be prompted to aggravate the distress he has occasioned, by recriminating on helpless, defenceless woman.--But I well know it is preaching to the winds, to advise one who has gone so far in ini-
 *quity.--
 <pb n="109 THE PHAROS No. X"/>
-quity.--O that I could engrave on the warm heart of every giddy female, Harriet's too just observation, that love and extreme disparity of situation cannot subsist together!</p>
+quity.--O that I could engrave on the warm heart of every giddy
+female, Harriet's too just observation, that love and extreme
+disparity of situation cannot subsist together!</p>
+</div>
 <pb n="[110]"/>
-No XI. TUESDAY, Dec. 12, 1786.
-<quote>Call imperfection what thou fanciest such,
-Say, here he gives too little, there too much.</quote>
-POPE.
+<div id="pharos011" type="issue" n="11">
+<head>No XI. TUESDAY, Dec. 12, 1786.</head>
+<epigraph lang="eng"><cit><quote><lg type="couplet"><l>Call imperfection what thou fanciest such,</l>
+<l>Say, here he gives too little, there too much.</l></lg></quote>
+<bibl>POPE.</bibl></cit></epigraph>
+
 <p>THE inhabitants of lower Egypt, had in vain, waited the distention of the all-prolific Nile: the day appointed for festive gratitude was passed in the murmurs of disappointment, and famine, with its terrific train, appeared, when ALI the son of Hassan quitted Garam his native place, in hope of finding at Cairo, the means of subsisting life. The intense heat of the sun, which now poured its fervid rays on his defenceless head, at once stimulated and relaxed him; but despair animating him, he braved the torrid sand and vertical ray, and bid adieu to those fields, which instead of salubrious nutriment,
 *now
 <pb n="111 THE PHAROS No. XI"/>
@@ -673,11 +728,14 @@ natural being?--—Canst thou endure the sight of a terrific genius?'</p>
 *them
 <pb n="118 THE PHAROS No. XI"/>
 them in the middle of the floor. The smoke ascended--a noise, as of the loudest thunder, rolled above; horrid screams were heard, and the genius, clothed in ineffable brightness, flood before them. Segued covered his eyes with his hands, unable to support the dazzling lustre, while Ali requested for his friend the same emanations as he had received.</p>
+</div>
 <pb n="[119]"/>
-No XII. SATURDAY, Dec. 16, 1786.
-<quote>Who finds not Providence all good and wise
-Alike in what it gives and what denies?</quote>
-POPE.
+<div id="pharos012" type="issue" n="12">
+<head>No XII. SATURDAY, Dec. 16, 1786.</head>
+<epigraph lang="eng"><cit><quote><lg type="couplet"><l>Who finds not Providence all good and wise</l>
+<l>Alike in what it gives and what denies?</l></lg></quote>
+<bibl>POPE.</bibl></cit></epigraph>
+
 "ALI' replied the sage, 'I gave thee wisdom to sustain thee in thy necessary toil for subsistence. I have heard thy murmurs, and have found that my power has been *controled by that of my counteracting enemy, who inspires discontent wherever I bestow my blessings. I will not punish thee by withdrawing my gift, valueless as thou now deemest it: for I did not give thee fortitude with wisdom. That thou mayest learn the wisdom of submission, I will grant not only thy request, but thy wishes.---Let Segued and Ali possess equal knowledge and equal wealth.'</p>
 <p>The gratitude of Ali, and the delight
 *Segued,
@@ -712,10 +770,13 @@ sired height, were I restored to my former state I would not with to change it.'
 <pb n="127 THE PHAROS No. XII"/>
 absence , of misery---farther felicity is reserved for the celestial mansions.--Depart to your dwellings and occupations, and be convinced, that while thou, Ali, hast the necessaries of life, and thou, Segued, the pleasures of wealth, ye are happier under the dispensation of Providence, than human or supernatural power can make you.'</p>
 *G4
+</div>
 <pb n="[128]"/>
-No XIII. TUESDAY, Dec. 19, 1786
-<quote>--All may shun the guilt of giving pain.</quote>
-Miss H. More.
+<div id="pharos013" type="issue" n="13">
+<head>No XIII. TUESDAY, Dec. 19, 1786</head>
+<epigraph lang="eng"><cit><quote>--All may shun the guilt of giving pain.</quote>
+<bibl>Miss H. More.</bibl></cit></epigraph>
+
 <p>THE situation of a periodical writer, abounds with inconveniences and has few charms. There is indeed, something plausib1e and alluring in the description of it, as the task of furnishing a small number of pages in a week, is no insupportable toil, and the writer is allowed to chuse stvle and subject; but of the difficulties, no one can an judge who has not made the experiment, and I believe every one who has, will decide with me; for let inc be in what humor I may, still I must write:---an agreeable visit must be shortened or a <hi rend="italic">t&ecirc;te-&agrave;-t&ecirc;te</hi> abruptly broken off to wait on the printer; and I must see .all domestic irregularities with indifferences lest I should
 *pro-
 <pb n="129 THE PHAROS No. XIII"/>
@@ -771,10 +832,12 @@ be made tolerable to a mind like mine, yet I think a very small degree of attent
 <p>It is in the power of the giddy and heedless to inflict punishment without a consciousness of *cruely; but want of thought is an inadmissible plea in thinking beings, and notwithstanding the good humor which may cover the disposition I would stigmatise, it is as distant from good nature, as the mirth excited by seeing a horse dance or a lion leap over a stick is from rational delight.
 *Your, &amp;c.
 A.B.
+</div>
 <pb n="[138]"/>
-No XIV. SATURDAY, Dec. 23, 1786
-<quote>O Solitude! the foul's best friend.</quote>
-COTTON.
+<div id="pharos014" type="issue" n="14">
+<head>No XIV. SATURDAY, Dec. 23, 1786</head>
+<epigraph lang="eng"><cit><quote>O Solitude! the foul's best friend.</quote>
+<bibl>COTTON.</bibl></cit></epigraph>
 
 <p>SICKNESS and solitude like unhappy friends, try our tempers and affections: they force us to become acquainted with ourselves, and to discover whether our regard to life it attracted by the solid and immutable properties it derives from nature, or by the splendor of those decorations it steals from pleasure.</p>
 <p>To instruct my readers how to support the presence of two such unwelcome visitors, is, perhaps, an errand that may render me equally unacceptable. Few in health chuse to contemplate the miseries of the want of it, and as few willingly withdraw from the delights of crowded society, to consider how they shall
@@ -821,11 +884,15 @@ the men of literature cannot relieve me--in short, I know no set of men that can
 M.T.
 *H2
 <pb n="148 THE PHAROS No. XIV"/>
-<p>A whole essay of mine on this head would not contain half the force of the illustrious lord Falkland's words--<hi rend="italic">'I pity unlearned gentlemen in rainy weather.'</hi></p>
+<p>A whole essay of mine on this head would not contain half the force
+of the illustrious lord Falkland's words--<hi rend="italic">'I pity
+unlearned gentlemen in rainy weather.'</hi></p>
+</div>
 <pb n="[149]"/>
-No XV. TUESDAY, Dec. 26, 1786.
-<quote>The pride of arrogant distinctions.</quote>
-COWPER.
+<div id="pharos015" type="issue" n="15">
+<head>No XV. TUESDAY, Dec. 26, 1786.</head>
+<epigraph lang="eng"><cit><quote>The pride of arrogant distinctions.</quote>
+<bibl>COWPER.</bibl></cit></epigraph>
 
 <p>I WAS a few days ago brought acquainted with a species of folly, of whose existence nothing but positive demonstration would have convinced me. It is a folly that I believe has not yet had a particular name assigned it: it ranks in the genus of vanity, but certainly deserves distinction, for which reason I shall denominate it <hi rend="italic">a desire to shew off one's friends.</hi></p>
 <p>A lately deceased writer has, in one of the papers of the Adventurer, very ludicrously described the pretences to importance made by his fellow-travellers in a stage coach. Here, as he observes, the wish of the several persons was only to procure themselves temporary regard,
@@ -870,13 +937,19 @@ sity obliges persons in the middle stations of life to associate with their supe
 *valor,
 <pb n="160 THE PHAROS No. XV"/>
 valor, whole patrimony extended over almost a whole county: place any man, I say, in my circumstances, and he will own it no felicity to be, as I am, forced to live amongst persons now esteemed of high rank, but whom I regard justly as my inferiors.</p>
-<p>By this and a little more, I perceived, that though the mania was differently modified in my clerical acquaintance, it was as violent as in those whose frenzy he had been reprobating, and that had the lady, whose house we were quitting, but touched on the subject of pedigree, he would have proved himself worthy his place in the circle.</p>
+<p>By this and a little more, I perceived, that though the mania was
+differently modified in my clerical acquaintance, it was as violent as
+in those whose frenzy he had been reprobating, and that had the lady,
+whose house we were quitting, but touched on the subject of pedigree,
+he would have proved himself worthy his place in the circle.</p>
+</div>
 <pb n="[161]"/>
-No XVI.SATURDAY, Dec.3o, 1786,
-<quote>Is there, beneath Love's noble name
-Can harbor, dark, the selfish aim
-To bless himself alone?</quote>
-ROBERT BURNS,
+<div id="pharos016" type="issue" n="16">
+<head>No XVI.SATURDAY, Dec.30, 1786.</head>
+<epigraph lang="eng"><cit><quote><lg type="tercet"><l>Is there, beneath Love's noble name</l>
+<l>Can harbor, dark, the selfish aim</l>
+<l>To bless himself alone?</l></lg></quote>
+<bibl>ROBERT BURNS.</bibl></cit></epigraph>
 
 *SIR,
 <p>I TAKE up my pen to give envy a regale:--perhaps it may afford her wretched votaries one moment's pleasure to know that one whom the caprice of fortune has rendered odious, her bounty has made miserable.--Perhaps the picture I am about to unveil to them, may induce them to suspect they have sometimes misdirected their shafts:--happy should I be if aught I urge relieves a fellow-sufferer from the addition of misery this passion has heaped on me.</p>
@@ -915,13 +988,15 @@ the tears that were gushing from my eyes.</p>
 *VOL. I. I In
 <pb n="170 THE PHAROS No. XVI"/>
 <p>In a few days my lord wrote again, informing me, that his father's sudden illness had prevented him from mentioning me to him, and that the earl was not expected live ten days: he conjured me to prefer his happiness to that false notion of honor which had hitherto kept me obdurate, and to reserve my hand for him.</p>
+</div>
 <pb n="[171]"/>
-No XVII. TUESDAY, Jan. 2, 1787.
-<quote>--Sunk to sordid interest feels no more
-That noble wish, that never-cloy'd desire
-Which, selfish joy disdaining, seeks alone
-To bless the dearer object of its flame.</quote>
-THOMSON.
+<div id="pharos017" type="issue" n="17">
+<head>No XVII. TUESDAY, Jan. 2, 1787.</head>
+<epigraph lang="eng"><cit><quote><lg type="stanza"><l>--Sunk to sordid interest feels no more</l>
+<l>That noble wish, that never-cloy'd desire</l>
+<l>Which, selfish joy disdaining, seeks alone</l>
+<l>To bless the dearer object of its flame.</l></lg></quote>
+<bibl>THOMSON.</bibl></cit></epigraph>
 
 <p>MY former constancy had now wholly abandoned me: my mother's arguments accelerated its departure; and I felt that permission to avow my sentiments to myself was all I needed to render me sensible that I returned my lord's affection. I ardently wished him ungraced with title, and in a state of life level with mine, that I might convince him it was neither his coronet nor revenue that tempted me. He soon learnt the change in his favor: he hastened to me, easily overcame my resolution to wait the death of his father, who, he
 *I2 confessed,
@@ -964,10 +1039,12 @@ dancers, while he tardily remits me a scanty pittance, and can see his name subs
 <pb n="181 THE PHAROS No. XVII"/>
 faithful avenger, Conscience, I refer my wrongs, and only with my lord may discover that his wife and child have a claim to his tenderness, before it is too late to evince the sincerity of his conversion; for at the day ,of final award, it will, I imagine, hardly be admitted in excuse for his deserting the woman he vowed to love and to cherish that she was
 *AN INN-KEEPER'S DAUGHTER.
+</div>
 <pb n="[182]"/>
-No XVIII, SATURDAY, fan. 6,
-*--Views the truth with a diftorted eye.
-COWPER.
+<div id="pharos018" type="issue" n="18">
+<head>No XVIII, SATURDAY, Jan. 6, 1787.</head>
+<epigraph lang="eng"><cit><quote>--Views the truth with a distorted eye.</quote>
+<bibl>COWPER.</bibl></cit></epigraph>
 
 <p>I WAS asked the other day to give a reason why description so frequently magnifies objects, or rather, to state it more correctly, why it magnifies the degree of the quality described; for instance, why in verbally representing any thing as beautiful, it is painted on the imagination of the, "hearers as more beautiful than it really is, and so in other subjects of description. Disquisition must precede satisfaction on this head, and I therefore promised my querist to make it the. topic of an essay.</p>
 <p>Passion or interest, it is well known, often occasions this deception. Where a person means to impress another with a sense analogous to his own feelings,
@@ -976,7 +1053,6 @@ COWPER.
 even while truth is not violated, the judgment maybe misled. A lover may set forth his mistress's charms in terms which her personal perfections shall not positively contradict, and yet an unprejudiced gazer may feel his expectations balked. He who has an estate to sell, will, in a verbal description, raise it to beauty. and importance, but an ocular survey shall prove it :insignificant and ill-conditioned.</p>
 <p>Concealment of some one particular, not obvious to the hearer, is another means of .deception.--I once heard a collector describe a Titian he had purchased at a sale, in such terms as awakened the attention of all acquainted. with the works of that master, and made the cheap rate at which it was knocked down to him incredible. He invited me to see it--I went: the mystery was unravelled--the picture was incontestibly deserving of what he had
 *said
-
 <pb n="184 THE PHAROS No. XVIII"/>
 said of it; but the rats had made free with the canvas and devoured the feet and legs of one of the figures: of this the possessor seemed to think lightly--it was genuine--it was fine--and he was delighted.</p>
 <p>In describing many things it will be found that concomitant circumstances have exaggerated the speaker's idea of their excellence: fine weather passes often unnoticed; nobody would bestow their labor in describing the beautiful diversity of light and shade afforded by objects constantly before our eyes, but these things are seen in peculiar beauty by a person just released from a sick bed; and he will talk himself into rapture about them. The gratitude of perhaps, unexpected restoration; the joy of meeting again those scenes to which he had bidden adieu, here raise emotions in the mind which assist the imagination, and *ren-
@@ -1027,11 +1103,21 @@ or any thing else, finer than what we have yet seen or heard of; we may suppose 
 <p>That detail should often cause disappointment is easily accounted for. Use and long acquaintance have made our opinions far from natural:--an antediluvian would regard Benadami in detail: he would reflect with astonishment on the labor and exertions necessary to this man's luxurious existence; and with nearly equal wonder would he survey the complex machine that must perpetually revolve to sustain even the lowest order of humanity; but to us, who found the machine set in motion ready to our hand and who seldom look forward to its pausing, it seems only the regular course of nature. Should our government renounce their oriental commerce, and at once abandon the territory to its natural
 *K2 possessors
 <pb n="196 THE PHAROS No. XVIII"/>
-possessors, on the failure of a supply of that country's productions, we should be lost in astonishment, and think ourselves grievously curtailed we should perhaps then reflect that the uninterrupted transportation of commodities across the Indian ocean was wonderful: perhaps we could hardly persuade our children to believe it ever had been accomplished. But while we enjoy blessings we think not on the ten thousand contingencies they depend on; and thus being accustomed to see and to regard in the gross, we are astonished whenever the detail is presented to us.</p>
+possessors, on the failure of a supply of that country's productions,
+we should be lost in astonishment, and think ourselves grievously
+curtailed we should perhaps then reflect that the uninterrupted
+transportation of commodities across the Indian ocean was wonderful:
+perhaps we could hardly persuade our children to believe it ever had
+been accomplished. But while we enjoy blessings we think not on the
+ten thousand contingencies they depend on; and thus being accustomed
+to see and to regard in the gross, we are astonished whenever the
+detail is presented to us.</p>
+</div>
 <pb n="[197]"/>
-No XIX. TUESDAY, Jan. 9, 1786.
-*Nor think the cautious only are the just.
-GARTH.
+<div id="pharos019" type="issue" n="19">
+<head>No XIX. TUESDAY, Jan. 9, 1786.</head>
+<epigraph lang="eng"><cit><quote>Nor think the cautious only are the just.</quote>
+<bibl>GARTH.</bibl></cit></epigraph>
 
 <p>IT is the common opinion of the world, that where parents or guardians do not exercise the utmost caution and circumspection in setting those who depend on their experience, out in life, nothing but misfortunes can be the fate of youth. --The following communication will shew the misery of being too well taken care of.</p>
 
@@ -1090,10 +1176,12 @@ my uncle!--I was thunderstruck when she returned from church and told me her err
 *I am, Sir,
 Your most obedient,
 PENELOPE.
+</div>
 <pb n="[211]"/>
-No XX. SATURDAY, Jan. 13, 1787.
-<quote>--Meretricious graces to beguile.</quote>
-COWPER.
+<div id="pharos020" type="issue" n="205">
+<head>No XX. SATURDAY, Jan. 13, 1787.</head>
+<epigraph lang="eng"><cit><quote>--Meretricious graces to beguile.</quote>
+<bibl>COWPER.</bibl></cit></epigraph>
 
 *SIR,
 <p>THERE subsists at this time an error in female education, which I fear you will overlook, it having obtained nearly a right of prescription; but it is such an error as I, and I believe many thinking people see in a serious light, and from which, consequences unpleasant to contemplate are augured.</p>
@@ -1141,10 +1229,12 @@ by which he acquired his unwieldy wealth are continually presenting to his view 
 <p>Thus, the companion of guilt and an evil conscience, she drags on a life of misery which she is doomed to aggravate: at last comes, yet still unwelcome, the liberating hand of death--in inquietude and terror of she knows not what, she resigns her being, and leaves a character contemned and execrated.
 *Your very humble servant.
 L3
+</div>
 <pb n="[222]"/>
-No XXI. TUESDAY, Jan. 16, 1787,
-<quote>In diff'ring breats what diff'ring passions glow!</quote>
-GARTH.
+<div id="pharos021" type="issue" n="21">
+<head>No XXI. TUESDAY, Jan. 16, 1787.</head>
+<epigraph lang="eng"><cit><quote>In diff'ring breats what diff'ring passions glow!</quote>
+<bibl>GARTH.</bibl></cit></epigraph>
 
 <p>THE contrast formed by the two following letters, though on the same subject, seem to require that they should appear together.</p>
 
@@ -1231,7 +1321,12 @@ PATIENT.MEGGOT.
 fess is grievous, but I am apt to think he mistakes the nature of it. It seems to me that this disposition to improvement is radically a love of power and a consequent delight in changing. The lady's method of government in some measure disguises her motive, for the rules not by open force but by entreaty; yet in effect it is the same whether a wife be a shrew or a wheedler: she has tried what means are most likely to gain her end, and the is a fool if she adopts any other. But however a victory of this kind may delight, I must ever condemn, as enemies to their own interests, all those, be they husbands, wives, friends, or relations of any sort, who strive for it. There is something so indicative of a bad mind in that selfishness which prompts us to purchase pleasure at the expence of another's real or imaginary ease or comfort, something so cruel in this misuse of the ascendency
 *we
 <pb n="236 THE PHAROS No. XXI"/>
-we perhaps unmeritedly enjoy over the affections of those attached to us, that were I to hear all the virtues of a saint ascribed to a person of this character, I could not believe they had the least particle of true charity in their composition.</p>
+we perhaps unmeritedly enjoy over the affections of those attached to
+us, that were I to hear all the virtues of a saint ascribed to a
+person of this character, I could not believe they had the least
+particle of true charity in their composition.</p>
+</div>
+
 <pb n="[237]"/>
 *No XXII. SATURDAY, Jan. 20,1787.
 <quote>But the long pomp, the midnight masquerade
