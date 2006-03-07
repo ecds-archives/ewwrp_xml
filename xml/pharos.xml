@@ -18,12 +18,12 @@
                <addrLine>Atlanta, Georgia</addrLine>
             </address>
             <availability>
-               <p>2005 Emory University. Permission is granted to
+               <p>&#x00A9; 2005 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the contributions to
 the work claimed by Emory University for non-profit educational purposes, provided 
 this header is included in its entirety.  For inquiries about commercial uses, contact
 either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
-collections and services, Emory University, Atlanta, Georgia 30322</p>
+collections and services, Emory University, Atlanta, Georgia 30322.</p>
             </availability>
             <date>2005</date>
          </publicationStmt>
@@ -59,7 +59,7 @@ Women Writers Resource Project at Emory University.</p>
                <name>Gitanjali Shahani</name>
                <resp>Staff</resp>
             </respStmt>
-            <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
+            <item>XML tags inserted in compliance with TEI guidelines using TEILITE.</item>
          </change>
       </revisionDesc>
    </teiHeader>
@@ -1602,7 +1602,7 @@ people form but one sentence, and that by his emendation he gives them a form an
 <pb n="257 THE PHAROS No. XXIII"/>
 regularity, and humility. I go to church led thither equally by inclination and duty, but I own I cannot stifle my anger at the disappointment I often meet with in the substitution of coxcombly caprice for decent propriety; and I leave any one to judge how far a clergyman does his duty who in place of inspiring his auditors with the. sentiments of piety and respect, dismisses them irritated at his presumption or laughing at his ludicrous action.</p>
 <closer><salute>I am, Sir,
-<lb/>>Your most humble Servant,</salute>
+<lb/>Your most humble Servant,</salute>
 <signature><name type="person">A MEMBER OF THE CHURCH OF ENGLAND.</name></signature></closer></body></text></quote>
 </div>
 <pb n="[258]"/>
