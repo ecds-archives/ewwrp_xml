@@ -1,3 +1,134 @@
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>The Ladies Best Companion.</title>
+            <author>Amelia Chambers</author>
+            <respStmt>
+               <resp>Compiled and edited by Gitanjali Shahani</resp>
+               <name>The Lewis H. Beck Center</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <Publisher>The Lewis H. Beck Center</Publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address>
+               <addrLine>Atlanta, Georgia</addrLine>
+            </address>
+            <availability>
+               <p>&#x00A9; 2006 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322.</p>
+            </availability>
+            <date>2006</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Emory Women Writers Resource Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>London, Printed for J.COOKE, No. 17, in
+	    Paster-Noster Row</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text is produced in conjunction with the 
+Women Writers Resource Project at Emory University.</p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Prose</rs>
+            <rs type="geography">Great Britain</rs>
+            <date>1700-1799</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2006</date>
+            <respStmt>
+               <name>Gitanjali Shahani</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>XML tags inserted in compliance with TEI guidelines using TEILITE.</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+<text>
+<front>
+<div type="title page">
+<titlePage>
+<docTitle>
+<titlePart type="main">THE LADIES BEST COMPANION;</titlePart>
+<titlePart type="alt">OR, A Golden Treasure for the Fair Sex.</titlePart>
+<titlePart type="desc">
+<table rows="3" cols="3">
+<head>Containing the Arts of</head>
+
+<row role="label">
+<cell role="label">COOKERY,</cell>
+<cell role="label">POTTING,</cell>
+<cell role="label">CANDYING,</cell>
+</row>
+
+<row role="label">
+<cell role="label">PASTRY,</cell>
+<cell role="label">PICKLING,</cell>
+<cell role="label">COLLARING,</cell>
+</row>
+
+<row role="label">
+<cell role="label">CONFECTIONARY,</cell>
+<cell role="label">PRESERVING,</cell>
+<cell role="label">BREWING, &amp;c.</cell>
+</row>
+</table>
+<p>With plain Instructions for making English Wines, from Fruits,
+Flowers, &amp;c.</p>
+</titlePart>
+
+<titlePart type="desc">
+To which is added<lb/>
+The ART of preserving BEAUTY.<lb/>
+<p>Containing the best and easiest Methods of preparing and making
+Washes, Essences, perfumes, &amp;c. for the Hanes, Neck, Face, and
+Hair, in such a Manner as in great Measure to delay the Ravages of
+Time on the Features of the Fair Sex.</p>
+
+<p>Likewise Directions for sweetening the Breath, curing the
+Tooth-ache, preserving the Teeth and Gums, &amp;c. With many other
+Articles equally useful to the Fair Sex in general.</p>
+</titlePart>
+
+<epigraph>
+<l><hi rend="italic">Here cooks may learn with wond'rous Ease</hi></l>
+<l><hi rend="italic">The longing Appetite to please;</hi></l>
+<l><hi rend="italic">The Art of Beauty how to reach,</hi></l>
+<l><hi rend="italic">By skillful Methods too we teach;</hi></l>
+<l><hi rend="italic">The Fair who with our Rules comply,</hi></l>
+<l><hi rend="italic">May</hi> catch the Heart,<hi rend="italic">and</hi> charm the Eye.</l>
+</epigraph>
+</docTitle>
+
+<byline>By Mrs. <hi rend="italic">AMELIA CHAMBERS.</hi></byline>
+
+
+
+<docImprint>
+<pubPlace>LONDON</pubPlace>
+Printed for <name rend="italic">Benjamin Billingsley</name> at the
+Printing press in <name rend="italic">Cornhill</name>,
+<docDate>1678</docDate>
+</docImprint>
+</titlePage>
+</div>
+
 <pb n="[iii]"/>
 *PREFACE
 <p>AS the following collection of receipts cannot fail of being useful, both to families and private persons, I can only assure the reader that they are the result of long experience, every one of them having been many times tried, and none of them ever proved ineffectual.</p>
@@ -13,7 +144,12 @@ am well convinced that it will answer the most valuable purposes, let their situ
 so that the person who attends to the different directions will be enabled to discharge all sorts of domestick duties.</p>
 <p>The rules laid down for the preservation of beauty are, not only simple, but all of them have been tried, and may be used at any time without the least danger, they having never been known to fail of success,*</p>
 <p>As many families are situated at a distance from gentlemen of the physical profession, and as some disorders may be cured in an easy manner, I have here inserted receipts for such diseases and complaints, as are common in general, both in children, and those of more advanced years; to all which I have added proper instructions, to servants in cleaning furniture, washing, smoothing, and many other articles, absolutely necessary to be known by those who would acquire the character either of industrious house-wives, or good servants.</p>
-<p>Upon the whole, nothing has been wanting to make this the most complete *book of the kind ever yet offered to the public, and the author doubts not of meeting with the approbation of those who peruse it.</p>
+<p>Upon the whole, nothing has been wanting to make this the most
+complete *book of the kind ever yet offered to the public, and the
+author doubts not of meeting with the approbation of those who peruse
+it.</p>
+</front>
+<body>
 *THE
 <pb n="[153]"/>
 *THE LADIES COMPANION FOR THE DRESSING ROOM.
@@ -364,7 +500,7 @@ hair, *hysop and *scabious, each an ounce, nettle and cress seeds with *orrice e
 
 <pb n="HER OWN PHYSICIAN 177"/>
 *<hi rend="italic">To cure Pains in the Ears.</hi>
-<p>Roast a large head of garlick, then take out the softest part, and mix with it a little *mithridate; when the Patient goes to bed let it be tied to tied to the ear as hot as she can bear it, and continue to repeat it till the complaint is removed.</hi>
+<p>Roast a large head of garlick, then take out the softest part, and mix with it a little *mithridate; when the Patient goes to bed let it be tied to tied to the ear as hot as she can bear it, and continue to repeat it till the complaint is removed.</p>
 
 *<hi rend="italic">A Remedy for inflamed Eyes.</hi>
 <p>Mix one dram of salt of tartar, with a pint of frogs spawn; let them dissolve together, and anoint the eyes, with the composition several times every day *the till *inflamation is removed.</p>
@@ -464,5 +600,9 @@ epidemic-water, and compound wormwood, each one dram, let them be mixed into one
 <p>Drop oil of bitter almonds, mixed with oil of cloves on a little cotton, squeeze it into the ear, and lie some time on the contrary side; do this when you go to bed, and drink wine mixed with rosemary to make you sweat, keep yourself warm, and the ear closed up.</p>
 
 *<hi rend="italic">To take an Insect out of the Ear.</hi>
-<p>Take oil of bitter almonds, and tincture of myrrh each two drams, oil of *savine, and wormwood, each ten drops, when you have mixed all these together, pour a few drops in the ear, and it will either draw out the insect or kill it.</p>
+<p>Take oil of bitter almonds, and tincture of myrrh each two drams,
+oil of *savine, and wormwood, each ten drops, when you have mixed all
+these together, pour a few drops in the ear, and it will either draw
+out the insect or kill it.</p>
+
 
