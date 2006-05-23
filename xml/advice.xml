@@ -118,7 +118,7 @@ proud: <corr sic="Womenhad">Women had</corr> better keep to their Needle-work, p
 with these mean things, whilst by gaining or saving an estate you
 shall never be out of capacity to store your selves more abundantly
 with those trifles, then your own. industry in such matters could have
-ever blest ye<supplied reason="omitted in original" resp="gs">.</supplied>
+ever blest ye<supplied reason="omitted in original" resp="gs">.</supplied></p>
 <p rend="right-justify">And</p>
 <pb n="3"/>
 <p>And now Gentlewomen I give you those rudiments of Accounts, which are the subject of this little pamphlet and transmit this learning to you the best I can, in the self same manner as it came to me.</p>
@@ -138,8 +138,9 @@ accounts of her Cash right and <orig reg="daily" resp="gs">dayly</orig>
 <p>Therefore to begin, my Father gives me at several times in the moneth of <hi rend="italic">January</hi>, the sum of 21<hi rend="italic">l</hi>. 17<hi rend="italic">s</hi>. 11<hi rend="italic">d</hi>, the account of the expences whereof is as followeth.</p>
 <p rend="right-justify">Exe</p>
 <pb n="4"/>
-<table rows="200" cols="6">
+<table rows="119" cols="6">
 <head><hi rend="italic">Expences in</hi> January 1676</head>
+
 <row role="label"> 
 <cell role="label"/>
 <cell role="label">sol</cell>
@@ -368,6 +369,7 @@ resp="gs">Sauciges</sic></cell>
 <row role="data">
 <cell role="data"/>
 <cell role="data" rend="right-justify">carried over</cell>
+<cell role="data"/>
 <cell role="data">4</cell>
 <cell role="data">6</cell>
 <cell role="data">4</cell>
@@ -439,8 +441,8 @@ resp="gs">Sauciges</sic></cell>
 
 <row role="data">
 <cell role="data"/>
-<cell role="data">For 2 pound of <sic corr="Sausages"
-resp="gs">Sauciges</sic></cell>
+<cell role="data">For 2 pound of <orig reg="Sausages"
+resp="gs">Sauciges</orig>></cell>
 <cell role="data">8</cell>
 <cell role="data">--</cell>
 <cell role="data">1</cell>
@@ -657,6 +659,7 @@ resp="gs">Sauciges</sic></cell>
 <row role="data">
 <cell role="data"/>						
 <cell role="data" rend="right-justify">carried over</cell>
+<cell role="data"/>
 <cell role="data">7</cell>
 <cell role="data">8</cell>
 <cell role="data">11</cell>
@@ -737,7 +740,7 @@ resp="gs">Sauciges</sic></cell>
 
 <row role="data">
 <cell role="data"/>
-<cell role="data">For Veal for broath</cell>
+<cell role="data">For Veal for <orig reg="broth" resp="gs">broath</orig></cell>
 <cell role="data">8</cell>
 <cell role="data">--</cell>
 <cell role="data">1</cell>
@@ -792,55 +795,412 @@ resp="gs">Sauciges</sic></cell>
 <row role="data">
 <cell role="data">13.</cell>
 <cell role="data">For a Chalder of Coals</cell>
---------------------- 10   1   1   6
-        	For bone-lace------------------------------ 11  -—   2   2
-        	For Veal, Pork, tripe, &amp;c.-------------  8  --  17   6
-        	For Mutton---------------------------------  8  --  16  --
-        	For Oatmeal-------—------------------------  9  —-   1  --
-        	For Herbs----------------------------------  9  --  --   9
-	15.	For a hood, tape, and thred---------------- 11  --  10   3
-		To a porter-------------------------------- 12  --  --   6
-		For two pound of butter--------------------  9  -—   1  --
-		For fish-----------------------------------  8  -—   2   4
-		For a bottle of Vinegar-------------------- 10  --  -—  --
-      	A quarters wages to the Maid end. Christm.   9  --   1  --
-	17. 	For Beef and Mutton------------------------  8  -—   4  --
-		For a Pullet—------------------------------  8  --   1   3
-        	For herbs and roots------------------------  9  --   1   5
-      19. 	For a petticoat---------------------------- 11   1  13  --
-		For bread----------------------------------  9  --  --   4
-		For fish-----------------------------------  8  --  --   4
-		For Broadcloth----------------------------- 11  --  18   6
-	20. 	For Riband--------------------------------- 11  --   1   8 
-									  --------------
-		carried over 					      15  17  --
+<cell role="data">10</cell>
+<cell role="data">1</cell>
+<cell role="data">1</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For bone-lace</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">2</cell>
+<cell role="data">2</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Veal, Pork, tripe, &amp;c.</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">17</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Mutton</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">16</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Oatmeal</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Herbs</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">9</cell>
+</row>
+
+<row role="data">
+<cell role="data">15.</cell>
+<cell role="data">For a hood, tape, and <orig reg="thread" resp="gs">thred</orig></cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">10</cell>
+<cell role="data">3</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">To a porter</cell>
+<cell role="data">12</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For two pound of butter</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">--</cell>
+</row>
+	
+<row role="data">
+<cell role="data"/>
+<cell role="data">For fish</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">2</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For a bottle of Vinegar</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">A quarters wages to the Maid end. Christm.</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data">17.</cell>
+<cell role="data">For Beef and Mutton</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">4</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For a *Pullet</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">3</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For herbs and roots</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">5</cell>
+</row>
+
+<row role="data">
+<cell role="data">19.</cell>
+<cell role="data">For a petticoat</cell>
+<cell role="data">11</cell>
+<cell role="data">1</cell>
+<cell role="data">13</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For bread</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For fish</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Broadcloth</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">18</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data">20.</cell>
+<cell role="data">For Riband</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">8</cell>
+</row> 
+
+<row role="data">
+<cell role="data"/>
+<cell role="data" rend="right-justify">carried over</cell>
+<cell role="data"/>
+<cell role="data">15</cell>
+<cell role="data">17</cell>
+<cell role="data">--</cell>
+</row>
 
 <pb n="7"/>
-									  sol  l.  s. d.
-						brought over         5   7   8  11	
-1676		To a servant that brought a present-------- 12  --   1  –-
-Janu. 20.   Oatcakes and wheat-------------------------  9  --   1   1	
-		For soap and fullers Earth----------------- 10  --  --   6
-        	Yest for brewing---------------------------  8  --  --   4
-        	A pint of white wine-----------------------  8  --  --   6
-      22.	For ten bushels of Mault-------------------  8   1  10  --
-        	For bread----------------------------------  9  --  --   4
-      23.	For Veal, Calves Head, <hi rend="italic">&ampc;c</hi>8 -- 5 6
-        	For Calico and Sewing Silk----------------- 11  --   1  --
-	25. 	Given a Child------------------------------ 12	--  --   6
-        	For Ribband, Silk, and Purle--------------- 11   4  --   9
-        	For Fish-----------------------------------  8  --   1  10
-      27. 	For Pease----------------------------------  9  --  --  4
-        	For Anniseed-water------------------------- 10  -—  --  5
-        	For Meal and Flower-----------------------  9  --  13 --
-       29. 	For Shooes to the Children---------------- 11  --   3  4
-        	To the Minister--------------------------- 11  --  12 --
-        	For Paving the Street--------------------- 11   1   1  6
-        	A Quarter to the Poor, due at <hi rend="italic">Christmas</hi>11 2 6
-       30.      To a Physitian-----------------------------10  --  10 --
-		To the Apothecary--------------------------10  --   5   6
-	 31.    For the River-water 1m to <hi rend="italic">Christmas</hi>11 -- 5 8
-		Total                                      	21  17 11
+
+<row role="label">
+<cell role="label"/>
+<cell role="label"/>
+<cell role="label">sol</cell>
+<cell role="label">l.</cell>
+<cell role="label">s.</cell>
+<cell role="label">d.</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="label">brought over</cell>
+<cell role="data">6</cell>
+<cell role="data">15</cell>
+<cell role="data">17</cell>
+<cell role="data">2</cell>
+</row>	
+
+<row role="data">
+<cell role="data">1676</cell>
+<cell role="data">To a servant that brought a present</cell>
+<cell role="data">12</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data">Janu. 20.</cell>
+<cell role="data">For soap and fullers Earth</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">6</cell>
+</row>	
+
+<row role="data">
+<cell role="data"/>
+<cell role="data"><orig reg="Yeast" resp="gs">Yest</orig> for
+brewing</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">A pint of white wine</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data">22.</cell>
+<cell role="data">For ten bushels of Mault</cell>
+<cell role="data">8</cell>
+<cell role="data">1</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For bread</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">4</cell>
+
+<row role="data">
+<cell role="data">23.</cell>
+<cell role="data">For Veal, Calves Head, <hi
+rend="italic">&amp;c</hi></cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">5</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Calico and Sewing Silk</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data">25.</cell>
+<cell role="data">Given a Child</cell>
+<cell role="data">12</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Ribband, Silk, and Purle</cell>
+<cell role="data">11</cell>
+<cell role="data">4</cell>
+<cell role="data">--</cell>
+<cell role="data">9</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Fish</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">10</cell>
+</row>
+
+<row role="data">
+<cell role="data">27.</cell>
+<cell role="data">For <orig reg="Peas" resp="gs">Pease</orig></cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Anniseed-water</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">5</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Meal and Flower</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">13</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data">29.</cell>
+<cell role="data">For <sic>Shooes</sic> to the Children</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">3</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">To the Minister</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">12</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Paving the Street</cell>
+<cell role="data">11</cell>
+<cell role="data">1</cell>
+<cell role="data">1</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">A Quarter to the Poor, due at <hi
+rend="italic">Christmas</hi></cell>
+<cell role="data">11</cell>
+<cell role="data">2</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data">30.</cell>
+<cell role="data">To a <orig reg="Physician" resp="gs">Physitian</orig></cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">To the Apothecary</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">5</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data">31.</cell>
+<cell role="data">For the River-water 1m to <hi
+rend="italic">Christmas</hi></cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">5</cell>
+<cell role="data">8</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data" rend="right justify">Total</cell>
+</row>
+<cell role="data">21</cell>
+<cell role="data">17</cell>
+<cell role="data">11</cell>
+</row>
+</table>
 
 <p>Thus much for the particular Account of the Expences in <hi rend="italic">January</hi>, amounting to 21l 17s 11d. Which (being past and allowed) I am required to draw out in another form, and to make out, in particulars, how much thereof is Expended in Meat, how much in Bread and Meal, how much in Fish, &amp;c. And so to sub divide, and branch out this Account into as many parcels as is convenient, to shew which way my Money goes, and put me upon Considering how I may lessen my Expences for the time to come. The Form of this Account, is as followeth.</p>
 <p>See the Reason of the Figures preceding the Column of Money in <hi rend="italic">pag.</hi> 14.</p>
