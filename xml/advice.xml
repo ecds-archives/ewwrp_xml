@@ -2,11 +2,10 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>The Pharos. A Collection of Periodical Essays. By the
-	   Author of Constance. Volume I.</title>
-            <author n="Philogynes">Philogynes</author>
+            <title>Advice to the Women and Midens of London.</title>
+            <author>By one of that Sex.</author>
             <respStmt>
-               <resp>Compiled and edited by</resp>
+               <resp>Compiled and edited by Gitanjali Shahani</resp>
                <name>The Lewis H. Beck Center</name>
             </respStmt>
          </titleStmt>
@@ -25,15 +24,15 @@ this header is included in its entirety.  For inquiries about commercial uses, c
 either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322.</p>
             </availability>
-            <date>2005</date>
+            <date>2006</date>
          </publicationStmt>
          <seriesStmt>
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Philogynes. The Freedom of the Fair Sex Asserted: or
-	    Woman the Crown of the Creation. London: Printed, and are
-	    to be Sold by J. Nutt, near Stationers Hall. MDCC.(1700) </bibl>
+            <bibl>London, Printed for <hi rend="italic">Benjamin
+	    Billingsley</hi> at the Printing press in <hi
+	    rend="italic">Cornhill</hi>, 1678. </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -48,7 +47,7 @@ Women Writers Resource Project at Emory University.</p>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">Great Britain</rs>
-            <date>1700-1799</date>
+            <date>1600-1699</date>
          </creation>
       </profileDesc>
       <revisionDesc>
@@ -63,119 +62,737 @@ Women Writers Resource Project at Emory University.</p>
       </revisionDesc>
    </teiHeader>
 <text>
-<front></front>
+<front>
+<div type="title page">
+<titlePage>
+<docTitle>
+<titlePart type="main">Advice to the Women and Maidens of
+London.</titlePart>
+<titlePart type="desc">Shewing, that instead of their usual Pastime;
+and education in Needle-work, Lace, and Point-making, it were far more
+Necessary and Profitable to apply themselves to the right
+Understanding and Practice of the method of keeping books of account:
+whereby, either single, or married, they may know their Estates, carry
+on their Trades, and avoid the Danger of a helpless and forlorn
+Condition, incident to Widows.</titlePart>
+<titlePart type="desc">With some Essays, or rudiments for young
+beginners; in twelve Articles.</titlePart>
+</docTitle>
+<byline>By one of that Sex</byline>
+<docImprint>
+<pubPlace>LONDON</pubPlace>
+Printed for <name rend="italic">Benjamin Billingsley</name> at the
+Printing press in <name rend="italic">Cornhill</name>,
+<docDate>1678</docDate>
+</docImprint>
+</titlePage>
+</div>
+</front>
 <body>
-ADVICE To the WOMEN and MAIDENS OF LONDON.
-
-<p>Shewing, that instead of their usual Pastime; and education in Needle-work, Lace, and Point-making, it were far more Necessary and Profitable to apply themselves to the right Understanding and Practice of the method of keeping books of account: whereby, either single, or married, they may, know their Estates, carry on their Trades, and avoid the Danger of a helpless and forlorn Condition, incident to Widows.</p>
-
-<p>With some Essays, or rudiments for young beginners; in twelve Articles.</p>,
-
-*By one of that sex.
-LONDON,
-Printed for <hi rend="italic">Benjamin Billingsley</hi> at ,the Printing pres in *<hi rend="italic">Cornhill</hi>, 1678.
-<pb n="1"/>
-*ADVICE 
-To the WOMEN and MAIDENS
-of
-LONDON.
-*Ladies and Gentlewomen,
+<head>ADVICE To the WOMEN and MAIDENS OF LONDON.</head>
+<salute>Ladies and Gentlewomen,</salute>
 <p>Permit one of your sex to give you, as far as <hi rend="italic">her</hi> small knowledge will reach some hints to the right understanding of Accounts: an Art so useful for all sorts, sexes and degrees of persons, especially for such as ever think to have to do in the world in any sort of Trade or Commerce, that next to a stock of Mony, Wares and Credit, this is the most necessary thing.</p>
-<p>Nor let us be discouraged, or put by the inspection thereof by being bid meddle with our distaff, for I have heard it affirmed by those who have lived in *forriaign parts, that Merchants and other trades men have no other Book-keepers then their Wives: who by this means (the Husband dying) are well acquainted with the nature and manner of the trade, and are so certain how, and where their stock is; that they need not be beholden to servants or friends for guidance.</p>
+<p>Nor let us be discouraged, or put by the inspection thereof by
+being bid meddle with our distaff, for I have heard it affirmed by
+those who have lived in <orig reg="foreign" resp="gs">forraign</orig>> parts, that Merchants and other trades men have no other Book-keepers then their Wives: who by this means (the Husband dying) are well acquainted with the nature and manner of the trade, and are so certain how, and where their stock is; that they need not be beholden to servants or friends for guidance.</p>
 <p>And for telling us that the government of the House
-*apper-
+<p rend="right-justify">apper-</p>
 <pb n="2"/>
-appertains to us, and the trades to our Fathers or Husbands; (under favour) the one is to be minded, and the other not neglected, for there is not that danger of a families overthrow by the *sause wanting *it's right relish, or the Table or Stools misplac't, as by a widows ignorance of her concern as to her estate, and I hope husbands will not oppose this when help and care is intended to them whil'st living; and safety to their name and posterity after death: except they have private trades (too much in mode) whereof they would have their wives wholly ignorant. In such a case indeed, one that knows not that one and two make three suits best. And let us not fear we shall want time and opportunity to *mannage the decencies of our house; for what is an hour in a day, or half a day in a week, to make inspection into that, that is to keep me and mine from ruine and poverty.</p>
-<p>Methinks now the objection may be that this art is too high and mysterious for the weaker <hi rend="italic">sex</hi> it will make them proud: *Women had better keep to their Needle-work, point laces, &amp;c. and if they come to poverty, those small Crafts may give them some mean *releif.</p>
+appertains to us, and the trades to our Fathers or Husbands; (under
+favour) the one is to be minded, and the other not neglected, for
+there is not that danger of a families overthrow by the <orig
+reg="sauce">sause</orig>> wanting <sic>it's</sic> right relish, or the
+Table or Stools misplac't, as by a widows ignorance of her concern as
+to her estate, and I hope husbands will not oppose this when help and
+care is intended to them whil'st living; and safety to their name and
+posterity after death: except they have private trades (too much in
+mode) whereof they would have their wives wholly ignorant. In such a
+case indeed, one that knows not that one and two make three suits
+best. And let us not fear we shall want time and opportunity to <orig
+reg="manage" resp="gs">>mannage</orig>> the decencies of our house; for what is an hour in a day, or half a day in a week, to make inspection into that, that is to keep me and mine from ruine and poverty.</p>
+<p>Methinks now the objection may be that this art is too high and
+mysterious for the weaker <hi rend="italic">sex</hi> it will make them
+proud: <corr sic="Womenhad">Women had</corr> better keep to their Needle-work, point laces, &amp;c. and if they come to poverty, those small Crafts may give them some mean <sic>releif.</sic></p>
 <p>To which I answer, That having in some measure practised both Needle-work and Accounts I can averr, that I never found this Masculine Art harder or more difficult then the effeminate achievements of Lace-makeing, gum-work or the like, the attainment whereof need not make us proud: And God forbid that the praise of an useful Virtue should prompt us to a contrary Vice.</p>
-<p>Therefore if I might advise you, you should let the poor serve you with these mean things, whilst by gaining or saving an estate you shall never be out of capacity to store your selves more abundantly with those trifles, then your own. industry in such matters could have ever blest ye*
-*And
+<p>Therefore if I might advise you, you should let the poor serve you
+with these mean things, whilst by gaining or saving an estate you
+shall never be out of capacity to store your selves more abundantly
+with those trifles, then your own. industry in such matters could have
+ever blest ye<supplied reason="omitted in original" resp="gs">.</supplied>
+<p rend="right-justify">And</p>
 <pb n="3"/>
 <p>And now Gentlewomen I give you those rudiments of Accounts, which are the subject of this little pamphlet and transmit this learning to you the best I can, in the self same manner as it came to me.</p>
 <p>Know then that my Parents were very careful to cause me to learn writing and <hi rend="italic">Arithmetick</hi>, and in that I proceeded as far as Reduction, the Rule of Three and Practice, with other Rules, for without the knowledge of these I was told I should not be capable of Trade and Book-keeping and in these I found no discouragement for though <hi rend="italic">Arithmetick</hi> set my brains at work, Yet there was much delight in seeing the end, and how each question produced a fair answer and informed me of things I knew not.</p>
-<p>Afterwards I was put to keep an exact account of the expence of <hi rend="italic">House-keeping</hi>, and other petty <hi rend="italic">Charges</hi>, my Father made it my office to call all persons to an account every night what they had laid out, and to reimburse it them, and set all down in a book, and this is the way to make one a Cashier as they are termed, and one that. can keep a fair account of receipts and payments of Money or Cash-book, is in a good way towards the understanding of Book-keeping: <hi rend="italic">shee</hi> that is so well versed in this as to keep the accounts of her Cash right and *dayly *entred in a book fair without blotting, will soon be fit for greater undertakings.</p>
+<p>Afterwards I was put to keep an exact account of the expence of <hi
+rend="italic">House-keeping</hi>, and other petty <hi
+rend="italic">Charges</hi>, my Father made it my office to call all
+persons to an account every night what they had laid out, and to
+reimburse it them, and set all down in a book, and this is the way to
+make one a Cashier as they are termed, and one that. can keep a fair
+account of receipts and payments of Money or Cash-book, is in a good
+way towards the understanding of Book-keeping: <hi
+rend="italic">shee</hi> that is so well versed in this as to keep the
+accounts of her Cash right and <orig reg="daily" resp="gs">dayly</orig>
+<sic corr="entered">entred</sic> in a book fair without blotting, will soon be fit for greater undertakings.</p>
 <p>Now in regard that other learnings do depend upon this petty Cash account; I find it therefore convenient to give you an example of a moneths expence, and you will thereby see what further use may be made of it afterwards.</p>
 <p>Therefore to begin, my Father gives me at several times in the moneth of <hi rend="italic">January</hi>, the sum of 21<hi rend="italic">l</hi>. 17<hi rend="italic">s</hi>. 11<hi rend="italic">d</hi>, the account of the expences whereof is as followeth.</p>
-*Exe
+<p rend="right-justify">Exe</p>
 <pb n="4"/>
+<table rows="200" cols="6">
 <head><hi rend="italic">Expences in</hi> January 1676</head>
-							 		 sol  l. s.  d.	
-January 1. 	Paid for book to keep these accounts------ 12  -- --   4
-		For 3 dozen of Candles-------------------- 10  --  16  9
-		To the Scavenger 1m to Christmas last----- 11  --   1  6
-		For 2 bushels of Meal---------------------  9  --  11 --
-		For a hood, scarf, apron and gloves------- 11  --  18  6
-		Coach hire to Westminster----------------- 12  --   1 –-
-		For 12 larks and 18 snits ----------------  8  --   2 10
-		Given a Maid that brought a present------- 12  --   1 --
-		Bor Beaf and Bacon------------------------  8  --   4  4
-		30 Eggs-----------------------------------  9  --   1  6
-		For Roots and Herbs-----------------------  9  --  --  8
-		For Drinking glasses---------------------- 11  --   1  6
-		For Oysters-------------------------------  8  --   4  4
-	 3.   For a Knife and Fork---------------------- 11  --   1  8
-		Given to new Bedlam----------------------- 12  --   2 --
-		For Almonds and Rice---------------------- 10  --   1 --
-		For Eyewater------------------------------ 10  --  --  4
-	 4.   For Salt Fish and Smelts------------------  8  --   7 --
-		For Herbs and Sallet----------------------  9  --   1 –-
-		For a pound of Butter---------------------  9  --  --  9
-		For earthen ware-------------------------- 11  --  --  5
-		For oil, Vinegar and Anchovis------------- 10  --   1  6
-		For mending a hearth---------------------- 10  --   1  7
-		For a pound of *Sauciges------------------  8  --  --  8
-		carried over                                    4   6  4
+<row role="label"> 
+<cell role="label"/>
+<cell role="label">sol</cell>
+<cell role="label">l.</cell>
+<cell role="label">s.</cell>
+<cell role="label">d.</cell>
+</row>	
 
-									  sol  l.  s. d.
-1676						Brought over         4   4   6  4	 
-Janu.  5.   Given to the poor-------------------------- 12  --   1 –-
-		For a quart of white-wine------------------  8  --   1 --
-		To a Physician----------------------------- 10  --  10 --
-		For thred laces---------------------------- 11  --  --  6
-		For two washer women----------------------- 10  --   3 --
-        	For 2 pound of Sauciges--------------------  8  --   1 --
-        6   For Fish-----------------------------------  8  --  --  6
-        	For a twelf-tide cake----------------------  9  --   3  9
- 		For Bread----------------------------------  9  --   2 --
-		For Soap and Bluing------------------------ 10  --   1 --
-        	For Ale------------------------------------  8  --  --  4
-        	For Fagots--------------------------------- 10  --  --  4
-        	For Needles-------------------------------- 11  --  --  1
-        	For Trolly lace---------------------------- 11  --   7  6
-        	For Bacon----------------------------------  8  --   1  6	
- 		For Eggs-----------------------------------  9  --  --  6
-	 8.   For Meal and Flower------------------------  9  --  11  6
-		For a piece of Tape------------------------ 11  --   1  2
-		For Fish-----------------------------------  8  --   1  3
-		For Sand and Fullers earth----------------- 11  --   1  4
-		For Salt----------------------------------- 10  --  --  8
-		For Mop and brooms------------------------- 11  --   1  5
-	 9.   For Riband and Tape------------------------ 11  --   6  2
-        	For Soap----------------------------------- 10  --  --  8
-        	For a knuckle of Veal----------------------  8  --   1 --
-        	For mending the Floor---------------------- 10  --   1  6
-        	For Apples, Roots and Herbs----------------  9  --  --  9
-		For small coal and matches----------------- 10  --  --  8
-		For Brand----------------------------------  9 --  --   4
-									     ---------
-		carried over					      7   8  11
+<row role="data">
+<cell role="data">January 1.</cell>
+<cell role="data">Paid for book to keep these accounts</cell>
+<cell role="data">12</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For 3 dozen of Candles</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">16</cell>
+<cell role="data">9</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">To the Scavenger 1m to Christmas last</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For 2 bushels of Meal</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For a hood, scarf, apron and gloves</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">18</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">Coach hire to Westminster</cell>
+<cell role="data">12</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For 12 larks and 18 snits</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">2</cell>
+<cell role="data">10</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">Given a Maid that brought a present</cell>
+<cell role="data">12</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Beaf and Bacon</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">4</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">30 Eggs</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Roots and Herbs</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">8</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Drinking glasses</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Oysters</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">4</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data">3.</cell>
+<cell role="data">For a Knife and Fork</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">8</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">Given to new Bedlam</cell>
+<row role="data">12</row>
+<cell role="data">--</cell>
+<row role="data">2</row>
+<row role="data">--</row>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Almonds and Rice</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Eyewater</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data">4.</cell>
+<cell role="data">For Salt Fish and Smelts</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">7</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Herbs and Sallet</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For a pound of Butter</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">9</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For earthen ware</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">5</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For oil, Vinegar and Anchovis</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For mending a hearth</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">7</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For a pound of <sic corr="Sausages"
+resp="gs">Sauciges</sic></cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">8</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data" rend="right-justify">carried over</cell>
+<cell role="data">4</cell>
+<cell role="data">6</cell>
+<cell role="data">4</cell>
+</row>
+
+<pb n="5"/>
+<row role="label">
+<cell role="label"/>
+<cell role="label"/>
+<cell role="label">sol</cell>
+<cell role="label">l.</cell>
+<cell role="label">s.</cell>
+<cell role="label">d.</cell>
+</row>
+
+<row role="data">
+<cell role="data">1676</cell>
+<cell role="label">Brought over</cell>
+<cell role="data">4</cell>
+<cell role="data">4</cell>
+<cell role="data">6</cell>
+<cell role="data">4</cell>
+</row>	 
+
+<row role="data">
+<cell role="data">Janu.  5.</cell>
+<cell role="data">Given to the poor</cell>
+<cell role="data">12</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For a quart of white-wine</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">To a Physician</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For thred laces</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For two washer women</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">3</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For 2 pound of <sic corr="Sausages"
+resp="gs">Sauciges</sic></cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data">6.</cell>
+<cell role="data">For Fish</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For a <orig reg="twelve" resp="gs">twelf</orig>-tide cake</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">3</cell>
+<cell role="data">9</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Bread</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">2</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Soap and Bluing</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">--</cell>
+</row>
+        	
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Ale</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Fagots</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Needles</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Trolly lace</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">7</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Bacon</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Eggs</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data">8.</cell>
+<cell role="data">For Meal and Flower</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">11</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For a piece of Tape</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">2</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Fish</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">3</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Sand and Fullers earth</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Salt</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">8</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Mop and brooms</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">5</cell>
+</row>
+
+<row role="data">
+<cell role="data">9.</cell>
+<cell role="data">For Riband and Tape</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">6</cell>
+<cell role="data">2</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Soap</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">8</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For a knuckle of Veal</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For mending the Floor</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Apples, Roots and Herbs</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">9</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For small coal and matches</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">8</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Brand</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>						
+<cell role="data" rend="right-justify">carried over</cell>
+<cell role="data">7</cell>
+<cell role="data">8</cell>
+<cell role="data">11</cell>
+</row>
 
 <pb n="6"/>
-									  sol  l.  s. d.
-						Brought over         5   7   8  11	
-1676		Given to the poor-------------------------- 12  --   1  –-
-Janu. 11.   Oatcakes and wheat-------------------------  9  --   1   1  
-       	For thirty eggs----------------------------  9  --   1   6	
-        	For Saucidges and links--------------------  8  --   2   4
-        	For a Mum-glass---------------------------- 11  --  --   5  
-        	To the poor-------------------------------- 12  -—  —-   1
-        	For Veal for broath------------------------  8  --   1   1
- 	12.   For fish and Anchovis----------------------  8  --   3   4
-        	For bread and barley-----------------------  9  --  --   4
-        	For sallet and shallots--------------------  9  --  --   3
-        	Paid the milk-womans score-----------------  9  --   1   2
-        	For two pound of Sugar--------------------- 10  -—   1   1
-      13.   For a Chalder of Coals--------------------- 10   1   1   6
+<row role="label">
+<cell role="label"/>
+<cell role="label"/>
+<cell role="label">sol</cell>
+<cell role="label">l.</cell>
+<cell role="label">s.</cell>
+<cell role="label">d.</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">Brought over</cell>
+<cell role="data">5</cell>
+<cell role="data">7</cell>
+<cell role="data">8</cell>
+<cell role="data">11</cell>
+</row>	
+
+<row role="data">
+<cell role="data">1676</cell>
+<row role="data">To a Porter</row>
+<cell role="data">12</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">6</cell>
+</row>
+
+<row role="data">
+<cell role="data">Janu. 11.</cell>
+<cell role="data">Oatcakes and wheat</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">1</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For thirty eggs</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">6</cell>
+</row>	
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For <orig reg="Sausages" resp="gs">Saucidges</orig> and links</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">2</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For a Mum-glass</cell>
+<cell role="data">11</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">5</cell>
+</row>  
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">To the poor</cell>
+<cell role="data">12</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">--</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For Veal for broath</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">1</cell>
+</row>
+
+<row role="data">
+<cell role="data">12.</cell>
+<cell role="data">For fish and Anchovis</cell>
+<cell role="data">8</cell>
+<cell role="data">--</cell>
+<cell role="data">3</cell>>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For bread and barley</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">4</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For sallet and shallots</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">--</cell>
+<cell role="data">3</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">Paid the milk-womans score</cell>
+<cell role="data">9</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">2</cell>
+</row>
+
+<row role="data">
+<cell role="data"/>
+<cell role="data">For two pound of Sugar</cell>
+<cell role="data">10</cell>
+<cell role="data">--</cell>
+<cell role="data">1</cell>
+<cell role="data">1</cell>
+</row>
+
+<row role="data">
+<cell role="data">13.</cell>
+<cell role="data">For a Chalder of Coals</cell>
+--------------------- 10   1   1   6
         	For bone-lace------------------------------ 11  -—   2   2
         	For Veal, Pork, tripe, &amp;c.-------------  8  --  17   6
         	For Mutton---------------------------------  8  --  16  --
@@ -220,20 +837,29 @@ Janu. 20.   Oatcakes and wheat-------------------------  9  --   1   1
         	To the Minister--------------------------- 11  --  12 --
         	For Paving the Street--------------------- 11   1   1  6
         	A Quarter to the Poor, due at <hi rend="italic">Christmas</hi>11 2 6
-	 30.  To a Physitian-----------------------------10  --  10 --
+       30.      To a Physitian-----------------------------10  --  10 --
 		To the Apothecary--------------------------10  --   5   6
-	 31.  For the River-water 1m to <hi rend="italic">Christmas</hi>11 -- 5 8
+	 31.    For the River-water 1m to <hi rend="italic">Christmas</hi>11 -- 5 8
 		Total                                      	21  17 11
 
 <p>Thus much for the particular Account of the Expences in <hi rend="italic">January</hi>, amounting to 21l 17s 11d. Which (being past and allowed) I am required to draw out in another form, and to make out, in particulars, how much thereof is Expended in Meat, how much in Bread and Meal, how much in Fish, &amp;c. And so to sub divide, and branch out this Account into as many parcels as is convenient, to shew which way my Money goes, and put me upon Considering how I may lessen my Expences for the time to come. The Form of this Account, is as followeth.</p>
-<p>See the Reason of the Figures preceding the Column of Money in <hi rend="italic">pag.</hi> 14.
-<hi rend="italic">Page</hi>
-
+<p>See the Reason of the Figures preceding the Column of Money in <hi rend="italic">pag.</hi> 14.</p>
+<p rend="right-justify">Page</p>
 *Image
 
 <pb n="14"/>
-I know not any thing that wants Explanation in these two several Accounts, except the Reason of the Figures preceding each Summe of Money: The use thereof is this. In the first Account, <hi rend="italic">pag.</hi> 4. The first Article is 4<hi rend="italic">d</hi>. paid for a Book; and the note of Reference thereto is 12. To shew that you have that Sum, and that parcel past to Account in page t 2. And in page 12, under the Title of Books and Schooling, I find the number of Reference to be 4, shewing that the Paid Entry of 4d. for a Book, was there Originally Entred, <hi rend="italic">viz.</hi> in <hi rend="italic">pag.</hi> 4.</p>
+<p>I know not any thing that wants Explanation in these two several Accounts, except the Reason of the Figures preceding each Summe of Money: The use thereof is this. In the first Account, <hi rend="italic">pag.</hi> 4. The first Article is 4<hi rend="italic">d</hi>. paid for a Book; and the note of Reference thereto is 12. To shew that you have that Sum, and that parcel past to Account in page t 2. And in page 12, under the Title of Books and Schooling, I find the number of Reference to be 4, shewing that the Paid Entry of 4d. for a Book, was there Originally Entred, <hi rend="italic">viz.</hi> in <hi rend="italic">pag.</hi> 4.</p>
 <p>Now, why all this, you'l say?</p>
 <p>I Answer, were there no other reason than that, I might (from the second Account, wherein I do only set the Sum, and not recite for what) turn the readilier to the first Account, and see what it is for; this would recompence the trouble: But there is a further and great use thereof to be made in the keeping an Account of Trade, as shall be shewn in due place.</p>
-<p>And I do not doubt, but, that if Parents and Superiours imploy their Children or Servants (one at a time, That is, one in one Year, and another in another) in this or the like way of keeping the Accounts of House Expences, or other petty Charges besides; the satisfaction they will have to see how, and which way their Money goes.) They will alto train up their Children to be regular and handy in Accounts of greater Moment.</p>
+<p>And I do not doubt, but, that if Parents and Superiours imploy
+their Children or Servants (one at a time, That is, one in one Year,
+and another in another) in this or the like way of keeping the
+Accounts of House Expences, or other petty Charges besides; the
+satisfaction they will have to see how, and which way their Money
+goes.) They will alto train up their Children to be regular and handy
+in Accounts of greater Moment.</p>
+</body>
+</text>
+</TEI.2>
+
 
