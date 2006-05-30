@@ -150,7 +150,7 @@ neither qualified to be a mistress or a servant; for the dressing of
 victuals, either in a plain or a more polite manner it so essential a
 part of female education, that those who neglect to acquire some
 knowledge of it, labour under many difficulties in their advanced
-years, and many have lost very *valuables places for the want of such
+years, and many have lost very <sic corr="valuable" resp="gs">valuables</sic> places for the want of such
 necessary qualifications. But as it too often happens that women
 neglect to learn those accomplishments in their younger years, and as
 the memory is not able to retain every thing, I have undertaken this
@@ -159,7 +159,12 @@ work for the use of my Countrywomen, and
 <pb n="iv PREFACE"/>
 am well convinced that it will answer the most valuable purposes, let their situation in life be either high or low.</p>
 <p>With respect to cookery, every thing has been inserted according to the practice of the present age, and nothing left out that could be useful, so that either the mistress, housekeeper, cook, or servant may at all times find directions for the dressing of victuals in any manner whatever.</p>
-<p>By this assistance, the mistress of a family will be enabled to give proper directions for preparing every necessary entertainment and those under them will be directed how to act in a proper manner, by only turning to the receipt in the book, where they will find the quantities of the ingredients properly arranged, so that no mistake can happen, unless they *wilfully neglect to abide by the instructions.</p>
+<p>By this assistance, the mistress of a family will be enabled to
+give proper directions for preparing every necessary entertainment and
+those under them will be directed how to act in a proper manner, by
+only turning to the receipt in the book, where they will find the
+quantities of the ingredients properly arranged, so that no mistake
+can happen, unless they <orig corr="willfully" resp="gs">wilfully</orig> neglect to abide by the instructions.</p>
 <p>But besides cookery, which is, absolutely necessary, less or more in every family, there are proper directions given for all sorts of confectionary; the best methods for preparing made wines, and the most approved rules for pickling. The brewing of such malt liquors as are used in families, is pointed out in the clearest manner,
 <p rend="right-justify">so</p>
 <pb n="PREFACE v"/>
@@ -182,7 +187,7 @@ it.</p>
 
 <div id="dressing room" type="section" n="1">
 <head>THE LADIES COMPANION FOR THE DRESSING ROOM.
-<lb/>CHAP XVIII.</head>
+<lb/><sic corr="CHAP XVII" resp="gs">CHAP XVIII.</sic></head>
 
 <div id="companion101" type="recipe" n="1">
 <head rend="italic">To make Pomatum for beautifying the Face.</head>
@@ -222,7 +227,11 @@ preserve or restore the complexion.</p></div>
 
 <div id="companion104" type="recipe" n="4">
 <head rend="italic">TO take off red Spots from the Face.</head>
-<p>Take a lemon, and lay it before a slow fire, in a flat earthen plate, to receive the liquor that sweats out of it; when all the juice is out, pour it into a glass to * and rub the face with a few drops of it, which will *move all sorts of red spots.</p></div>
+<p>Take a lemon, and lay it before a slow fire, in a flat earthen
+plate, to receive the liquor that sweats out of it; when all the juice
+is out, pour it into a glass to <supplied reason="partial ink blot"
+resp="gs">cool</supplied>and rub the face with a few drops of it,
+which will <supplied reason="partial ink blot" resp="gs">remove</supplied> all sorts of red spots.</p></div>
 
 <div id="companion105" type="recipe" n="5">
 <head rend="italic">To soften the Lips.</head>
@@ -240,6 +249,7 @@ as much brimstone; beat all these together, then dissolve them in
 rose-water, put them up in a chrystal bottle, let them stand a week,
 and when you want to use them shake the bottle, and rub your face with
 a little of it, laid upon a soft linen cloth.</p></div>
+
 <p rend="right-justify"><hi rend="italic">To</hi></p>
 
 <pb n="For the DRESSING ROOM 155"/>
@@ -259,14 +269,14 @@ it fall gently upon the myrrh, which will smoke up, when you must hold
 your face over it, so as to receive as much of the smoke ,as
 possible. "If you hold your face over it till the whole is wasted, it
 will have a wonderful effect; but if that is too painful, you may
-cover your face with a cloth.</p></div>
+cover your face with a cloth.</p></div><
 
 <div id="companion109" type="recipe" n="9">
 <head rend="italic">To make fine Imperial Water.</head>
 <p>Take an ounce of gum arabic, the same quantity. of frankincense, mastick, and benjamin, which you must dissolve in five pints of French brandy; put to it four grains of musk, two ounces of the kernels of pine apples, the same quantity of sweet almonds, half an ounce of cloves, and as much nutmeg grated small; when all these are beaten and mixed together, let them be distilled in the brandy over a slow fire, and bottled up for use.</p></div>
 
 <div id="companion110" type="recipe" n="10">
-*<hi rend="italic">To make a Water for giving the Countenance a most beau-blooming Colour.</hi>
+<hi rend="italic">To make a Water for giving the Countenance a most beau-blooming Colour.</hi>
 <p>Distil four ounces of honey, in five pints of vinegar; while it is
 over the fire, put to it an ounce of red sanders, then let it be set
 to cool and bottled up. Let the face be washed clean before you use
@@ -304,6 +314,7 @@ let it be warmed gently in a cup.</p></div>
 <p>Mix a spoonful of in mustard with two ounces of Honey, half an
 ounce of popillion, with as much ceruse; mix the whole together, and
 when you use it, rub the face over three times.</p></div>
+
 <p rend="right-justify"><hi rend="italic">A fine</hi></p>
 
 <pb n="For the DRESSING ROOM 157"/>
@@ -323,6 +334,7 @@ when you use it, rub the face over three times.</p></div>
 <div id="companion118" type="recipe" n="18">
 <hi rend="italic">To fasten such Teeth as are loosened.</hi>
 <p>Take a handful of the leaves of a damson tree, and boil them in white wine, then strain off the liquor and let it to cool; bottle it up, and wash your mouth with it twice every day until the teeth are fastened.</p></div>
+
 <p rend="right-justify"><hi rend="italic">To</hi></p>
 
 <pb n="THE LADIES COMPANION. 158"/>
@@ -342,6 +354,7 @@ when you use it, rub the face over three times.</p></div>
 <div id="companion122" type="recipe" n="22">
 <hi rend="italic">To restore the Face from Sun burning.</hi>
 <p>Take half a pound of tartar, and beat it up with the same quantity of salt-petre, lay it upon a polished marble stone, and set fire to it with a hot iron, take up what remains after it has burnt two minutes, and put it in a bag which must be hung up in a cellar, with a vessel under it, for it will dissolve into a fine oil; put to it four ounces of vinegar, with half a pint of clear spring water, four ounces of lithrage of gold, mix all these together; when they have stood a day, they will be fit for use, and look as clear as rock water. Rub your face with it when you go to bed, let it dry in, and when you get up in the morning, take a piece of scarlet cloth, rub your face with it, and the whole will come off; then wash it with fresh barley water that has been boiled
+
 <p rend="right-justify">with</p>
 
 <pb n="For the DRESSING ROOM 159"/>
@@ -361,8 +374,17 @@ with plantain leaves. Repeat it every night during one week, and the face will r
 
 <div id="companion126" type="recipe" n="26">
 <head rend="italic">To make the Hair of the Eyebrows grow regular.</head>
-<p>Take two ounces of linseed-oil, half an ounce of lead filed as small as you can, with a dram of maiden-hair; mix with them, two drams of henbane-seed; beat them up together in a marble morter, then put it up in a vessel and use it in the following manner. Take a small piece of black silk, dip it in the ointment, lay it upon the eyebrows when you, go to bed, and when you take it off in the morning, take some white wine, wherein myrtle-berries have been soaked and wash them.</p>.
+<p>Take two ounces of linseed-oil, half an ounce of lead filed as
+small as you can, with a dram of maiden-hair; mix with them, two drams
+of henbane-seed; beat them up together in a marble morter, then put it
+up in a vessel and use it in the following manner. Take a small piece
+of black silk, dip it in the ointment, lay it upon the eyebrows when
+you, go to bed, and when you take it off in the morning, take some
+white wine, wherein myrtle-berries have been soaked and wash
+them.</p></div>
+
 <p rend="right-justify"><hi rend="italic">To</hi></p>
+
 <pb n="THE LADIES COMPANION. 160"/>
 
 <div id="companion127" type="recipe" n="27">
@@ -387,11 +409,14 @@ a glass of white wine, then make up small boluses, and when you have occasion to
 
 <div id="companion131" type="recipe" n="31">
 <head rend="italic">To take Worme. from the Nose.</head>
-<p>Take one dram of the powder of sulphur, two drams of unslack'd lime, and infuse both into a gill of lemon juice; put them in an earthen vessel over a slow fire, until they are dissolved and properly mixed. When you use it, dip a feather into it and rub it all over the nose, when the worms will die and fall off, but as they will leave pores in the skin, rub your nose with oil of almonds which you must wash off with juice of lemons, and you will not be troubled with them again.</p>
+<p>Take one dram of the powder of sulphur, two drams of unslack'd lime, and infuse both into a gill of lemon juice; put them in an earthen vessel over a slow fire, until they are dissolved and properly mixed. When you use it, dip a feather into it and rub it all over the nose, when the worms will die and fall off, but as they will leave pores in the skin, rub your nose with oil of almonds which you must wash off with juice of lemons, and you will not be troubled with them again.</p></div>
 
 <div id="companion132" type="recipe" n="32">
 <head rend="italic">To make fee red Pomatum for the Lips.</head>
-<p>Take an ounce of bullock's marrow, the same quantity of fine white wax, and melt both together with three ounces of pomatum, put to it a dram of alkanet, and let it stand in an earthen vessel over the fire till it has acquired a fine *redish colour, take it off to cool, rub the lips with it, and they will appear of a fine blooming colour.</p></div>
+<p>Take an ounce of bullock's marrow, the same quantity of fine white
+wax, and melt both together with three ounces of pomatum, put to it a
+dram of alkanet, and let it stand in an earthen vessel over the fire
+till it has acquired a fine <sic corr="reddish" resp="gs">redish</sic> colour, take it off to cool, rub the lips with it, and they will appear of a fine blooming colour.</p></div>
 
 <div id="companion133" type="recipe" n="33">
 <head rend="italic">To make a fine Water for the Gums.</head>
@@ -425,7 +450,10 @@ a glass of white wine, then make up small boluses, and when you have occasion to
 
 <div id="companion139" type="recipe" n="39">
 <head rend="italic">To prevent the returns of Eruptions by the Scurvy.</head>
-<p>Take half an ounce of the roots of jelly-flowers, one ounce of the juice of lemons, a dram of aloes, and two ounces of *pellitory-water; when they are all properly mixed, put to them two drams of oil of myrrh; let the whole *soke together twenty-four hours, then strain, the liquor through a cloth, set it to cool, and rub the parts offended with it.</p></div>
+<p>Take half an ounce of the roots of jelly-flowers, one ounce of the
+juice of lemons, a dram of aloes, and two ounces of *pellitory-water;
+when they are all properly mixed, put to them two drams of oil of
+myrrh; let the whole <orig reg="soak" resp="gs">soke</orig> together twenty-four hours, then strain, the liquor through a cloth, set it to cool, and rub the parts offended with it.</p></div>
 
 <div id="companion140" type="recipe" n="40">
 <head rend="italic">To make the Hands Soft and White.</head>
@@ -469,7 +497,7 @@ mile; put to it a dram of the. oil of roses, and a few grains of cummin-seed; mi
 
 <div id="companion148" type="recipe" n="48">
 <head rend="italic">To make fine Water to soften the Skin.</head>
-<p>Mix together the flowers of lavender and *fumitory each two ounces, one ounce of frankincense, and a quarter of an ounce of camphire; put to them two ounces of orange flowers, three ounces of rosemary, and one ounce and a half of the flowers of balm pour upon them half a pint of the spirits of wine, and fix pints of white wine, let the whole steep together twenty-four hours, then take it and rub the shoulders, breasts, and neck; it will make the skin feel as smooth as *sattin.</p></div>
+<p>Mix together the flowers of lavender and *fumitory each two ounces, one ounce of frankincense, and a quarter of an ounce of camphire; put to them two ounces of orange flowers, three ounces of rosemary, and one ounce and a half of the flowers of balm pour upon them half a pint of the spirits of wine, and fix pints of white wine, let the whole steep together twenty-four hours, then take it and rub the shoulders, breasts, and neck; it will make the skin feel as smooth as sattin.</p></div>
 <p rend="right-justify"><hi rend="italic">To</hi></p>
 
 <pb n="THE LADIES COMPANION. 166"/>
@@ -523,15 +551,17 @@ mile; put to it a dram of the. oil of roses, and a few grains of cummin-seed; mi
 
 <div id="companion160" type="recipe" n="60">
 <head rend="italic">To remove from the face, Spots of a long Standing.</head>
-<p>Dissolve in a quart of barley-water, two ounces of benjamin, and the same quantity of storax; put to it a pint of brandy, which will give it a fine *redish colour. When you use it take a *bason filled with clear spring water, and pour a few drops into it, which you must mix with the water, and then rub it on your face.</p></div>
+<p>Dissolve in a quart of barley-water, two ounces of benjamin, and
+the same quantity of storax; put to it a pint of brandy, which will
+give it a fine *redish colour. When you use it take a <orig
+reg="basin" resp="gs">bason</orig> filled with clear spring water, and pour a few drops into it, which you must mix with the water, and then rub it on your face.</p></div>
 <p rend="right-justify">EVERY</p>
 </div>
 
 <pb n="[169]"/>
 <div id="everylady" type="section" n="2">
 <lb/><head>EVERY LADY HER OWN PHYSICIAN.</head>
-<lb/><head>CHAP XVIII.</head>*(Note mistake in previous chapter
-numbering)
+<lb/><head>CHAP XVIII.</head>
 
 <div id="physician001" type="recipe" n="1">
 <head rend="italic">To prevent a Consumption, where you have Reason to fear its Approach.</head>
@@ -814,42 +844,54 @@ and put to it a spoonful of clarified honey; take it at four different times in 
 <div id="physician056" type="recipe" n="56">
 <head rend="italic">Remedy for Worms in Children.</head>
 <p>Take two ounces of distilled water of goats rue, and put in one dram of clean quick-silver; let it stand all night, then drain it through a fine linen cloth, to prevent any dregs getting into it, and give it at one doze to the child.</p></div>
+<div id="physician057" type="recipe" n="57">
+<head rend="italic">A Worm Powder for Children.</head>
+<p>Take mineral of ethiops, and powder of coralline, each fifteen grains, two grains of saffron, and mix the whole into a powder to be taken at one doze.</p></div>
 
-*<head rend="italic">A Worm Powder for Children.</head>
-<p>Take mineral of ethiops, and powder of coralline, each fifteen grains, two grains of saffron, and mix the whole into a powder to be taken at one doze.</p>
-
-
-*<head rend="italic">For Worms in grown Persons.</head>
+<div id="physician058" type="recipe" n="58">
+<head rend="italic">For Worms in grown Persons.</head>
 <p>Take two ounce of *alexiterial milk-water, twenty drops, of elixir proprietaris, made with sallt of tartar,
-*epide-
+<p rend="right-justify">epide-</p>
+
 <pb n="HER OWN PHYSICIAN 181"/>
-epidemic-water, and compound wormwood, each one dram, let them be mixed into one draught and taken when you waken.</p>
+epidemic-water, and compound wormwood, each one dram, let them be mixed into one draught and taken when you waken.</p></div>
+<div id="physician059" type="recipe" n="59">
+<head rend="italic">For an extreme Cough in children.</head>
+<p>Take three spoonsful of *hysop-water, and one ounce of fine sugar candy beaten to a powder, keep it on the fire till the is dissolved, but it must not boil, when it has stood to cool put to it an ounce of the oil of sweet almonds, when the whole has stood about two hours shake them together, and give the child two or three spoonsful every day according to the severity of the cough.</p></div>
 
-*<head rend="italic">For an extreme Cough in children.</head>
-<p>Take three spoonsful of *hysop-water, and one ounce of fine sugar candy beaten to a powder, keep it on the fire till the is dissolved, but it must not boil, when it has stood to cool put to it an ounce of the oil of sweet almonds, when the whole has stood about two hours shake them together, and give the child two or three spoonsful every day according to the severity of the cough.</p>
+<div id="physician060" type="recipe" n="60">
+<head rend="italic">An internal Remedy for the Rickets in Children.</head>
+<p>Take harts-tongue-water four spoonsful, of the syrup of cloves, clove gilly-flower, and hysop-water, each two spoonsful, twenty drops of oil of sulphur, and it child's spoonful of alkermes; mix the whole together in a bottle, and give three spoonsful to the child every morning till it be all used, and if it has not succeeded, you may repeat it again.</p></div>
 
-*<head rend="italic">An internal Remedy for the Rickets in Children.</head>
-<p>Take harts-tongue-water four spoonsful, of the syrup of cloves, clove gilly-flower, and hysop-water, each two spoonsful, twenty drops of oil of sulphur, and it child's spoonful of alkermes; mix the whole together in a bottle, and give three spoonsful to the child every morning till it be all used, and if it has not succeeded, you may repeat it again.</p>
+<div id="physician061" type="recipe" n="61">
+<head rend="italic">A external Cure for the Rickets.</head>
+<p>Take one pint of the oil of neats feet, a handful of dwarf elder, and as much cammomile flowers, beat the herbs in a morter, with the oil, then let it be set over a slow fire; when it has boiled half an hour let it be taken off, and the oil strained through a cloth; when you use it, anoint the child all over before the fire, except the head, and give to drink hysop boiled in spring water.</p></div>
 
-*<head rend="italic">A external Cure for the Rickets.</head>
-<p>Take one pint of the oil of neats feet, a handful of dwarf elder, and as much cammomile flowers, beat the herbs in a morter, with the oil, then let it be set over a slow fire; when it has boiled half an hour let it be taken off, and the oil strained through a cloth; when you use it, anoint the child all over before the fire, except the head, and give to drink hysop boiled in spring water.</p>
-
-*<head rend="italic">For hoarsness in Children</head>
-<p>Take of crab *verjuice, half a pint, two spoonsful of the juice of sage put to them half a pound of loaf sugar grated down, when your have mixed them together, let them boil till they come to syrup, give the child a little before it sucks, and if it is troubled with a phlegm give it some morning and evening.</p>
-*<hi rend="italic">For</hi>
+<div id="physician062" type="recipe" n="62">
+<head rend="italic">For hoarsness in Children</head>
+<p>Take of crab *verjuice, half a pint, two spoonsful of the juice of sage put to them half a pound of loaf sugar grated down, when your have mixed them together, let them boil till they come to syrup, give the child a little before it sucks, and if it is troubled with a phlegm give it some morning and evening.</p></div>
+<p rend="right-justify"><hi rend="italic">For</hi></p>
 
 <pb n="EVERY LADY 180"/>
-*<head rend="italic">For a stoppage in the Ear.</head>
-<p>Take half a pint of barley water, two ounces of *hungary-water, an ounce and a half of honey of roses; mix them together, and when you have syringed a little into the ear, dip a piece of cotton in the oil of almonds, and stop it up for a day.</p>
+<div id="physician063" type="recipe" n="63">
+<head rend="italic">For a stoppage in the Ear.</head>
+<p>Take half a pint of barley water, two ounces of *hungary-water, an ounce and a half of honey of roses; mix them together, and when you have syringed a little into the ear, dip a piece of cotton in the oil of almonds, and stop it up for a day.</p></div>
 
-*<head rend="italic">For a Noise or Ringing in the Ears.</head>
-<p>Drop oil of bitter almonds, mixed with oil of cloves on a little cotton, squeeze it into the ear, and lie some time on the contrary side; do this when you go to bed, and drink wine mixed with rosemary to make you sweat, keep yourself warm, and the ear closed up.</p>
+<div id="physician064" type="recipe" n="64">
+<head rend="italic">For a Noise or Ringing in the Ears.</head>
+<p>Drop oil of bitter almonds, mixed with oil of cloves on a little cotton, squeeze it into the ear, and lie some time on the contrary side; do this when you go to bed, and drink wine mixed with rosemary to make you sweat, keep yourself warm, and the ear closed up.</p></div>
 
-*<head rend="italic">To take an Insect out of the Ear.</head>
+<div id="physician062" type="recipe" n="62">
+<head rend="italic">To take an Insect out of the Ear.</head>
 <p>Take oil of bitter almonds, and tincture of myrrh each two drams,
 oil of *savine, and wormwood, each ten drops, when you have mixed all
 these together, pour a few drops in the ear, and it will either draw
-out the insect or kill it.</p>
+out the insect or kill it.</p></div>
+</div>
+</body>
+</text>
+</TEI.2>
+
 
 
 
