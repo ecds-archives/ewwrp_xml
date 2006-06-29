@@ -1,0 +1,284 @@
+<project name="EWWRP Data Preparation" default="all" basedir="." xmlns:xdb="http://exist-db.org/ant">
+
+<target name="all" depends="xml,add-ids,cleanup" 
+ description="* Add ids, convert entities to unicode, validate, and cleanup"/>
+
+<target name="config">
+  <echo message="Loading configuration settings."/>
+  <echo message="*******************************"/>
+
+  <!-- import settings from config file -->
+  <xmlproperty file="build-config.xml"/>
+
+<!-- user-readable printout of settings loaded from config file -->
+
+  <echo message="Data input        : ${config.input}"/>
+  <echo message="Using the following settings for loading data:"/>
+  <echo message="   server         : ${config.db.server}"/>
+  <echo message="   port           : ${config.db.port}"/>
+  <echo message="   collection     : ${config.db.collection}"/>
+  <echo message="   username       : ${config.db.user}"/>
+
+  <echo message="Defining parameters."/>
+<!--  <property name="dataPrepdir"     value="${basedir}/dataPrep/"/> -->
+  <property name="dataPrepdir"     value="/home/rsutton/workarea/frameworkCommon/dataPrep/"/>
+  <property name="xmldir"     value="${basedir}/docs"/>
+  <property name="workdir"     value="${xmldir}/tmp"/>
+  <property name="workdir.entities"     value="${workdir}/entities"/>
+  <property name="workdir.id"     value="${workdir}/id"/>
+
+  <!-- directories for image tasks -->
+  <property name="imgdir"     value="${basedir}/img"/>
+  <property name="imgdir.thumbs"     value="${imgdir}/thumbs"/>
+
+
+
+  <property environment="env"/> <!-- provides access to environment variables -->
+  <path id="base.path">
+    <pathelement path="${env.CLASSPATH}"/>
+  </path>
+  <property name="classpath" value="${env.CLASSPATH}:${dataPrepdir}/JavaLoader.jar:${dataPrepdir}/xercesTamino.jar:${basedir}/exist-optional.jar"/>
+  <property name="env.PERL_INCS" value="${basedir}"/> 
+
+
+  <!-- create main document directory -->
+  <mkdir dir="${xmldir}"/>
+
+</target>
+
+<target name="xml" depends="input,unicode-entities,validate" 
+   description="* convert entities to unicode and validate"/>
+
+
+<!-- copy xml files from input directory to build xml dir -->
+<target name="input" depends="config">
+ <copy todir="${xmldir}" overwrite="true">
+   <fileset dir="${config.input}" includes="*.xml"/>
+ </copy>
+
+</target>
+
+
+<target name="unicode-entities" depends="config">
+ <!-- description="* converts entities to unicode entities " -->
+
+ <echo message="Converting sgml entities to unicode entities."/>
+ <echo message="**********************************************"/>
+
+ <mkdir dir="${workdir}"/>
+ <!-- delete entity dir just in case, to get rid of any old files -->
+ <delete dir="${workdir.entities}"/>
+ <mkdir dir="${workdir.entities}"/>
+
+ <exec executable="perl" dir="${dataPrepdir}" failonerror="true">
+   <arg line="convertEntities2Unicode_controller.pl -i ${xmldir} -o ${workdir.entities} -norename"/>
+ </exec>
+
+ <!-- copy files back to main xml dir and replace earlier version of files -->
+ <copy todir="${xmldir}" overwrite="true">
+   <fileset dir="${workdir.entities}" includes="*.xml"/>
+ </copy>
+
+</target> <!-- end unicode-entities -->
+
+<target name="validate" depends="config,unicode-entities">
+  <xmlvalidate  lenient="true" failonerror="true" warn="true" classpath="${classpath}">
+    <fileset dir="${xmldir}" includes="*.xml"/>
+    <dtd publicId="${config.dtd.publicid}" location="${config.dtd.location}"/>
+  </xmlvalidate>
+
+  <!-- If we get to this point, it worked. --> 
+  <echo message="Successfully validated all xml files."/>
+</target>
+
+
+<!-- add ids to specified elements (doesn't replace existing ids) -->
+<target name="add-ids" depends="config">   
+ <echo message="Add id attributes to xml files."/>
+ <echo message="*******************************"/>
+
+  <!-- get rid of any old files from a previous run -->
+  <delete dir="${workdir.id}"/>
+  <mkdir dir="${workdir.id}"/>
+
+  <exec executable="add_ids.pl"  dir="${workdir.id}" failonerror="true">
+   <arg line="-d ${xmldir} -o ${workdir.id} -t TEI"/>
+  </exec>
+
+  <copy todir="${xmldir}" overwrite="true">	<!-- replace earlier version of files -->
+    <fileset dir="${workdir.id}" includes="*.xml"/>
+  </copy>
+
+</target>
+
+
+<!-- targets for image processing -->
+
+<target name="image-config" depends="config">
+  <echo message="Loading configuration settings for processing images."/>
+  <echo message="*****************************************************"/>
+
+  <!-- settings from config file already imported by main config target-->
+
+<!-- user-readable printout of settings loaded from config file -->
+
+  <echo message="Using the following image input directory:"/>
+  <echo message="   images       : ${config.image.input}"/>
+  <echo message="Using the following settings for image processing:"/>
+  <echo message="   pagesize     : ${config.image.size.page}"/>
+  <echo message="   thumbnail    : ${config.image.size.thumbnail}"/>
+  <echo message="   jpeg quality : ${config.image.quality}"/>
+
+<!-- working directories defined in main config target:
+	imgdir and imgdir.thumbs
+  -->
+
+<!-- pattern sets for matching files -->
+  <patternset id="tiffs">
+    <include name="*.tif"/>
+    <include name="*.tiff"/>
+  </patternset>
+
+  <patternset id="jpegs">
+    <include name="*.jpg"/>
+    <include name="*.jpeg"/>
+  </patternset>
+ 
+</target> <!-- end target image-config -->
+
+
+<!-- FIXME: need to double-check with Erika about the cleanup for image target -->
+<target name="images" depends="image-config,images-resize,image-thumbs,load-images,cleanup" 
+ description="* Convert images to jpeg format, resize, create thumbnails, and copy to server"/> 
+
+
+<target name="images-resize" depends="image-config">
+ <!-- move tiff images to working directory, convert & resize to page-image dimensions --> 
+
+  <!-- make sure image dir is empty -->
+  <delete dir="${imgdir}"/>
+  <mkdir dir="${imgdir}"/>
+
+ <!-- copy tiff images from image input dir to working directory -->
+  <copy todir="${config.image.input}">
+    <fileset  dir="${config.image.input}">
+     <patternset refid="tiffs"/>
+    </fileset>
+  </copy>
+
+  <!-- use mogrify to resize and convert to jpg -->
+  <echo message="Running mogrify to resize and convert to jpeg in ${imgdir}."/>
+  <echo message="   mogrify -format jpg -resize ${config.image.size.page} -quality ${config.image.quality}"/>
+  <apply executable="mogrify" parallel="true" failonerror="true" skipemptyfilesets="true" 
+	dir="${imgdir}">
+   <arg line="-format jpg -resize ${config.image.size.page} -quality ${config.image.quality}"/>
+   <fileset dir="${imgdir}">
+     <patternset refid="tiffs"/>
+   </fileset>
+ </apply>
+
+  <!-- delete tiff files copied from input dir to working dir (no longer needed) -->
+  <delete>
+    <fileset dir="${config.dir.images}">
+      <patternset refid="tiffs"/>
+    </fileset>
+  </delete>
+
+</target>  <!-- end target images-resize -->
+
+<!-- generate thumbnails from jpegs -->
+<!-- <target name="image-thumbs" depends="image-config"
+if="config.dir.images.exists"> -->
+<target name="image-thumbs" depends="image-config">
+
+<!-- make sure thumbnail dir is empty before using it -->
+<delete dir="${imgdir.thumbs}"/>
+<mkdir dir="${imgdir.thumbs}"/>
+
+<!-- copy resized jpeg images to thumbnail directory -->
+  <copy todir="${imgdir.thumbs}">
+    <fileset dir="${imgdir}">
+     <patternset refid="jpegs"/>
+    </fileset>
+  </copy>
+
+<!-- use mogrify to create thumbnails -->
+ <echo message="Running mogrify to generate thumbnails in ${imgdir.thumbs}."/>
+ <echo message="   mogrify -format jpg -resize ${imgdir.thumbs}"/>
+ <apply executable="mogrify" parallel="true" failonerror="true" skipemptyfilesets="true" 
+	dir="${imgdir.thumbs}" >
+   <arg line="-format jpg -resize ${config.image.size.thumbnail}"/>
+   <fileset dir="${imgdir.thumbs}">
+     <patternset refid="jpegs"/>
+   </fileset>
+ </apply>
+
+</target>  <!-- end target image-thumbs -->
+
+<!-- <target name="ask-imgload" depends="config"
+if="config.dir.images.exists"> -->
+<target name="ask-imgload" depends="config">
+  <input
+    message="Would you like to copy the image files to the webserver? "
+    validargs="y,n"
+    addproperty="response"
+  />
+  <condition property="do.imgload">
+    <equals casesensitive="false" arg1="y" arg2="${response}"/>
+  </condition>
+</target>  <!-- ask-imgload -->
+
+
+<!-- note: this version of load-images asks user before transferring
+    files. -->
+<!-- <target name="load-images" depends="config,ask-imgload"
+if="do.imgload" description="* Copy images and thumbnails to
+webserver" > -->
+<target name="load-images" depends="config" description="* Copy images and thumbnails to webserver" >
+
+  <!-- scp is an optional target; must have jsch.jar file in ant lib -->
+
+  <!-- copy all images to main image directory -->
+  <scp todir="${config.image.load.user}@${config.image.load.server}:${config.image.load.imgdir}" 
+	keyfile="${config.image.load.key}" 
+	passphrase="">
+    <fileset dir="${config.dir.images}">
+      <patternset refid="jpegs"/>
+    </fileset>
+  </scp>
+
+
+  <!-- copy thumbnails to thumbnail subdirectory -->
+  <scp todir="${config.image.load.user}@${config.image.load.server}:${config.image.load.thumbdir}" 
+	keyfile="${config.image.load.key}" passphrase="${config.image.load.passphrase}">
+    <fileset dir="${config.dir.images.thumbnails}">
+      <patternset refid="jpegs"/>
+    </fileset>
+  </scp> 
+
+</target>
+
+
+<!-- remove all temporary non-final files created by the build -->
+<target name="cleanup" depends="config">
+ <delete dir="${workdir}"/>
+ <delete dir="${imgdir}"/>
+</target>
+
+
+<target name="exist-load" depends="config" 
+  description="* load files to exist">
+
+  <!-- import exist ant tasks -->
+  <taskdef resource="org/exist/ant/antlib.xml" uri="http://exist-db.org/ant" />
+
+  <xdb:store uri="xmldb:exist://${config.db.server}:${config.db.port}/exist/xmlrpc/db/${config.db.collection}"
+	createcollection="false" user="${config.db.user}" password="${config.db.password}">
+	<fileset dir="${xmldir}">
+	  <include name="*.xml"/>
+	</fileset>
+  </xdb:store>
+
+</target>
+
+</project>
