@@ -2,14 +2,14 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>Gray Wolf's Daughter</title>
-            <author n="De Cora, Angel">De Cora, Angel (Hinook-Mahiwi-Kilinaka)</author>
+            <title>Gray Wolf's Daughter, an electronic edition.</title>
+            <author><name type="person" reg="De Cora, Angel">Angel De Cora (Hinook-Mahiwi-Kilinaka)</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>15kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -23,26 +23,46 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>De Cora, Angel (Hinook-Mahiwi-Kilinaka). "Gray Wolf's Daughter." Harper's New Monthly Magazine 99 (1899): 860-62.</bibl>
+            <bibl>De Cora, Angel (Hinook-Mahiwi-Kilinaka). "Gray Wolf's Daughter." <publisher>Harper's New Monthly Magazine</publisher> 99 (<date>1899</date>): 860-62.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
             <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	    <rs type="collection">Native American</rs>
+	    <rs type="language">English</rs>
             <rs type="ethnicity">Native American</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">United States</rs>
             <date>1800-1899</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Winnebago Indians.</item>
+	       <item>American literature--19th
+	       Century--Fiction.</item>
+	       <item>Women authors, American--19th Century.</item>
+	       <item>Native Americans.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -53,6 +73,15 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	   <date>2006</date>
+	   <respStmt>
+	     <name>Alden Mahler</name>
+	     <resp>Staff</resp>
+	   </respStmt>
+	   <item>TEI header elements changed to conform to new Beck
+	   Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>

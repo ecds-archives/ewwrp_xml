@@ -2,14 +2,14 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>The Sick Child.  A Story</title>
-            <author n="De Cora, Angel">De Cora, Angel (Henook-Makhewe-KeleNaka [sic])</author>
+            <title>The Sick Child.  A Story, an electronic edition.</title>
+            <author><name type="person" reg="De Cora, Angel">Angel De Cora (Henook-Makhewe-KeleNaka [sic])</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>15kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -33,23 +33,44 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
          <sourceDesc>
             <bibl>De Cora, Angel (Henook-Makhewe-KeleNaka [sic]). The Sick Child.  A
 Story.
-Harper's Magazine 98 (February 1899): 446-448.</bibl>
+<publisher>Harper's Magazine</publisher> 98 (February <date>1899</date>): 446-448.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
             <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	    <rs type="collection">Native American</rs>
+	    <rs type="language">English</rs>
             <rs type="ethnicity">Native American</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">United States</rs>
-            <date/>
+            <date>1800-1899</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Winnebago Indians.</item>
+	       <item>Women authors, American--19th Century.</item>
+	       <item>American literature--19th
+	       Century--Fiction.</item>
+	       <item>Childhood.</item>
+	       <item>Native Americans.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -60,6 +81,15 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	   <date>2006</date>
+	   <respStmt>
+	     <name>Alden Mahler</name>
+	     <resp>Staff</resp>
+	   </respStmt>
+	   <item>TEI header elements changed to conform to new Beck
+	   Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>

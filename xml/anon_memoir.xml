@@ -3,15 +3,15 @@
       <fileDesc>
          <titleStmt>
             <title>Memoir Of Elizabeth Jones, a Little Indian Girl, Who Lived at
-the River-Credit Mission, Upper Canada</title>
-            <author n="Anonymous">Anonymous</author>
+the River-Credit Mission, Upper Canada, an electronic edition.</title>
+            <author><name type="person" reg="Anonymous">Anonymous</name></author>
             <respStmt>
                <resp>Compiled and edited
 by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>50kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory
@@ -33,28 +33,53 @@ University, Atlanta, Georgia 30322</p>
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
             <bibl>Anonymous. Memoir Of Elizabeth Jones, a Little Indian Girl, Who
 Lived at the River-Credit Mission, Upper Canada. London: Published by
-John Mason, 14, City-Road: And Sold at 66, Patternoster-Row.</bibl>
+<publisher>John Mason</publisher>, 14, City-Road: And Sold at 66,
+Patternoster-Row. <date>[18--?]</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the  Women
-Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women
+Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
-            <rs type="ethnicity">Native American</rs> 
+            <rs type="collection">Native American</rs>
+	    <rs type="language">English</rs>
+	    <rs type="ethnicity">Native American</rs> 
             <rs type="form">Unedited</rs> 
             <rs type="genre">Prose</rs> 
             <rs type="geography">Great Britain</rs> 
             <date>1800-1899</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Williams, Elizabeth Harvey, 1838-1841.</item>
+	       <item>Women authors, American--19th Century.</item>
+	       <item>Indians of North
+	       America--Missions--Ontario.</item>
+	       <item>Methodists--Biography.</item>
+	       <item>Christianity.</item>
+	       <item>Childhood.</item>
+	       <item>Religiosity.</item>
+	       <item>Native Americans.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -66,6 +91,15 @@ Writers Resource Project at Emory University</p>
             <item>SGML tags inserted in compliance with TEI guidelines using
 TEILITE</item>
          </change>
+	 <change>
+	   <date>2006</date>
+	   <respStmt>
+	     <name>Alden Mahler</name>
+	     <resp>Staff</resp>
+	   </respStmt>
+	   <item>TEI header elements changed to conform to new Beck
+	   Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
