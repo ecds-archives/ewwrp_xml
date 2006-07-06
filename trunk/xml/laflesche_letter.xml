@@ -2,7 +2,7 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>An Indian Woman's Letter</title>
+            <title>An Indian Woman's Letter, an electronic edition.</title>
             <author n="La Flesche, Susette">La Flesche, Susette (Bright Eyes)</author>
             <respStmt>
                <resp>Compiled and edited by</resp>
@@ -26,23 +26,47 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>La Flesche, Susette (Bright Eyes). An Indian Woman's Letter.  Southern Workman and Hampton School Record 8 (April 1879): 44.</bibl>
+            <bibl>La Flesche, Susette (Bright Eyes). An Indian Woman's Letter. <publisher>Southern Workman and Hampton School Record</publisher> 8 (April <date>1879</date>): 44.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	    <rs type="collection">Native American</rs>
+	    <rs type="language">English</rs>
             <rs type="ethnicity">Native American</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">United States</rs>
             <date>1800-1899</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Women authors, American--19th Century.</item>
+	       <item>Indians of North America--Religious life--19th
+	       Century.</item>
+	       <item>Indians, Treatment of--United States--19th
+	       Century.</item>
+	       <item>Omaha Indians.</item>
+	       <item>United States--Ethnic relations--19th
+	       Century.</item>
+	       <item>Race relations.</item>
+	       <item>Native Americans.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>

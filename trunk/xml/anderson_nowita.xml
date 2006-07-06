@@ -2,14 +2,16 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>Nowita, the Sweet Singer. A Romantic Tradition of Spavinaw, Indian Territory</title>
-            <author n="Anderson, Mabel Washbourne">Anderson, Mabel Washbourne</author>
+            <title>Nowita, the Sweet Singer. A Romantic Tradition of
+	   Spavinaw, Indian Territory, an electronic edition.</title>
+            <author><name type="person" reg="Anderson, Mabel
+Washbourne">Mabel Washbourne Anderson</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>25kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -26,23 +28,44 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Anderson, Mabel Washbourne. Nowita, the Sweet Singer. A Romantic Tradition of Spavinaw, Indian Territory. Sturm's Statehood Magazine 1 (Jan. 1906): 86-9. Previously published in Indian Chieftain Aug. 23, 1900 and in Twin Territories 5 (Jan. 1903): 1-2. </bibl>
+            <bibl>Anderson, Mabel Washbourne. Nowita, the Sweet Singer. A Romantic Tradition of Spavinaw, Indian Territory. <publisher>Sturm's Statehood Magazine</publisher> 1 (Jan. <date>1906</date>): 86-9. Previously published in Indian Chieftain Aug. 23, 1900 and in Twin Territories 5 (Jan. 1903): 1-2.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
             <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+Emory Women Writers Resource Project.</p>
          </projectDesc>
+	 <classDecl>
+	   <taxonomy id="lcsh">
+	     <bibl>
+	       <title>Library of Congress Subject Headings</title>
+	     </bibl>
+	   </taxonomy>
+	 </classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	    <rs type="collection">Native American</rs>
+	    <rs type="language">English</rs>
             <rs type="ethnicity">Native American</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">United States</rs>
             <date>1900-1999</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>American literature--20th
+	       Century--Fiction.</item>
+	       <item>Women authors, American--20th Century.</item>
+	       <item>Cherokee Indians.</item>
+	       <item>Interracial dating.</item>
+	       <item>Native Americans.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -53,6 +76,15 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	   <date>2006</date>
+	   <respStmt>
+	     <name>Alden Mahler</name>
+	     <resp>Staff</resp>
+	   </respStmt>
+	   <item>TEI header elements changed to conform to new Beck
+	   Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
