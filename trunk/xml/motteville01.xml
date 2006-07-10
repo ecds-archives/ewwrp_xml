@@ -55,13 +55,13 @@
    </teiHeader>
    <text>
       <body>
-         <div1 id="motteville01" n="MEMOIRS OF MADAME DE MOTTEVILLE, Volume I" type="Memoir">
+         <div id="motteville01" n="MEMOIRS OF MADAME DE MOTTEVILLE, Volume I" type="Memoir">
             <docAuthor>Madame de Motteville</docAuthor>
             <head rend="center">Memoirs of Madame de Motteville</head>
             <head rend="center">On Anne of Austria and her Court</head>
             <docDate>1723</docDate>
             <bibl>Boston: Hardy, Pratt &#x0026; Co., 1902</bibl>
-            <div2 id="motteville02" n="IV" type="Chapter">
+            <div id="motteville02" n="IV" type="Chapter">
                <head rend="center">IV.</head>
                <head rend="center">1644-1645.</head>
                <p>AT the beginning of the regency the queen had established a council of conscience, at which were decided all matters concerning benefices, the choice of bishops and abb&#x00E9;s, and the distribution of pensions that she wished to give to the glory of God and the advantage of religion. This council existed as long as the minister, seeing his authority thwarted, remained under some restraint; but as soon as he had acquired complete dominion over the queen's mind, the council of conscience went off in smoke; he wished to dispose as he pleased, without any contradiction, of the benefices as of everything else, in order that those to whom the queen gave them should be friends of his, without caring much whether they were true servants of God, saying that he supposed all priests were that.</p>
@@ -186,12 +186,12 @@ agreeable, and glad of the prospect of being queen of so grand a kingdom. She li
                <pb n="1644-1645] MEMOIRS OF MADAME DE MOTTEVILLE.    123"/>
                <p>Her favourite, who, so the public said, had a share in the misfortunes of England, was a rather worthy man, of a gentle mind which seemed very narrow and more fitted for petty things than great ones. He had the fidelity towards her which ministers usually have; he wanted money, before all else, to meet his expenses, which were large. The princess no doubt had too much confidence in him, but it is true that he did not govern her absolutely; she often had a will quite contrary to his, which she maintained as the absolute mistress. She supported her opinions with strong reasons; but they were always accompanied with a charm, a raillery that pleased and corrected the signs of haughtiness and courage which she had shown in the principal actions of her life. She lacked the great and noble knowledge which is acquired by reading. Her misfortunes had repaired that defect, for grievous experience had given her capacity. We saw her in France lose the tottering crown she still wore, lose the king her husband by a dreadful death, and suffer with constancy the adversities it pleased God to send her.</p>
                <p>The cabinets of kings are stages on which are performed continually the plays that occupy the minds of the whole world. Some are simply comic, others are tragic, and their greatest events are caused by trifles. After speaking of the horrible effects of Fortune, and the indifference with which she scoffs at crowned heads, we should consider those produced by that mad passion of ambition, which is not content with intrigues of pleasure, but, mingling in affairs more serious, never fails to create the greatest disorders when it masters the hearts of men.</p>
-            </div2>
-            <div2 id="motteville03" n="Notes for Volume I, Chapter IV" type="notes">
+            </div>
+            <div id="motteville03" n="Notes for Volume I, Chapter IV" type="notes">
                <note id="motteville03.01" anchored="yes">1.  Michel Le Tellier, father of the Marquis de Louvois.</note>
                <note id="motteville03.02" anchored="yes">2.  Her beautiful portrait by Rubens will be found in Brant&#x00F4;me's "Book of the Ladies," belonging to these "Historical Memoirs." -Tr.</note>
-            </div2>
-            <div2 id="motteville04" n="VII" type="Chapter">
+            </div>
+            <div id="motteville04" n="VII" type="Chapter">
                <head rend="center">VII.</head>
                <head rend="center">1647.</head>
                <p>THE chief affairs of the Court, those of which it seemed to think the most, were amusement and pleasure. I have already said that the queen loved the theatre, and went there in secret during the year of her great mourning; but she now went publicly. Comedies were played every two days, sometimes Italian, sometimes French; and quite often there were assemblies. The preceding year the rector of Saint-Germain, a severe and pious man, wrote to the queen that she ought not, in conscience, to permit such amusements. He condemned the theatre; particularly Italian comedies, as freer and less modest. This letter had troubled the soul of the queen, who did not wish to permit anything against what she owed to God. Being still uneasy on the subject, she consulted many persons. Several bishops told her that plays which represented, as a usual thing, serious histories could not do harm; they assured her that the courtiers needed such occupations to keep them from worse things; they said that the piety of kings ought to be different from that of private persons, for being public personages they should authorize public amusements when they were of the class of harmless things. Accordingly the theatre was approved, and the gayety of Italian comedy saved itself under the wing of serious plays.</p>
@@ -298,12 +298,12 @@ com&#x00E9;dies</hi> at the Palais-Royal.  The queen sat in a box to hear more c
                <p>He also, as I have said elsewhere speaking of the queen, granted the dignities of the Church to many persons who claimed them from profane motives; and he did not always appoint to the bishoprics men who could honour his choice by their virtue and piety. Religion was too much neglected by him; he was always too indifferent to that sacred trust which God had committed to him. By nature he was distrustful; and one of his greatest cares was to study men in order to know them and guard himself from attacks and from the intrigues that were formed against him. He professed to fear nothing, and to despise even the cautions that were given him about his person, though in reality the principle of his greatest care was his personal preservation.</p>
                <pb n="1647] MEMOIRS OF MADAME DE MOTTEVILLE.  193"/>
                <p>The few days that the minister remained behind in Paris served only to still further foment the jealousies that were beginning to appear; because many of those who wished to see him could not succeed in doing so. When he got into his coach to go away the whole courtyard of the Palais-Royal was filled with <hi rend="italic">cordons-bleus,</hi> great seigneurs, and persons of rank, who by their eagerness seemed to be only too happy to look at him from a distance. All men are naturally slaves to fortune; I can truly say that I never saw any one at Court who was not a flatterer, some more, others less. Self-interest, which blinds us, takes us unawares and betrays us on occasions which concern us; it makes us act with more feeling than intelligence; and it happens often enough that we become ashamed of our weakness; which, however, we do not perceive except through sage reflection, and after the occasion for doing better has passed.</p>
-            </div2>
-            <div2 id="motteville05" n="Notes for Volume I, Chapter VII" type="notes">
+            </div>
+            <div id="motteville05" n="Notes for Volume I, Chapter VII" type="notes">
                <note id="motteville05.01" anchored="yes">1. The celestial spheres are ample and vast volumes of Thy eternal glories; and each star speaks of Thee in golden words.  I know it, Lord; but their meaning I cannot penetrate, because, being used to the language of earth, I cannot comprehend the language of heaven.</note>
                <note id="motteville05.02" anchored="yes">2. Armand de Bourbon, brother of the great Cond&#x00E9;, abb&#x00E9; and prior of Cluny. He left the Church and married Anne Martinozzi, niece of Cardinal Mazarin; their son Louis-Armand married the daughter of Louis XIV. and Mme. de la Valli&#x00E8;re. -- TR.</note>
-            </div2>
-            <div2 id="motteville06" n="XII." type="Chapter">
+            </div>
+            <div id="motteville06" n="XII." type="Chapter">
                <head rend="center">XII.</head>
                <head rend="center">1648.</head>
                <p>THE queen, wishing to have the <hi rend="italic">Te Deum</hi> chanted at Notre-Dame, to render thanks to God for the great victory, and to carry to the church the banners conquered from the enemy,<ref target="motteville07.01">1</ref> wished also to use this day of triumph to bring some remedy to the rebellion of parliament and to punish it for its last disobedience, which had seemed, in the eyes of every one, to hide a criminal audacity under a false appearance of fidelity.</p>
@@ -412,14 +412,14 @@ com&#x00E9;dies</hi> at the Palais-Royal.  The queen sat in a box to hear more c
                <pb n="1648]  MEMOIRS OF MADAME DE MOTTEVILLE.  337"/>
                <p>to show the suffering that nature made her endure. And this honourable pride of hers was so great that it kept her from giving to her griefs any witness save the darkness of the night. In our presence she contented herself by asking with untroubled manner for the news which arrived from time to time; without neglecting, however, all that care and foresight could do to remedy the present extraordinary evils, under which she had no advice or help of any kind whatsoever, not even from her minister, who thought then that he should be forced to leave France.</p>
                <p>It is true, in fact, that he dressed himself in gray to be ready to start; his horses were bridled all night, and his people kept ready to follow him. He even went to visit the burghers' guard-house, to hear what the people were saying and judge for himself. But finally, about midnight, the burghers, seeing that the guards were really no longer stationed around the Palais-Royal, where there were but two poor sentinels, and that quiet seemed to reign in the king's house, began to feel reassured. They became so, wholly, after the keys of the city were brought to them by the queen's order, and the magistrates, who walked the streets all night, had sworn to them that there was nothing to fear. The uproar quieted down; so much so that Comminges, having gone about the city to see for himself the state of things, came back to assure the queen that he had met scarcely any one. On which assurance we left her, and went to seek in rest some comfort for our misery.</p>
-            </div2>
-            <div2 id="motteville07" n="Notes for Chapter XII." type="notes">
+            </div>
+            <div id="motteville07" n="Notes for Chapter XII." type="notes">
                <note id="motteville07.01" anchored="yes">1. These flags to the number of sixty-three, were borne to the choir by the Suisse guard. The members of parliament were present in great numbers at the ceremony, to remove all suspicion that this victory was not agreeable to them (Omer Talon). -- FR. ED.</note>
                <note id="motteville07.02" anchored="yes">2. Omer Talon says that twelve hundred and sixty barricades were counted in Paris. -- FR. ED.</note>
                <note id="motteville07.03" anchored="yes">3 Broussel was an old army officer, sixty-three years of age, popular for his benefits, and for his zeal against the new taxes. In the Chamber of Saint-Louis, he had played the r&#x00F4;le and taken the attitude of a party leader (Omer Talon). -- FR. ED.</note>
                <note id="motteville07.04" anchored="yes">4. It was thought also that he was to forbid parliament; but have no certain knowledge of this. I saw at the time no sign of it, and I did not hear of it until long after. (Author's note.)</note>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </body>
    </text>
 </TEI.2>

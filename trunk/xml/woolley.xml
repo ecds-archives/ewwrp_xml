@@ -68,14 +68,14 @@ tags inserted in compliance with TEI guidelines using  TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="woolley.001" n="The Gentlewoman's Companion: or, A Guide to the Female Sex" type="Book">
+         <div id="woolley.001" n="The Gentlewoman's Companion: or, A Guide to the Female Sex" type="Book">
             <docAuthor>Woolley, Hannah. </docAuthor>
             <head>
                <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>The
 Epistle Dedicatory  </head>
             <docDate> 1675</docDate>
-            <div2 id="woolley.002" n="The Epistle Dedicatory  " type="Section">
+            <div id="woolley.002" n="The Epistle Dedicatory  " type="Section">
                <argument>
                   <p>Practical advice for women in all classes and situations. Emphasis on skill rather than education. Blames men for restraining women and encourages girls to think seriously and critically. Presents recipes and medical advice as well as material about social behavior. Topics include bad breath, sore breasts, courtship, jellies, and duties of governesses. Introduction includes biographical material.</p>
                </argument>
@@ -148,8 +148,8 @@ less trouble my self what the ignorant do or say.</p>
                <p>I have now done my Task,  &#x0026; shall leave it to your candid Judgments
 and Improvement; your Acceptation will much encourage  Your Most
 humble  Servant, Hannah Woolly. </p>
-            </div2>
-            <div2 id="woolley.003" n="The Introduction " type="Section">
+            </div>
+            <div id="woolley.003" n="The Introduction " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>The
@@ -229,8 +229,8 @@ if it be inconsistent with your conveniency, and that
 you must commit the Tutelage and Education of your Children to a
 Governess, give me leave to inform you what she ought to
 be. </p>
-            </div2>
-            <div2 id="woolley.004" n="The duty and qualification of a Governess to  Gentlemen's Children" type="Section">
+            </div>
+            <div id="woolley.004" n="The duty and qualification of a Governess to  Gentlemen's Children" type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>The
@@ -390,8 +390,8 @@ Gentlewoman.</p>
                <p>Having thus characteriz'd in part, what a Governess ought to be, I
 shall with your leave and patience give you some account of my
 self. </p>
-            </div2>
-            <div2 id="woolley.005" n="A Short account of the life and abilities of  Authoress of this Book:" type="Section">
+            </div>
+            <div id="woolley.005" n="A Short account of the life and abilities of  Authoress of this Book:" type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>A
@@ -519,8 +519,8 @@ observation have taught me, which my be as their perfect  guide in all
 ages and conditions, the practise whereof will assuredly imbalm their
 names  here: let their stedfast faith in Jesus Christ only crown them
 with glory hereafter. </p>
-            </div2>
-            <div2 id="woolley.006" n=" Good Instructions for a young Gentlewoman, from  the age of Six to Sixteen." type="Section">
+            </div>
+            <div id="woolley.006" n=" Good Instructions for a young Gentlewoman, from  the age of Six to Sixteen." type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Good
@@ -588,8 +588,8 @@ Viper-like, is the destruction of its Parent.  I  shall desist here in
 this place from giving you more rules of caution and good behaviour
 having design'd another, wherein I intend a more copious
 relation. </p>
-            </div2>
-            <div2 id="woolley.007" n=" Advice to the Female youngersort:" type="Section">
+            </div>
+            <div id="woolley.007" n=" Advice to the Female youngersort:" type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -707,8 +707,8 @@ Friends, &#x0026; eternal salvation of your immortal  Souls.</p>
                <p>Thus I have given you general instructions as to your learning and
 deportment: Give me now leave to insist in particular on the duty you
 owe  your Parents.</p>
-            </div2>
-            <div2 id="woolley.008" n=" The duty of Children to their Parents.   " type="Section">
+            </div>
+            <div id="woolley.008" n=" The duty of Children to their Parents.   " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> The
@@ -816,8 +816,8 @@ though none of that tye  of gratitude lie on us.</p>
                <p>Take this for all, Honour and obey thy natural Parents in what
 condition soever, for if they cannot give the riches, yet thy Heavenly
 Father hath promised thee length of days.</p>
-            </div2>
-            <div2 id="woolley.009" n=" Of a young Gentlewomans deportment to her  Governess and Servants in the Family " type="Section">
+            </div>
+            <div id="woolley.009" n=" Of a young Gentlewomans deportment to her  Governess and Servants in the Family " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of a
@@ -914,8 +914,8 @@ not endeavour to  improve
 what he is intrusted withal.  If you have wisdom, boast not thereof,
 but  give God thanks and use it to his glory and your own
 comfort.</p>
-            </div2>
-            <div2 id="woolley.010" n=" What qualifications best become and are most  suitable to a Gentlewoman. " type="Section">
+            </div>
+            <div id="woolley.010" n=" What qualifications best become and are most  suitable to a Gentlewoman. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> What
@@ -1016,8 +1016,8 @@ therefore pass them over, but would not have you their Writings, where
 you shall find plenty of every thing, which shall either tickle your
 fancy, or furnish your understanding.  Having thus adapted you for
 conversation, let me next show you your deportment therein.</p>
-            </div2>
-            <div2 id="woolley.011" n=" Of a Gentlewomans civil Behaviour to all sorts  of people in all places. " type="Section">
+            </div>
+            <div id="woolley.011" n=" Of a Gentlewomans civil Behaviour to all sorts  of people in all places. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of a
@@ -1137,8 +1137,8 @@ jests be innocent and seasonable, without the least capriciousness;
 let  your discourse be free without niceness; your whole carriage
 delightful,  and agreeable, and flowing with a seeming carelessness.
 Thus much in  general, let me now come to particulars.</p>
-            </div2>
-            <div2 id="woolley.012" n=" Of the Gait or Gesture " type="Section">
+            </div>
+            <div id="woolley.012" n=" Of the Gait or Gesture " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of
@@ -1179,8 +1179,8 @@ receives life from desert,  may admire what is new; but discretion
 only that which is neat.  Having  thus soken what is requisite in
 Gesture, I shall next treat how the Eye  ought to be
 coverned. </p>
-            </div2>
-            <div2 id="woolley.013" n=" Of the Government of the Eye.  " type="Section">
+            </div>
+            <div id="woolley.013" n=" Of the Government of the Eye.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of
@@ -1251,8 +1251,8 @@ taken.  To become a prey to others, will enslave you, to  make a prey
 of others will transport you.  Look then upward, where the  more you
 look, you shall like; the longer you live, you shall love.  From  the
 management of the Eyes let us next proceed to Speech.</p>
-            </div2>
-            <div2 id="woolley.014" n="Of Speech and Complement.  " type="Section">
+            </div>
+            <div id="woolley.014" n="Of Speech and Complement.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>Of
@@ -1315,8 +1315,8 @@ servile; nor touch upon  any wanton relation, for that were uncivil;
 nor any thing above the  Sphere of your proper concern, for that were
 unequal.  This will make  your Discourse generally acceptable, and
 free you from prejudicate  censure.</p>
-            </div2>
-            <div2 id="woolley.015" n=" Choice and general Rules for a Gentlewomans  observation in Conversation with Company. " type="Section">
+            </div>
+            <div id="woolley.015" n=" Choice and general Rules for a Gentlewomans  observation in Conversation with Company. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -1572,8 +1572,8 @@ him  not to answer as little as you can.</p>
                <p>In company it is ill-becomingn to break out into loud and violent
 laughter, upon any occasion whatever; but worse by far, to laugh
 always  without occasion.</p>
-            </div2>
-            <div2 id="woolley.016" n=" Rules to be observed in walking with Persons of  Honour; and how you ought to behave your self in congratulating and  condoling them. " type="Section">
+            </div>
+            <div id="woolley.016" n=" Rules to be observed in walking with Persons of  Honour; and how you ought to behave your self in congratulating and  condoling them. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -1608,8 +1608,8 @@ of joy and satisfaction?</p>
                <p>And now since I have toucht on Clothes? I think this a fit place to
 give you an account of what kind of Habit is most necessary for a
 civil,  sober, and modest conversation.</p>
-            </div2>
-            <div2 id="woolley.017" n=" Of Habit, and the neatness and property thereof.   Of Fashions, and their ridiculous apish  imitation.  " type="Section">
+            </div>
+            <div id="woolley.017" n=" Of Habit, and the neatness and property thereof.   Of Fashions, and their ridiculous apish  imitation.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of
@@ -1804,8 +1804,8 @@ justly  incur'd the  displeasure of some Ladies I am ever bound to
 respect for those singular  favours they have  from time to time
 confer'd on their poor Servant; I shall endeavour to  make them amends
 for it, without wronging my Conscience, in this ensuing Chapter. </p>
-            </div2>
-            <div2 id="woolley.018" n=" Of New Fashions. " type="Section">
+            </div>
+            <div id="woolley.018" n=" Of New Fashions. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of
@@ -1885,8 +1885,8 @@ some  persons whose Gallantry of Apparel can never hide the fool from
 them,  whilst others do  grace and are graced by every thing they
 wear.  Yet still we must  conclude, that comely  Apparel is to be
 prefer'd before what is costly or conceited.</p>
-            </div2>
-            <div2 id="woolley.019" n=" Some choice Observations for a Gentlewomans  Behaviour at Table. " type="Section">
+            </div>
+            <div id="woolley.019" n=" Some choice Observations for a Gentlewomans  Behaviour at Table. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Some
@@ -2093,8 +2093,8 @@ indecent and distastful.</p>
                <p>Thus much I have laid down for your observation in general; wherein
 I  am defective as to particulars, let your own prudence, discretion,
 and  curious observation supply.</p>
-            </div2>
-            <div2 id="woolley.020" n=" Rules for a Gentlewomans behaviour at a Ball  " type="Section">
+            </div>
+            <div id="woolley.020" n=" Rules for a Gentlewomans behaviour at a Ball  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -2122,8 +2122,8 @@ Apologies to the  contrary, yet when you find your self obliged
 thereunto, by no means  refuse.  For it is  much better to expose your
 self to some little disorder in being  complacent, than be  suspected
 of pride.</p>
-            </div2>
-            <div2 id="woolley.021" n=" Rules to be observed by a Gentlewoman in Vocal  and Instrumental Musick. " type="Section">
+            </div>
+            <div id="woolley.021" n=" Rules to be observed by a Gentlewoman in Vocal  and Instrumental Musick. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -2156,8 +2156,8 @@ harmonious voices.</p>
 yet witty, and ingenious; and because there  are so many, which though
 they may please the ear, yet may corrupt good  manners;; let me  give
 you this caution to have a care.</p>
-            </div2>
-            <div2 id="woolley.022" n=" Of wanton Songs, and idle Ballads. " type="Section">
+            </div>
+            <div id="woolley.022" n=" Of wanton Songs, and idle Ballads. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of
@@ -2241,8 +2241,8 @@ dexterity. </p>
 This is one vanity the younger sort incline to, and there are a great
 many more which our Sex (and to their shame) are prone to follow, take
 a  brief account of them.</p>
-            </div2>
-            <div2 id="woolley.023" n=" Of the Vanities some young Ladies and  Gentlewomen are too prone to prosecute. " type="Section">
+            </div>
+            <div id="woolley.023" n=" Of the Vanities some young Ladies and  Gentlewomen are too prone to prosecute. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of
@@ -2331,8 +2331,8 @@ or corpulent, they will use art, by  counterfeiting that  fulness of
 body, by the fulness of garments.  Thus you see, that in all  things
 (except Piety)  Mediocrity, or the Golden-mean, is to be
 observed.</p>
-            </div2>
-            <div2 id="woolley.024" n=" Of a young Gentlewoman's fit hours and times for  their Recreation and Pleasure, and how to govern themselves, therein.  " type="Section">
+            </div>
+            <div id="woolley.024" n=" Of a young Gentlewoman's fit hours and times for  their Recreation and Pleasure, and how to govern themselves, therein.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of a
@@ -2393,8 +2393,8 @@ not.</p>
                <p>Before you do or act any thing, examine well the sequel; if that be
 clear the present  enjoyment will be accompanied with content,
 otherwise it will end in  repentance.</p>
-            </div2>
-            <div2 id="woolley.025" n=" What Recreations and Pleasures are most fitting  and proper for young Gentlewomen.  " type="Section">
+            </div>
+            <div id="woolley.025" n=" What Recreations and Pleasures are most fitting  and proper for young Gentlewomen.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> What
@@ -2493,8 +2493,8 @@ seek that in many  which you may find in one?  The Sun, whilst in our
 Hemisphere needs no  other light but  its own to illuminate the World.
 One Book may serve for a Library.  The  reading of few  Books, is not
 to be less knowing, but to be the less troubled.</p>
-            </div2>
-            <div2 id="woolley.026" n=" Of the guidance of a Ladies love and fancy.   " type="Section">
+            </div>
+            <div id="woolley.026" n=" Of the guidance of a Ladies love and fancy.   " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of
@@ -2797,8 +2797,8 @@ condition, yet  parallels to Men for Charity, Chastity; Piety, Purity,
 and vertuous  Conversation.   It will  not be amiss here in this
 place, to insert some few eminent patterns for  your
 limitation. </p>
-            </div2>
-            <div2 id="woolley.027" n=" The Gentlewomans Mirrour, or Patterns for them  imitation of such famous Women who have been emment in Piety and  Learning. " type="Section">
+            </div>
+            <div id="woolley.027" n=" The Gentlewomans Mirrour, or Patterns for them  imitation of such famous Women who have been emment in Piety and  Learning. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> The
@@ -2942,8 +2942,8 @@ death.</p>
                <p>Your ambition, Gentlewomen, must mount more high, because your
 Convensation is most  heavenly.  It is immortality you aspire to, a
 lower orb cannot hold you;  nothing else may  confine you.</p>
-            </div2>
-            <div2 id="woolley.028" n=" Of Marriage, and the duty of a Wife to her  Husband." type="Section">
+            </div>
+            <div id="woolley.028" n=" Of Marriage, and the duty of a Wife to her  Husband." type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of
@@ -3074,8 +3074,8 @@ suffer not your expence to  exceed the receipt of  your Husbands
 income.  There is a Proverbial saying, That the Masters eye  maketh
 the  Horse fat; I am sure the active vigilance of a good and careful
 Wife is  the ready way to  enrich a bad Husband.</p>
-            </div2>
-            <div2 id="woolley.029" n=" Of Womens behaviour to their Servants, and what  is to be required of them in the house, or what thereunto appertains.  " type="Section">
+            </div>
+            <div id="woolley.029" n=" Of Womens behaviour to their Servants, and what  is to be required of them in the house, or what thereunto appertains.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of
@@ -3192,8 +3192,8 @@ making up a compleat and accomplished Gentlewoman,  give me leave here
 to set you down such At la Mode instructions, as may perfectly inform
 you in every  thing that belongs to the commendable art of
 cookery.</p>
-            </div2>
-            <div2 id="woolley.030" n=" Terms for Carving all Sorts of Meat at Table. " type="Section">
+            </div>
+            <div id="woolley.030" n=" Terms for Carving all Sorts of Meat at Table. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3216,8 +3216,8 @@ Brawn.</p>
 Sauce that Plaice, and  Sauce that Tench, Splay that Bream, Side that
 Haddock, Tusk that Barbel,  Culpon that  Trout, Transon that Eel,
 Tranch that Sturgeon, Tame that Crab, Barb that  Lobster.</p>
-            </div2>
-            <div2 id="woolley.031" n=" Quaint Directions for the Carving all manner of  F O W L." type="Section">
+            </div>
+            <div id="woolley.031" n=" Quaint Directions for the Carving all manner of  F O W L." type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3295,8 +3295,8 @@ use no sauce but salt.</p>
                <p>I shall now proceed to give you some Instructions in the art of
 Cookery; which I shall rank  in an Alphabetical order
 compendiously.</p>
-            </div2>
-            <div2 id="woolley.032" n=" Artichoaks Fried. " type="Section">
+            </div>
+            <div id="woolley.032" n=" Artichoaks Fried. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3308,8 +3308,8 @@ then slice and  quarter them; having  so done, dip them in Butter, and
 fry them in Butter.  For the sauce, take  Verjuice, Butter,  and
 Sugar, with the juice of an Orange, lay Marrow on them, and having
 garnisht them  with Marrow, serve them up.</p>
-            </div2>
-            <div2 id="woolley.033" n=" Artichoaks Stewed. " type="Section">
+            </div>
+            <div id="woolley.033" n=" Artichoaks Stewed. " type="Section">
                <head>
                   <title> The Gentlewoman's Companion:
 or, A Guide to the Female Sex.  </title> Artichoaks Stewed. </head>
@@ -3325,8 +3325,8 @@ in it, laying on some Barberies preserv'd,  and suchlike, so  sippet
 it and serve it up; Instead of preserved Plumbs, you may stew  those
 which are  ordinary, and wil do near as well, and are much
 cheaper.</p>
-            </div2>
-            <div2 id="woolley.034" n=" An Almond-Pudding. " type="Section">
+            </div>
+            <div id="woolley.034" n=" An Almond-Pudding. " type="Section">
                <head>
                   <title> The Gentlewoman's Companion:
 or, A Guide to the Female Sex.  </title> An Almond-Pudding. </head>
@@ -3335,8 +3335,8 @@ or, A Guide to the Female Sex.  </title> An Almond-Pudding. </head>
 Rosewater, yolks of  Eggs, beaten Cinnamon, Giner, Nutmeg, some boiled
 Currans, Pistaches and  Musk, boil it  in a Napkin, and serve it in a
 Dish, with beaten Butter and Sugar scrap'd  thereon.</p>
-            </div2>
-            <div2 id="woolley.035" n=" An Almond-Pudding in Guis. " type="Section">
+            </div>
+            <div id="woolley.035" n=" An Almond-Pudding in Guis. " type="Section">
                <head>
                   <title> The Gentlewoman's Companion:
 or, A Guide to the Female Sex.  </title> An Almond-Pudding in
@@ -3351,8 +3351,8 @@ a penny-loaf, and  seirce it through a  Cullender, put it into the
 Cream, and let it stand till it be pretty  cool; then put in the
 Almonds, five or six yolks of Eggs, Salt, Sugar, and good store of
 Marrow, or Beef-suet,  finely minced, and so fill the Guts.</p>
-            </div2>
-            <div2 id="woolley.036" n=" An Almond-Tart. " type="Section">
+            </div>
+            <div id="woolley.036" n=" An Almond-Tart. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> An
@@ -3360,8 +3360,8 @@ Almond-Tart. </head>
                <docDate> 1675</docDate>
                <p>Strain beaten Almonds with Cream, yolks of Eggs, Sugar, Cinnamon
 and  Giner, boil it  thick, and fill your Tart therewith.</p>
-            </div2>
-            <div2 id="woolley.037" n=" Almond-Cream. " type="Section">
+            </div>
+            <div id="woolley.037" n=" Almond-Cream. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3371,8 +3371,8 @@ Almond-Cream. </head>
 strain  it with a quart of  Cream, put it in a Skillet with a stick of
 Cinnamon, and boil it, stir it  continually, and when  it is boiled
 thick, put Sugar to it, and serve it up cold.</p>
-            </div2>
-            <div2 id="woolley.038" n=" Apple-Cream. " type="Section">
+            </div>
+            <div id="woolley.038" n=" Apple-Cream. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3385,8 +3385,8 @@ these stew together till they be soft, then take them  off the fire,
 and put  them into a Dish, and when they be cold, take a quart of
 boil'' Cream,  with a little Nutmeg,  and put in of the Apple as much
 as will thicken it; and so serve it  up.</p>
-            </div2>
-            <div2 id="woolley.039" n=" Apricocks green Baked. " type="Section">
+            </div>
+            <div id="woolley.039" n=" Apricocks green Baked. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3399,8 +3399,8 @@ scald them, and scrape the outside oft putting them in water as you
 peel  them, till your Tart  be ready, then dry them well, and fill
 your Tart with them, and lay on  good store of fine  Sugar, close it
 up and bake it, ice it, scrape on Sugar, and serve it  up.</p>
-            </div2>
-            <div2 id="woolley.040" n=" Barley-broth. " type="Section">
+            </div>
+            <div id="woolley.040" n=" Barley-broth. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3410,8 +3410,8 @@ Barley-broth. </head>
 then  join it with a knuckle of  Veal, and seeth them together; to the
 Broth add Raisins, sweet herbs,  large Mace, and the  quantity of a
 fine Manchet sliced together, then season it with  salt.</p>
-            </div2>
-            <div2 id="woolley.041" n=" B I S K. " type="Section">
+            </div>
+            <div id="woolley.041" n=" B I S K. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> B I
@@ -3464,8 +3464,8 @@ together by some rare whimsical French Cook,   yet I cannot  approve
 of it, but must call it a Miscellaneous hodg-podg of studied  vanity;
 and I have here  inserted it not for your imitation, but
 admiration.</p>
-            </div2>
-            <div2 id="woolley.042" n="Beef hashed." type="Section">
+            </div>
+            <div id="woolley.042" n="Beef hashed." type="Section">
                <head>
                   <title>The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Beef
@@ -3479,8 +3479,8 @@ strong broth, and a little Claret; let it stew softly for the  space
 of three hours, that  it may be very tender, then blow off the fat,
 dish it, and serve it on  sippets, you may  garnish it with
 Barberries, Grapes, or Gooseberries.</p>
-            </div2>
-            <div2 id="woolley.043" n=" Beef A-la-mode. " type="Section">
+            </div>
+            <div id="woolley.043" n=" Beef A-la-mode. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Beef
@@ -3491,8 +3491,8 @@ Bacon, having hackt it  before a little with the back of your Knife,
 then stew it in a Pipkin  with some gravy,  Claretwine, and strong
 Broth.  Cloves, Mace, Pepper, Cinnamon and Salt;  being tender stewed,
 serve it on French-bread sippets.</p>
-            </div2>
-            <div2 id="woolley.044" n=" Beef Carbonadoed. " type="Section">
+            </div>
+            <div id="woolley.044" n=" Beef Carbonadoed. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Beef
@@ -3503,8 +3503,8 @@ Carbonadoed. </head>
 and Nutmeg, then broil it on the Embers over  a temperate and unsmoaky
 fire, in the mean while boil up the liquor  wherein it was steeped;
 and serve it for sauce, with beaten Butter.</p>
-            </div2>
-            <div2 id="woolley.045" n=" Beef baked, red-Deer-fashion, in Pies or  Pasties, either Surloine, Brisket, Buttock or  Fillet, larded or not. " type="Section">
+            </div>
+            <div id="woolley.045" n=" Beef baked, red-Deer-fashion, in Pies or  Pasties, either Surloine, Brisket, Buttock or  Fillet, larded or not. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Beef
@@ -3526,8 +3526,8 @@ flower  heapt measure.  But the best way to bake red Deer is in coarse
 paste,  either Pye, or Pasty; if Rey-meal, it will  keep long,
 otherwise you may make it of Meal, as it comes from the Mill,  using
 only  boiling-water, without any other stuff.</p>
-            </div2>
-            <div2 id="woolley.046" n=" Beef Collar'd. " type="Section">
+            </div>
+            <div id="woolley.046" n=" Beef Collar'd. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Beef
@@ -3549,8 +3549,8 @@ Earthen-pot, which  are made on  purpose for that use, tying up the
 top of the pot with cap-paper; set it  into the Oven, let it  stand
 eight hours, draw it, and taking it out of the pot, hang it up for
 use.</p>
-            </div2>
-            <div2 id="woolley.047" n=" Brawn, how to make a Collar. " type="Section">
+            </div>
+            <div id="woolley.047" n=" Brawn, how to make a Collar. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3583,8 +3583,8 @@ the mouth of the Vessel from the Air.  When you use it, dish it  up
 with a sprig of  Rosemary on the top, dipt in the white of an Egg well
 beaten to froth,  sprinkled with  flower, or with a straight sprig of
 Ew-tree.</p>
-            </div2>
-            <div2 id="woolley.048" n=" Brawn made of a Sucking-Pig, otherways called  Souced Pig. " type="Section">
+            </div>
+            <div id="woolley.048" n=" Brawn made of a Sucking-Pig, otherways called  Souced Pig. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3604,8 +3604,8 @@ and picked;  being half  boil'd, put in a quart of White-wine more,
 being quite boil'd, put in  slices of Lemon to it  with the whole
 peel.  Having souc'd it two or three days, dish it out on  plates with
 Vinegar;  or serve it in Collars with Mustard and Sugar.</p>
-            </div2>
-            <div2 id="woolley.049" n=" A Calves-head roasted. " type="Section">
+            </div>
+            <div id="woolley.049" n=" A Calves-head roasted. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> A
@@ -3626,8 +3626,8 @@ a Nutmeg sliced, the juice of an Orange, Salt, and Sugar, and a  piece
 of sweet  Butter; before you take up the head, dredg it with grated
 Bread, beaten  Cinnamon, minced  Lemmon-peel with a little
 Salt.</p>
-            </div2>
-            <div2 id="woolley.050" n=" Calves-foot Pye, or Neats-foot Pye. " type="Section">
+            </div>
+            <div id="woolley.050" n=" Calves-foot Pye, or Neats-foot Pye. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3647,8 +3647,8 @@ the top of the meat,  so close up the  Pye and bake it; being half
 baked, liquor it with Butter, White-wine or Verjuice, and ice it  with
 Butter, Rosewater and Sugar, then set it in the Oven again till it  be
 iced.</p>
-            </div2>
-            <div2 id="woolley.051" n=" Capons Souced. " type="Section">
+            </div>
+            <div id="woolley.051" n=" Capons Souced. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3667,8 +3667,8 @@ place your Capon  therein, with two or  three sliced Lemmons, cover it
 close and serve it at your pleasure,  garnishing your Dish
 <pb n="127"/>
 with slices of Lemmon, Barberries, and som of the Jelly.</p>
-            </div2>
-            <div2 id="woolley.052" n=" Calves-Chaldron-Mince-Pyes. " type="Section">
+            </div>
+            <div id="woolley.052" n=" Calves-Chaldron-Mince-Pyes. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3681,8 +3681,8 @@ Nutmeg, Pepper, a little Onion, and  minced Lemon- peel, with salt,
 and Juice of an Orange; then lay on some slices of  interlarded Bacon
 and  Butter, close it up and bake it; and when you draw it, liquor it
 with  White-wine beaten with  Butter.</p>
-            </div2>
-            <div2 id="woolley.053" n=" Capon or Chicken in white-Broth. " type="Section">
+            </div>
+            <div id="woolley.053" n=" Capon or Chicken in white-Broth. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3699,8 +3699,8 @@ it stirring that it may not curdle, and let it be but  a little while
 on the  fire; the Fowls being dished up, put on the Broth, and garnish
 the Dish  with Dates, large  Mace, Endive, preserved barberries.  You
 may make a Lere of Almond-paste,  and Grape- verjuice.</p>
-            </div2>
-            <div2 id="woolley.054" n=" Chicken-Pey. " type="Section">
+            </div>
+            <div id="woolley.054" n=" Chicken-Pey. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3717,8 +3717,8 @@ Verjuice, the yolks of five or six Eggs,  with Sugar and  Butter;
 shake liquor well in it, which you may colour green with the  juice of
 Spinage: It is  proper to ice these Pyes, or scrape Sugar on
 them.</p>
-            </div2>
-            <div2 id="woolley.055" n=" Clouted Cream. " type="Section">
+            </div>
+            <div id="woolley.055" n=" Clouted Cream. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3730,8 +3730,8 @@ and set it upon a fire  of Charcole well  kindled, (be sure the fire
 be not too hot) and let it stand a day and a  night; then take it off
 and dish it with a slice or scummer, let no Milk be in it, lay it in a
 Creamdish, with Sugar  scraped thereon, and so serve it up.</p>
-            </div2>
-            <div2 id="woolley.056" n=" Cabbedg-Cream. " type="Section">
+            </div>
+            <div id="woolley.056" n=" Cabbedg-Cream. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3755,8 +3755,8 @@ the first Bowls to stand till last, that the Cream may be thick  and
 crumpled, and that  use for the uppermost lay, and so scrape Sugar in
 it.  This must be made  overnight for  Dinner, and in the morning for
 Supper.</p>
-            </div2>
-            <div2 id="woolley.057" n=" Carp Stewed. " type="Section">
+            </div>
+            <div id="woolley.057" n=" Carp Stewed. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Carp
@@ -3779,8 +3779,8 @@ Manchet grated  and searced, and carved
 sippets laid round the Dish.  You may for variety, the Carp being
 sealed, garnish the body with stewed Oisters, some fried in white
 Butter,  some in green,  made by the juice of Spinnage.</p>
-            </div2>
-            <div2 id="woolley.058" n=" Carp Marinated. " type="Section">
+            </div>
+            <div id="woolley.058" n=" Carp Marinated. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Carp
@@ -3801,8 +3801,8 @@ and then lay on your Lemon with Orange-peel.  Thus you may marinate
 Soles,  Plaice, or any other whether Sea or fresh-water Fish; if you
 barrel or  pack it up close, it  will be as good, and keep as long as
 Sturgeon.</p>
-            </div2>
-            <div2 id="woolley.059" n=" Carp roasted. " type="Section">
+            </div>
+            <div id="woolley.059" n=" Carp roasted. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Carp
@@ -3818,8 +3818,8 @@ Gills into the belly of the Carp; then  spit it, and when it is
 roasted, make Sauce with the Gravy that falls from it, with juice of
 Orange, Sugar and  Cinamon; beat up the Sauce thick with the Butter,
 and dish it  up.</p>
-            </div2>
-            <div2 id="woolley.060" n=" Deer, Red and Fallow, roasted. " type="Section">
+            </div>
+            <div id="woolley.060" n=" Deer, Red and Fallow, roasted. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3831,8 +3831,8 @@ over, and so roast it; when  ready, dish it up  with a
 Gallendine-sauce made with strained Bread, Vinegar, Claret-wine,
 Cinamon, Ginger  and Sugar, boil up these with a few whole Cloves, and
 a sprig of  Rosemary.</p>
-            </div2>
-            <div2 id="woolley.061" n=" Deer Baked. " type="Section">
+            </div>
+            <div id="woolley.061" n=" Deer Baked. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Deer
@@ -3845,8 +3845,8 @@ lay some Butter in the bottom thereof, then lay in  your flesh the
 inside  downward, coat it thick with seasoning, adding a few Cloves
 and good  store of Butter, so  close it up and bake it, first basting
 it with Eggs.</p>
-            </div2>
-            <div2 id="woolley.062" n=" Egg-Mince-Pye. " type="Section">
+            </div>
+            <div id="woolley.062" n=" Egg-Mince-Pye. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3858,8 +3858,8 @@ verjuice, Rosewater, Butter and Salt,  with these fill  your
 <pb n="132"/>
 Pyes; when baked, liquor them with Butter, White-wine, Sugar and ice
 them.</p>
-            </div2>
-            <div2 id="woolley.063" n=" Florentines on Paste, or without Paste.  " type="Section">
+            </div>
+            <div id="woolley.063" n=" Florentines on Paste, or without Paste.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3873,8 +3873,8 @@ three or four yolks of raw Eggs, mix all together with a  little Salt,
 some thin  slices of interlarded Bacon, lay the Meat round the Dish,
 on a sheet of  Paste, or in the Dish  without Paste; being baked,
 stick Bay leaves round the Dish.</p>
-            </div2>
-            <div2 id="woolley.064" n=" Flowers of all sorts Pickled. " type="Section">
+            </div>
+            <div id="woolley.064" n=" Flowers of all sorts Pickled. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3884,8 +3884,8 @@ Flowers of all sorts Pickled. </head>
 weigh, fill them up with Wine-Vinegar.  To a pint of Vinegar a pound
 of  Sugar, and a pound of Slowers: so keep them for Sallets and boil'd
 Meats.</p>
-            </div2>
-            <div2 id="woolley.065" n=" Grapes and Goosberries Pickled. " type="Section">
+            </div>
+            <div id="woolley.065" n=" Grapes and Goosberries Pickled. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3893,8 +3893,8 @@ Grapes and Goosberries Pickled. </head>
                <docDate> 1675</docDate>
                <p> Pick them and put them in Verjuice, and so barrel them
 up.</p>
-            </div2>
-            <div2 id="woolley.066" n=" Geese Boiled. " type="Section">
+            </div>
+            <div id="woolley.066" n=" Geese Boiled. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3908,8 +3908,8 @@ them,  and serve
 <pb n="133"/>
 them with Brewis, and Colliflowers or Cabbedg, running it over with
 beaten  Butter; thus you may dress any sort of Sea-fowl.</p>
-            </div2>
-            <div2 id="woolley.067" n=" Hashes several ways. " type="Section">
+            </div>
+            <div id="woolley.067" n=" Hashes several ways. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3921,8 +3921,8 @@ Almonds blanch'd, put in whole,  some Nutmeg,  and a whole Onion or
 two, and stew it in a Pipkin with some strong broth  two hours, put a
 little Claret to it, and serve it on Sippers, blowing off the fat, and
 garnish it with Lemon or  Barberries.</p>
-            </div2>
-            <div2 id="woolley.068" n=" Otherways. " type="Section">
+            </div>
+            <div id="woolley.068" n=" Otherways. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3934,8 +3934,8 @@ pieces as big as a Walnut, some  whole Onions, some  Parsnips, large
 Mace, a saggot of sweet herbs, Salt, Pepper, Cloves, with  as much
 water  and wine as will cover them, let them thus stew three
 hours.</p>
-            </div2>
-            <div2 id="woolley.069" n=" Hashes of Neats-feet, or any feet, as Calver,  Sheep, Deer, Hogs, Pigs or Lambs. " type="Section">
+            </div>
+            <div id="woolley.069" n=" Hashes of Neats-feet, or any feet, as Calver,  Sheep, Deer, Hogs, Pigs or Lambs. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3947,8 +3947,8 @@ Currans to them, beaten Cinamon, hard Eggs minc'd, Capers, sweet Herbs
 minced small, Cloves, Mace, Sugar,  White-wine, Butter, sliced Lemon
 or Orange, sliced Almonds, grated Bread,  Saffron,  Grapes, or
 Barberries, to serve them on fine carved Sippets.</p>
-            </div2>
-            <div2 id="woolley.070" n=" Hashing of any feet. " type="Section">
+            </div>
+            <div id="woolley.070" n=" Hashing of any feet. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3959,8 +3959,8 @@ Hashing of any feet. </head>
 Butter, Currans, Raisins, Marrow,  Sugar, Prunes, Dates, Cinamon,
 Mace, ginger, Pepper, and serve them on  toasts of fried
 Manchet.</p>
-            </div2>
-            <div2 id="woolley.071" n=" Hares roasted without and with the Skin.  " type="Section">
+            </div>
+            <div id="woolley.071" n=" Hares roasted without and with the Skin.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3983,8 +3983,8 @@ breat it  with fine grated Manchet, Flower and Cinamon, froth it up,
 and dish it on  Sawce, made of  grated Bread, Claret-wine,
 Wine-vinegar, Cinamon, Ginger, and Sugar,  being boiled up to  an
 indifferency.</p>
-            </div2>
-            <div2 id="woolley.072" n=" Ipocras. " type="Section">
+            </div>
+            <div id="woolley.072" n=" Ipocras. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -3997,8 +3997,8 @@ quarter
 of an ounce ofCloves, twenty  corns of Pepper, an handful of
 Rosemary-Flowers, three pounds of Sugar,  and two quarts  of
 Cream.</p>
-            </div2>
-            <div2 id="woolley.073" n=" Jellies of several colours for all sorts of  Soust Meats, and to be eaten alone. " type="Section">
+            </div>
+            <div id="woolley.073" n=" Jellies of several colours for all sorts of  Soust Meats, and to be eaten alone. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4030,8 +4030,8 @@ again on a fine Charcole
 fire, and let it stew near an  hour, then make it boil up a little, so
 take it off; being somewhat cold,  strain it, and so let it  stand for
 your use, casting it into what mould you please.</p>
-            </div2>
-            <div2 id="woolley.074" n=" Land or Sea-fowl, how to boil them. " type="Section">
+            </div>
+            <div id="woolley.074" n=" Land or Sea-fowl, how to boil them. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Land
@@ -4043,8 +4043,8 @@ Pipkin with the Gravy, some  Claret-wine, as  much strong broth as
 will cover them, Mace, Cloves, Pepper, Ginger, some  fried Onions  and
 Salt; stew all well together and serve them on carved
 sippets.</p>
-            </div2>
-            <div2 id="woolley.075" n=" Land-Fowl, the smaller sort, how to boil, as  Plowers, Quails, Blackbirds, Rails, Thrushes, Snipes, Wheat-ears, Larks and Sparrows. " type="Section">
+            </div>
+            <div id="woolley.075" n=" Land-Fowl, the smaller sort, how to boil, as  Plowers, Quails, Blackbirds, Rails, Thrushes, Snipes, Wheat-ears, Larks and Sparrows. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4058,8 +4058,8 @@ Currans well pickt and  washt, Dates,  Marrow, Pepper and Salt; being
 well stewed, dish them on carved Sippets;  thicken the  broth with
 strained Almonds, Rosewater, and Sugar; garnish them with  Lemon,
 Barberries  and grated bread.</p>
-            </div2>
-            <div2 id="woolley.076" n=" Marrow-Pudding in a Dish baked, garnished with  Puff paste. " type="Section">
+            </div>
+            <div id="woolley.076" n=" Marrow-Pudding in a Dish baked, garnished with  Puff paste. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4082,8 +4082,8 @@ fine Sugar, with about a spoonful of  Salt, and twelve  Eggs, six of
 the white taken away, then set the Dish into the Oven,  temperate, and
 not too  hot, and bake it very white, then strew some Sugar on so
 serve  it.</p>
-            </div2>
-            <div2 id="woolley.077" n=" Mutton hashed the French way. " type="Section">
+            </div>
+            <div id="woolley.077" n=" Mutton hashed the French way. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4100,8 +4100,8 @@ parboiled in their own liquor; these Materials being well stewed down,
 dish up  your meat, pouring your liquor thereon, and uppermost lay
 your stewed  Oysters with  sliced Lemon and fine carved
 sippets.</p>
-            </div2>
-            <div2 id="woolley.078" n=" Marinated Mullet, Bace, Gurnet, or Rochet.  " type="Section">
+            </div>
+            <div id="woolley.078" n=" Marinated Mullet, Bace, Gurnet, or Rochet.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4116,8 +4116,8 @@ Sallet-oyl; this done, put  the Fish in an earthen Vessel or Barrel,
 lay the Bay-leaves and Rosemary  between every  layer of the Fish, and
 pour the broth upon it; when it is cold, close up  the
 Vessel.</p>
-            </div2>
-            <div2 id="woolley.079" n=" Mullets Fried. " type="Section">
+            </div>
+            <div id="woolley.079" n=" Mullets Fried. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4128,8 +4128,8 @@ stowre  them, fry them in  Clarified Butter; being fried, put to them
 some Claret-wine sliced  Ginger, grated Nutmeg,  and Anchovee, Salt,
 and sweet Butter beaten up thick, but first rub the  dish with a Clove
 of  Garlick: Chuse the least Mullets to fry.</p>
-            </div2>
-            <div2 id="woolley.080" n=" Mullets or Bace baked. " type="Section">
+            </div>
+            <div id="woolley.080" n=" Mullets or Bace baked. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4146,8 +4146,8 @@ Cockles, yolks of Eggs minced, Butter,  large Mace, and  Barberries,
 close it up; being baked, cut it up and fill it with beaten  Butter,
 and garnish it  with sliced Lemon.  This is a very good way for Tench
 or  Bream.</p>
-            </div2>
-            <div2 id="woolley.081" n=" Mushrooms Fried. " type="Section">
+            </div>
+            <div id="woolley.081" n=" Mushrooms Fried. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4165,8 +4165,8 @@ Pepper, put these into a Frying-pan, with the yolks of two or three
 Eggs,  with some  Mutton-gravy, beat or shake them well together in
 the Pan, that they  curdle not, then rub a  dish with Garlick, and lay
 the Mushrooms therein garnisht with Oranges  and Lemons.</p>
-            </div2>
-            <div2 id="woolley.082" n=" Mushrooms stewed. " type="Section">
+            </div>
+            <div id="woolley.082" n=" Mushrooms stewed. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4186,8 +4186,8 @@ off the fat
 <pb n="140"/>
 from them, and take out  the Time, the Spice, and Orange, then wring
 in the juice of Lemon, and  strew some  Nutmeg thereon.</p>
-            </div2>
-            <div2 id="woolley.083" n=" Neats-Tongues boiled. " type="Section">
+            </div>
+            <div id="woolley.083" n=" Neats-Tongues boiled. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4197,8 +4197,8 @@ Neats-Tongues boiled. </head>
 be  tender, blanch it, serve it on carved Sippers and Brewis, with
 boiled  Turnips and Onions, run it over with beaten  bUtter, and
 garnish it with Barberries or Grapes.</p>
-            </div2>
-            <div2 id="woolley.084" n=" Neats-tongues Stewed. " type="Section">
+            </div>
+            <div id="woolley.084" n=" Neats-tongues Stewed. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4213,8 +4213,8 @@ it a walm  or two, then Serve it on Sippets finely carved, and strew
 on some minced  Lemon,  Barberries or Grapes and run it over with
 beaten Butter: Garnish your  Dish with Manchets  finely
 searced.</p>
-            </div2>
-            <div2 id="woolley.085" n=" Neats-tongue, an excellent way how to dry them.  " type="Section">
+            </div>
+            <div id="woolley.085" n=" Neats-tongue, an excellent way how to dry them.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4226,8 +4226,8 @@ all over with it; and as it wasts,  supply them with more,  then roul
 them in Bran, and dry them before a soft fire; before you boil  them,
 lay them in  Pump-water one night, and boil them in
 Pump-water.</p>
-            </div2>
-            <div2 id="woolley.086" n=" Neats-Tongues roasted. " type="Section">
+            </div>
+            <div id="woolley.086" n=" Neats-Tongues roasted. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4242,8 +4242,8 @@ Ginger  and Salt, fill the Tongue and stop the end with a Caul of
 Veal, lard it  and roast it, make  your Sawce with Butter, Nutmeg,
 Gravy, and juice of Oranges: Garnish the  Dish with  sliced Lemon and
 Barberries.</p>
-            </div2>
-            <div2 id="woolley.087" n=" Neats-tongue-Minc'd-Pye. " type="Section">
+            </div>
+            <div id="woolley.087" n=" Neats-tongue-Minc'd-Pye. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4256,8 +4256,8 @@ Orange preferred, and a little Lemon-peel, shred with  a quarter of a
 pound of Sugar, four pound of Currans, a little Verjuice and Rosewater
 and a quarter of a  pint of Sack, stir all together, and fill your
 Pyes.</p>
-            </div2>
-            <div2 id="woolley.088" n=" A Norfolk-Fool. " type="Section">
+            </div>
+            <div id="woolley.088" n=" A Norfolk-Fool. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> A
@@ -4273,8 +4273,8 @@ Cream; trim the Dish with
 <pb n="142"/>
 carved Sippets; and  stick it with sliced Dates and scrap Sugar all
 over it.</p>
-            </div2>
-            <div2 id="woolley.089" n=" Oysters stewed. " type="Section">
+            </div>
+            <div id="woolley.089" n=" Oysters stewed. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4289,8 +4289,8 @@ sweet Butter,  with a little Salt,  stew them togetehr on a soft fire
 the space of half an hour, then dish  them on Sippets of French-bread,
 sliced Lemon on that and Barberries, then sun them over with beaten
 Butter,  and garnish the dish with grated Manchret, searced.</p>
-            </div2>
-            <div2 id="woolley.090" n=" Oysters, Fried. " type="Section">
+            </div>
+            <div id="woolley.090" n=" Oysters, Fried. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4304,8 +4304,8 @@ liquor,  a sliced Nutmeg and Claret; being boiled a little, put in a
 slice of  Butter, beating it up thick;  having warm'd the Dish, rub it
 with some Garlick, and lay therein the  Oysters; garnishing  the Dish
 with slices of Orange.</p>
-            </div2>
-            <div2 id="woolley.091" n=" Oyster-Pyes. " type="Section">
+            </div>
+            <div id="woolley.091" n=" Oyster-Pyes. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4319,8 +4319,8 @@ made, put a few Currans in the bottom and lay on the Oysters with some
 sliced Dates  in halfs, some large Mace, sliced Lemon, Barberries and
 Butter, close it  up, and bake it,  then liquor it with White-wine,
 Sugar, and Butter.</p>
-            </div2>
-            <div2 id="woolley.092" n=" Otherways. " type="Section">
+            </div>
+            <div id="woolley.092" n=" Otherways. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4332,8 +4332,8 @@ a little beaten Ginger, salt,  Butter, and  Marrow, then close and
 bake it, then make a Lear with White-wine,  Oyster-liquor, and one
 Onion; boil these with a pound of Butter, minced Lemon, and a faggot
 of  sweet herbs, and  liquor the Pye therewith.</p>
-            </div2>
-            <div2 id="woolley.093" n=" Oysters Pickled. " type="Section">
+            </div>
+            <div id="woolley.093" n=" Oysters Pickled. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4348,8 +4348,8 @@ Pepper and a  good quantity  of Salt, set it over the fire and boil it
 leisurely, scum it clean, and  being well boiled, put the  liquor into
 Barrels, that will hold a quart or more, and when it is cold,  put in
 the Oysters,  and close up the head.</p>
-            </div2>
-            <div2 id="woolley.094" n=" Ox-cheeks baked in a Pye. " type="Section">
+            </div>
+            <div id="woolley.094" n=" Ox-cheeks baked in a Pye. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4362,8 +4362,8 @@ Pepper, Salt, and  Nutmeg, then put them in a Pye with a few whole
 Cloves, a little  seasoning, slices of Butter and Bacon over all; bake
 them very tender,  and liquor them with Butter and
 Claret-wine.</p>
-            </div2>
-            <div2 id="woolley.095" n=" A Calves-head Pye. " type="Section">
+            </div>
+            <div id="woolley.095" n=" A Calves-head Pye. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> A
@@ -4376,8 +4376,8 @@ Nutmeg, Pepper, and Salt; and lay in the bottom of  the Pye minced
 Veal raw, and Bacon; then lay the Cheeks on it in the Pye, and sliced
 Bacon on that, then  Spices, Butter and Grapes, or a Lemon, then close
 it u, bake it, and  liquor it with butter  only.</p>
-            </div2>
-            <div2 id="woolley.096" n=" Puff-paste, the best way how to make it.  " type="Section">
+            </div>
+            <div id="woolley.096" n=" Puff-paste, the best way how to make it.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4392,8 +4392,8 @@ out the  second time, and serve  it as at the first, then roul it out
 and cut it into what form you  please, and for what use, you  need not
 fear the curle, for it will divide as often as you have doubled,  ten
 or twelve times  is enough for any use.</p>
-            </div2>
-            <div2 id="woolley.097" n=" Panado's. " type="Section">
+            </div>
+            <div id="woolley.097" n=" Panado's. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4406,8 +4406,8 @@ almost boil'd, and in different thick, put in  some Sack or
 White-wine, Sugar, and some strained yolks of Eggs.  Otherways, with
 sliced Bread,  Water, Currans, and Mace; and being well boiled, put to
 it some Sugar,  White-wine, and  Butter.</p>
-            </div2>
-            <div2 id="woolley.098" n=" Posset of Sack, Claret, or White-wine, the best  manner. " type="Section">
+            </div>
+            <div id="woolley.098" n=" Posset of Sack, Claret, or White-wine, the best  manner. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4424,8 +4424,8 @@ Posset-cup, good store of fine Sugar, and some sliced Nutmet;  the
 Sack and  Sugar, being warm, take out the Cinamon, and pour your Eggs
 and Cream  very high into  the Bason, that it may spatter in it; then
 strew on  Loaf-sugar.</p>
-            </div2>
-            <div2 id="woolley.099" n=" Pompion-Pye. " type="Section">
+            </div>
+            <div id="woolley.099" n=" Pompion-Pye. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4446,8 +4446,8 @@ of Eggs, some White-wine or Verjuice, and make a Caudle  thereof, but
 not  too thick; cut up the lid and put it in, and stire them well
 together  whilst the Eggs and  Pompions are not perceived, and so
 serve it up.</p>
-            </div2>
-            <div2 id="woolley.100" n=" Pig roasted with the Hair on. " type="Section">
+            </div>
+            <div id="woolley.100" n=" Pig roasted with the Hair on. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Pig
@@ -4465,8 +4465,8 @@ and dredg  it till the Body be covered an inch thick, then the Pig
 being thoroughly  roasted, draw it and  serve it up whole, with Sauce
 made of Wine-Vinegar, whole Cloves, whole  Cinamon, and  Sugar boiled
 to a Syrrup.</p>
-            </div2>
-            <div2 id="woolley.101" n=" Pidgeons boiled. " type="Section">
+            </div>
+            <div id="woolley.101" n=" Pidgeons boiled. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4478,8 +4478,8 @@ with some strong  broth, or fair water, boil  and scum them, then put
 in some Mace, a saggot of sweet Herbs, white  Endive, Marigold-
 flowers and Salt, and being finely boiled, serve them on sippets; and
 garnish the Dish with  Mace and white Endive-flowers.</p>
-            </div2>
-            <div2 id="woolley.102" n=" Pike boiled. " type="Section">
+            </div>
+            <div id="woolley.102" n=" Pike boiled. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Pike
@@ -4498,8 +4498,8 @@ be consumed; the Pike  being boiled, dish  it, and garnish the Dish
 with grated White-bread, or Ginger fine beaten,  then beat up the
 Sauce with half a pound of Butter, minced Lemon or Orange, and pour it
 on  the Pike with  Sippets.</p>
-            </div2>
-            <div2 id="woolley.103" n=" Pike stewed. " type="Section">
+            </div>
+            <div id="woolley.103" n=" Pike stewed. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Pike
@@ -4511,8 +4511,8 @@ set it a-stewing; when it boils,  put in the Fish, and  scum it,
 <pb n="148"/>
 and put to it some large Mace, whole Cinamon and some Salt; when
 thorouwly  stewed, sich it on Sippets finely carved.</p>
-            </div2>
-            <div2 id="woolley.104" n=" Pike Souc'd. " type="Section">
+            </div>
+            <div id="woolley.104" n=" Pike Souc'd. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Pike
@@ -4530,8 +4530,8 @@ up in a  Tray, and boil down the liquor to a Jelly; lay some sliced
 Lemon on it,  pour on-the liquor,  and cover it up close; when you
 serve it in Jelly, melt some of the  Jelly, and run it over therewith;
 garnish your Dish with Barberries and sliced Lemon.</p>
-            </div2>
-            <div2 id="woolley.105" n=" Pike Roasted. " type="Section">
+            </div>
+            <div id="woolley.105" n=" Pike Roasted. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Pike
@@ -4550,8 +4550,8 @@ along the side of the Pike which is not defended with the Spit,
 Rosemary  and Bays; baste  the Pike with Butter and Claret-wine; when
 it is roasted, rip up the  Belly, and take out the  Herbs quite away,
 boil up the Gravy with Butter, and dish it  up.</p>
-            </div2>
-            <div2 id="woolley.106" n=" Quaking Pudding. " type="Section">
+            </div>
+            <div id="woolley.106" n=" Quaking Pudding. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4566,8 +4566,8 @@ qualifie that  fault with cold Cream,  and beat them well together,
 then wet the bag or napkin, and flower it,  put in the Pudding,  and
 ty it hard, boil it half an hour, then dish it and put Butter to it,
 Rosewater and Sugar,  and so serve it to the Table.</p>
-            </div2>
-            <div2 id="woolley.107" n=" Quince-Pyes. " type="Section">
+            </div>
+            <div id="woolley.107" n=" Quince-Pyes. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4587,8 +4587,8 @@ six Eggs, thirty Quinces, three pounds of Sugar, half an ounce of
 Cinamon, the like  quantity of Ginger and Cloves, and some Rosewater,
 then make it into a  Pye or Tart; when  it is baked, strew on some
 double refined Sugar.</p>
-            </div2>
-            <div2 id="woolley.108" n=" An excellent restorative for a weak back.  " type="Section">
+            </div>
+            <div id="woolley.108" n=" An excellent restorative for a weak back.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> An
@@ -4599,8 +4599,8 @@ some Cream to them,  Eggs, grated Bread, and a little white Sanders,
 temper them all well  together, fry them, and  let it be the first
 thing you eat in a morning.  You may also take the  leaves of Clary,
 and  Nepe, and fry them for Breakfast.</p>
-            </div2>
-            <div2 id="woolley.109" n=" A most incomparable broth or drink for a Sick  person. " type="Section">
+            </div>
+            <div id="woolley.109" n=" A most incomparable broth or drink for a Sick  person. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> A
@@ -4611,8 +4611,8 @@ cho it in pieces very  small, and not wash it, then put it in a
 Rose-Still, with slices of  Lemon-peel, Wood-forrel,  with other
 restorative herbs, being distilled, give it the sick person to
 drink.</p>
-            </div2>
-            <div2 id="woolley.110" n=" Rice-Tart. " type="Section">
+            </div>
+            <div id="woolley.110" n=" Rice-Tart. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4622,8 +4622,8 @@ Rice-Tart. </head>
 a  Dish, and season it with Nutmeg, Ginger, and Cinammon, Pepper,
 Salt,  Sugar and the yolks of six Eggs; put it in  the Tart when it is
 baked scrape Sugar thereon.</p>
-            </div2>
-            <div2 id="woolley.111" n=" Rice-Cream. " type="Section">
+            </div>
+            <div id="woolley.111" n=" Rice-Cream. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4636,8 +4636,8 @@ well together, and put it in the Cream,  then beat the  yolk of an Egg
 with a little Rosewater; put it to the Cream and stir them  all
 together, set it  over a quick fire, and keep it continually stirring
 till it be as thick  as Pap.</p>
-            </div2>
-            <div2 id="woolley.112" n=" Another excellent and rare Cream. " type="Section">
+            </div>
+            <div id="woolley.112" n=" Another excellent and rare Cream. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4649,8 +4649,8 @@ Sugar, and some beaten  Nutmeg, strain  them, and put them in a clean
 scoured Skillet, and set it on a soft fire,  stir it continually,  and
 being well incorporated, dish it and serve it up with juice of Orange,
 Sugar and stick it  full of candied Pistaches.</p>
-            </div2>
-            <div2 id="woolley.113" n=" Several excellent Sauces for several Dishes, and  first for green-Geese. " type="Section">
+            </div>
+            <div id="woolley.113" n=" Several excellent Sauces for several Dishes, and  first for green-Geese. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4709,8 +4709,8 @@ Vine-leaves roasted with the  Pidgeons, minced and  put into Claret
 with Salt, Butter and Gravy boiled together.  3.  Minced  Onions
 boiled in  Claret-wine almost dry, then put to it Nutmeg, Sugar, Gravy
 of the Fowl  and a little  Pepper.</p>
-            </div2>
-            <div2 id="woolley.114" n=" An excellent way to roast Salmon. " type="Section">
+            </div>
+            <div id="woolley.114" n=" An excellent way to roast Salmon. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> An
@@ -4722,8 +4722,8 @@ Spit,  put between it some Bay-leaves, and stick it  with little
 sprigs of Rosemary, roast it and baste it with Butter, save  the
 Gravy, and add to  it for Sawce some Vinegar, sweet Butter, and some
 slices of  Orange.</p>
-            </div2>
-            <div2 id="woolley.115" n=" Salmon Fried. " type="Section">
+            </div>
+            <div id="woolley.115" n=" Salmon Fried. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4736,8 +4736,8 @@ little Claret-wine, sweet Butter, grated Nutmeg, slices of  Orange,
 and Oyster- liquor, stew them all together, and pour on the Sauce, and
 on that  Parsley, Ellick-sander,  and Sage-leaves fried in
 Butter.</p>
-            </div2>
-            <div2 id="woolley.116" n=" Soust Veal, Lamb, or dry joint of Mutton, Kid,  Fawn or Venison. " type="Section">
+            </div>
+            <div id="woolley.116" n=" Soust Veal, Lamb, or dry joint of Mutton, Kid,  Fawn or Venison. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4755,8 +4755,8 @@ boiled, put in a quart of White-wine, and  when it is quite  boiled,
 take it off, and put in slices of Lemon, the peel of two Lemons whole,
 and a dozen  Bay-leaves, boil it close covered, that the souse may
 look  white.</p>
-            </div2>
-            <div2 id="woolley.117" n=" Taffey-Tart. " type="Section">
+            </div>
+            <div id="woolley.117" n=" Taffey-Tart. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4771,8 +4771,8 @@ over with the  same, strew more fine
 <pb n="155"/>
 Sugar over them, and put them into the Oven again; this done, you  may
 serve them hot or cold.x</p>
-            </div2>
-            <div2 id="woolley.118" n=" Venison, how to recover when tainted.  " type="Section">
+            </div>
+            <div id="woolley.118" n=" Venison, how to recover when tainted.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4781,8 +4781,8 @@ Venison, how to recover when tainted.  </head>
                <p> Take a clean cloth and wrap your Venison therein, then bury it in
 the  Earth one whole  night, and it will take away the ill scent or
 favour.</p>
-            </div2>
-            <div2 id="woolley.119" n=" To make Beef, Ram, or Mutton past for Venison.  " type="Section">
+            </div>
+            <div id="woolley.119" n=" To make Beef, Ram, or Mutton past for Venison.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> To
@@ -4792,8 +4792,8 @@ make Beef, Ram, or Mutton past for Venison.  </head>
 then  take Small-beer and  Vinegar, and parboil it therein, let it
 steep all night, then put some  Turnsole to it; when it is  baked, a
 good judgment shall not discern it from Red or  Fallow-deer.</p>
-            </div2>
-            <div2 id="woolley.120" n=" Warden-Tarts. " type="Section">
+            </div>
+            <div id="woolley.120" n=" Warden-Tarts. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -4810,8 +4810,8 @@ body of the art of  Cookery; I have only toucht here and there upon
 some excellent Receipts,  and now much in  fashion, leaving it to your
 industry to supply my deficiency: I shall now  proceed to the rest  of
 those accomplishments which best become a Gentlewoman.</p>
-            </div2>
-            <div2 id="woolley.121" n=" A Bill of Fare of Suitable Meat for every Month  in the Year. " type="Section">
+            </div>
+            <div id="woolley.121" n=" A Bill of Fare of Suitable Meat for every Month  in the Year. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> A
@@ -4996,8 +4996,8 @@ Capons, one larded. </p>
 Partridg.  <lb/> 3. Ballonia Sausages, Anchovees, Mushrooms, Caviare,
 and pickled  Oysters, in a Dish  together.  <lb/> 4. A Quince-Pye.  <lb/>
 5. Half a dozen of Woodcocks. </p>
-            </div2>
-            <div2 id="woolley.122" n=" Bills of Fare for fasting days or Lent.  " type="Section">
+            </div>
+            <div id="woolley.122" n=" Bills of Fare for fasting days or Lent.  " type="Section">
                <head>
                   <title> The Gentlewoman's Companion: or, A
 Guide to the Female Sex.  </title> Bills of Fare for fasting days or
@@ -5039,8 +5039,8 @@ concerns the virtuous  and good Education of your Ladies and
 Gentlewomen, I shall endeavour  their instruction in  the most
 considerable matters of Physick and Chyrurgery; Candying,  Preserving
 and  Distilling.</p>
-            </div2>
-            <div2 id="woolley.123" n=" An Introduction to Physick and Chyrurgery.  " type="Section">
+            </div>
+            <div id="woolley.123" n=" An Introduction to Physick and Chyrurgery.  " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> An
@@ -5149,8 +5149,8 @@ Spices, which by difficulty of transportation,  length of way, and
 carelesness of the Merchant, are frequently imported rotten, or
 worm-eaten; or so long  before they come to our hands, that they have
 lost half their virtue.</p>
-            </div2>
-            <div2 id="woolley.124" n=" What is to be observed by a Gentlewoman before  she undertakes the administration of Physick. " type="Section">
+            </div>
+            <div id="woolley.124" n=" What is to be observed by a Gentlewoman before  she undertakes the administration of Physick. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> What is to be
@@ -5216,8 +5216,8 @@ Chirugery I  could meet with in my strictest indigation.</p>
                   <hi rend="BOLD"> Choice and Experimental Observations in Physick
 and Chyrurgery, such which rarely fail'd any who made trial thereof.</hi>
                </p>
-            </div2>
-            <div2 id="woolley.125" n=" A most approved Receipt for a Quartane Ague.  " type="Section">
+            </div>
+            <div id="woolley.125" n=" A most approved Receipt for a Quartane Ague.  " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> A most approved
@@ -5231,8 +5231,8 @@ the midst thereof;  let this be done four several days both  in the
 fit, and when the fit is  coming.  This I have  been credibly inform'd
 was a receipt a woman had her livelihood from, in  curing several when
 all other means proved ineffectual.</p>
-            </div2>
-            <div2 id="woolley.126" n=" For a sudden and violent bleeding at the nose.  " type="Section">
+            </div>
+            <div id="woolley.126" n=" For a sudden and violent bleeding at the nose.  " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> For a sudden and
@@ -5246,8 +5246,8 @@ of the  blood.  For those that are accustomed thus to bleed, let them
 make an  ordinary Posset  taking off the curd, let the juice of
 Liverwort beaten be added  thereunto, and so drink  morning and
 evening.</p>
-            </div2>
-            <div2 id="woolley.127" n=" To stop the Bleeding of a Wound. " type="Section">
+            </div>
+            <div id="woolley.127" n=" To stop the Bleeding of a Wound. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> To stop the
@@ -5258,8 +5258,8 @@ Bleeding of a Wound. </head>
 Take Vervine dried, and reduce it to powder; or take the sole of an
 old stocking and burn it, put the ashes of the one, or powder of the
 other, to the wound, and it will leave bleeding.</p>
-            </div2>
-            <div2 id="woolley.128" n=" An approved Medicine of London-Midwives to break  and heal Womens sore breasts. " type="Section">
+            </div>
+            <div id="woolley.128" n=" An approved Medicine of London-Midwives to break  and heal Womens sore breasts. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> An approved
@@ -5274,8 +5274,8 @@ off the fire,  and whilst it is boiling-hot, make it indifferent thick
 with the best  Venice-Turpentine, then  spread it on fine leather, or
 linnen-cloth, and laying it on the sore  breast it will first break
 it,  and afterwards perfectly heal it.</p>
-            </div2>
-            <div2 id="woolley.129" n=" An excellent way to dry up a Womans breast.  " type="Section">
+            </div>
+            <div id="woolley.129" n=" An excellent way to dry up a Womans breast.  " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> An excellent way
@@ -5285,8 +5285,8 @@ to dry up a Womans breast.  </head>
 white-wax half a peny- worth, and half a quarter of a pound of sweet
 butter, boil all these  together, spread a  Plaister thereof, and lay
 it on the breast.  Probstumest.</p>
-            </div2>
-            <div2 id="woolley.130" n=" The Gentlewoman's Companion: or, A Guide to the Female Sex.  An infallible receipt to increase milk in Womens  breasts." type="Section">
+            </div>
+            <div id="woolley.130" n=" The Gentlewoman's Companion: or, A Guide to the Female Sex.  An infallible receipt to increase milk in Womens  breasts." type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> An infallible
@@ -5296,8 +5296,8 @@ receipt to increase milk in Womens  breasts.</head>
 and  Parsnip-roots, then take the newest-made Butter you can procure,
 and  butter the roots therewith; having so done let her eat heartily,
 and her  expectations therein will be speedily satisfied, </p>
-            </div2>
-            <div2 id="woolley.131" n="Against a Stinking-breath." type="Section">
+            </div>
+            <div id="woolley.131" n="Against a Stinking-breath." type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Against a
@@ -5313,8 +5313,8 @@ proceeding from some other cause, take Rosemary-leaves with the
 blossoms, if to  be had, and seeth them in White-wine, with a little
 Myrrh, and Cinamon,  and you will find  the effect to answer your
 desires if you use it often.</p>
-            </div2>
-            <div2 id="woolley.132" n=" For a Cancer in a Womans Breast. " type="Section">
+            </div>
+            <div id="woolley.132" n=" For a Cancer in a Womans Breast. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> For a Cancer in a
@@ -5325,8 +5325,8 @@ them  Plaisterwise on  the fore; this shall cleanse the Cancer, kill
 the Worm, and heal the  Sore.  For a Cancer in  the Mouth take the
 juice of Plantane-Vinegar, and Rosewater, mingle  together of each a
 like  quantity, and wash the mouth often with them.</p>
-            </div2>
-            <div2 id="woolley.133" n=" For young Children who by reason of the weakness  of their Limbs can neither stand nor go. " type="Section">
+            </div>
+            <div id="woolley.133" n=" For young Children who by reason of the weakness  of their Limbs can neither stand nor go. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> For young Children
@@ -5350,8 +5350,8 @@ therewith (as warm as canbe  endur'd) the  tender parts of the Childs
 legs, knees and thighs, chafing them well with  your hands; and  in a
 short time (Deo volente) the child will be able to go and stand;  this
 receipt hath been  ever found successful.</p>
-            </div2>
-            <div2 id="woolley.134" n=" An approved China-broth for a Consumption.  " type="Section">
+            </div>
+            <div id="woolley.134" n=" An approved China-broth for a Consumption.  " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> An approved
@@ -5370,8 +5370,8 @@ aforesaid broth, then  sweeten it with two  ounces of powder'd
 Sugar-Candy.  Take hereof half a pint in the morning  warm, and sleep
 after it if you can; you will not do amiss to add two drams of white
 and  red Sanders to  steep with your Chicaroot.</p>
-            </div2>
-            <div2 id="woolley.135" n=" A most excellent Jelly for the Consumption.  " type="Section">
+            </div>
+            <div id="woolley.135" n=" A most excellent Jelly for the Consumption.  " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> A most excellent
@@ -5389,8 +5389,8 @@ Jellybag; then set it  on the fire again, and put into it an ounce of
 gross Cinamon, and a pound  of fine Sugar,  and let it run twice or
 thrice through a Jelly-bag again; having made a  Jelly hereof, eat
 thereof cold.</p>
-            </div2>
-            <div2 id="woolley.136" n=" An excellent Conforter of the Stomach, and  helper of Digestion. " type="Section">
+            </div>
+            <div id="woolley.136" n=" An excellent Conforter of the Stomach, and  helper of Digestion. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> An excellent
@@ -5402,8 +5402,8 @@ bed eat thereof the  quantity of an  Haselnut.  This will expel all
 flatulency or windiness off the Stomach,  drives away raw  humours,
 and venemous vapours, helpeth Digestion, drieth the Rheum, and
 strengthneth  the Sight and Memory.</p>
-            </div2>
-            <div2 id="woolley.137" n=" A well-tried Medicine for the Corns on the Feet  or Toes. " type="Section">
+            </div>
+            <div id="woolley.137" n=" A well-tried Medicine for the Corns on the Feet  or Toes. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> A well-tried
@@ -5413,8 +5413,8 @@ Medicine for the Corns on the Feet  or Toes. </head>
 put  a drop or two thereof on the place grieved; adding thereto a
 little  powder of Samphire; this I can assure with constant  use in a
 little time will take away the Corn.</p>
-            </div2>
-            <div2 id="woolley.138" n=" An excellent Diet-drink for the Spring to purge  the Blood, and cleanse it. " type="Section">
+            </div>
+            <div id="woolley.138" n=" An excellent Diet-drink for the Spring to purge  the Blood, and cleanse it. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> An excellent
@@ -5430,8 +5430,8 @@ Red dock-roots two ounces.  Parsley, Fennel,  Asparagus-roots ofeach
 an  ounce, Raisins half a pound; boil these very well in a gallon of
 Beer,  then stamp and strain  them, and put it into three gallons of
 new Beer to work  together.</p>
-            </div2>
-            <div2 id="woolley.139" n=" A Remedy for the Dropsie, whether hot or cold.  " type="Section">
+            </div>
+            <div id="woolley.139" n=" A Remedy for the Dropsie, whether hot or cold.  " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> A Remedy for the
@@ -5442,8 +5442,8 @@ red  Sage, of either a small quantity, stamp them together, and strain
 the  juice of them into some stale Ale, so much as will serve to drink
 morning  and evening; do this for ten days together, and (God willing)
 it  will effect the Cure.</p>
-            </div2>
-            <div2 id="woolley.140" n=" Another for the Dropsie, which hath cured many a  Person when they were left and forsaken by Physicians. " type="Section">
+            </div>
+            <div id="woolley.140" n=" Another for the Dropsie, which hath cured many a  Person when they were left and forsaken by Physicians. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Another for the
@@ -5458,8 +5458,8 @@ in  the Morning,
 <pb n="174"/>
 the other at thre in the Afternoon, and the other when you go to Bed,
 this  seldom fails in his desired effect.</p>
-            </div2>
-            <div2 id="woolley.141" n=" For the Web or Pin'in the Eye. " type="Section">
+            </div>
+            <div id="woolley.141" n=" For the Web or Pin'in the Eye. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> For the Web or
@@ -5469,8 +5469,8 @@ Pin'in the Eye. </head>
 quantity,  mingle them well  together, and anoint the Web with a
 feather dipped in the same, and in  three or four days it  will be
 gone.</p>
-            </div2>
-            <div2 id="woolley.142" n=" To cleanse the skin of the face, and make it  look beautiful and fair. " type="Section">
+            </div>
+            <div id="woolley.142" n=" To cleanse the skin of the face, and make it  look beautiful and fair. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> To cleanse the
@@ -5481,8 +5481,8 @@ put  thereunto, and wash your face therewith Mornings and Evenings.
 If your  Face be troubled with heat, take Elder-flowers, Plantane,
 white Daisie  roots, and Herb-Robert and put these into running-water,
 and wash your  Face therewith at night, and in the Morning.</p>
-            </div2>
-            <div2 id="woolley.143" n=" How to cure the bloody Flux. " type="Section">
+            </div>
+            <div id="woolley.143" n=" How to cure the bloody Flux. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> How to cure the
@@ -5501,8 +5501,8 @@ Frogs and  distil them as you do  Herbs and Flowers, or any thing
 else, but put nothing to them but a  little water; take two or  three
 spoonfuls of this distillation in any thing you drink, and it will
 give you present ease.</p>
-            </div2>
-            <div2 id="woolley.144" n=" A Cure for every sort of Gout. " type="Section">
+            </div>
+            <div id="woolley.144" n=" A Cure for every sort of Gout. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> A Cure for every
@@ -5526,8 +5526,8 @@ Sugar;  take this five hours before you eat any thing;
 then every night after Supper take a little of  the Unguentum
 Leonardi, and anoint your grief, and you will find your  speedy
 recovery.</p>
-            </div2>
-            <div2 id="woolley.145" n=" How to cure the Green-Sickness. " type="Section">
+            </div>
+            <div id="woolley.145" n=" How to cure the Green-Sickness. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> How to cure the
@@ -5547,8 +5547,8 @@ Currans, and a handful of your  Rosemary-tops, with half an  ounce of
 Mace, seeth these to a pint, and let the Patient drink thereof  three
 spoonfuls at a  time, Morning and Evening, and eat some of the Currans
 after.</p>
-            </div2>
-            <div2 id="woolley.146" n=" An Universal Medicine of wonderful use both for  Man and Woman. " type="Section">
+            </div>
+            <div id="woolley.146" n=" An Universal Medicine of wonderful use both for  Man and Woman. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> An Universal
@@ -5577,8 +5577,8 @@ be ignorant of its Virtues; Musk  purgeth the Blood of  Windiness; the
 oyl of Vitriol healeth all the excoriations of the Mouth,  Breast, and
 Stomach, and is excellent against malign humours that oppress
 it.</p>
-            </div2>
-            <div2 id="woolley.147" n=" Against the yellow Jaudies. " type="Section">
+            </div>
+            <div id="woolley.147" n=" Against the yellow Jaudies. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Against the yellow
@@ -5589,8 +5589,8 @@ boil  them well in a pint of  Ale, then strain it, and drink five or
 six days thereof, and you will  find it a present remedy;  let not the
 cheapness of its ingredients occasion this composition to be
 slighted.</p>
-            </div2>
-            <div2 id="woolley.148" n=" Against the Itch. " type="Section">
+            </div>
+            <div id="woolley.148" n=" Against the Itch. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Against the
@@ -5602,8 +5602,8 @@ Brimstone, a little Rose-water &#x0026; red Cloves  whole, boil them together
 till they be like Salve, then anoint the flesh  three sundry nights by
 the fire therewith, and no more, and you need not question a
 cure.</p>
-            </div2>
-            <div2 id="woolley.149" n=" An admirable Remedy Against Kibed Heels a  certain Remedy. " type="Section">
+            </div>
+            <div id="woolley.149" n=" An admirable Remedy Against Kibed Heels a  certain Remedy. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> An admirable
@@ -5613,8 +5613,8 @@ Remedy Against Kibed Heels a  certain Remedy. </head>
 pour  into the hold oyl of  Roses, then stop the hole close, and roast
 it under hot Embers; when it  is soft, apply it  Plaisterwise to the
 Kibe as hot as can be endured.</p>
-            </div2>
-            <div2 id="woolley.150" n=" What is best to be administred to one sick of  the Medsels. " type="Section">
+            </div>
+            <div id="woolley.150" n=" What is best to be administred to one sick of  the Medsels. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> What is best to be
@@ -5627,8 +5627,8 @@ and then give the diseased a Julip, made of two  ounces of Violets,
 four ounces of Rose-water, and four grains fo Oyl of Vitrio), mix them
 and let them be  drunk cold: It is as good a receipt as any for this
 distemper.</p>
-            </div2>
-            <div2 id="woolley.151" n=" To cure the Fits of the Mother. " type="Section">
+            </div>
+            <div id="woolley.151" n=" To cure the Fits of the Mother. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> To cure the Fits
@@ -5639,8 +5639,8 @@ Nose  of the Distempered person, not without success; but your better
 way is to  take six or seven drops of the spirit of Castoreum, in the
 beginning of  the fit, in two or three spoonfuls of Ale-posset, and
 apply a Plaister of Gavanum to the Navel.</p>
-            </div2>
-            <div2 id="woolley.152" n=" To take away the Heat of a Burn or Scald.  " type="Section">
+            </div>
+            <div id="woolley.152" n=" To take away the Heat of a Burn or Scald.  " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> To take away the
@@ -5653,8 +5653,8 @@ fry the yolks of these  Eggs in a Frying-pan till they turn to an Oyl;
 then strain it, and anoint  the Burn or Scald  therewith, then lay on
 a Bladder anointed with Sallet-oyl, and this will  speedily afswage
 the  pain, and heal the Scale or Burn.</p>
-            </div2>
-            <div2 id="woolley.153" n=" For a Scald head. " type="Section">
+            </div>
+            <div id="woolley.153" n=" For a Scald head. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> For a Scald
@@ -5664,8 +5664,8 @@ head. </head>
 doing  it will scale off; then  take the Stale of a Cow, and the
 surring of Chamberpots, boil these  together and wash the  place, and
 it will speedily cure it.</p>
-            </div2>
-            <div2 id="woolley.154" n=" A very good receipt for one hurt with  Gun-powder. " type="Section">
+            </div>
+            <div id="woolley.154" n=" A very good receipt for one hurt with  Gun-powder. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> A very good
@@ -5677,8 +5677,8 @@ stamp  the Herbs very small, then put the  dung into a Mortar, temper
 them together with a pottle of Bores-grease,  stir them together  half
 an hour, then strain it through a Canvasbag and so preserve it for
 your use; it will keep  two years, and be not the worse.</p>
-            </div2>
-            <div2 id="woolley.155" n=" How to cure old Sores on the Legs, which have  been of so long standing that the Bones have appeared. " type="Section">
+            </div>
+            <div id="woolley.155" n=" How to cure old Sores on the Legs, which have  been of so long standing that the Bones have appeared. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> How to cure old
@@ -5690,8 +5690,8 @@ fine  powder as will  make it thick like Paste; then take so much
 sweet Butter as will work it  into the form of an  Oynment, and here
 with anoint the place grieved twice a day, and in a  short time the
 cure  will be effected.   Probatum est.</p>
-            </div2>
-            <div2 id="woolley.156" n=" An excellent way to dissolve the Stone.  " type="Section">
+            </div>
+            <div id="woolley.156" n=" An excellent way to dissolve the Stone.  " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> An excellent way
@@ -5706,8 +5706,8 @@ the Patient be  most troubled  with the heat of the Reins, then let
 him most frequently drink of the  distilled Bean-water,  and upon
 coming down of the sharp gravel of stone, let him drink the
 other.</p>
-            </div2>
-            <div2 id="woolley.157" n=" A way not only to prevent but to cure the  Toothach, or to make an aking-Tooth fall out of it self. " type="Section">
+            </div>
+            <div id="woolley.157" n=" A way not only to prevent but to cure the  Toothach, or to make an aking-Tooth fall out of it self. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> A way not only to
@@ -5723,8 +5723,8 @@ mingle  Wheat-flower with the Milk which issueth thence; with this
 make a Paste  and fill the cavity  of your Tooth therewith, leaving it
 there a while, changing it every two  hours, and the  Tooth will drop
 out.</p>
-            </div2>
-            <div2 id="woolley.158" n=" How to order a Woman with Child, before, in, and  after her Delivery. " type="Section">
+            </div>
+            <div id="woolley.158" n=" How to order a Woman with Child, before, in, and  after her Delivery. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> How to order a
@@ -5762,8 +5762,8 @@ with Rhenish-wine and the other part let her take in like  manner six
 hours  after if need require.  If she be subject to swooning or
 fainting before  or after Labour, give  her a spoonful of this
 excellent Cordial following.</p>
-            </div2>
-            <div2 id="woolley.159" n=" An excellent Cordial for Women troubled with  Swooning-fits in Travel. " type="Section">
+            </div>
+            <div id="woolley.159" n=" An excellent Cordial for Women troubled with  Swooning-fits in Travel. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> An excellent
@@ -5807,8 +5807,8 @@ Physick, Riverius his practice of Physick  translated by
 Mr. Culpepper; with many more of the like Subject.</p>
                <p>The next Qualifications which accomplish a Gentlewoman, are,
 Candying,  Conserving,  Preserving, and Distilling.</p>
-            </div2>
-            <div2 id="woolley.160" n=" And first of Candying, Conserving and  Preserving. " type="Section">
+            </div>
+            <div id="woolley.160" n=" And first of Candying, Conserving and  Preserving. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> And first of
@@ -5822,8 +5822,8 @@ requisite and  necessary in young  Ladies and Gentlewomen: To
 represent them at large, would require more  art and time than  I have
 either the ability or leisure to perform; however I shall give you  a
 Specimen hereof  or an Essay of my own Experiments; and first,</p>
-            </div2>
-            <div2 id="woolley.161" n=" How to preserve Barberries. " type="Section">
+            </div>
+            <div id="woolley.161" n=" How to preserve Barberries. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> How to preserve
@@ -5838,8 +5838,8 @@ liquor with Sugar,  till it be thick, and  very sweet; let it then
 stand till it be cold, then put your branches of  Barberries into
 Gally- pots, and fill them up with this liquor; by this means you will
 have both  the Syrrup of  Barberries, and their Preserves.</p>
-            </div2>
-            <div2 id="woolley.162" n=" Pears preserved. " type="Section">
+            </div>
+            <div id="woolley.162" n=" Pears preserved. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Pears
@@ -5853,8 +5853,8 @@ in
 <pb n="186"/>
 as much old Wine as the pot will hold, laying some heavy thing ont he
 Pears that they may  not swim.</p>
-            </div2>
-            <div2 id="woolley.163" n=" Green Pippins Preserved. " type="Section">
+            </div>
+            <div id="woolley.163" n=" Green Pippins Preserved. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Green Pippins
@@ -5868,8 +5868,8 @@ as  soon as it boileth, put in your Pippins you intend to preserve, so
 let  them boil leisurely; till  they be enough; when they are
 preserved, they will be green; in like sort  you may preserve Quinces,
 Plumbs, Peaches and Apricocks, if you take them green.</p>
-            </div2>
-            <div2 id="woolley.164" n=" Black-Cherries Preserved. " type="Section">
+            </div>
+            <div id="woolley.164" n=" Black-Cherries Preserved. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Black-Cherries
@@ -5882,8 +5882,8 @@ other Cherries, and let them seeth softly together,  until the Sugar
 may be  drawn between the fingers like small threads; when the broth
 is almost  cold, put the  Cherries in the pots with the stalks
 upward.</p>
-            </div2>
-            <div2 id="woolley.165" n=" Mulberries Preserved. " type="Section">
+            </div>
+            <div id="woolley.165" n=" Mulberries Preserved. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Mulberries
@@ -5896,8 +5896,8 @@ together,
 and put in your Mulberries and boil  them till they are enough, then
 take them off and boil the Syrrup a  while, then put in the
 Mulberries, and let them stand till they be cold.</p>
-            </div2>
-            <div2 id="woolley.166" n=" Oranges and Lemons Preserved. " type="Section">
+            </div>
+            <div id="woolley.166" n=" Oranges and Lemons Preserved. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Oranges and Lemons
@@ -5912,8 +5912,8 @@ soak themselves  therein; in the morning  boil the Syrrup to a
 convenient thickness, then with it and the Oranges  and lemons, fill
 your Gally-pots, and keep them all the year; in this manner you may
 preserve Citrons.</p>
-            </div2>
-            <div2 id="woolley.167" n=" Goosberries Preserved. " type="Section">
+            </div>
+            <div id="woolley.167" n=" Goosberries Preserved. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Goosberries
@@ -5928,8 +5928,8 @@ in for every  pound of Goosberries a  spoonful of fair water, set them
 on the Embers till the Sugar be melted,  then boil them up  as fast as
 you can, till lthe Syrrup be thick enough; when cold, put them  up.
 In this manner  you may preserve Raspices and Mulberries.</p>
-            </div2>
-            <div2 id="woolley.168" n=" Preserved Roses, or any other Flowers.  " type="Section">
+            </div>
+            <div id="woolley.168" n=" Preserved Roses, or any other Flowers.  " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Preserved Roses,
@@ -5944,8 +5944,8 @@ white, put them in the cold Syrrup and cover  them; let your fire be
 very  soft that they may only simper two or three hours; then whilst
 they are  hot, put them out  into pots or glasses for your
 use.</p>
-            </div2>
-            <div2 id="woolley.169" n=" Cherries Preserved. " type="Section">
+            </div>
+            <div id="woolley.169" n=" Cherries Preserved. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Cherries
@@ -5958,8 +5958,8 @@ over a quick fire; and as they boil, throw on the rest of  the Sugar
 till the  Syrrup be thick enough; then take them out and put them into
 a Gally-pot  whilst they are  warm; it will not be amiss to add two or
 three spoonfuls of Rose-water to  them.</p>
-            </div2>
-            <div2 id="woolley.170" n=" Apricocks Preserved. " type="Section">
+            </div>
+            <div id="woolley.170" n=" Apricocks Preserved. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Apricocks
@@ -5975,8 +5975,8 @@ till they be tender and well  colour'd; and
 <pb n="189"/>
 after that, when they are cold, put them up in glasses or pots, which
 you  please:</p>
-            </div2>
-            <div2 id="woolley.171" n=" Green Walnuts Preserv'd. " type="Section">
+            </div>
+            <div id="woolley.171" n=" Green Walnuts Preserv'd. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Green Walnuts
@@ -5988,8 +5988,8 @@ to them as much Sugar as they  weigh, and a little  more water than
 will wet the Sugar, set them on a fire and when they boil  up, take
 them  off, and let them stand two days, then boil them again once
 more.</p>
-            </div2>
-            <div2 id="woolley.172" n=" Eringo-roots Preserv'd. " type="Section">
+            </div>
+            <div id="woolley.172" n=" Eringo-roots Preserv'd. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Eringo-roots
@@ -6004,8 +6004,8 @@ it  almost to the height  of a Syrrup, and, then put in your roots,
 but look that they boil but  gently together, and stir  them as little
 as may be, for fear of breaking; when they are cold, put  them up and
 keep  them.</p>
-            </div2>
-            <div2 id="woolley.173" n=" Ennula-Campana-roots Preserved. " type="Section">
+            </div>
+            <div id="woolley.173" n=" Ennula-Campana-roots Preserved. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title>
@@ -6021,8 +6021,8 @@ add twelve Ounces of Sugar, clarified first, boiling the Roots very
 tender,  then put them into this Sugar, and let them boil upon a
 gentle fire until  they be enough;  having stood a good while off the
 fire, put them up between hot and  cold.</p>
-            </div2>
-            <div2 id="woolley.174" n=" Conserve of Roses. " type="Section">
+            </div>
+            <div id="woolley.174" n=" Conserve of Roses. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Conserve of
@@ -6051,8 +6051,8 @@ and
 openeth the stopping of the Liver: the  other, that is Scabious,
 cleanseth the Breast and Lungs, takes away old  Coughs, and
 imposthumes of the Breast and inward parts.</p>
-            </div2>
-            <div2 id="woolley.175" n=" How to Candy all Sorts of Flowers as they grow  with their stalks on. " type="Section">
+            </div>
+            <div id="woolley.175" n=" How to Candy all Sorts of Flowers as they grow  with their stalks on. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> How to Candy all
@@ -6069,8 +6069,8 @@ feet thereof, then cover it with a fair  linnen-cloth, and set a
 Chafing-dish of coals in the midst of the stool underneath the sieve,
 and  the heat thereof  will will dry your Candy speedily, which will
 look very pleasantly, and  keep the whole  year.</p>
-            </div2>
-            <div2 id="woolley.176" n=" Candyed Eringo-roots. " type="Section">
+            </div>
+            <div id="woolley.176" n=" Candyed Eringo-roots. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Candyed
@@ -6083,8 +6083,8 @@ well, that it may be as clear as Crystal; it  being clarified, you
 must boil it to the height of Manus Christi, and then dip in your
 Roots  two or three at once  till they are all Candyed; put them in a
 Stove, and so keep them all the  year.</p>
-            </div2>
-            <div2 id="woolley.177" n=" The best and most approved way to dry Plumbs.  " type="Section">
+            </div>
+            <div id="woolley.177" n=" The best and most approved way to dry Plumbs.  " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> The best and most
@@ -6104,8 +6104,8 @@ them out, and wash the Syrrup from them in warm water, and wipe them
 dry  in a fine  Linnen-cloth, then set them on plates, and let them
 dry in a Stove; dry  them not in an Oven,  for then they will be
 tough.</p>
-            </div2>
-            <div2 id="woolley.178" n="Proper colours for fruitage." type="Section">
+            </div>
+            <div id="woolley.178" n="Proper colours for fruitage." type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title>Proper colours for fruitage. </head>
@@ -6113,8 +6113,8 @@ Companion: or, A Guide to the Female Sex.  </title>Proper colours for fruitage. 
                <p>Saffron is the best Yellow, Sap-green the best Green, Indian-lake
 the  best Red; all your  Colours must be temper'd with Gum-water made
 of Rose-water.</p>
-            </div2>
-            <div2 id="woolley.179" n=" Quince Marmelade. " type="Section">
+            </div>
+            <div id="woolley.179" n=" Quince Marmelade. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Quince
@@ -6131,8 +6131,8 @@ the rest of the juice amongst it, then
 wring it through a clean thin  cloth; seeth no more of this juice at
 once than will fill a box  therewith, and put white Sugar  to it, as
 much as you please.</p>
-            </div2>
-            <div2 id="woolley.180" n=" How to make Syrrup of Violets. " type="Section">
+            </div>
+            <div id="woolley.180" n=" How to make Syrrup of Violets. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> How to make Syrrup
@@ -6149,8 +6149,8 @@ of  this liquor thus prepared, one pound of Sugar finely beaten, boil
 it, and  keep it stirring till  all the Sugar be melted, which you
 must do, if you can, before it boil,  afterwards boil it up  with a
 quick fire.</p>
-            </div2>
-            <div2 id="woolley.181" n=" Syrup of Roses. " type="Section">
+            </div>
+            <div id="woolley.181" n=" Syrup of Roses. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Syrup of
@@ -6162,8 +6162,8 @@ it, then let them stand twelve  hours, wringing out  the Toses, and
 putting in new eight times, then wringing out the last,  put in the
 juice of  four ounces of Roses only, and so make it up as
 before.</p>
-            </div2>
-            <div2 id="woolley.182" n=" Syrrup of Coltsfoot. " type="Section">
+            </div>
+            <div id="woolley.182" n=" Syrrup of Coltsfoot. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Syrrup of
@@ -6197,8 +6197,8 @@ Cammomel, Succory,  Endive,  Strawberries, Fumitory, Groundear,
 Purslain, Sage, Scabious, Scordium,  Housleek, with  many more.  But
 enough of this; and therefore I shall next treat of
 Distillation.</p>
-            </div2>
-            <div2 id="woolley.183" n=" Of DISTILLATION. " type="Section">
+            </div>
+            <div id="woolley.183" n=" Of DISTILLATION. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Of
@@ -6220,8 +6220,8 @@ perfect  colour.</p>
                <p>Of precious and excellent Waters there are thousands, wherefore I
 shall only set down here  some of the choicest and most
 valuable.</p>
-            </div2>
-            <div2 id="woolley.184" n=" Dr. Stevens his famous Water. " type="Section">
+            </div>
+            <div id="woolley.184" n=" Dr. Stevens his famous Water. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Dr. Stevens his
@@ -6245,8 +6245,8 @@ preserveth Youth, comforteth  the Stomack, cureth the Stone of what
 nature soever using but two  spoonfuls in seven  days: It preserved
 Dr. Stevens ten years Bed-rid, that he lived to ninety  eight
 years.</p>
-            </div2>
-            <div2 id="woolley.185" n=" Aqua Mirabilis. " type="Section">
+            </div>
+            <div id="woolley.185" n=" Aqua Mirabilis. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Aqua
@@ -6264,8 +6264,8 @@ Heart-burn, and purgeth Melacholy and Flegm it expelleth Urine; it
 preserveth a Colour in  the Face; and is an utter enemy to the Palsey;
 take three spoonfuls of it  at a time, morning  and evening twice a
 week.</p>
-            </div2>
-            <div2 id="woolley.186" n=" A most approved Water for the Eyes. " type="Section">
+            </div>
+            <div id="woolley.186" n=" A most approved Water for the Eyes. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> A most approved
@@ -6280,8 +6280,8 @@ both  sides of the Egg, and  put the same into a Glass of fair
 running-water, and so let it stand a  while; then strain it  through a
 fair Linnen-cloth, and keep it close stopped in a Glass, and therewith
 wash your  Eyes morning and evening.</p>
-            </div2>
-            <div2 id="woolley.187" n=" An admirable Water against the Stone in the  Kidneys. " type="Section">
+            </div>
+            <div id="woolley.187" n=" An admirable Water against the Stone in the  Kidneys. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> An admirable Water
@@ -6296,8 +6296,8 @@ forth an Oyl,  and a Water;  separate the one from the other; ten or
 twelve drops being taken of this  Oyl every morning  in four or six
 spoonfuls of the said Water, dissolves the Stone and  Gravel in the
 Kidneys  most wonderfully.</p>
-            </div2>
-            <div2 id="woolley.188" n=" An excellent Water for the Worms. " type="Section">
+            </div>
+            <div id="woolley.188" n=" An excellent Water for the Worms. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> An excellent Water
@@ -6315,8 +6315,8 @@ three ounces, according to  the age and  strength of the person.</p>
 A small quantity for young Children will work the desired effect; it
 infallibly kills Stomack-worms, May-worms, or any other inwardly
 infesting the Body.</p>
-            </div2>
-            <div2 id="woolley.189" n=" An excellent artificial Wine like Claret, but  much better, and by many degrees brisker. " type="Section">
+            </div>
+            <div id="woolley.189" n=" An excellent artificial Wine like Claret, but  much better, and by many degrees brisker. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> An excellent
@@ -6336,8 +6336,8 @@ work by the  fire-side three or  four days; then turn it up, and let
 it stand a week, and then bottle it  up, and it will taste as  quick
 as the briskest liquor whatever, and is a very pleasant drink, and
 much wholsomer  than French-Wine.</p>
-            </div2>
-            <div2 id="woolley.190" n=" An Ointment for any Wound or Sore. " type="Section">
+            </div>
+            <div id="woolley.190" n=" An Ointment for any Wound or Sore. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> An Ointment for
@@ -6353,8 +6353,8 @@ a  Gally-pot, and keep it close  stopped, till
 you have cause to use it.  This is an approved Ointment for any Wound
 or 
 Sore, new or old.</p>
-            </div2>
-            <div2 id="woolley.191" n=" A Searcloth for all Aches. " type="Section">
+            </div>
+            <div id="woolley.191" n=" A Searcloth for all Aches. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> A Searcloth for
@@ -6369,8 +6369,8 @@ This  hath done many good when nothing else would.</p>
 the benefit of young Court Ladies and City Madams, I shall descend
 into  the Country, and find out something worth the observation of a
 Rural  Gentlewoman.</p>
-            </div2>
-            <div2 id="woolley.192" n=" What things belong to a Country Gentlewoman: Of  Daries, and making Butter and Cheese. " type="Section">
+            </div>
+            <div id="woolley.192" n=" What things belong to a Country Gentlewoman: Of  Daries, and making Butter and Cheese. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> What things belong
@@ -6436,8 +6436,8 @@ not above four in the Winter, if you  wil be alwayes  provided with
 the best and sweetest Butter: But before we speak of that,  I shall
 here insert  some excellent Receipts for made-Cream, &#x0026; Milk made
 better by art.</p>
-            </div2>
-            <div2 id="woolley.193" n=" How to make your ordinary clouted-Cream.  " type="Section">
+            </div>
+            <div id="woolley.193" n=" How to make your ordinary clouted-Cream.  " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> How to make your
@@ -6450,8 +6450,8 @@ stand there from morning to night, suffering it not  to boil by any
 means;  then take it off the fire, and set it in some place all night
 to cool, in  the morning dish off  your Cream, for it will be very
 thick.</p>
-            </div2>
-            <div2 id="woolley.194" n=" To make fresh Cheese in Cream. " type="Section">
+            </div>
+            <div id="woolley.194" n=" To make fresh Cheese in Cream. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> To make fresh
@@ -6465,8 +6465,8 @@ water, and searsed Ginger, and put to it a little Runner, and when it
 is  scummed bread it  up, and whey it, and put it into a Mould, and
 press it with your hand and  when it is well  wheyed put it into a
 Dish with Cream.</p>
-            </div2>
-            <div2 id="woolley.195" n=" Cream of Codins. " type="Section">
+            </div>
+            <div id="woolley.195" n=" Cream of Codins. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Cream of
@@ -6477,8 +6477,8 @@ scraped the pulps from  the cores, with a little Sugar and Rose-water,
 strain them, and lay. The  pulp of your  Codlins in a Dish, with as
 much raw Cream as you please about them; there  are several  other
 ways propounded, but this is most satisfactory to the Palar.</p>
-            </div2>
-            <div2 id="woolley.196" n=" To make a Junket. " type="Section">
+            </div>
+            <div id="woolley.196" n=" To make a Junket. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> To make a
@@ -6517,8 +6517,8 @@ such whose good Qualifications may not only render them fit for your
 employments,  but in the performance thereof they may credit the House
 wherein they  live, and profit their  own selves, to such therefore I
 direct my following advice.</p>
-            </div2>
-            <div2 id="woolley.197" n=" And first to all Gentlewomen, who though well  born are notwithstanding by indigency necessitated to serve some person  of Quality. " type="Section">
+            </div>
+            <div id="woolley.197" n=" And first to all Gentlewomen, who though well  born are notwithstanding by indigency necessitated to serve some person  of Quality. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> And first to all
@@ -6598,8 +6598,8 @@ compassionate the sick  and indigent:  for commonly
 <pb n="207"/>
 all good and charitable Ladies do make, this part of their
 House-keepers  business.</p>
-            </div2>
-            <div2 id="woolley.198" n=" To all Maidens, who desire to be Chamber-Maids  to persons of Quality. " type="Section">
+            </div>
+            <div id="woolley.198" n=" To all Maidens, who desire to be Chamber-Maids  to persons of Quality. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> To all Maidens,
@@ -6631,8 +6631,8 @@ It may be a fellow-servant may court you; but before you entertain the
 motion, consider  how you must live; by inconsiderately marrying you
 may have one joyful  meeting, and  ever after a sorrowful living, and
 have time to repent of your rash  matching,</p>
-            </div2>
-            <div2 id="woolley.199" n=" Instructions for all Nursery-Maids in Noble  Families. " type="Section">
+            </div>
+            <div id="woolley.199" n=" Instructions for all Nursery-Maids in Noble  Families. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Instructions for
@@ -6676,8 +6676,8 @@ them read if it be  imposed upon you, and be not too hasty with them;
 have a special care how  you behave  your self before them, neither
 speaking nor acting misbecomingly, left  your bad example  prove the
 subject of their imitation.</p>
-            </div2>
-            <div2 id="woolley.200" n=" Instructions for all Chamber-maids to  Gentle-women in City and Country. " type="Section">
+            </div>
+            <div id="woolley.200" n=" Instructions for all Chamber-maids to  Gentle-women in City and Country. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Instructions for
@@ -6721,8 +6721,8 @@ sparring so me money from superfluous expence, and over gaudy clothes
 for  to see a Maid finely trickt up, having a fine show without, and
 not one  good qualification within, is like a jointed Bartholomem-Baby
 bought for  no other use than to be look'd upon.</p>
-            </div2>
-            <div2 id="woolley.201" n=" Instrutions for Nursery-Maids to Gentlewomen,  both in London, an elsewhere. " type="Section">
+            </div>
+            <div id="woolley.201" n=" Instrutions for Nursery-Maids to Gentlewomen,  both in London, an elsewhere. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Instrutions for
@@ -6757,8 +6757,8 @@ her Children; and that Servant is over-fawcy  and ill natur'd who
 dares do it without her Mistresses privity and consent.</p>
                <p> This is your duty; and unless you can and will do this, never
 undertake this charge.</p>
-            </div2>
-            <div2 id="woolley.202" n=" Instructions for such who desire to be absolute  Cookmaids in good and great houses. " type="Section">
+            </div>
+            <div id="woolley.202" n=" Instructions for such who desire to be absolute  Cookmaids in good and great houses. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Instructions for
@@ -6803,8 +6803,8 @@ than gaudily fine.</p>
                <p> Take this in part of that good counsel I could give you, had I
 time;  which if you follow, the greatest benefit will be your own at
 last.</p>
-            </div2>
-            <div2 id="woolley.203" n=" Instructions for under-Cook-Maids. " type="Section">
+            </div>
+            <div id="woolley.203" n=" Instructions for under-Cook-Maids. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Instructions for
@@ -6832,8 +6832,8 @@ known a brave Gallant to fall foul with the Wench of the Skullery,
 when  some others  would have hazarded their life for one sole
 enjoyment of that  incomparable Lady his Wife,  he so ingratefully
 slighted.</p>
-            </div2>
-            <div2 id="woolley.204" n=" Instructions for Dairy-Maids in great Houses.  " type="Section">
+            </div>
+            <div id="woolley.204" n=" Instructions for Dairy-Maids in great Houses.  " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Instructions for
@@ -6860,8 +6860,8 @@ your credit, and not your shame, when they come to the Table.</p>
                <p> When you milk your Cattel, stroke them well, and in the
 Summer-time  save those strokings by themselves, to put into your
 morning-Milk-cheese.</p>
-            </div2>
-            <div2 id="woolley.205" n=" Instructions for Laundry-Maids in great Houses.  " type="Section">
+            </div>
+            <div id="woolley.205" n=" Instructions for Laundry-Maids in great Houses.  " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Instructions for
@@ -6882,8 +6882,8 @@ clean of such
 use  of, be kept clean,  and in good repair.</p>
                <p> That you rise early every morning, but more especially on
 Washing-days.</p>
-            </div2>
-            <div2 id="woolley.206" n=" Instructions for House-Maids in great Houses.  " type="Section">
+            </div>
+            <div id="woolley.206" n=" Instructions for House-Maids in great Houses.  " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> Instructions for
@@ -6903,8 +6903,8 @@ emptied and kept clean.</p>
                <p> That you help the Laundry-maid in a morning on a Washing-day.</p>
                <p> That in the Afternoon you be ready to help the House-keeper or the
 Waiting-woman in their Preserving and Distilling.</p>
-            </div2>
-            <div2 id="woolley.207" n=" To Scullery-Maids in great Houses. " type="Section">
+            </div>
+            <div id="woolley.207" n=" To Scullery-Maids in great Houses. " type="Section">
                <head>
                   <title> The Gentlewoman's
 Companion: or, A Guide to the Female Sex.  </title> To Scullery-Maids
@@ -6934,8 +6934,8 @@ patterns of Letter upon several occasions for your imitation.  I shall
 conclude at  present this Treatise with some witty Dialogues, or
 interchaneable  Discourses between  several of your Sex emi-nent for
 birth, worth, and ingenuity.</p>
-            </div2>
-            <div2 id="woolley.208" n=" Some general and choice Rules for writting of  Letters. " type="Letter">
+            </div>
+            <div id="woolley.208" n=" Some general and choice Rules for writting of  Letters. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Some
@@ -6975,8 +6975,8 @@ person.  This  matter you must know  varieth much according to the
 subject you write upon.  I shall endeavour  to treat a little of  all
 the common subjects which are the usual occasions of
 Letter-writing.</p>
-            </div2>
-            <div2 id="woolley.209" n="Of Intelligence or Advice. " type="Letter">
+            </div>
+            <div id="woolley.209" n="Of Intelligence or Advice. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>Of
@@ -6990,8 +6990,8 @@ word your  Matter well, and that you write not any thing undervisedly,
 which you  cannot justifie; but  above all, have a care of
 News-writing, if it nearly concern the State,  or any great person
 thereunto belonging.</p>
-            </div2>
-            <div2 id="woolley.210" n=" Of Friend-chastisement. " type="Letter">
+            </div>
+            <div id="woolley.210" n=" Of Friend-chastisement. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of
@@ -7019,8 +7019,8 @@ she  is absolutely one  of the finest Gentlewomen in Europe.  Then
 conclude, that you hope she  will take all in  good part; and that she
 will highly oblige you, to use the same freedom  as you have done with
 her, if she hears ought amiss.</p>
-            </div2>
-            <div2 id="woolley.211" n=" Of giving good Counsel. " type="Letter">
+            </div>
+            <div id="woolley.211" n=" Of giving good Counsel. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of
@@ -7055,8 +7055,8 @@ just your commands are, and how easily performed, adding the promise
 of a  reward, if  they fulfil your desire; but threats and menaces of
 punishment, if they  disobey; but  concluding, you hope to find them
 so towardly, that they will not need  correction.</p>
-            </div2>
-            <div2 id="woolley.212" n=" Of requesting a kindness. " type="Letter">
+            </div>
+            <div id="woolley.212" n=" Of requesting a kindness. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of
@@ -7085,8 +7085,8 @@ charity fixed in her heart.  Conclude with a  Prayer to God, so  to
 increase her felicity here, that she may never stand in need of a
 kindness from any till the  Almighty hath fixed on her head a Crown of
 Glory.</p>
-            </div2>
-            <div2 id="woolley.213" n=" Of Recommendation. " type="Letter">
+            </div>
+            <div id="woolley.213" n=" Of Recommendation. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of
@@ -7098,8 +7098,8 @@ doing as first, either as she is a Kinswoman, or Friend, and a person
 so  worthy as deserving all favour, that  were it not for her goodness
 and virtue, you would not utter a word in  her behalf; and  conclude;
 that what kindness is done her, is shewn to your  self.</p>
-            </div2>
-            <div2 id="woolley.214" n=" How elegantly to complain of injuries done.  " type="Letter">
+            </div>
+            <div id="woolley.214" n=" How elegantly to complain of injuries done.  " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> How
@@ -7120,8 +7120,8 @@ passion hath not quite extinguisht the eye of  reason, whether you are
 not very much wrong'd; however, upon a just acknowledgment, you are
 willing to  forget all, and retain him or her still in the estimation
 of a  friend.</p>
-            </div2>
-            <div2 id="woolley.215" n=" Forms of Address or Visit. " type="Letter">
+            </div>
+            <div id="woolley.215" n=" Forms of Address or Visit. " type="Letter">
                <head>
                   <title>The Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
 Forms of Address or Visit. </head>
@@ -7138,8 +7138,8 @@ continue that correspondence, she shall find occasion of  finding
 fault on  your side more of importunity than carelessness or neglect;
 and so  conclude with a  protesttation of the continuance of an
 inviolable friendship.</p>
-            </div2>
-            <div2 id="woolley.216" n=" Forms of Congratulation. " type="Letter">
+            </div>
+            <div id="woolley.216" n=" Forms of Congratulation. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -7153,8 +7153,8 @@ cannot prescribe  you exact rules; only you must testifie the great
 satisfaction you  receive in your friends welfare, and that your joy
 is not particular, but  all in general have it when good and virtuous
 persons are advanced, and  do prosper.</p>
-            </div2>
-            <div2 id="woolley.217" n="Of Consolation. " type="Letter">
+            </div>
+            <div id="woolley.217" n="Of Consolation. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>Of
@@ -7184,8 +7184,8 @@ immoderate grief doth but exasperate it; and that  being a Christian,
 there ought to be a submission to Gods Will, and subscribe with a
 prayer  to the Almighty,  to give him or her patience to overcome this
 great affliction.</p>
-            </div2>
-            <div2 id="woolley.218" n=" Form of thanks for Courtesies received.  " type="Letter">
+            </div>
+            <div id="woolley.218" n=" Form of thanks for Courtesies received.  " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Form
@@ -7295,8 +7295,8 @@ Superscription be very fair.</p>
                <p>Having given you general instructions how to compose and indite
 Letters, it follows that I  here insert some of the best patterns for
 your imitation.</p>
-            </div2>
-            <div2 id="woolley.219" n=" Letters upon all Occasions. " type="Letter">
+            </div>
+            <div id="woolley.219" n=" Letters upon all Occasions. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -7305,8 +7305,8 @@ Letters upon all Occasions. </head>
                <p>
                   <pb n="230"/>
                </p>
-            </div2>
-            <div2 id="woolley.220" n=" Of Complement. " type="Letter">
+            </div>
+            <div id="woolley.220" n=" Of Complement. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Of
@@ -7331,8 +7331,8 @@ obedience may oblige you to  believe that I  am,</p>
 and affectionate  Servant.</hi>
                   </signed>
                </closer>
-            </div2>
-            <div2 id="woolley.221" n=" Another of the like nature. " type="Letter">
+            </div>
+            <div id="woolley.221" n=" Another of the like nature. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -7359,8 +7359,8 @@ Servants, but never,</p>
 and faithful. </hi>
                   </signed>
                </closer>
-            </div2>
-            <div2 id="woolley.222" n=" Their Answers. " type="Letter">
+            </div>
+            <div id="woolley.222" n=" Their Answers. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -7385,8 +7385,8 @@ world  besides,</p>
 Servant. </hi>
                   </signed> 
                </closer>
-            </div2>
-            <div2 id="woolley.223" n=" Another Answer. " type="Letter">
+            </div>
+            <div id="woolley.223" n=" Another Answer. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -7412,8 +7412,8 @@ passion I have to maintain the  quality of,</p>
 Servant.</hi> 
                   </signed> 
                </closer>
-            </div2>
-            <div2 id="woolley.224" n=" A Letter from a Gentlewoman at a Boarding-School  in Hackney, to her quondam School- fellow in London. " type="Letter">
+            </div>
+            <div id="woolley.224" n=" A Letter from a Gentlewoman at a Boarding-School  in Hackney, to her quondam School- fellow in London. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> A
@@ -7443,8 +7443,8 @@ dearest friend,</p>
                   </salute> 
                   <signed> M.G.</signed>
                </closer>
-            </div2>
-            <div2 id="woolley.225" n=" The Answer to it. " type="Letter">
+            </div>
+            <div id="woolley.225" n=" The Answer to it. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> The
@@ -7474,8 +7474,8 @@ elaborate Elocutors which shall express my self to be,</p>
                   </salute> 
                   <signed> S.L.</signed> 
                </closer>
-            </div2>
-            <div2 id="woolley.226" n=" From the above-nam'd M.G. to the said S.L.  acknowledging her and her School-fellows sorrow for her absence, giving an account of the accustomed care of her  Governess. " type="Letter">
+            </div>
+            <div id="woolley.226" n=" From the above-nam'd M.G. to the said S.L.  acknowledging her and her School-fellows sorrow for her absence, giving an account of the accustomed care of her  Governess. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> From
@@ -7525,8 +7525,8 @@ Friend,</hi>
                   </salute> 
                   <signed> M.G.</signed>
                </closer>
-            </div2>
-            <div2 id="woolley.227" n=" The Answer. " type="Letter">
+            </div>
+            <div id="woolley.227" n=" The Answer. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> The
@@ -7559,8 +7559,8 @@ and  Servant,</hi>
                   </salute> 
                   <signed> S. L.</signed>
                </closer>
-            </div2>
-            <div2 id="woolley.228" n=" To a Kinswoman discoursing about Fashions.  " type="Letter">
+            </div>
+            <div id="woolley.228" n=" To a Kinswoman discoursing about Fashions.  " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> To a
@@ -7599,8 +7599,8 @@ and therfore will easily  pardon this humour of</p>
                   </salute>
                   <signed/>
                </closer>
-            </div2>
-            <div2 id="woolley.229" n=" A Letter from one Lady to another, condemning  Artificial-beauty. " type="Letter">
+            </div>
+            <div id="woolley.229" n=" A Letter from one Lady to another, condemning  Artificial-beauty. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> A
@@ -7673,8 +7673,8 @@ favour, you will infinitely oblige her, who is</p>
                   <signed> Your most
 humble and affectionate Servant </signed>
                </closer>
-            </div2>
-            <div2 id="woolley.230" n=" The Answer of an ingenious Lady. " type="Letter">
+            </div>
+            <div id="woolley.230" n=" The Answer of an ingenious Lady. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> The
@@ -7763,8 +7763,8 @@ who I, </p>
                   <signed> Tour most
 devoted Servant, etc. </signed>
                </closer>
-            </div2>
-            <div2 id="woolley.231" n=" A Lady to her Daughter, perswading her from  wearing Spots and Balck-patches in her face. " type="Letter">
+            </div>
+            <div id="woolley.231" n=" A Lady to her Daughter, perswading her from  wearing Spots and Balck-patches in her face. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> A
@@ -7802,8 +7802,8 @@ and rest</p>
                   </salute> 
                   <signed> M.N.</signed>
                </closer>
-            </div2>
-            <div2 id="woolley.232" n=" The Answer of a dutiful Daughter. " type="Letter">
+            </div>
+            <div id="woolley.232" n=" The Answer of a dutiful Daughter. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> The
@@ -7862,8 +7862,8 @@ over her, who is</p>
                   <signed> Your most
 humble and most obedient Daughter, S.N.</signed>
                </closer>
-            </div2>
-            <div2 id="woolley.233" n=" Love protested, with its Repulse. " type="Letter">
+            </div>
+            <div id="woolley.233" n=" Love protested, with its Repulse. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> Love
@@ -7891,8 +7891,8 @@ condition, I shall greedily subscribe my self,</p>
                   </salute>
                   <signed/>
                </closer>
-            </div2>
-            <div2 id="woolley.234" n=" The Answer. " type="Letter">
+            </div>
+            <div id="woolley.234" n=" The Answer. " type="Letter">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> The
@@ -7929,8 +7929,8 @@ English,  Mr. Howel, and Mr. Lovedays Ingenious Letters, with many
 more; every  Booksellers- shop affording great plenty.  And now to
 conclude, pray accept of these  ingenious  Dialogues, which will tend
 as well to your further instruction, as  recreation.</closer>
-            </div2>
-            <div2 id="woolley.235" n=" Pleasant Discourses and witty Dialogues between  Males and Females, as well gentiliz'd by Birth as accomplish by generous  Education. " type="Dialogues &#x0026; Discourses">
+            </div>
+            <div id="woolley.235" n=" Pleasant Discourses and witty Dialogues between  Males and Females, as well gentiliz'd by Birth as accomplish by generous  Education. " type="Dialogues &#x0026; Discourses">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -8072,8 +8072,8 @@ smother</l>
 gentle fire; </l>
                   <l>Scorning the forgetful Lake.</l>
                </sp>
-            </div2>
-            <div2 id="woolley.236" n=" Addresses of Love and Service, from Exotus to  Aurelia. " type="Dialogues &#x0026; Discourses">
+            </div>
+            <div id="woolley.236" n=" Addresses of Love and Service, from Exotus to  Aurelia. " type="Dialogues &#x0026; Discourses">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>
@@ -8180,8 +8180,8 @@ guidance of my love by the light of that fire your fair self hath
 kindled, which when your Luminaries are by death extinct, shall never
 be  extinguished. </l>
                </sp>
-            </div2>
-            <div2 id="woolley.237" n="A merry Dialogue between on ingenious Gentlewoman and a Poetaster or Rimer. " type="Dialogues &#x0026; Discourses">
+            </div>
+            <div id="woolley.237" n="A merry Dialogue between on ingenious Gentlewoman and a Poetaster or Rimer. " type="Dialogues &#x0026; Discourses">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>A
@@ -8329,8 +8329,8 @@ bastinado with Sapphicks, and whip to death with Phaleucruhis.</l>
 self, 'tis no matter which of them you take to free the world of such
 an  insufferable burthen.  Adieu.</l>
                </sp>
-            </div2>
-            <div2 id="woolley.238" n="A form of Discourse at a casnal meeting between Silvester and Sylvia. " type="Dialogues &#x0026; Discourses">
+            </div>
+            <div id="woolley.238" n="A form of Discourse at a casnal meeting between Silvester and Sylvia. " type="Dialogues &#x0026; Discourses">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>A
@@ -8372,8 +8372,8 @@ you so  much commend; wherefore pray desist, and in this company
 select some  better subject to e xercise your wit and language
 on.</l>
                </sp>
-            </div2>
-            <div2 id="woolley.239" n=" A method of Courtship on fair  and honourable terms." type="Dialogues &#x0026; Discourses">
+            </div>
+            <div id="woolley.239" n=" A method of Courtship on fair  and honourable terms." type="Dialogues &#x0026; Discourses">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> A
@@ -8460,8 +8460,8 @@ thank you as heartily; I will not rest a minute till I know my
 sentence  of life or death, which consists, in the refusal of my love,
 or its  acceptance.</l>
                </sp>
-            </div2>
-            <div2 id="woolley.240" n="An impertinent and lying Travellers Discourse with his witty and Jocose Mistress. " type="Dialogues &#x0026; Discourses">
+            </div>
+            <div id="woolley.240" n="An impertinent and lying Travellers Discourse with his witty and Jocose Mistress. " type="Dialogues &#x0026; Discourses">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>An
@@ -8658,8 +8658,8 @@ landed at  Trigstairs.</l>
 between you and truth is so great, that there cannot be expected a
 reconcilement; wherefore I shall leave you.</l>
                </sp>
-            </div2>
-            <div2 id="woolley.241" n="A Gentleman accidentally hapning into a room where a Company of Ladies were well known to him. " type="Dialogues &#x0026; Discourses">
+            </div>
+            <div id="woolley.241" n="A Gentleman accidentally hapning into a room where a Company of Ladies were well known to him. " type="Dialogues &#x0026; Discourses">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title>A
@@ -8735,8 +8735,8 @@ wherefore your Servant, Ladies.</l>
                <p>
                   <hi rend="BOLD"> F I N I S. </hi>
                </p>
-            </div2>
-            <div2 id="woolley.242" n=" An Advertisement. " type="Section">
+            </div>
+            <div id="woolley.242" n=" An Advertisement. " type="Section">
                <head>
                   <title> The
 Gentlewoman's Companion: or, A Guide to the Female Sex.  </title> An
@@ -8772,8 +8772,8 @@ Box; the  Numbers and Prices being as followeth:</p>
                <p>The least Box containing 20 Pills, sold for 4 s.</p>
                <p>The middle Box containing 40 Pills, sold for 8 s.</p>
                <p>The large Box containing 60 Pills, sold for 12 s.</p>
-            </div2>
-            <div2 id="woolley.243" n=" Books Printed for, and sold by Edward Thomas Bookseller, at the Adam and Eve in Little-Brittain. " type="Section">
+            </div>
+            <div id="woolley.243" n=" Books Printed for, and sold by Edward Thomas Bookseller, at the Adam and Eve in Little-Brittain. " type="Section">
                <head>
                   <title> The Gentlewoman's Companion: or, A Guide to the Female
 Sex.  </title> Books Printed for, and sold by Edward Thomas
@@ -8968,8 +8968,8 @@ Scholars; writing Paper of all sorts, Pens, Ink,  Wax, Pencils.   Here
 you may have all sorts of Books Bound at reasonable Rates.  Also  here
 is sold Dr.  Bocketts Tincture of the Sun, in Glass Bottles sealed up,
 at 3 s. the  Glass.</p>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </body>
    </text>
 </TEI.2>

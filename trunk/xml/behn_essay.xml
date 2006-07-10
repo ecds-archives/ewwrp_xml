@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="behn-essay.001" n=" An Essay on Translated Prose" type="text">
+         <div id="behn-essay.001" n=" An Essay on Translated Prose" type="text">
             <docAuthor>Behn, Aphra. </docAuthor>
             <head>An Essay on Translated Prose</head>
             <docDate> 1700</docDate>
@@ -126,7 +126,7 @@ Editions of the Bible, are best able to reconcile any apparent Differences; and 
             <p>I have laid the Scene at <hi rend="ITALIC">Paris</hi>, where the Original was writ; and have translated the Book near the Words of the Author.  I have made bold to correct a Fault of the <hi rend="ITALIC">French</hi> Copy, as to the heighth of our Air or Sphere of Activity of the Earth, which the <hi rend="ITALIC">French </hi>Copy makes twenty or thirty Leagues, I call it two or three, because sure this was a Fault of the Printer, and not a Mistake of the Author.  For Monsieur <hi rend="ITALIC">Des Cartes</hi>, and Monsieur <hi rend="ITALIC">Rohalt</hi>, both assert it to be but two or three Leagues.  I thought <hi rend="ITALIC">Paris</hi> and St. <hi rend="ITALIC"> Denis</hi> fitter to be made use of as Examples, to compare the Earth and Moon to, than <hi rend="ITALIC">London </hi>and <hi rend="ITALIC">Greenwich</hi>; because St. <hi rend="ITALIC"> Denis </hi>having several Steeples and Walls, is more like<hi rend="ITALIC"> Paris </hi>than <hi rend="ITALIC">Greenwich</hi> is to <hi rend="ITALIC">London:  Green-
 <pb n="20"/>
 Greenwich </hi>has do Walls, and but one very low Steeple, not to be seen from the Monument without a Prospective-glass.  And I resolv'd either to give you the <hi rend="ITALIC">French</hi> Book into<hi rend="ITALIC"> English </hi>or to give you the Subject quite changed and made my own; but having neither Health nor Leisure for the last, I offer you the first, such as it is.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

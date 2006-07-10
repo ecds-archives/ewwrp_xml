@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="follen-morning.001" n=" A Morning Walk" type="article">
+         <div id="follen-morning.001" n=" A Morning Walk" type="article">
             <docAuthor>Follen, Eliza Lee. </docAuthor>
             <head>
                <title> A Morning Walk</title>
@@ -100,7 +100,7 @@ hardening influence of the contempt in which their race is held, if they still h
 <pb n="109"/>
 ular place in the garret, and there she folded her hands and made a low courtesy, and with the deepest feeling of reverence said, " I thank you, God."</p>
             <p>Oh that the day might be at hand when all her brothers and sisters in our country may have cause for an equal gratitude; oh that their chains might be struck off, their rights restored, their wounds healed, the hitherto untouched springs of joy opened in their hearts, and that these, our fellow beings, might for a while leave their labors, and, dressed in their holiday clothes, bow the knee before the Father of mercies, and with hearts full of devotion and joy, unite with one voice in saying, "we thank you, God."</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

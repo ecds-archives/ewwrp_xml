@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="blakeruler.001" n="Who Shall Be Ruler?" type="Essay">
+         <div id="blakeruler.001" n="Who Shall Be Ruler?" type="Essay">
             <docAuthor>Lillie Devereux Blake</docAuthor>
             <head>Who Shall Be Ruler?</head>
             <docDate>June 28, 1871</docDate>
@@ -75,7 +75,7 @@ Women Writers Resource Project at Emory University</p>
             <p>Whether by this singular process of ratiocination he maintained any greater independence, I am unable to state.</p>
             <p>Now that the opportunities of women in education and business are constantly extending, we may hope for a corresponding increase in the ranks of women who have that self-assertion which honest money earners deserve.</p>
             <p>Beyond this right of dictation in money matters, there can be no talk of master or inferior in a truly harmonious marriage. Where love is "lord of all," both husband and wife will think more of making each other happy than of who shall be ruler.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

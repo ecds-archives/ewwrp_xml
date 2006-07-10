@@ -68,7 +68,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="egerton.001" n=" Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, c. of Woman. Written by a Lady in Vindication of her Sex." type="introduction">
+         <div id="egerton.001" n=" Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, c. of Woman. Written by a Lady in Vindication of her Sex." type="introduction">
             <docAuthor>Egerton, Sarah Fyge. </docAuthor>
             <head>
                <title> Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, &#x0026;c. of Woman. Written by a Lady in Vindication of her Sex.</title>
@@ -86,7 +86,7 @@ London:<lb/>
 Printed by H. C. for John Taylor, at the Globe in St. Pauls-Church_Yard.<lb/>
 1686.<lb/>
             </p>
-            <div2 id="egerton.002" n="Egerton: To the Reader" type="part">
+            <div id="egerton.002" n="Egerton: To the Reader" type="part">
                <head>Egerton: To the Reader</head>
                <p>To the Reader.</p>
                <p>That which makes many Books come abroad into the World without Prefaces,
@@ -125,9 +125,9 @@ Article of my Faith, being assured that Heaven is for all those whose
 Purity and Obedience to its Law, qualifies them for it, whether Male or
 Female; to which Place the latter seem to have the Claim, is the Opinion of
 one of its Votaires, S. F.</p>
-            </div2>
-         </div1>
-         <div1 id="egerton.003" n=" Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, c. of Woman. Written by a Lady in Vindication of her Sex." type="poem">
+            </div>
+         </div>
+         <div id="egerton.003" n=" Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, c. of Woman. Written by a Lady in Vindication of her Sex." type="poem">
             <docAuthor>Egerton, Sarah Fyge</docAuthor>
             <head>Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, &#x0026;c. of Woman. Written by a Lady in Vindication of her Sex.</head>
             <p>The Female Advocate, or An Answer to a late Satyr against the Pride, Lust
@@ -849,7 +849,7 @@ and Inconstancy, &#x0026;c. of woman.</p>
                <l>Bless'd with the Joys that Heaven can always give.</l>
             </lg>
             <p>FINIS.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

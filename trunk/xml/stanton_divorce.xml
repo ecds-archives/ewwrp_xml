@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="stantond.001" n="The Need of Liberal Divorce Laws" type="Essay">
+         <div id="stantond.001" n="The Need of Liberal Divorce Laws" type="Essay">
             <docAuthor>Elizabeth Cady Stanton</docAuthor>
             <head>The Need of Liberal Divorce Laws</head>
             <docDate>1884</docDate>
@@ -114,7 +114,7 @@ with despair for ages and deluged nations in blood; but the right of individual 
                <note id="sd2" n="**" anchored="yes">
                   <hi rend="bold">**</hi> See Denton <hi rend="italic">vs.</hi>English. 3. Brev., p. 147; also Canady <hi rend="italic">v.</hi> George, 6. Rich. Eq., p. 103.</note>
             </p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <front>
-         <div1 id="manley.001" n=" The Lost Lover: Preface" type="play">
+         <div id="manley.001" n=" The Lost Lover: Preface" type="play">
             <docAuthor>Manley, Mary de la Riviere. </docAuthor>
             <head>
                <title> The Lost Lover: Preface</title>
@@ -143,8 +143,8 @@ bare Name of being a Woman's Play damn'd it beyond its own want of Merit: I
 will conclude with Dionysius, 'That Plato and Philosophy have taught me to
 bear so great a Loss (even of fame) with Patience.</p>
             <pb/>
-         </div1>
-         <div1 id="manley.002" n="Manley:  The Lost Lover: Prologue" type="PROLOGUE">
+         </div>
+         <div id="manley.002" n="Manley:  The Lost Lover: Prologue" type="PROLOGUE">
             <docAuthor>Manley: The Lost Lover: Prologue</docAuthor>
             <head>Manley: <hi rend="bold"> The Lost Lover: Prologue</hi>
             </head>
@@ -181,8 +181,8 @@ Spoken by Mr. Horden.</p>
                <l>And therefore she resolved to Coppy you.</l>
             </lg>
             <pb/>
-         </div1>
-         <div1 id="manley.003" n="Manley:  The Lost Lover: Epilogue" type="EPILOGUE">
+         </div>
+         <div id="manley.003" n="Manley:  The Lost Lover: Epilogue" type="EPILOGUE">
             <docAuthor>Manley: The Lost Lover: Epilogue</docAuthor>
             <head>Manley: <hi rend="bold"> The Lost Lover: Epilogue</hi>
             </head>
@@ -218,10 +218,10 @@ Spoken by Miss Cross.</p>
                <l>The Coming Age might profit by the past.</l>
             </lg>
             <pb/>
-         </div1>
+         </div>
       </front>
       <body>
-         <div1 id="manley.004" n="Manley:  The Lost Lover: Characters" type="character list">
+         <div id="manley.004" n="Manley:  The Lost Lover: Characters" type="character list">
             <docAuthor>Manley: The Lost Lover: Characters</docAuthor>
             <head>Manley: <hi rend="bold"> The Lost Lover: Characters</hi>
             </head>
@@ -250,15 +250,15 @@ Servants.<lb/>
 SCENE in London.<lb/>
             </p>
             <pb/>
-         </div1>
-         <div1 id="manley.005" n="Manley:  The Lost Lover: Act I" type="ACT">
+         </div>
+         <div id="manley.005" n="Manley:  The Lost Lover: Act I" type="ACT">
             <docAuthor>Manley: The Lost Lover: Act I</docAuthor>
             <head>Manley: <hi rend="bold"> The Lost Lover: Act I</hi>
             </head>
             <docDate> 1696</docDate>
             <p>THE<lb/>
 Lost Lover, &#x0026;c.</p>
-            <div2 id="manley.006" n="ACT I. SCENE 1." type="SCENE">
+            <div id="manley.006" n="ACT I. SCENE 1." type="SCENE">
                <p>ACT I. SCENE 1.</p>
                <stage rend="italic" type="mix">The Lady Young-Love's House<lb/>
 Enter Wildman and Ready.</stage>
@@ -747,14 +747,14 @@ I trust her not, and cannot be deceive'd.</l>
                </sp>
                <stage rend="italic" type="mix">[exit Omnes.</stage>
                <pb n="9"/>
-            </div2>
-         </div1>
-         <div1 id="manley.007" n="Manley:  The Lost Lover: Act II" type="ACT">
+            </div>
+         </div>
+         <div id="manley.007" n="Manley:  The Lost Lover: Act II" type="ACT">
             <docAuthor>Manley: The Lost Lover: Act II</docAuthor>
             <head>Manley: <hi rend="bold"> The Lost Lover: Act II</hi>
             </head>
             <docDate> 1696</docDate>
-            <div2 id="manley.008" n="ACT II. Scene I." type="SCENE">
+            <div id="manley.008" n="ACT II. Scene I." type="SCENE">
                <p>ACT II. Scene I.</p>
                <stage rend="italic" type="mix">St. James's Park.<lb/>
 Enter Smyrna and Olivia.</stage>
@@ -1283,14 +1283,14 @@ I'll be certain to wait upon you.</p>
                </sp>
                <stage rend="italic" type="mix">[Exeunt severally.</stage>
                <pb n="17"/>
-            </div2>
-         </div1>
-         <div1 id="manley.009" n="Manley:  The Lost Lover: Act III" type="ACT">
+            </div>
+         </div>
+         <div id="manley.009" n="Manley:  The Lost Lover: Act III" type="ACT">
             <docAuthor>Manley: The Lost Lover: Act III</docAuthor>
             <head>Manley: <hi rend="bold"> The Lost Lover: Act III</hi>
             </head>
             <docDate> 1696</docDate>
-            <div2 id="manley.010" n="ACT III. SCENE I." type="SCENE">
+            <div id="manley.010" n="ACT III. SCENE I." type="SCENE">
                <p>ACT III. SCENE I.</p>
                <stage rend="italic" type="mix">Enter Knowlittle and his Man Timothy.</stage>
                <sp>
@@ -1582,8 +1582,8 @@ we do but our honest endeavours thereto.</p>
                   <p>Come, let's go in and pray, to morrow may but prove as good a Day.</p>
                </sp>
                <stage rend="italic" type="mix">[Exeunt Omnes.</stage>
-            </div2>
-            <div2 id="manley.011" n="SCENE II." type="SCENE">
+            </div>
+            <div id="manley.011" n="SCENE II." type="SCENE">
                <pb n="21"/>
                <p>SCENE II.</p>
                <stage rend="italic" type="mix">Lady Young Loves House.<lb/>
@@ -1768,14 +1768,14 @@ Country is worth ten Suppers; but be-dad, I must not tell my Mistress so
 till I am her Master. Come along.</p>
                </sp>
                <stage rend="italic" type="mix">[Exeunt omnes.</stage>
-            </div2>
-         </div1>
-         <div1 id="manley.012" n="Manley:  The Lost Lover: Act IV" type="ACT">
+            </div>
+         </div>
+         <div id="manley.012" n="Manley:  The Lost Lover: Act IV" type="ACT">
             <docAuthor>Manley: The Lost Lover: Act IV</docAuthor>
             <head>Manley: <hi rend="bold"> The Lost Lover: Act IV</hi>
             </head>
             <docDate> 1696</docDate>
-            <div2 id="manley.013" n="ACT IV. SCENE I." type="SCENE">
+            <div id="manley.013" n="ACT IV. SCENE I." type="SCENE">
                <p>ACT IV. SCENE I.</p>
                <stage rend="italic" type="mix">Lady Young Loves House.<lb/>
 The Scene opens, and discovers Lady Young Love, Marina, Sir Amorous
@@ -2352,14 +2352,14 @@ I'll watch the falling of the Golden Shower,
 And reap my Harvest in the shining Hour.</p>
                </sp>
                <stage rend="italic" type="mix">[Exeunt omnes.</stage>
-            </div2>
-         </div1>
-         <div1 id="manley.014" n="Manley:  The Lost Lover: Act V" type="ACT">
+            </div>
+         </div>
+         <div id="manley.014" n="Manley:  The Lost Lover: Act V" type="ACT">
             <docAuthor>Manley: The Lost Lover: Act V</docAuthor>
             <head>Manley: <hi rend="bold"> The Lost Lover: Act V</hi>
             </head>
             <docDate> 1696</docDate>
-            <div2 id="manley.015" n="ACT V. SCENE I." type="SCENE">
+            <div id="manley.015" n="ACT V. SCENE I." type="SCENE">
                <p>ACT V. SCENE I.</p>
                <stage rend="italic" type="mix">Olivia's Chamber. Olivia and Phoebe.</stage>
                <sp>
@@ -2651,8 +2651,8 @@ be no more sure of Love, than Money; 'tis not ours till we have it in
 Possession.</p>
                </sp>
                <stage rend="italic" type="mix">[Exeunt omnes.</stage>
-            </div2>
-            <div2 id="manley.016" n="SCENE II" type="SCENE">
+            </div>
+            <div id="manley.016" n="SCENE II" type="SCENE">
                <p>SCENE II</p>
                <stage rend="italic" type="mix">Lady Young Loves House.</stage>
                <p>SONG and MUSICK.</p>
@@ -3082,8 +3082,8 @@ going to be married think her.</p>
                <p>But Time will shew the Cheat, and you shall find<lb/>
 The Goddess is as fickle as she's kind.</p>
                <p>FINIS.</p>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </body>
    </text>
 </TEI.2>

@@ -60,7 +60,7 @@ Women Writers Resource Prroject at Emory University</p>
    </teiHeader>
    <text>
       <front>
-         <div1 id="quaker.001" n=" Introduction to A Testimony for Truth against all Hireling-Priests and Deceivers . . . .   1655;  A Warning to all Friends who Professeth the Everlasting Truth . . . .  " type="Introduction">
+         <div id="quaker.001" n=" Introduction to A Testimony for Truth against all Hireling-Priests and Deceivers . . . .   1655;  A Warning to all Friends who Professeth the Everlasting Truth . . . .  " type="Introduction">
             <docAuthor>Enright, Amy. </docAuthor>
             <head> Introduction to <title>A Testimony for Truth against all Hireling-Priests and Deceivers . . . .  
 1655;  A Warning to all Friends who Professeth the Everlasting Truth . . . .  </title>
@@ -280,8 +280,8 @@ Line 72: pretious...precious<lb/>Line 108: faln...fallen<lb/>Line 157: pretious.
                <hi rend="italic">A Warning to all Friends Who Professeth the Everlasting Truth</hi> (London, 1679) Publisher unknown.<lb/>Text locations in England and the United States: British Museum, Cambridge University, The Friend's Library, Bevan-Naish Library at Birmingham, Durham University, John Rylands University Library at Manchester, York Minster;  HENRY E. HUNTINGTON LIBRARY at San Marino, CA<hi rend="italic">,</hi> Newberry Library, Earlham College, Harvard University, Union Theological Seminary, Library Company of Philadelphia, Folger Shakespeare Library, Yale University.</p>
             <p>Boulbie, Judith. <lb/>
                <hi rend="italic">A Testimony of Truth against all Hire-ling Priests and Deceivers</hi> (London, 1665) Publisher unknown.<lb/>Text locations in England and the United States: THE BRITISH MUSEUM, The Friend's Library,Bevan-Naish Library at Birmingham; Haverford College, Swathmore College, Yale University.</p>
-         </div1>
-         <div1 id="quaker.002" n=" Notes to Introduction to A Testimony for Truth against all Hireling-Priests and Deceivers . . . . 1655;  A Warning to all Friends who Professeth the Everlasting Truth . . . .  " type="Notes">
+         </div>
+         <div id="quaker.002" n=" Notes to Introduction to A Testimony for Truth against all Hireling-Priests and Deceivers . . . . 1655;  A Warning to all Friends who Professeth the Everlasting Truth . . . .  " type="Notes">
             <docAuthor>Enright, Amy. </docAuthor>
             <head> Notes to Introduction to <title>A Testimony for Truth against all Hireling-Priests and Deceivers . . . .
 1655;  A Warning to all Friends who Professeth the Everlasting Truth . . . . </title> 
@@ -685,10 +685,10 @@ Line 72: pretious...precious<lb/>Line 108: faln...fallen<lb/>Line 157: pretious.
                <note id="quaker.002.n98" n="98" anchored="yes">
                   <hi rend="bold">98</hi>  Smith, (volume 1) p. 307.</note>
             </p>
-         </div1>
+         </div>
       </front>
       <body>
-         <div1 id="quaker.003" n=" A Testimony for Truth AGAINST  ALL Hireling-Priests and Deceivers: With a Cry to the Inhabitants of this Nation, to turn to the Lord, before his dread-ful Judgements overtake them. Also a Testimony against all Observers of Times and Dayes." type="Text">
+         <div id="quaker.003" n=" A Testimony for Truth AGAINST  ALL Hireling-Priests and Deceivers: With a Cry to the Inhabitants of this Nation, to turn to the Lord, before his dread-ful Judgements overtake them. Also a Testimony against all Observers of Times and Dayes." type="Text">
             <docAuthor>Boulbie, Judith. </docAuthor>
             <head>
                <title> A Testimony for Truth . . .</title>
@@ -722,8 +722,8 @@ Divination of their own Brains,  but not one word from the Mouth of the Lord; th
                <l>that  lodgeth in thine Heart.</l>
             </lg>
             <pb/>
-         </div1>
-         <div1 id="quaker.004" n=" A Testimony for Truth against all Ob-servers of Times and Dayes." type="Text">
+         </div>
+         <div id="quaker.004" n=" A Testimony for Truth against all Ob-servers of Times and Dayes." type="Text">
             <docAuthor>Boulbie, Judith. </docAuthor>
             <head>
                <title> A Testimony for Truth against all Ob-servers of Times and Dayes.</title>
@@ -736,8 +736,8 @@ Generations, comes to be revealed, even by him who was found worthy to open the 
                </hi>
                <hi rend="bold">T H E   E N D.</hi>
             </p>
-         </div1>
-         <div1 id="quaker.005" n=" Text Glossary for Judith Boulbie." type="Glossary">
+         </div>
+         <div id="quaker.005" n=" Text Glossary for Judith Boulbie." type="Glossary">
             <docAuthor>Enright, Amy. </docAuthor>
             <head> Text Glossary for Judith Boulbie.</head>
             <docDate>1997</docDate>
@@ -840,8 +840,8 @@ Generations, comes to be revealed, even by him who was found worthy to open the 
             <p>
                <note id="quaker.005.njb33" n="JB33" anchored="yes">Line 179-183, <hi rend="bold">Parable...Judah</hi>: The passages for Rev. 5 both precede and follow Boulbie1/4s citation. Within the chapter, Jesus is described as the Lamb, the Lion of the tribe of Judah and the Root of David who, by virtue of his sacrificial death, is worthy to break the first of the seals to the Book of the Apocalypse. He therefore ushers in the end of the world, a time when all parables and holy mysteries come to fruition. Because Jesus has redeemed humankind by his death, he is praised by all creation. Rev 5:12 ...Worthy is the Lambe that was slaine, to receive power, and riches, and wisedome, and strength, and honour, and glory, and blesssing. Boulbie seems to be echoing this list of praise in her closing words.</note>
             </p>
-         </div1>
-         <div1 id="quaker.006" n=" A WARNING TO ALL FRIENDS Who Professeth the   Everlasting Truth of God, which he hath Revealed and made manifest in this his Blessed Day, (whether on this Side, or beyond the Seas.)" type="Text">
+         </div>
+         <div id="quaker.006" n=" A WARNING TO ALL FRIENDS Who Professeth the   Everlasting Truth of God, which he hath Revealed and made manifest in this his Blessed Day, (whether on this Side, or beyond the Seas.)" type="Text">
             <docAuthor>White, Mary. </docAuthor>
             <head>
                <title> A WARNING TO ALL FRIENDS . . . </title>
@@ -861,8 +861,8 @@ Generations, comes to be revealed, even by him who was found worthy to open the 
             <p>Now unto all you young people Sons and Daughters, Apprentices, Men or Maids, Servants,  all that are convinced of Gods truth and the way that leads to everlasting life and happiness, be you all faithful to Gods witness in you, and mind the motions and opperations of it,  that thereby you may be changed, and all judge out whats contrary to his pure witness,  let not your minds wander, neither look out at the vanities in this world, for Christs Kingdome is not of it,  nor to be found in Pride, wantonness and lusts of the flesh ; The fashions, Customes, and friendships of this world.  For the Devil is the King of pride,  and all its attendants <pb/>that leads to the gates of Hell and everlasting destruction, where is the Woe and Misery and that<ref target="quaker.007.nmw41">41</ref> for evermore ,  there the worm never dyes<ref target="quaker.007.nmw42">42</ref>, the fire never goes out, so all you young and tender ones, where desires are begotten after God, keep you low in his fear,  and to the daily Cross  that all the contrary may be crucified, and all the Enmitie slain upon it.  For every one that will be a disciple of Christ Jesus , must come into the selfdenying life,  (you cannot have two Kingdomes<ref target="quaker.007.nmw43">43</ref>,) So my advice to you all is, stoop to Christs appearance in you, he who Invites all to come<ref target="quaker.007.nmw44">44</ref> and learn of him , who is meek and lowly and you  hall find rest for your souls.   So all be faithful in your several places and the exercises<ref target="quaker.007.nmw45">45</ref> you may be under,  that you may grow in grace and in the feare and wisdome of God,  let not your eyes look out at others, but mind<ref target="quaker.007.nmw46">46</ref> your own Conditions; for if you do, it will Spye many faults in others, and may be over look more at home,  This hinders the growth of many, so all waite low within to feel your growth in the Blessed truth, and know how the work goes on,  and whether thou feels Gods love, mercy and goodness Renewed to thee day by day , or not, for your accounts will be for the deeds done in your bodyes and not for others, so every one is to labour to know your calling<ref target="quaker.007.nmw47">47</ref> and election made sure.</p>
             <p>And you that are Apprentices keep in the truths love and obey it, for it will keep you faithful in your places and (out of every deceitful way) performing them not with eye-service<ref target="quaker.007.nmw48">48</ref> but with singlenese of heart,  as unto the Lord,  from whom you must receive a Reward.   And if the enemy entice,  consent not.  Though he come in with never so fair pretences ; that thou may'st deceive thy Master, and it will never be known &#x0026;c.  Or purloin or waste his Goods, believe him not, he is a Liar<ref target="quaker.007.nmw49">49</ref> and the Father of lies, for there is an Eye<ref target="quaker.007.nmw50">50</ref> that sees in secret, which will bring all the hidden deeds of darkness to Light and every worke to judgement,  So as thy worke <pb/>is, shall be thy Reward.  But fear the Lord and obey his voice in thee, and he will deliver<ref target="quaker.007.nmw51">51</ref> thee out of every unclean way, and polluted path, by his dear Son Christ Jesus whom he hath given for a high way of Holyness, and a Restorer of paths to dwell in, Glory to his Name for ever, saith the Redeemed<ref target="quaker.007.nmw52">52</ref>, who is now returning unto Sion with Songs of diliverance in their mouths; and everlasting high praises is founded unto him,  by those<ref target="quaker.007.nmw53">53</ref>  whose garments are made white in the blood of the Lamb, for Sions Redeemer<ref target="quaker.007.nmw54">54</ref> is come,  the taker away of  in and iniquity is made manifest, the mourners in Sion comforted, The weary Travelers are Refresed, The feeble knees are strengthened, the broken Spirit bound up, and the wounded Soul hath oil poured in,  who can but rejoyce and be exceedingly glad,  for he hath put a new Song in our mouths,  he hath given his people beauty for Ashes, and in stead of heavinesse the  pirit of praise, all that know him will speak well of his name,  for all the Noble Acts he hath brought to pass for his Children.  My soul is greatly affected in the Remembrance of the Lords numberlesse mercyes (to me) and a little Remnant<ref target="quaker.007.nmw55">55</ref> whom he hath pluck'd as Brands out of the fire,  to shew forth his praises and declare of his goodnesse in the Land of the living, to hold forth Christ (the way to the Father,) To the Nations, that his scattered seed may be gathered from all the ends of the earth.</p>
             <p>So I have cleared my Spirit of what hath long lain upon me, and discharged my Conscience in delivering the Lords Message faithfully according to the ability he hath given me.  And so am clear in my spirit : The Lord set it home upon every heart whom it may concerne, and that it may be Received, in the same bowels of love it was given forth.  Then shall I receive my reward; and the Lord his Glory. And so shall to return<ref target="quaker.007.nmw56">56</ref> to my Tent, and enter into the hole of the <pb/>Rock, where safetie is to be found, til the indignation be overpast, and in the endless unchangable love of God, do I Salute you, and bid you Farewel in the Lord.Mary WaiteYork 10th 2nd Month<ref target="quaker.007.nmw57">57</ref> 1679 Let this be Read in Friends meetings, when they are gathered together, in the fear of the Lord, and in his weightie<ref target="quaker.007.nmw58">58</ref>, savoury Life</p>
-         </div1>
-         <div1 id="quaker.007" n=" Text Glossary for Mary Waite." type="Glossary">
+         </div>
+         <div id="quaker.007" n=" Text Glossary for Mary Waite." type="Glossary">
             <docAuthor>Enright, Amy. </docAuthor>
             <head> Glossary for Text of Mary Waite.</head>
             <docDate>1997</docDate>
@@ -1040,15 +1040,15 @@ Generations, comes to be revealed, even by him who was found worthy to open the 
             <p>
                <note id="quaker.007.nmw58" n="MW58" anchored="yes">Line 287, <hi rend="bold">weightie</hi>:  'weightie' was understood to mean spiritually significant or important. It was generally used to describe certain Quakers, especially Fox and those of the community who attended the business and yearly meetings. (See Baubour and Frost, p. 68-69)</note>
             </p>
-         </div1>
+         </div>
       </body>
       <back>
-         <div1 id="quaker.008" n=" Bibliography for Judith Boulbie and Mary Waite. " type="Bibliography">
+         <div id="quaker.008" n=" Bibliography for Judith Boulbie and Mary Waite. " type="Bibliography">
             <docAuthor>Enright, Amy. </docAuthor>
             <head>
                <title> Bibliography for Judith Boulbie and Mary Waite. </title>
             </head>
-            <div2 id="quaker.009" n="Primary Sources: " type="Bibliography">
+            <div id="quaker.009" n="Primary Sources: " type="Bibliography">
                <head>Primary Sources: </head>
                <p>
                   <bibl>
@@ -1076,8 +1076,8 @@ Generations, comes to be revealed, even by him who was found worthy to open the 
                      </imprint>
                   </bibl>
                </p>
-            </div2>
-            <div2 id="quaker.010" n="Secondary Sources:" type="Bibliography">
+            </div>
+            <div id="quaker.010" n="Secondary Sources:" type="Bibliography">
                <head>Secondary Sources:</head>
                <p>
                   <bibl>
@@ -1478,8 +1478,8 @@ Generations, comes to be revealed, even by him who was found worthy to open the 
                      </imprint>
                   </bibl>
                </p>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </back>
    </text>
 </TEI.2>

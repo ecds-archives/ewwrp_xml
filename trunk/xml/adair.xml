@@ -95,7 +95,7 @@
    </teiHeader>
    <text>
       <body>
-         <div1 id="adair.001" n="Tahlequah" type="poem">
+         <div id="adair.001" n="Tahlequah" type="poem">
             <docAuthor>Adair, Lena Harnage</docAuthor>
             <head>Tahlequah</head>
             <docDate>1916</docDate>
@@ -194,7 +194,7 @@
             <note anchored="yes">
                <p> Kihegas-Leading men </p>
             </note>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

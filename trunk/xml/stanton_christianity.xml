@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="stantonc.001" n="Has Christianity Benefited Woman?" type="Essay">
+         <div id="stantonc.001" n="Has Christianity Benefited Woman?" type="Essay">
             <docAuthor>Elizabeth Cady Stanton</docAuthor>
             <head>Has Christianity Benefited Woman?</head>
             <docDate>1885</docDate>
@@ -108,7 +108,7 @@ make the surplices and gowns, get up the fairs and donation parties, and are the
                <note id="sc2" n="**" anchored="yes">
                   <hi rend="bold">**</hi> See Lecky's "History of Rationalism."</note>
             </p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

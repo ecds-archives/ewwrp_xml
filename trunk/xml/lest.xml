@@ -55,7 +55,7 @@
    </teiHeader>
    <text>
       <front>
-         <div1 id="lest.front" type="Foreword">
+         <div id="lest.front" type="Foreword">
             <head>FOREWORD.</head>
             <p>THIS book is inscribed to every individual woman and girl of Great Britain who to-day is bearing so heroically--so uncomplainingly--her own share of Britain's burden in this Great War. She is asked to give of her dearest and her best, to see the man she loves--husband, son, sweetheart or friend--go to fight his country's battles, to fight in the cause of justice and humanity and honour whilst she--mother, wife or sweetheart--must perforce stay at home and strive with all her might to hide her tears, to keep back the one little word which perhaps would shake the loved one's resolution, the one little word which might unnerve him and cause him to stay by her side. Indeed, the burden laid upon all the women and girls of Great Britain is no light one! and they are bearing it with all the heroism of their race. Their sorrow is great--and in that sorrow but one solace is left to them--that of thinking and planning and working for </p>
             <pb n="8 FOREWORD"/>
@@ -65,11 +65,11 @@
             <trailer>
                <hi rend="italic">Snowfield, Bearsted, Kent.</hi>
             </trailer>
-         </div1>
+         </div>
       </front>
       <body>
-         <div1 id="lest01" n="Lest We Forget" type="Anthology">
-            <div2 id="lest02" n="The Roll of Honour" type="poem">
+         <div id="lest01" n="Lest We Forget" type="Anthology">
+            <div id="lest02" n="The Roll of Honour" type="poem">
                <pb n="17 LEST WE FORGET"/>
                <head rend="center">THE ROLL OF HONOUR.</head>
                <lg type="stanza">
@@ -100,8 +100,8 @@
                <trailer>
                   <hi rend="italic">Daily Chronicle.</hi>
                </trailer>
-            </div2>
-            <div2 id="lest03" n="The Women of Belgium to the Women of England" type="poem">
+            </div>
+            <div id="lest03" n="The Women of Belgium to the Women of England" type="poem">
                <pb n="24 LEST WE FORGET"/>
                <head rend="center">THE WOMEN OF BELGIUM TO THE WOMEN OF ENGLAND.</head>
                <lg type="stanza">
@@ -129,8 +129,8 @@
                <trailer>
                   <hi rend="italic">The Queen.</hi>
                </trailer>
-            </div2>
-            <div2 id="lest04" n="Le Jour Des Morts" type="poem">
+            </div>
+            <div id="lest04" n="Le Jour Des Morts" type="poem">
                <pb n="25 LEST WE FORGET"/>
                <head rend="center">LE JOUR DES MORTS.</head>
                <lg type="stanza">
@@ -186,8 +186,8 @@
                   <l>The souls that have passed away.</l>
                </lg>
                <byline>FRANCES CHESTERTON.</byline>
-            </div2>
-            <div2 id="lest05" n="Suspense" type="poem">
+            </div>
+            <div id="lest05" n="Suspense" type="poem">
                <pb n="30 LEST WE FORGET"/>
                <head rend="center">SUSPENSE.</head>
                <lg type="stanza">
@@ -209,8 +209,8 @@
                <trailer>
                   <hi rend="italic">The Queen.</hi>
                </trailer>
-            </div2>
-            <div2 id="lest06" n="Called Up!" type="poem">
+            </div>
+            <div id="lest06" n="Called Up!" type="poem">
                <pb n="37 LEST WE FORGET"/>
                <head rend="center">CALLED UP!</head>
                <lg type="stanza">
@@ -237,8 +237,8 @@
                <trailer>
                   <hi rend="italic">The Queen.</hi>
                </trailer>
-            </div2>
-            <div2 id="lest07" n="Winter Night" type="poem">
+            </div>
+            <div id="lest07" n="Winter Night" type="poem">
                <pb n="76 LEST WE FORGET"/>
                <head rend="center">WINTER NIGHT.</head>
                <lg type="stanza">
@@ -281,8 +281,8 @@
                <trailer>
                   <hi rend="italic">British Review.</hi>
                </trailer>
-            </div2>
-            <div2 id="lest08" n="Reason and Honour" type="poem">
+            </div>
+            <div id="lest08" n="Reason and Honour" type="poem">
                <pb n="84 LEST WE FORGET"/>
                <head rend="center">REASON AND HONOUR.</head>
                <lg type="stanza">
@@ -370,8 +370,8 @@
                <trailer>
                   <hi rend="italic">English Review.</hi>
                </trailer>
-            </div2>
-            <div2 id="lest09" n="Mediation in War-Time" type="poem">
+            </div>
+            <div id="lest09" n="Mediation in War-Time" type="poem">
                <pb n="90 LEST WE FORGET"/>
                <head rend="center">MEDIATION IN WAR-TIME</head>
                <head rend="center">(<hi rend="italic">After St. Anselm.</hi>)</head>
@@ -412,8 +412,8 @@
                <trailer>
                   <hi rend="italic">New Witness.</hi>
                </trailer>
-            </div2>
-            <div2 id="lest10" n="Mater Dolorosa" type="poem">
+            </div>
+            <div id="lest10" n="Mater Dolorosa" type="poem">
                <pb n="95 LEST WE FORGET"/>
                <head rend="center">MATER DOLOROSA.</head>
                <lg type="stanza">
@@ -453,8 +453,8 @@
                <trailer>
                   <hi rend="italic">British Review.</hi>
                </trailer>
-            </div2>
-            <div2 id="lest11" n="Abi, Viator---" type="poem">
+            </div>
+            <div id="lest11" n="Abi, Viator---" type="poem">
                <pb n="97 LEST WE FORGET"/>
                <head rend="center">ABI, VIATOR---.</head>
                <lg type="stanza">
@@ -501,8 +501,8 @@
                <trailer>
                   <hi rend="italic">British Review.</hi>
                </trailer>
-            </div2>
-            <div2 id="lest12" n="A Re Alberto" type="poem">
+            </div>
+            <div id="lest12" n="A Re Alberto" type="poem">
                <pb n="99 LEST WE FORGET"/>
                <head rend="center">A RE ALBERTO.</head>
                <head rend="center">Saluto Italico.</head>
@@ -531,8 +531,8 @@
                <trailer>
                   <hi rend="italic">Times.</hi>
                </trailer>
-            </div2>
-            <div2 id="lest13" n="A Tribute From Italy" type="poem">
+            </div>
+            <div id="lest13" n="A Tribute From Italy" type="poem">
                <pb n="100 LEST WE FORGET"/>
                <head rend="center">A TRIBUTE FROM ITALY.</head>
                <lg type="stanza">
@@ -551,8 +551,8 @@
                <trailer>
                   <hi rend="italic">Times.</hi>
                </trailer>
-            </div2>
-            <div2 id="lest14" n="Non-Combatant" type="poem">
+            </div>
+            <div id="lest14" n="Non-Combatant" type="poem">
                <pb n="117 LEST WE FORGET"/>
                <head rend="center">NON-COMBATANT.</head>
                <lg type="stanza">
@@ -590,8 +590,8 @@
                <trailer>
                   <hi rend="italic">Westminster Gazette</hi>
                </trailer>
-            </div2>
-            <div2 id="lest15" n="War" type="poem">
+            </div>
+            <div id="lest15" n="War" type="poem">
                <pb n="130 LEST WE FORGET"/>
                <head rend="center">WAR.</head>
                <lg type="stanza">
@@ -622,8 +622,8 @@
                <trailer>
                   <hi rend="italic">August 1st.</hi>
                </trailer>
-            </div2>
-            <div2 id="lest16" n="Sonnet" type="poem">
+            </div>
+            <div id="lest16" n="Sonnet" type="poem">
                <pb n="131 LEST WE FORGET"/>
                <head rend="center">SONNET.</head>
                <lg type="sonnet">
@@ -646,8 +646,8 @@
                <trailer>
                   <hi rend="italic">September 1st.</hi>
                </trailer>
-            </div2>
-            <div2 id="lest17" n="Sonnet" type="poem">
+            </div>
+            <div id="lest17" n="Sonnet" type="poem">
                <pb n="132 LEST WE FORGET"/>
                <head rend="center">SONNET.</head>
                <lg type="sonnet">
@@ -670,8 +670,8 @@
                <trailer>
                   <hi rend="italic">October 1st.</hi>
                </trailer>
-            </div2>
-            <div2 id="lest18" n="One Night" type="poem">
+            </div>
+            <div id="lest18" n="One Night" type="poem">
                <pb n="133 LEST WE FORGET"/>
                <head rend="center">ONE NIGHT.</head>
                <lg type="couplet">
@@ -756,8 +756,8 @@
                <trailer>
                   <hi rend="italic">English Review.</hi>
                </trailer>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </body>
    </text>
 </TEI.2>

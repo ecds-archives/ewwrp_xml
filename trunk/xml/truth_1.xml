@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="truth1.001" n="Sojourner Truth" type="Essay">
+         <div id="truth1.001" n="Sojourner Truth" type="Essay">
             <docAuthor>Staff</docAuthor>
             <head>
                <hi rend="center">Sojourner Truth</hi>
@@ -80,7 +80,7 @@ Women Writers Resource Project at Emory University</p>
             <p>Then they couldn't be polite enough to her, and "Mrs. Sojourner will you have this and will you have that," was all the style, etc. She told of her trouble about riding in the street cars at Washington; how the conductors turned her out and turned their backs when she wanted to get in, once she yelled and yelled, and made Washington ring until the carriages and passersby and the car stopped: then she got aboard. The conductor ordered her out. "No," she said, "I am a passenger." "Go out, or I'll throw you out." "Do it, if you dare!" The conductor caught her by the arm. Whereupon she had him fined for "salt and battery," and "didn't have no more trouble." Once, two "kind of ladies" got in and crowded away from her as far as they could. She sat still and straight, never noticing them. "Conductor! Conductor!" said they, "do niggers ride in this car? Well, there should be a nigger car." She told them, "No! street cars were for niggers and poor whites-gentry rode in carriages." The ladies left.</p>
             <p>Her speech, which was about half an hour's duration, was thus made up of the disconnected remarks of which we have given a sample. At its conclusion a collection was taken up to help pay off the mortgage on her place. She also offered photographs of herself, remarking that some might like to see her shadow after she had gone, and adding, that as the substance had often been sold, it was quite a pleasure for her to sell the shadow herself.</p>
             <p>The collection amounted to the snug sum of $45.00; sale of photographs, $21.00; total, $66.00.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

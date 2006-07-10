@@ -54,11 +54,11 @@
    </teiHeader>
    <text>
       <front>
-         <div1 id="atomic.001" n="Introduction to The Life and Works of Margaret (Lucas) Cavendish" type="Introduction">
+         <div id="atomic.001" n="Introduction to The Life and Works of Margaret (Lucas) Cavendish" type="Introduction">
             <docAuthor>Partington, Leigh Tillman. </docAuthor>
             <head>Introduction to <title>The Life and Works of Margaret (Lucas) Cavendish</title>
             </head>
-            <div2 id="atomic.002" n="Introduction" type="Section">
+            <div id="atomic.002" n="Introduction" type="Section">
                <p>Margaret Lucas was born in 1623, the youngest of the eight children born to Thomas Lucas and Elizabeth Leighton Lucas.<ref target="atomic.008.n1">1</ref> The Lucas family had been in the process of upward mobility, yet a double scandal in Thomas Lucas's youth effectively halted the family's progression. In 1597, Thomas Lucas had killed a relative of Lord Cobham in a duel and was forced to flee to France. Elizabeth Leighton was pregnant by Lucas at the time of the duel, and his exile caused their first child to be born out of wedlock. When Lucas could finally return safely to England, he married Elizabeth, but the damage was done. Their oldest son was disbarred from inheriting his father's estate and, as Sara Heller Mendelson points out, although &#x0022;[a] list of Essex royalists drawn up in 1643 ranked the Lucas rentals second in the county. . . . the same list accorded the Lucas family only sixth place in social standing&#x0022; (12).</p>
                <p>Thomas Lucas died in 1625, and Elizabeth took over the family, running the estate in joint supervision with her second oldest son, John. One of her first actions was to attempt to have her poor rates reduced, an action which did not endear her to the peasants living on her land. Elizabeth arranged marriages for her children outside the county, preferring the children of courtiers and businessmen to the local gentry. This isolation affected young Margaret Lucas in two ways.</p>
                <p>First of all, her social skills were very undeveloped. Since the family was not on friendly terms with the local gentry, Margaret must have missed ample opportunities to mix with others of her social class and learn from childhood the intricate set of social codes and customs practiced by the upper classes. She was also shy; again, perhaps from not having contact with many people besides her own family. Since her brothers and sisters married out of the county, she did not see much of her extended family either.</p>
@@ -94,8 +94,8 @@
                <p>Mendelson suggests that the visit had a profoundly negative effecton Cavendish:</p>
                <p>The year before, in the preface to <title>Observations Upon Experimental Philosophy</title>, Margaret had asserted that Hooke's microscopic investigations set forth in his <title>Micrographia</title> were the product of delusions. But the testimony of her own eyes proved that her methodology of &#x0022;rational conjecture&#x0022; was mistaken. . . . Margaret made her last attempt at a comprehensive synthesis of her theories in <title>Grounds of Natural Philosophy</title> (1668), a much revised version of <title>Philosophical and Physical Opinions</title> (1655). But after her visit to the Royal Society Margaret's succeeding scientific publications were second or third editions, not original works: she printed no new revelations on natural philosophy (47-48).</p>
                <p>Mendelson does admit, eleven pages later, that Cavendish's chief occupation during the last years of her life was the management of her husband's estate, rather than science (59). Cavendish suffered from amenorrhea and melancholy, and despite her doctor's advice to the contrary, she bled herself regularly as treatment for these two conditions. This habit of bleeding might have hastened her death, and would have weakened her considerably in her later years. Regardless, Cavendish died in December of 1673, at age fifty. Newcastle outlived her by three years.</p>
-            </div2>
-            <div2 id="atomic.003" n="Cavendish:  The New Science and Cavendish" type="Section">
+            </div>
+            <div id="atomic.003" n="Cavendish:  The New Science and Cavendish" type="Section">
                <head>Cavendish:  The New Science and Cavendish</head>
                <p>In order to fully understand Cavendish's atomic poems, one must understand the state of science in the seventeenth century. Reading the poems in the light of twentieth century science renders them ridiculous, and supports the idea that Cavendish was mentally unstable. A brief overview of the science of the times, however, allows a more contemporary reading of Cavendish.</p>
                <p>The Scientific Revolution was a revolution in both thought and methodology. European science in the fifteenth and sixteenth centuries had been heavily involved in alchemy, astrology, and magic <ref target="atomic.008.n9">9</ref>. The Renaissance brought about the dissolution of boundaries, as exemplified by the quintessential Renaissance man, Leonardo da Vinci. da Vinci was not a good scientist by modern standards because he left behind no inventions, no scientific theory, no mathematical innovations. What da Vinci did have was a brilliant scientific imagination and instinct, and the patience to observe the world around him very carefully. One legacy he bequeathed to later science was the method of scientific illustration (Gardner 530). He left behind notebooks filled with sketches and conjectures on every subject: hydraulics, aerodynamics, anatomy, medicine, optics, meterology, architecture, sculpture, perspective, light, color, mechanics, botany, geology, zoology, and military engineering. In terms of the history of art, his application of mathematics and geometry to painting resulted in innovations in linear perspective and aerial perspective. He also reintroduced and refined the fifteenth century technique of chiaroscuro, the play of light and shadow(Gardner 527).</p>
@@ -169,8 +169,8 @@
                <p>The organic and vitalistic quality of Margaret Cavendish's natural philosophy distinguished it from the mechanistic systems of Hobbes and Descartes. While the duchess shared their fascination with matter and motion, she denied that insensible matter, without self-movement, could produce an ordered universe. Likewise, she rejected the argument of the Cambridge Platonists who claimed that the universe was animated and moved by an immaterial spirit. It was impossible in her view that an immaterial spirit could affect and cause alteration in material being. Cavendish's natural philosophy is much more closely related to the organic theories of the Renaissance natural magicians and the vitalistic thought of the chemists of the sixteenth and seventeenth century, and to some aspects of the thought of Pierre Gassendi, with whose works she was probably familiar through the intermediacy of Charles Cavendish and Walter Charleton.</p>
                <p>The implicit unity of her own system circumvented the anarchy of pure atomism: hierarchy therefore replaces egalitarianism as the best ordering device in both nature and society (297).</p>
                <p>The atomic poems may be read without the context of Cavendish's life and the Scientific Revolution as background, but I think an understanding of the seventeenth century is vital to a true understanding of the science of Margaret Cavendish and why she should not be dismissed, either from the history of literature, nor from the history of science. As a woman writing poetry about atomic theory in the seventeenth century, she is assuredly unique, but as a woman re-visioning her environment and creating various utopian visions of both her world and other worlds, she allows the twentieth-century reader a picture of a creative, and sadly under-educated, seventeenth-century mind.</p>
-            </div2>
-            <div2 id="atomic.004" n="Cavendish:  A Note on the Text " type="Section">
+            </div>
+            <div id="atomic.004" n="Cavendish:  A Note on the Text " type="Section">
                <head>Cavendish:  A Note on the Text </head>
                <p>I have modernized the lowercase &#x0022;s&#x0022; and &#x0022;f,&#x0022; and regulated the spacing. All spelling, capitalization, italics, and punctuation are faithful to the 1653 original. The footnotes were written by Margaret Cavendish and printed as marginalia only in the 1653 edition. I have used the margin for glossing vocabulary and line numbers, and so moved Cavendish's notes to the bottom of the page. Although later editions of texts are generally considered more authoritative, this does not hold true for Cavendish's early manuscripts. In the 1660s, Cavendish, according to Mendelson, hired an &#x0022;anonymous drudge to 'correct' the stylistic errors of her earliest works for second editions&#x0022; (42). We cannot be sure how closely she supervised this editing process, and considering her opinion of her own grammatical skills, I think she would have left it in the hands of an expert. Also, as noted earlier in the introduction, by the time <title>Philosophicall Fancies </title>was published later in 1653, Cavendish had discarded her theory of atoms. Therefore, if she was responsible for any changes made in the later two editions, those changes might reflect her disinterest, and in fact, disbelief, in atomic theory. I have chosen to work with the 1653 edition for these reasons: the poems are purely Cavendish's work, reflecting her enthusiasm for her own interpretation of atomic theory.<ref target="atomic.008.n18">18</ref> Comparing the same poem from each edition illustrates the minor differences:</p>
                <p>Cavendish:  <hi rend="Bold">
@@ -208,12 +208,12 @@
                   <l>That into every empty place it goes.</l>
                </lg>
                <p>The meaning does not change, but the spelling improves somewhat, the rhymes are polished, and the meter flows a little more smoothly. The later version may be a better poem, but it lacks the spontaneity of the poet tacking &#x0022;right&#x0022; onto the fourth line in pursuit of a rhyme for &#x0022;alike.&#x0022; It isn't a good rhyme, but it adds the energy and joy to the first edition that I think the second edition lacks. In the interest of editorial fairness, however, a facsimile reproduction of both editions of these selected poems appears in Appendices A and B.</p>
-            </div2>
-         </div1>
-         <div1 id="atomic.005" n="Timeline for Margaret (Lucas) Cavendish" type="timeline">
+            </div>
+         </div>
+         <div id="atomic.005" n="Timeline for Margaret (Lucas) Cavendish" type="timeline">
             <docAuthor>Partington, Leigh Tillman. </docAuthor>
             <head>Timeline for Margaret (Lucas) Cavendish</head>
-            <div2 id="atomic.006" n="Cavendish:  Selected Western Events Surrounding the Life of Margaret (Lucas) Cavendish, Duchess of Newcastle 16" type="timeline">
+            <div id="atomic.006" n="Cavendish:  Selected Western Events Surrounding the Life of Margaret (Lucas) Cavendish, Duchess of Newcastle 16" type="timeline">
                <head>Cavendish:  Selected Western Events Surrounding the Life of Margaret (Lucas) Cavendish, Duchess of Newcastle <ref target="atomic.008.n16">16</ref>
                </head>
                <p>
@@ -338,8 +338,8 @@
                   <hi rend="Bold">1678</hi> Dom P&#x00E9;rignon invents champagne. Edmond Halley publishes a catalogue of 341 southern stars, the first systematic astronomical observations of the skies over the far southern hemisphere.</p>
                <p>
                   <hi rend="Bold">1682</hi> Isaac Newton's <hi rend="Italic">Philosophiae Naturalis principia mathematica</hi>, establishes Newton's three laws of motion and the law of universal gravity; the Principia becomes the basis for the development of theoretical mechanics over the next 200 years. First sighting of Halley's comet.</p>
-            </div2>
-            <div2 id="atomic.007" n="Cavendish:  Chronology of Military and Political Events in Seventeenth-Century England " type="chronology">
+            </div>
+            <div id="atomic.007" n="Cavendish:  Chronology of Military and Political Events in Seventeenth-Century England " type="chronology">
                <head>Cavendish:  Chronology of Military and Political Events in Seventeenth-Century England </head>
                <p>The seventeenth century was a tumultuous time in England, and this study, although mainly concered with science and literature, does not pretend to exist in a vacuum. For those interested in a general outline of the military and political events, I have included the following chronology, compiled by Antonia Fraser for her book The Weaker Vessel, which may be used as an orienting device for those familiar with the history of the seventeenth century or a starting point for those wishing to explore the topic more thoroughly:</p>
                <p>
@@ -440,9 +440,9 @@
                   <hi rend="Bold">1701</hi> Act of Settlement passed</p>
                <p>
                   <hi rend="Bold">1702</hi> Death of William III; accession of Anne</p>
-            </div2>
-         </div1>
-         <div1 id="atomic.008" n="Notes to The Atomic Poems of Margaret (Lucas) Cavendish" type="notes">
+            </div>
+         </div>
+         <div id="atomic.008" n="Notes to The Atomic Poems of Margaret (Lucas) Cavendish" type="notes">
             <docAuthor>Partington, Leigh Tillman. </docAuthor>
             <head>Notes to <title>The Atomic Poems</title> of Margaret (Lucas) Cavendish</head>
             <note id="atomic.008.n1" n="1" type="ED" place="END" anchored="yes">
@@ -481,12 +481,12 @@
                <hi rend="Bold">17</hi> "When [Cavendish's] dialogue between Melancholy and Mirth [from <hi rend="Italic">Poems, and fancies</hi>] was reprinted a hundred years later, Mr. Town praised it extremely in the <hi rend="Italic">Connoisseur</hi>, No.69. He saw Margaret as in a vision leap upon Pegasus, her old-fashioned fantastic habit fluttering in the wind, and gallop off helter-skelter. 'However, it was aknowledged, that she kept a firm seat, even when the horse when at his deepest rate; and that she wanted nothing but to ride with a curb-bridle.' He watched Shakespeare and Milton step forward to hand her down and suggested darkly, and wildly, that Milton had collected some hints for <hi rend="Italic">L'Allegro</hi> and <hi rend="Italic">Il Penseroso</hi> from the dialogue between Melancholy and Mirth" (Grant 121)</note>
             <note id="atomic.008.n18" n="18" type="ED" place="END" anchored="yes">
                <hi rend="Bold">18</hi>Douglas Grant assumes that Cavendish corrected her earlier editions herself, but he also prefers the earliest editions:  &#x0022;The revisions were technically an improvement but, as they were insufficient in themselves to raise her poetry higher, they hindered the sincerity and spontaneity of her expression by their superficial polish. Rough and ragged though they are, her poems are to be preferred in their earlier shape&#x0022; (113)</note>
-         </div1>
+         </div>
       </front>
       <body>
          <div0 id="atomic.009" n="The Atomic Poems" type="TEXTS">
             <p>Cavendish:  The Atomic Poems: Margaret (Lucas) Cavendish</p>
-            <div1 id="atomic.010" n="To Natural Philosophers. " type="POEM">
+            <div id="atomic.010" n="To Natural Philosophers. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>To<hi rend="ITALIC"> Natural </hi>Philosophers. </title>
@@ -605,8 +605,8 @@
                   <l>
                      <hi rend="ITALIC">I'm not bound to fetch you</hi> Wit <hi rend="ITALIC">from</hi> NaturesStore. </l>
                </lg>
-            </div1>
-            <div1 id="atomic.011" n="A World made by Atomes. " type="POEM">
+            </div>
+            <div id="atomic.011" n="A World made by Atomes. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>
@@ -635,8 +635,8 @@
                   <l>And thus, by chance, may a <hi rend="ITALIC">New World</hi> create:</l>
                   <l>Or else predestined to worke my <hi rend="ITALIC">Fate</hi>.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.012" n="The foure principall Figur'd Atomes makethe foure Elements, as Square, Round, Long, and Sharpe. " type="POEM">
+            </div>
+            <div id="atomic.012" n="The foure principall Figur'd Atomes makethe foure Elements, as Square, Round, Long, and Sharpe. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>
@@ -696,8 +696,8 @@
                   <l>Thus severall <hi rend="ITALIC">Figures</hi>, severall tempers make,</l>
                   <l>But what is mixt, doth of the <hi rend="ITALIC">Four</hi> partake.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.013" n="Of Aiery Atomes. " type="POEM">
+            </div>
+            <div id="atomic.013" n="Of Aiery Atomes. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>
@@ -720,8 +720,8 @@
                   <l>And like two <hi rend="ITALIC">Twins</hi>, mistaken they are oft;</l>
                   <l>Because their hollownesse makes them both soft.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.014" n="Of Aire. " type="POEM">
+            </div>
+            <div id="atomic.014" n="Of Aire. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>
@@ -742,8 +742,8 @@
                   <l>And thus being thin, it so subtle growes,</l>
                   <l>That into every empty place it goes. [10]</l>
                </lg>
-            </div1>
-            <div1 id="atomic.015" n="Of Earth. " type="POEM">
+            </div>
+            <div id="atomic.015" n="Of Earth. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>
@@ -768,8 +768,8 @@
                   <l>But <hi rend="ITALIC">Atomes flat</hi> will dull, and lazy lay,</l>
                   <l>Having no Edge, or point to make a <hi rend="ITALIC">Way</hi>.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.016" n="The weight of Atomes. " type="POEM">
+            </div>
+            <div id="atomic.016" n="The weight of Atomes. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>
@@ -786,8 +786,8 @@
                   <l>Thus <hi rend="ITALIC">Quantity</hi>, <hi rend="ITALIC">Quality</hi> and <hi rend="ITALIC">Weight</hi>, all [5]</l>
                   <l>Together meets in every <hi rend="ITALIC">Atome</hi> small.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.017" n="The bignesse of Atomes: " type="POEM">
+            </div>
+            <div id="atomic.017" n="The bignesse of Atomes: " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>
@@ -813,8 +813,8 @@
                   <l>And <hi rend="ITALIC">Atomes</hi> which are thin more tender far,</l>
                   <l>For those that are more close, they harder are.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.018" n=" The joyning of severall Figur'd Atomesmake other Figures. " type="POEM">
+            </div>
+            <div id="atomic.018" n=" The joyning of severall Figur'd Atomesmake other Figures. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title> 
@@ -829,8 +829,8 @@
                   <l>For as those <hi rend="ITALIC">Figures</hi> joyned, severall waies,</l>
                   <l>The <hi rend="ITALIC">Fabrick</hi> of each severall <hi rend="ITALIC">Creature</hi> raise.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.019" n="What Atomes make Change. " type="POEM">
+            </div>
+            <div id="atomic.019" n="What Atomes make Change. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>
@@ -849,8 +849,8 @@
                   <l>Then <hi rend="ITALIC">disproportionable</hi> things they make,</l>
                   <l>Because they did not their right places take.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.020" n="  All things last, or dissolve, according to the  Composure of Atomes. " type="POEM">
+            </div>
+            <div id="atomic.020" n="  All things last, or dissolve, according to the  Composure of Atomes. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  All things last, or dissolve, according to the 
@@ -889,8 +889,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>There <hi rend="ITALIC">Motion</hi> having power, tosses them about,</l>
                   <l>Keeps them from their right places, so <hi rend="ITALIC">Life</hi> goes out.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.021" n=" Of Loose Atomes. " type="POEM">
+            </div>
+            <div id="atomic.021" n=" Of Loose Atomes. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title> 
@@ -905,8 +905,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>Those that are <hi rend="ITALIC">long</hi>, and <hi rend="ITALIC">Aiery</hi>, nimble be.</l>
                   <l>But <hi rend="ITALIC">Atomes Round</hi>, and <hi rend="ITALIC">Square</hi>, are dull, and sleepie.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.022" n="Cavendish:  Change is made by several-figur'd Atomes, and Motion. " type="POEM">
+            </div>
+            <div id="atomic.022" n="Cavendish:  Change is made by several-figur'd Atomes, and Motion. " type="POEM">
                <docAuthor>Cavendish:  Change <hi rend="ITALIC">is made by several</hi>-figur'd Atomes, <hi rend="ITALIC">and</hi> Motion. </docAuthor>
                <head>Cavendish:  Change <hi rend="ITALIC">is made by several</hi>-figur'd Atomes, <hi rend="ITALIC">and</hi> Motion. </head>
                <docDate> 1653</docDate>
@@ -919,8 +919,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   </l>
                   <l>By <hi rend="ITALIC">Motions</hi> helpe, which orders, as they range.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.023" n="  Of Sharpe Atomes. " type="POEM">
+            </div>
+            <div id="atomic.023" n="  Of Sharpe Atomes. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -938,8 +938,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>By their swift motion, they to bright <hi rend="ITALIC">Fire</hi> turne; [5]</l>
                   <l>And being <hi rend="ITALIC">Sharpe</hi>, they peirce, which we call <hi rend="ITALIC">Burne</hi>.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.024" n="  What Atomes make Flame. " type="POEM">
+            </div>
+            <div id="atomic.024" n="  What Atomes make Flame. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -957,8 +957,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>Thus <hi rend="ITALIC">Flame</hi> is joyne'd, two <hi rend="ITALIC">Figures</hi> into one: [5]</l>
                   <l>But <hi rend="ITALIC">Fire</hi> without <hi rend="ITALIC">Flame</hi>, is <hi rend="ITALIC">sharpe</hi> alone.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.025" n=" Of Fire and Flame. " type="POEM">
+            </div>
+            <div id="atomic.025" n=" Of Fire and Flame. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title> 
@@ -983,8 +983,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>Just so do <hi rend="ITALIC">Atomes sharpe</hi> looke, cleere, and bright,</l>
                   <l>When in heaps lye, or in a streaming flight.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.026" n="Of Fire in the Flint. " type="POEM">
+            </div>
+            <div id="atomic.026" n="Of Fire in the Flint. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>
@@ -1008,8 +1008,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <lb/>
                   <l>But seeke about to make another <hi rend="ITALIC">Forme</hi>. [10]</l>
                </lg>
-            </div1>
-            <div1 id="atomic.027" n="  Of the Sympathy of Atomes. " type="POEM">
+            </div>
+            <div id="atomic.027" n="  Of the Sympathy of Atomes. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1028,8 +1028,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>As Animals, Vegetables, Minerals;</l>
                   <l>So Aire, Fire, Earth, Water falls.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.028" n="  Of the Sympathy of their Figures. " type="POEM">
+            </div>
+            <div id="atomic.028" n="  Of the Sympathy of their Figures. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1051,8 +1051,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>But <hi rend="ITALIC">Motion</hi>, as their <hi rend="ITALIC">Shepheard</hi>, drives them so,</l>
                   <l>As not to let them out of order go. [10]</l>
                </lg>
-            </div1>
-            <div1 id="atomic.029" n="  What Atomes make Vegetables, Mine-rals, and Animals. " type="POEM">
+            </div>
+            <div id="atomic.029" n="  What Atomes make Vegetables, Mine-rals, and Animals. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1078,8 +1078,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>And thus, in <hi rend="ITALIC">Nature</hi>, the whole World may be,</l>
                   <l>For all we know, unto Eternitie.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.030" n="  What Atomes make Heate and Colde. " type="POEM">
+            </div>
+            <div id="atomic.030" n="  What Atomes make Heate and Colde. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1098,8 +1098,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>'Cause <hi rend="ITALIC">Blunt Figures</hi> do to a soft <hi rend="ITALIC">Forme</hi> bend;</l>
                   <l>And <hi rend="ITALIC">Soft</hi> do unto <hi rend="ITALIC">wet</hi>, or <hi rend="ITALIC">Liquid</hi> tend.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.031" n=" What Atomes make Fire to burne, and whatFlame. " type="POEM">
+            </div>
+            <div id="atomic.031" n=" What Atomes make Fire to burne, and whatFlame. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title> 
@@ -1137,8 +1137,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>Or if their <hi rend="ITALIC">Number</hi> be not great, but small; [25]</l>
                   <l>The <hi rend="ITALIC">Blunter Atomes</hi> beate and quench out all.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.032" n="  What Atomes make the Sun, and the Sea, goround. " type="POEM">
+            </div>
+            <div id="atomic.032" n="  What Atomes make the Sun, and the Sea, goround. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1162,8 +1162,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>This makes the <hi rend="ITALIC">Sea</hi> go round, like Water-Mill;</l>
                   <l>For as the <hi rend="ITALIC">Sun</hi> turnes round, so doth the <hi rend="ITALIC">water</hi> still.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.033" n="  What Atomes make Life. " type="POEM">
+            </div>
+            <div id="atomic.033" n="  What Atomes make Life. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1184,8 +1184,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>The <hi rend="ITALIC">Cause</hi> why things do live and dye,</l>
                   <l>Is, as the mixed <hi rend="ITALIC">Atomes</hi> lye. [10]</l>
                </lg>
-            </div1>
-            <div1 id="atomic.034" n=" What Atomes make Death. " type="POEM">
+            </div>
+            <div id="atomic.034" n=" What Atomes make Death. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title> 
@@ -1204,8 +1204,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>The <hi rend="ITALIC">cause</hi> why things do <hi rend="ITALIC">live</hi> and <hi rend="ITALIC">dye</hi>,</l>
                   <l>Is as the <hi rend="ITALIC">mixed Atomes </hi>lye.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.035" n="  What Atomes cause Sicknesse. " type="POEM">
+            </div>
+            <div id="atomic.035" n="  What Atomes cause Sicknesse. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1221,8 +1221,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>If they agree, then <hi rend="ITALIC">Health</hi> returnes againe,</l>
                   <l>And so shall live as long as <hi rend="ITALIC">Peace</hi> remaine.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.036" n="  What Atomes make a Dropsie. " type="POEM">
+            </div>
+            <div id="atomic.036" n="  What Atomes make a Dropsie. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1238,8 +1238,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>Thus joyning they come strong, so powerfull grow,</l>
                   <l>All other <hi rend="ITALIC">Atomes</hi> they do overflow.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.037" n="  What Atomes make a Consumption. " type="POEM">
+            </div>
+            <div id="atomic.037" n="  What Atomes make a Consumption. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1254,8 +1254,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>And being hot, becomes so very dry,</l>
                   <l>They drinke <hi rend="ITALIC">Lifes moisture</hi> up, make <hi rend="ITALIC">motion</hi> dye.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.038" n="  What Atomes make the wind Collick. " type="POEM">
+            </div>
+            <div id="atomic.038" n="  What Atomes make the wind Collick. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1273,8 +1273,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>And being forc'd, not in right places lye; [5]</l>
                   <l>Thus press'd too hard, <hi rend="ITALIC">Man</hi> in great paine doth lye.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.039" n="  What Atomes make a Palsey, or Apoplexy. " type="POEM">
+            </div>
+            <div id="atomic.039" n="  What Atomes make a Palsey, or Apoplexy. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1294,8 +1294,8 @@ Composure <hi rend="ITALIC">of</hi> Atomes. </title>
                   <l>But if those <hi rend="ITALIC">Atomes flat</hi> meet in the <hi rend="ITALIC">Braine</hi>,</l>
                   <l>They choake the <hi rend="ITALIC">Spirits</hi>, can no heate obtaine.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.040" n="  In all other Diseases they are mixed, taking parts, and factions. " type="POEM">
+            </div>
+            <div id="atomic.040" n="  In all other Diseases they are mixed, taking parts, and factions. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1311,8 +1311,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <l>But do in <hi rend="ITALIC">factions</hi> part, then up do rise;</l>
                   <l>Striving to beate each other out, <hi rend="ITALIC">Man</hi> dies.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.041" n="  All things are govern'd by Atomes. " type="POEM">
+            </div>
+            <div id="atomic.041" n="  All things are govern'd by Atomes. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1334,8 +1334,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <l>Thus <hi rend="ITALIC">Sicknesse</hi>, <hi rend="ITALIC">Health</hi>, and <hi rend="ITALIC">Peace</hi>, and <hi rend="ITALIC">War</hi>;</l>
                   <l>Are alwaies as the severall <hi rend="ITALIC">Atomes</hi> are. [10]</l>
                </lg>
-            </div1>
-            <div1 id="atomic.042" n=" A warr with Atomes. " type="POEM">
+            </div>
+            <div id="atomic.042" n=" A warr with Atomes. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title> 
@@ -1354,8 +1354,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <l>Those which make <hi rend="ITALIC">Motion Generall</hi> in their war, [5]</l>
                   <l>By his direction they much stronger are.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.043" n="  Atomes and Motion fall out. " type="POEM">
+            </div>
+            <div id="atomic.043" n="  Atomes and Motion fall out. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  Atomes <hi rend="ITALIC">and</hi> Motion <hi rend="ITALIC">fall out</hi>.</title> 
@@ -1375,8 +1375,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <l>Like frighted <hi rend="ITALIC">Flocks</hi> of <hi rend="ITALIC">Sheepe</hi> together run,</l>
                   <l>Thus <hi rend="ITALIC">Motion</hi> like a <hi rend="ITALIC">Wolfe</hi> doth worry them.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.044" n="  The agreement of some kinde of Motion, with some kinde of Atomes. " type="POEM">
+            </div>
+            <div id="atomic.044" n="  The agreement of some kinde of Motion, with some kinde of Atomes. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1396,8 +1396,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                      <hi rend="ITALIC">Motions</hi> inconstancy oft gives such power [5]</l>
                   <l>To <hi rend="ITALIC">Atomes</hi>, as they can <hi rend="ITALIC">Motion</hi> devoure.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.045" n="  Motion directs, while Atomes dance. " type="POEM">
+            </div>
+            <div id="atomic.045" n="  Motion directs, while Atomes dance. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  Motion <hi rend="ITALIC">directs, while</hi> Atomes <hi rend="ITALIC">dance</hi>. </title>
@@ -1416,8 +1416,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <l>This <hi rend="ITALIC">Harmony</hi> is <hi rend="ITALIC">Health</hi>, makes <hi rend="ITALIC">Life</hi> live long;</l>
                   <l>But when they're out, 'tis <hi rend="ITALIC">death</hi>, so dancing's done.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.046" n="  The difference of Atomes and Motion, in youthand age. " type="POEM">
+            </div>
+            <div id="atomic.046" n="  The difference of Atomes and Motion, in youthand age. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1438,8 +1438,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                      <hi rend="ITALIC">Motions Ease</hi> is <hi rend="ITALIC">Change</hi>, weary soone doth grow,</l>
                   <l>If in one <hi rend="ITALIC">Figure</hi> she doth often go.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.047" n="  Motion makes Atomes a Bawd for Figure. " type="POEM">
+            </div>
+            <div id="atomic.047" n="  Motion makes Atomes a Bawd for Figure. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  Motion <hi rend="ITALIC">makes</hi> Atomes <hi rend="ITALIC">a</hi> Bawd <hi rend="ITALIC">for</hi> Figure. </title>
@@ -1465,8 +1465,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <l>But <hi rend="ITALIC">Motion she</hi> a <hi rend="ITALIC">Figure</hi> new mould, bak'd, [15]</l>
                   <l>Because that <hi rend="ITALIC">She</hi> might have a new hot <hi rend="ITALIC">Cake</hi>.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.048" n="  Motion and Figure " type="POEM">
+            </div>
+            <div id="atomic.048" n="  Motion and Figure " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1498,8 +1498,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <l>But <hi rend="ITALIC">Figure</hi>, <hi rend="ITALIC">Matter</hi>, <hi rend="ITALIC">Motion</hi>, all is one,</l>
                   <l>Can never separate, not be alone.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.049" n="  Of the Subtlety of Motion. " type="POEM">
+            </div>
+            <div id="atomic.049" n="  Of the Subtlety of Motion. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1522,8 +1522,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <l>But never give him thanks that did us make,</l>
                   <l>Proudly, as petty <hi rend="ITALIC">Gods</hi>, our selves do take.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.050" n="  Motion is the Life of all things. " type="POEM">
+            </div>
+            <div id="atomic.050" n="  Motion is the Life of all things. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  Motion <hi rend="ITALIC">is the </hi>Life <hi rend="ITALIC">of all things.</hi> 
@@ -1542,8 +1542,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <l>Thus <hi rend="ITALIC">Life</hi> is out, when <hi rend="ITALIC">Motion</hi> leaves to bee,</l>
                   <l>Like to an <hi rend="ITALIC">Eye</hi>, that's shut, no <hi rend="ITALIC">Light</hi> can see.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.051" n="  Of the Center. " type="POEM">
+            </div>
+            <div id="atomic.051" n="  Of the Center. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1565,8 +1565,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <l>The <hi rend="ITALIC">Center</hi> small, <hi rend="ITALIC">Circumference</hi> big without,</l>
                   <l>Which by the <hi rend="ITALIC">weight</hi> doth make it turne about. [10]</l>
                </lg>
-            </div1>
-            <div1 id="atomic.052" n="  All sharpe Atomes do run to the Center, andthose that settle not, by reason of the straitnesseof the Place, flye out to the Circumference.Sharpe Atomes to the Center, make a Sun. " type="POEM">
+            </div>
+            <div id="atomic.052" n="  All sharpe Atomes do run to the Center, andthose that settle not, by reason of the straitnesseof the Place, flye out to the Circumference.Sharpe Atomes to the Center, make a Sun. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1597,8 +1597,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <l>And <hi rend="ITALIC">fixed Stars</hi>, which give a twinckling <hi rend="ITALIC">Light</hi>,</l>
                   <l>Are <hi rend="ITALIC">Center Worlds</hi> of <hi rend="ITALIC">Fire</hi>, that shineth bright.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.053" n="  In the Center Atomes never Separate. " type="POEM">
+            </div>
+            <div id="atomic.053" n="  In the Center Atomes never Separate. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1616,8 +1616,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <l>As they become a <hi rend="ITALIC">Circle</hi> without <hi rend="ITALIC">joynt</hi>.<ref target="atomic.056.an9">9</ref>
                   </l>
                </lg>
-            </div1>
-            <div1 id="atomic.0541" n="  If Infinite Worlds, Infinite Centers. " type="POEM">
+            </div>
+            <div id="atomic.0541" n="  If Infinite Worlds, Infinite Centers. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1647,8 +1647,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <l>But still the <hi rend="ITALIC">Jacke</hi>, and <hi rend="ITALIC">Center</hi> is the<ref target="atomic.056.an11">11</ref> 
                      <hi rend="ITALIC">Sun</hi>.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.0542" n="  The Infinites of Matter " type="POEM">
+            </div>
+            <div id="atomic.0542" n="  The Infinites of Matter " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1667,8 +1667,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <l>Then <hi rend="ITALIC">Infinites</hi> of <hi rend="ITALIC">Worlds</hi> may we agree,</l>
                   <l>As well, as <hi rend="ITALIC">Infinites</hi> of <hi rend="ITALIC">Matters</hi> bee.</l>
                </lg>
-            </div1>
-            <div1 id="atomic.055" n="  A World made by foure Atomes. " type="POEM">
+            </div>
+            <div id="atomic.055" n="  A World made by foure Atomes. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
@@ -1715,8 +1715,8 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                      <hi rend="ITALIC">the ground of my Opinion may be understood.</hi>
                   </l>
                </lg>
-            </div1>
-            <div1 id="atomic.056" n="Footnotes to the Atomic Poems" type="Footnotes">
+            </div>
+            <div id="atomic.056" n="Footnotes to the Atomic Poems" type="Footnotes">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>Footnotes to the <title>Atomic Poems</title>
                </head>
@@ -1765,11 +1765,11 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <hi rend="Bold">12</hi>
                   <hi rend="Italic">The severall Elements are all but one matter.</hi>
                </note>
-            </div1>
+            </div>
          </div0>
       </body>
       <back>
-         <div1 id="atomic.057" n="Cavendish Bibliography" type="bibliography">
+         <div id="atomic.057" n="Cavendish Bibliography" type="bibliography">
             <docAuthor>Partington, Leigh Tillman. </docAuthor>
             <head>
                <title>Cavendish Bibliography</title>
@@ -1858,7 +1858,7 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                <title level="a">Science and Society in Restoration England. </title>
                <pubPlace>Cambridge</pubPlace>: <publisher>Cambridge UP</publisher>
             </bibl>
-         </div1>
+         </div>
       </back>
    </text>
 </TEI.2>

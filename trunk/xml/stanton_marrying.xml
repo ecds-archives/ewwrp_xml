@@ -57,14 +57,14 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="stantonm.001" n="About Marrying Too Young" type="Essay">
+         <div id="stantonm.001" n="About Marrying Too Young" type="Essay">
             <docAuthor>Elizabeth Cady Stanton</docAuthor>
             <head>About Marrying Too Young</head>
             <docDate>Oct. 20, 1870</docDate>
             <bibl>
                <title>Revolution</title> 6.16 (Oct. 20, 1870):246.</bibl>
             <p>Mrs. Elizabeth Cady Stanton says: "Girls do not reach their maturity until twenty-five, yet at sixteen they are wives and mothers all over the land, robbed of all the rights and freedom of childhood in marriage, crippled in growth and development; the vital forces needed to build up a vigorus and healthy womanhood are sapped and perverted from their legitimate channels in the premature office of production. When the body is overtaxed, the mind loses its tone, and settles down in a gloomy discontent that enfeebles the whole moral being. The feeble mother brings forth feeble sons; the sad mother, those with morbid appetites. The constant demand of stimulants among men is the result of the morbid conditions of these mothers. Healthy, happy, vigorous womanhood would do more for the cause of temperance than any prohibitory or license laws possibly can. When woman, by the observance of the laws of life and health is restored to her normal condition, maternity will not be a period of weakness, but of added power. With that high preparation of body and soul to which I have referred, men and women of sound mind and body, drawn together by the sentiments of affection, might calculate with certainty on a happy home, with happy children gathering round their fireside."</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

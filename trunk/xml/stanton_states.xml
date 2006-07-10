@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="stantons.001" n="Are Homogenous Divorce Laws in All the States Desirable?" type="Essay">
+         <div id="stantons.001" n="Are Homogenous Divorce Laws in All the States Desirable?" type="Essay">
             <docAuthor>Elizabeth Cady Stanton</docAuthor>
             <head>Are Homogenous Divorce Laws in All the States Desirable?</head>
             <docDate>1900</docDate>
@@ -92,7 +92,7 @@ power to dissolve the contract if any incongruities arise, or any deception has 
             <p>It is a principle of the common law of England that marriage is a civil contract, and the same law has been acknowledged by statutes in several of our American States; and in the absence of expressed statute to the contrary, the common law of England is deemed the common law of our country.</p>
             <p>Questions involved in marriage and divorce should be, in the churches, matters of doctrinal teaching and discipline only; and, after having discussed for centuries the question as to what the Bible teaches concerning divorce, without arriving at any settled conclusion, they should agree somewhat among themselves before they attempt to dictate State legislation on the subject. It simplifies this question to eliminate the pretensions of the Church and the Bible as to its regulation. As the Bible sanctions divorce and polygamy, in the practice of the chosen people, and is full of contradictions, and the canon law has been pliable in the hands of ecclesiastics, enforced or set aside at the behests of kings and nobles, it would simplify the discussion to confine it wholly to the civil law, regarding divorce as a State question.</p>
             <p>ELIZABETH CADY STANTON.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

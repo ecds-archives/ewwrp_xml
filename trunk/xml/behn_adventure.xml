@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="behn-adventure.001" n=" The Adventure of the Black Lady.  A Novel" type="Novel">
+         <div id="behn-adventure.001" n=" The Adventure of the Black Lady.  A Novel" type="Novel">
             <docAuthor>Behn, Aphra. </docAuthor>
             <head>
                <title> The Adventure of the Black Lady.  A Novel</title>
@@ -258,7 +258,7 @@ just kitten'd; assuring 'em, that she shou'd never trouble the Parish as long as
 or Mice in the House, and so dismiss'd 'em like Logger-heads as they came.
 FINIS.<lb/>
             </p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

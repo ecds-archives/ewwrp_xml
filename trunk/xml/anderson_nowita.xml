@@ -89,7 +89,7 @@ Emory Women Writers Resource Project.</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="nowita.001" n="Nowita, the Sweet Singer" type="Text">
+         <div id="nowita.001" n="Nowita, the Sweet Singer" type="Text">
             <docAuthor>Anderson, Mabel Washbourne</docAuthor>
             <head>Nowita, the Sweet Singer. A Romantic Tradition of Spavinaw, Indian Territory.</head>
             <docDate>1906</docDate>
@@ -368,8 +368,8 @@ Indian girl, and noted, too, that her dark eyes, usually so serene and melanchol
                <l>By this charming Indian maiden,</l>
                <l>By Nowita, the sweet singer.</l>
             </lg>
-         </div1>
-         <div1 id="nowita.002" n="Notes" type="Notes">
+         </div>
+         <div id="nowita.002" n="Notes" type="Notes">
             <p>EXPLANATORY NOTES.</p>
             <p>The figures below correspond with the figures in the poem, explaining the meaning of the Cherokee words used:</p>
             <p>
@@ -404,7 +404,7 @@ Indian girl, and noted, too, that her dark eyes, usually so serene and melanchol
                <note id="nowita.002.ma8" n="8" anchored="yes">
                   <hi rend="bold">8.</hi>"Hunting Shirt," an ornamemtal article of apparel used in olden times by the Cherokees, which took the place of a coat. Now in disuse.</note>
             </p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

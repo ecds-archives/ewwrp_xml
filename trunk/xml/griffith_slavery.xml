@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="slavery.001" n="Not Slavery and a Truce, But Emancipation and Peace" type="Letter">
+         <div id="slavery.001" n="Not Slavery and a Truce, But Emancipation and Peace" type="Letter">
             <docAuthor>Griffith, Mattie [Martha]</docAuthor>
             <docAuthor>Browne, Mattie Griffith</docAuthor>
             <head>Not Slavery and a Truce, But Emancipation and Peace</head>
@@ -76,7 +76,7 @@ Women Writers Resource Project at Emory University</p>
             <p>Our impulse is to sacrifice the present to the future-to patch up a peace in our day, no matter what the result to those who shall come after us; nay, to ourselves, perhaps, when a few short years shall have passed.  The impulse is, no doubt, strong even among many of those who generously gave fathers, brothers, husbands, for the country's defense, to see these war-worn soldiers return once more to quiet homes-under any conditions short of national shame.  The members of the Women's Loyal League yield to none in their earnest longing for peace.  But they have never been able to believe that there <hi rend="italic">can</hi> be peace, except in the shade of a few years' truce, so long as the cause which produced the first rebellion remains uneradicated to produce a second.  They are willing to suffer yet more-they are willing to endure to the end, so they can but see the poison-weed extirpated, and peace-when it shall be made-based upon a firm rock.  They think it much easier to crush this first rebellion, with its powers now so crippled by recent losses, and the blockade cramping all its resources, and greatly dispirited by the disasters of the last month, than to encounter a second after several years of breathing-time shall have given renewed strength and spirit, and afforded time sufficient for a fresh and more terrible contest.</p>
             <p>Thus the members of the League believe that an Act of Congress pledging the Nation to Emancipation as the great preliminary of Peace, is of all public measures the one which the true friends of national unity should the most earnestly and perseveringly urge.</p>
             <p>The League has so far received through its correspondence, from all parts of the Northern States, the most encouraging evidences of zeal and interest in this noble cause.  The one difficulty, which yet restricts their efforts, is an insufficiency of funds.  I feel quite assured that if the true and zealous friends, whether it be the poor oppressed, persecuted, and innocent colored race, or of the cause of Peace, but estimated at their actual value in practice the results of this effort to bring public sentiment to bear upon Congress, the means would not long be wanting to enable the ladies of the League to proceed, with the speed and energy so great an undertaking demands, in the self-imposed task they have already successfully commenced.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

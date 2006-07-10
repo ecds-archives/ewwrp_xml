@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="chapman-british.001" n=" The British India Society" type="article">
+         <div id="chapman-british.001" n=" The British India Society" type="article">
             <docAuthor>Chapman, Maria Weston. </docAuthor>
             <head>
                <title> The British India Society</title>
@@ -81,7 +81,7 @@ India brought forward to England in ways and to an extent not now dreamed of."</
             <p>The practical bearings of this Society upon the American slave-system have been happily touched upon by Wendell Phillips; at the present time, the representative of New England abolitionists in Europe.  Would that he were now here to animate them with all the encouraging considerations presented by this subject, and which the worn and wearied laborers for Freedom so greatly need.</p>
             <p>"We need thy blended eloquence of lip, and eye, and brow;--<lb/>
 We need the righteous as a shield:--why art thou absent now?"</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

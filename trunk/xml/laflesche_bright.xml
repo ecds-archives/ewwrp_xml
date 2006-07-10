@@ -89,7 +89,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
    </teiHeader>
    <text>
       <body>
-         <div1 id="laflesche-bright.001" n="Bright Eyes" type="speech">
+         <div id="laflesche-bright.001" n="Bright Eyes" type="speech">
             <docAuthor>La Flesche, Susette (Bright Eyes)</docAuthor>
             <head>"Bright Eyes"</head>
             <docDate>1881</docDate>
@@ -109,7 +109,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
 1870 twenty-two was all that survived, and these, with few exceptions, were diseased half-breeds, whose fathers denied them. Of course there are exceptional cases where Indians have taken place, among white men and become worthy citizens, but they have been exceptions to the rule. On the other hand, we believe as fast as the Indian comes up to the stature of manhood, and elects to take his chances among men, that all such should be provided with a home and recognized as citizens in common with all other men.</p>
             <p>Observation teaches that no general law can be made for the management of the Indian. Law that is desirable for the Poncas, may not be adapted to the Apaches. We see no way to establish laws for these people which are universal in operation, without doing injustice to some and being destructive to others. The proper thing to do is to clothe every Indian with citizenship as soon as he desires it, after being made to understand the responsibilities he is assuming. To abandon the reservation system means to abandon the Indian to the tender mercies of the avaricious white man. It means to say that the Government will not school him and protect him while he is being taught civilization. No; no; not yet are we ready to say to the white man, "There is your game; it is yours if you win it," for that would be the practical meaning and result.</p>
             <p>We are doing grandly at present in comparison with the past, and year by year the mind and heart of the white man is being awakened to duty toward the Indian. A few years more of steady progress and the question of the manhood of the Red man will be settled beyond dispute and then he will barter and trade, vote and pay taxes, and in every respect be "a man among men:" but let the training schools go on under the protection and support of the Government of the United States one decade and the problem will have been practically settled.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

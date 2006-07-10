@@ -86,7 +86,7 @@ Emory Women Writers Resource Project.</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="decora-graywolf.001" n="Gray Wolf's Daughter" type="story">
+         <div id="decora-graywolf.001" n="Gray Wolf's Daughter" type="story">
             <docAuthor>De Cora, Angel (Hinook-Mahiwi-Kilinaka)</docAuthor>
             <head>Gray Wolf's Daughter</head>
             <docDate>1899</docDate>
@@ -113,7 +113,7 @@ Emory Women Writers Resource Project.</p>
             <p>Not many words were said at parting, nor did she and her father say much upon the journey.</p>
             <p>When they got in sight of the schoolhouse the girl's courage fell a little, and she begged her father to come and see her often, and to bring her mother and grandmother, and the father promised.</p>
             <p>She had been the joy and life of their home, and he longed to have her go back with him, but she had always had her own way.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

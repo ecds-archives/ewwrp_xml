@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="eleanorwhite.001" n="For the most Honorable States sitting at White-Hall" type="prose">
+         <div id="eleanorwhite.001" n="For the most Honorable States sitting at White-Hall" type="prose">
             <docAuthor>Eleanor, Lady</docAuthor>
             <head>For the most Honorable States sitting at White-Hall</head>
             <docDate>1649</docDate>
@@ -124,7 +124,7 @@ Women Writers Resource Project at Emory University</p>
             <pb n="(8)"/>
             <p>
                <hi rend="italic"> Luke </hi> 8. thus, <hi rend="italic">And when he WENT to land, there met him a certain MAN out of the City, which had a Devil a long time, and he ware no clothes, neither abode in house, but in the Graves, and he commanded the foul spirit to come out of the man, for oft times it caught him, &#x0026;c. therefore he was bound in fetters, </hi>  as the cause of his binding shews so from those words, that <hi rend="italic">it came out of the man, </hi>  as much to say, a woman, his <hi rend="italic">Vasthi</hi>  put away or departed, bereft of the Breeches, &#x0026;c. in recompence Crown'd by her Servant <hi rend="italic">German. </hi>  And so much for this misled Man, went away from his House of Parliament and <hi rend="italic">Hampton-Court</hi>  turned out of the City-houses and Country both, took up his restless Lodging among the slain in the field, afterward in [. . .] [text incomplete]</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

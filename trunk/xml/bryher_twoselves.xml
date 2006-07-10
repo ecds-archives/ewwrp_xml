@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <front>
-         <div1 id="bryher-twoselves.001" n="Two Selves" type="front matter">
+         <div id="bryher-twoselves.001" n="Two Selves" type="front matter">
             <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
             <head>Two Selves</head>
             <docDate>1923?</docDate>
@@ -89,15 +89,15 @@ Chapter VIII. Scarlet and Silver. . . .81<lb/>
 Chapter IX. Rebellion. . . .95<lb/>
 Chapter X. Snow and Apple Flowers. . . .101<lb/>
 Chapter XI. Meeting. . . .117 </p>
-         </div1>
+         </div>
       </front>
       <body>
-         <div1 id="bryher-twoselves.002" n="Two Selves" type="book">
+         <div id="bryher-twoselves.002" n="Two Selves" type="book">
             <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
             <head>Two Selves</head>
             <docDate>1923?</docDate>
             <pb n="5"/>
-            <div2 id="bryher-twoselves.003" n="CHAPTER I. TWO SELVES" type="chapter">
+            <div id="bryher-twoselves.003" n="CHAPTER I. TWO SELVES" type="chapter">
                <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER I <lb/> TWO SELVES</head>
                <docDate>1923?</docDate>
@@ -143,8 +143,8 @@ afresh. She had asked for this. But people scolded her at such a request. "We ha
                <p>But Downwood was a memory two years old and her soul was no further.</p>
                <pb n="12"/>
                <pb n="13"/>
-            </div2>
-            <div2 id="bryher-twoselves.004" n="CHAPTER II. LEOPARD GOLD" type="chapter">
+            </div>
+            <div id="bryher-twoselves.004" n="CHAPTER II. LEOPARD GOLD" type="chapter">
                <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER II <lb/> LEOPARD GOLD</head>
                <docDate>1923?</docDate>
@@ -182,8 +182,8 @@ afresh. She had asked for this. But people scolded her at such a request. "We ha
                <p>She would not go to see Miss Leyton.  It would make her want to much, freedom, and the South.</p>
                <pb n="22"/>
                <pb n="23"/>
-            </div2>
-            <div2 id="bryher-twoselves.005" n="CHAPTER III. PATCHWORK" type="chapter">
+            </div>
+            <div id="bryher-twoselves.005" n="CHAPTER III. PATCHWORK" type="chapter">
                <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER III <lb/> PATCHWORK</head>
                <docDate>1923?</docDate>
@@ -305,8 +305,8 @@ Beyond the cream curtains that fell into shell-blue shadows, the street sounds b
                <p>So there was another world. Something that was the heart of this roar of wheels, the black centre of the flowers, the scent of the chestnut spikes. Terribly beautiful; or it would not be so criticised. Where people "did" things. Said what they wanted. Where the rules of this rigid existence that drew its false silence over her, were not observed. Where life was above criticism or law, a vivid breathing thing, like a book, like apple-blossom sweeping the rain-blue sky.</p>
                <pb n="44"/>
                <pb n="45"/>
-            </div2>
-            <div2 id="bryher-twoselves.006" n=" CHAPTER IV. CHERRY PIE" type="chapter">
+            </div>
+            <div id="bryher-twoselves.006" n=" CHAPTER IV. CHERRY PIE" type="chapter">
                <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head> CHAPTER IV <lb/> CHERRY PIE</head>
                <docDate>1923?</docDate>
@@ -468,8 +468,8 @@ Beyond the cream curtains that fell into shell-blue shadows, the street sounds b
                <p>Write a book. And find she had a friend.</p>
                <pb n="50"/>
                <pb n="51"/>
-            </div2>
-            <div2 id="bryher-twoselves.007" n="CHAPTER V. BROKEN GLASS" type="chapter">
+            </div>
+            <div id="bryher-twoselves.007" n="CHAPTER V. BROKEN GLASS" type="chapter">
                <head>CHAPTER V <lb/>
  BROKEN GLASS</head>
                <p>"It must last three years. Don't tell people so, Nancy, or they will laugh at you. But once a gigantic outbreak of this kind is set in motion it cannot stop suddenly. I'm afraid to think, if we could have peace to-morrow, of the re-organization necessary before normal conditions could be resumed. It has thrust civilization back for fifty years and every month it goes on puts us back further."</p>
@@ -518,8 +518,8 @@ Beyond the cream curtains that fell into shell-blue shadows, the street sounds b
                <p>"Funny to think they will read this up at Downwood in another fifty years."</p>
                <p>The bus turned into an unfamiliar street. Glass behind one. In front a world they did not know.</p>
                <pb n="59"/>
-            </div2>
-            <div2 id="bryher-twoselves.008" n="CHAPTER VI. PEACH JAM" type="chapter">
+            </div>
+            <div id="bryher-twoselves.008" n="CHAPTER VI. PEACH JAM" type="chapter">
                <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER VI <lb/> PEACH JAM</head>
                <docDate>1923?</docDate>
@@ -607,8 +607,8 @@ Outside lavender bushes in the tiny gardens washed <pb n="71"/>their scent in wi
                <p>Why should a slip of seaweed or a tuft of thrift or the blue metallic shimmer of a lobster's back, make her feel faint with beauty? As if her breath had been taken out in a long poignant ecstacy? When the same seaweed or the same tuft was to Doreen <pb n="72"/>just pretty or negligible. Environment, hereditary? A thing she was not responsible for, yet desired. For she must keep her spirit sharp; sharp if it cut into herself. Ready against the moment adventure called her forth. That was the one rule; to see, to analyse, if nothing were the truth, if truth varied as it must, try to dig for the root of it. For some night opportunity might swing open the window. </p>
                <p>Six years already. A long time to wait.</p>
                <pb n="73"/>
-            </div2>
-            <div2 id="bryher-twoselves.009" n="CHAPTER VII. ELEANOR" type="chapter">
+            </div>
+            <div id="bryher-twoselves.009" n="CHAPTER VII. ELEANOR" type="chapter">
                <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER VII <lb/> ELEANOR</head>
                <docDate>1923?</docDate>
@@ -651,8 +651,8 @@ Outside lavender bushes in the tiny gardens washed <pb n="71"/>their scent in wi
                <p>"Sometime you will break out, I think." Eleanor brushed the air out of her eyes and stretched her legs out more comfortably. "And when you do start you will do something out of our sphere altogether."</p>
                <pb n="80"/>
                <pb n="81"/>
-            </div2>
-            <div2 id="bryher-twoselves.010" n=" CHAPTER VIII. SCARLET AND SILVER" type="chapter">
+            </div>
+            <div id="bryher-twoselves.010" n=" CHAPTER VIII. SCARLET AND SILVER" type="chapter">
                <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head> CHAPTER VIII <lb/> SCARLET AND SILVER</head>
                <docDate>1923?</docDate>
@@ -795,8 +795,8 @@ If you hated war, hated it from the beginning, you could stand a year of it. You
                <p>How had the war started anyway?</p>
                <pb n="94"/>
                <pb n="95"/>
-            </div2>
-            <div2 id="bryher-twoselves.011" n="CHAPTER IX. REBELLION" type="chapter">
+            </div>
+            <div id="bryher-twoselves.011" n="CHAPTER IX. REBELLION" type="chapter">
                <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER IX <lb/> REBELLION</head>
                <docDate>1923?</docDate>
@@ -836,8 +836,8 @@ If you hated war, hated it from the beginning, you could stand a year of it. You
                <p>Life made no answer.</p>
                <pb n="100"/>
                <pb n="101"/>
-            </div2>
-            <div2 id="bryher-twoselves.012" n="CHAPTER X. SNOW AND APPLE FLOWERS" type="chapter">
+            </div>
+            <div id="bryher-twoselves.012" n="CHAPTER X. SNOW AND APPLE FLOWERS" type="chapter">
                <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER X <lb/> SNOW AND APPLE FLOWERS</head>
                <docDate>1923?</docDate>
@@ -966,8 +966,8 @@ If you hated war, hated it from the beginning, you could stand a year of it. You
                <p>"But what is it? " begged Mrs. Hearth piteously. Nancy turned with a smile.</p>
                <p>"I'm learning Greek."</p>
                <pb n="117"/>
-            </div2>
-            <div2 id="bryher-twoselves.013" n="CHAPTER XI. MEETING" type="chapter">
+            </div>
+            <div id="bryher-twoselves.013" n="CHAPTER XI. MEETING" type="chapter">
                <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER XI <lb/> MEETING</head>
                <docDate>1923?</docDate>
@@ -1047,8 +1047,8 @@ If you hated war, hated it from the beginning, you could stand a year of it. You
                <p>She was too old to be disappointed if an elderIy woman in glasses bustled out. Poets, of course, were not what they wrote about. It was the mind that mattered.</p>
                <p>A tall figure opened the door. Young. A spear flower if a spear could bloom. She looked up into eyes that had the sea in them, the fire and colour and the splendour of it. A voice all wind and gull notes said:</p>
                <p>"I was waiting for you to come."</p>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </body>
    </text>
 </TEI.2>

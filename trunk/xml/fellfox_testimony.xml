@@ -62,7 +62,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <front>
-         <div1 id="fellfox-testimony.001" n="Fell Fox:  A TRUE TESTIMONY From the People of God: (Who by the world are called QUAKERS) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Cove- nant, which brought again our LORD JESUS from the dead." type="text">
+         <div id="fellfox-testimony.001" n="Fell Fox:  A TRUE TESTIMONY From the People of God: (Who by the world are called QUAKERS) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Cove- nant, which brought again our LORD JESUS from the dead." type="text">
             <docAuthor>Fell Fox, Margaret Askew</docAuthor>
             <head> A TRUE TESTIMONY From the People of God: (Who by the world are called QUAKERS) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Cove- nant, which brought again our LORD JESUS from the dead.</head>
             <docDate> 1660</docDate>
@@ -99,7 +99,7 @@ I Cor. 10.32. </p>
             <p>LONDON, Printed for Robert Wilson, and are to be sold 
 at his shop at the sign of the Black-spread-Eagle and Wind-Mill 
 in Martins L' Grand, 1660.</p>
-            <div2 id="fellfox-testimony.002" n="Fell Fox: (A True Testimony . . .) The Epistle to the Reader" type="letter">
+            <div id="fellfox-testimony.002" n="Fell Fox: (A True Testimony . . .) The Epistle to the Reader" type="letter">
                <head>Fell Fox: (A True Testimony . . .) The Epistle to the Reader</head>
                <p>The Epistle to the Reader</p>
                <p>FRIEND,<lb/>
@@ -204,17 +204,17 @@ that in they own bosom which will answer to the Truth of what is here
 written. So to the Lord I commit thee, and to his witness in thee 
 which will answer for his Truth. 
 M. F.</p>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </front>
       <body>
-         <div1 id="fellfox-testimony.003" n="Fell Fox: A true TESTIMONY, c." type="text">
+         <div id="fellfox-testimony.003" n="Fell Fox: A true TESTIMONY, c." type="text">
             <docAuthor>Fell Fox: A true TESTIMONY, &#x0026;c.</docAuthor>
             <head>Fell Fox: <hi rend="BOLD">A true TESTIMONY, &#x0026;c.</hi>
             </head>
             <docDate> 1660</docDate>
             <pb/>
-            <div2 id="fellfox-testimony.004" n="Fell Fox: A true TESTIMONY, c." type="testimony">
+            <div id="fellfox-testimony.004" n="Fell Fox: A true TESTIMONY, c." type="testimony">
                <head>Fell Fox: A true TESTIMONY, &#x0026;c.</head>
                <p>(1)</p>
                <p>A true TESTIMONY, &#x0026;c.</p>
@@ -1322,8 +1322,8 @@ good of all, and that all might come to the knowledge
 of the Truth. M. F. 
 </p>
                <p>THE END</p>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </body>
    </text>
 </TEI.2>

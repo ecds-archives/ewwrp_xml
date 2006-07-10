@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="follenwork.001" n="Eliza Lee Follen:  Women's Work" type="Essay">
+         <div id="follenwork.001" n="Eliza Lee Follen:  Women's Work" type="Essay">
             <docAuthor>Eliza Lee Follen:  Women's Work</docAuthor>
             <head>Eliza Lee Follen:  <hi rend="BOLD">Women's Work</hi>
             </head>
@@ -101,7 +101,7 @@ fearing that it may be the last time, who sees ever the vultures hovering over h
 12<lb/>
 that while your withered heart had almost lost its faith in God, and could not even pray, that this heart often turned from its own full cup of joy, to think of you and pray the God of mercy for your deliverance? Oh yes; there would be a divine blessing to you in the knowledge of this pitying love hovering over you--and we know not the mysterious efficacy of such prayers, of such holy desires.</p>
             <p>The abolition of slavery is indeed women's work. As imitators of him who came to seek and to save that which was lost, we are called to it. Let neither fathers, nor brothers, nor husbands, nor false or weak friends keep us back from it. Let us imitate those holy women, who heeded not the angry multitude, nor their infuriated cries of "crucify him, crucify him," but fearlessly followed him, who was to suffer an ignominious death, to his cross, despising the shame, knowing that though hated and reviled of men, he was the Son of God.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

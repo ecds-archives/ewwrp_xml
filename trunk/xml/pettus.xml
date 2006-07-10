@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="pettus.001" n=" Katherine Pettus, Plaintiffe Margaret Bancroft, Defendant In Chancery " type="broadside">
+         <div id="pettus.001" n=" Katherine Pettus, Plaintiffe Margaret Bancroft, Defendant In Chancery " type="broadside">
             <docAuthor>Katherine, Pettus. </docAuthor>
             <head>
                <title> Katherine Pettus, Plaintiffe Margaret Bancroft, Defendant In Chancery </title>
@@ -133,7 +133,7 @@ Conveighance or Graunt) may bee put into the said Bill and like Act to bee
 made; which Words will save much trouble in the proof of fraudulent Deeds,
 which the leaving out thereof in the late Ordinances would have put unto;
 And that there may bee, Understanding, upright, and impartiall Judges.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="child-anecdote.001" n=" Anecdote of Elias Hicks" type="article">
+         <div id="child-anecdote.001" n=" Anecdote of Elias Hicks" type="article">
             <docAuthor>Child, Lydia Maria. </docAuthor>
             <head>
                <title> Anecdote of Elias Hicks</title>
@@ -86,7 +86,7 @@ by reason of a restraining power within. Earnestly, as the planter might wish th
             <p>This led to a long argument, maintained in the most friendly spirit. At parting, the slave-holder cordially shook hands with the Quaker, 
 <pb n="68"/>
 and begged him to come again. His visits were renewed; and six months after, the Virginian emancipated all his slaves.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>
