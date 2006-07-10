@@ -484,7 +484,7 @@
          </div>
       </front>
       <body>
-         <div0 id="atomic.009" n="The Atomic Poems" type="TEXTS">
+         <div id="atomic.009" n="The Atomic Poems" type="TEXTS">
             <p>Cavendish:  The Atomic Poems: Margaret (Lucas) Cavendish</p>
             <div id="atomic.010" n="To Natural Philosophers. " type="POEM">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
@@ -1766,7 +1766,7 @@ parts, <hi rend="ITALIC">and</hi> factions.</title>
                   <hi rend="Italic">The severall Elements are all but one matter.</hi>
                </note>
             </div>
-         </div0>
+         </div>
       </body>
       <back>
          <div id="atomic.057" n="Cavendish Bibliography" type="bibliography">

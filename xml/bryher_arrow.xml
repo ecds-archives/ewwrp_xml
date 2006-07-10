@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div0 id="ellerman.001" n="Arrow Music BY [Bryher]" type="book">
+         <div id="ellerman.001" n="Arrow Music BY [Bryher]" type="book">
             <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
             <head> Arrow Music  BY [Bryher].</head>
             <docDate>1922</docDate>
@@ -665,7 +665,7 @@ We come to forget</l>
                   <l>for me to keep. </l>
                </lg>
             </div>
-         </div0>
+         </div>
       </body>
    </text>
 </TEI.2>

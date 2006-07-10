@@ -104,7 +104,7 @@ TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div0 id="memoir.001" n="Memoir Of Elizabeth Jones" type="Book">
+         <div id="memoir.001" n="Memoir Of Elizabeth Jones" type="Book">
             <docAuthor>Anonymous</docAuthor>
             <head>
                <title>MEMOIR OF ELIZABETH
@@ -842,7 +842,7 @@ the realms of day;</l>
                   <l>	"She is not dead."</l>
                </lg>
             </div>
-         </div0>
+         </div>
       </body>
    </text>
 </TEI.2>
