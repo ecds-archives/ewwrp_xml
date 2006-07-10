@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="blakeclass.001" n="Are Women a Class?" type="Essay">
+         <div id="blakeclass.001" n="Are Women a Class?" type="Essay">
             <docAuthor>Lillie Devereux Blake</docAuthor>
             <head>Are Women a Class?</head>
             <docDate>Mar. 10. 1870</docDate>
@@ -72,7 +72,7 @@ Women Writers Resource Project at Emory University</p>
             <p>The opponents of Woman Suffrage frame argument something like this. "Women are not a distinct class of the community, their interests are identical with those of the men among whom they live, and as they are feebler than men, their proper pursuits evidently within doors, therefore men ought to vote for them." Now let us see how men would like a similar course of reasoning as applied to themselves. Every one knows that the number of men who vote at every election greatly complicate the difficulties of carrying it on, and increase the opportunities for fraud. Suppose, to remedy this, a law should be passed making physical strength the requisite for the ballot. This would exactly suit the opponents of Woman Suffrage, who think that women ought not to vote because they cannot do military duty-suppose then a law was to be framed declaring that only men who are six feet tall and can lift five hundred pounds shall vote, this would be fair, would it not? The interests of these men would be identical with that of the others, among whom they lived, and as the pursuits of many of these public men are within doors, therefore they ought to be content to let the strong men vote for them.</p>
             <p>Lengthy comment is unnecessary. This proposition is as fair as the other, and yet what a storm of indignation it would raise to propose it! Those smaller men would declare that no one person can vote for another, that property and intellect, and not brute force ought to be the requisite for the ballot, and so one with most of the arguments now advanced for Woman Suffrage. Well, now it is as fair to claim that women are a class requiring the ballot as much as small men or even foreign men, or colored men; indeed I may say it would be fairer to let the native born American dry-goods man vote for the Irish and negro dry-goods man, than to allow the dry-goods husband to vote for the school teaching wife, the political interests here of the two being perchance at variance.</p>
             <p>Every argument advanced to prove that women and men have different "spheres" in life and diverse places in the world, goes to prove that their interests must differ, and that women and men do form distinct classes. For to illustrate, if all women were to remain at home, merely caring for their households and children, while all men were to go out as workers, a radical difference of interests in political questions would spring up at once, the women as consumers might find free trade to their benefit, while the men as producers might desire various kinds of protection. It is this sort of difference of interests, coupled with the fact that while perhaps one half the women of the country have husbands able to provide for them, the other half either have no husbands at all, or must work for their living because the husband cannot earn it, which causes Miss Anthony and others to urge that this great class of the community require the ballot to give them direct representation.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

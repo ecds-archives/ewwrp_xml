@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="stantonp.001" n="Progress of the American Woman" type="Essay">
+         <div id="stantonp.001" n="Progress of the American Woman" type="Essay">
             <docAuthor>Elizabeth Cady Stanton</docAuthor>
             <head>Progress of the American Woman</head>
             <docDate>1900</docDate>
@@ -88,7 +88,7 @@ tion English as well as American women) have contributed more to the pleasure of
             <p>The moral status of woman depends or her personal independence and capacity for self-support. "Give a man a right over my subsistence," says Alexander Hamilton, "and he holds a power over my whole moral being."</p>
             <p>De Tocqueville cannot be impressed into the service of the writer, nor fairly quoted, even inferentially, as saying that the moral status of the American woman in 1848, owing to certain causes at work, was higher than it would be in 1900. Progress is the law, and woman, the greatest factor in civilization, must lead the van. Whatever degrades man of necessity degrades woman; whatever elevates woman of necessity elevates man.</p>
             <p>ELIZABETH CADY STANTON</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

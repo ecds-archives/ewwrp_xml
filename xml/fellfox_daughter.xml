@@ -62,7 +62,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="fellfox-daughter.001" n=" The Daughter of Sion Awakened, and Putting on Strength; She is Arising, and Shaking herself out of the Dust and Putting on Her Beautiful Garments " type="text">
+         <div id="fellfox-daughter.001" n=" The Daughter of Sion Awakened, and Putting on Strength; She is Arising, and Shaking herself out of the Dust and Putting on Her Beautiful Garments " type="text">
             <docAuthor>Fell Fox, Mary Askew. </docAuthor>
             <head>
                <title> The Daughter of Sion Awakened, and Putting on Strength; She is Arising, and Shaking herself out of the Dust and Putting on Her Beautiful Garments </title>
@@ -100,7 +100,7 @@ from Jacob, Rom. 11. 26.</p>
 believeth on him, shall not be ashamed, Pet. 2. 6.</p>
             <p>Printed in the Year 1677.<pb n="3"/>
             </p>
-            <div2 id="fellfox-daughter.002" n="Fell Fox: The Daughter of Sion Awakened; and putting on Strength." type="part">
+            <div id="fellfox-daughter.002" n="Fell Fox: The Daughter of Sion Awakened; and putting on Strength." type="part">
                <head>Fell Fox: <hi rend="bold">The Daughter of Sion Awakened; and putting on Strength.</hi>
                </head>
                <p>
@@ -716,8 +716,8 @@ are all one in Christ Jesus, whose Faith and Belief stamds in his Name and
 Power, who are sanctified and cleansed: so he presents his glorious Church
 unto himself (not having Spot or Wrinkle, or anysuch thing) which is his
 Body, the fulness of him that filleth all in all, Eph. 1. 22, 23.</p>
-            </div2>
-            <div2 id="fellfox-daughter.003" n="Fell Fox: The Daughter of Sion Awakened: Postscript" type="part">
+            </div>
+            <div id="fellfox-daughter.003" n="Fell Fox: The Daughter of Sion Awakened: Postscript" type="part">
                <head>Fell Fox: <hi rend="bold">The Daughter of Sion Awakened: Postscript</hi>
                </head>
                <p>
@@ -769,8 +769,8 @@ of Peter and Jude.
 </p>
                <p>M. F.</p>
                <p>THE END.</p>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </body>
    </text>
 </TEI.2>

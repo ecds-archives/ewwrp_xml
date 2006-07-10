@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="danvers.001" n=" A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia." type="poem">
+         <div id="danvers.001" n=" A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia." type="poem">
             <docAuthor>D'anvers, Alicia. </docAuthor>
             <head>
                <title> A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia.</title>
@@ -284,7 +284,7 @@ Humbly Dedicates this POEM. <lb/>
                <l>Give me your hand, be Friends, and let's a'done.</l>
                <l>FINIS.</l>
             </lg>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

@@ -74,7 +74,7 @@ tags inserted in compliance with TEI guidelines using TEILITE</item>
    <text>
       <front/>
       <body>
-         <div1 id="trapnell.001" n="Strange and Wonderful Newes" type="essay">
+         <div id="trapnell.001" n="Strange and Wonderful Newes" type="essay">
             <docAuthor>Trapnell: Strange and Wonderful Newes from
 White-Hall</docAuthor>
             <head>Strange and
@@ -297,7 +297,7 @@ to Mark lane in London in health and strenghth.</p>
             <p>MVSEVM<lb/>  BRITAN<lb/>  NICVM<lb/>
             </p>
             <p>FINIS.</p>
-         </div1>
+         </div>
       </body>
       <back/>
    </text>

@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="kemp.001" n=" A Contemplation of Bassetts-down-Hill" type="">
+         <div id="kemp.001" n=" A Contemplation of Bassetts-down-Hill" type="">
             <docAuthor>Kemp, Anne. </docAuthor>
             <head>
                <title> A Contemplation of Bassetts-down-Hill</title>
@@ -112,7 +112,7 @@ Mrs A. K.</p>
                <l>Thus heartless, doth my worthless body rest</l>
                <l>Whilest my heart liveth with the ever blest.</l>
             </lg>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

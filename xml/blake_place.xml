@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="blakeplace.001" n="Put Us in Your Place" type="Essay">
+         <div id="blakeplace.001" n="Put Us in Your Place" type="Essay">
             <docAuthor>Lillie Devereux Blake</docAuthor>
             <head>Put Us in Your Place</head>
             <docDate>Sept. 14, 1871</docDate>
@@ -70,7 +70,7 @@ Women Writers Resource Project at Emory University</p>
             <p>Finally, only imagine that Mrs. Stanton equaled Mr. Greeley in the force and vigor of the expletives with which she adorned her conversation. Would not the <hi rend="italic">Tribune</hi> be the first to write an editorial to prove that Mrs. Stanton's profanity was the direct result of her desire to vote?</p>
             <p>It is well to look a little at the relation between cause and effect. Said a lady lately, "I was a strong advocate of woman suffrage; but since the women in Paris have behaved so badly I have changed my man." The natural result of her proposition would be to deny the ballot to both sexes, since her syllogism runs somewhat thus: "The women of Paris have behaved badly, therefore women ought not to vote;" which would naturally be followed by the corresponding statement: "The men of Paris behaved badly, therefore men ought not to vote."</p>
             <p>That was a wise remark of the old philosopher that "human nature is poor stuff;" but let not the errors of women be held to debar them from political enfranchisement when the crimes of men are no barrier.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

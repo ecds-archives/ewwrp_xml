@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="behn-looking.001" n=" The Lady's Looking-Glass, To Dress  Herself by: or The Art of Charming" type="Text">
+         <div id="behn-looking.001" n=" The Lady's Looking-Glass, To Dress  Herself by: or The Art of Charming" type="Text">
             <docAuthor>Behn, Aphra. </docAuthor>
             <head>
                <title> The Lady's Looking-Glass, To Dress 
@@ -123,7 +123,7 @@ nothing to their Advantage.</p>
                <l>Graces to be eternally ador'd.</l>
             </lg>
             <p>But I will be silent now, and let your Glass speak.</p>
-            <div2 id="behn-looking.002" n="Behn: The Lady's Looking-Glass" type="Section">
+            <div id="behn-looking.002" n="Behn: The Lady's Looking-Glass" type="Section">
                <head>Behn: <hi rend="ITALIC">The Lady's Looking-Glass</hi>
                </head>
                <p>
@@ -135,8 +135,8 @@ nothing to their Advantage.</p>
 your self the Trouble, and me the Honour of Consulting me in the great and
 weighty Affairs of Beauty: I am, my adorable Mistress! a faithful Glass;
 and you ought to believe all I say to you.</p>
-            </div2>
-            <div2 id="behn-looking.003" n="Behn: The Shape of Iris." type="Section">
+            </div>
+            <div id="behn-looking.003" n="Behn: The Shape of Iris." type="Section">
                <head>Behn: <hi rend="ITALIC">The Shape of Iris.</hi>
                </head>
                <p>The Shape of Iris</p>
@@ -200,8 +200,8 @@ extreamly. and which has not given Damon a thousand Rivals.</p>
                   <l>That as thou mount'st, 'twill perfume all the Skies.</l>
                </lg>
                <pb n="7"/>
-            </div2>
-            <div2 id="behn-looking.004" n="Behn: Iris's Complexion" type="Section">
+            </div>
+            <div id="behn-looking.004" n="Behn: Iris's Complexion" type="Section">
                <head>Behn: <hi rend="ITALIC">Iris's Complexion</hi>
                </head>
                <p>Iris's Complexion.
@@ -225,8 +225,8 @@ your Face, and gives you a thousand new Graces.</p>
                   <l>Sometimes the Lilly does prevail,</l>
                   <l>And makes the gen'rous Crimson pale.</l>
                </lg>
-            </div2>
-            <div2 id="behn-looking.005" n="Behn:IRIS'S Hair" type="Section">
+            </div>
+            <div id="behn-looking.005" n="Behn:IRIS'S Hair" type="Section">
                <head>Behn:<hi rend="ITALIC">IRIS'S Hair</hi>
                </head>
                <p>IRIS'S Hair.</p>
@@ -275,8 +275,8 @@ agreeable in the World.</p>
                   <l>Which touching but the feather'd Dart,</l>
                   <l>It never mist the destin'd Heart.</l>
                </lg>
-            </div2>
-            <div2 id="behn-looking.006" n="Behn:IRIS'S Eyes" type="Section">
+            </div>
+            <div id="behn-looking.006" n="Behn:IRIS'S Eyes" type="Section">
                <head>Behn:<hi rend="ITALIC">IRIS'S Eyes</hi>
                </head>
                <p>IRIS'S Eyes.</p>
@@ -350,8 +350,8 @@ wishes, may perpetually accompany them, during their Absence from him; for
                <p>
                   <pb n="12"/>
                </p>
-            </div2>
-            <div2 id="behn-looking.007" n="Behn:The Mouth of IRIS" type="Section">
+            </div>
+            <div id="behn-looking.007" n="Behn:The Mouth of IRIS" type="Section">
                <head>Behn:<hi rend="ITALIC">The Mouth of IRIS</hi>
                </head>
                <p>The Mouth of IRIS.</p>
@@ -380,8 +380,8 @@ what I so admire; and 'tis in vain to those, who have not seen Iris.</p>
                   <l>Whether you talk, or silent are;</l>
                   <l>Your Lips immortal Beauties were.</l>
                </lg>
-            </div2>
-            <div2 id="behn-looking.008" n="Behn: The Neck of IRIS" type="Section">
+            </div>
+            <div id="behn-looking.008" n="Behn: The Neck of IRIS" type="Section">
                <head>Behn:<hi rend="ITALIC"> The Neck of IRIS</hi>
                </head>
                <p>
@@ -410,8 +410,8 @@ repel the malicious Cloud, that wou'd obscure their Brightness.</p>
                   <l>Ever sacred kept by me.</l>
                   <l>R</l>
                </lg>
-            </div2>
-            <div2 id="behn-looking.009" n="Behn:  The Arms and Hands of IRIS" type="Section">
+            </div>
+            <div id="behn-looking.009" n="Behn:  The Arms and Hands of IRIS" type="Section">
                <head>Behn: <hi rend="ITALIC"> The Arms and Hands of IRIS</hi>
                </head>
                <p>
@@ -454,8 +454,8 @@ double; his Blushes rise, and his very Soul dance.</p>
                   <l>'Tis that, which Treasures gives so vast:</l>
                   <l>Ev'n Iris 'twill to Damon give at last.</l>
                </lg>
-            </div2>
-            <div2 id="behn-looking.010" n="Behn:  The Grace and Air of IRIS" type="Section">
+            </div>
+            <div id="behn-looking.010" n="Behn:  The Grace and Air of IRIS" type="Section">
                <head>Behn: <hi rend="ITALIC"> The Grace and Air of IRIS</hi>
                </head>
                <p>The Grace and Air of IRIS.</p>
@@ -503,8 +503,8 @@ never gawdy; but always suiting with your Quality.</p>
                   <l>Beauties so perfect ne'er were seen: </l>
                   <l>O ye mistaken Fair! Dress ye by Iris Mien.</l>
                </lg>
-            </div2>
-            <div2 id="behn-looking.011" n="Behn:  The Discretion of IRIS" type="Section">
+            </div>
+            <div id="behn-looking.011" n="Behn:  The Discretion of IRIS" type="Section">
                <head>Behn: <hi rend="ITALIC"> The Discretion of IRIS</hi>
                </head>
                <p>
@@ -553,8 +553,8 @@ unreasonable fair Ones.</p>
                   <l>The World your Conduct must approve:</l>
                   <l>Your Prudence never acts in vain.</l>
                </lg>
-            </div2>
-            <div2 id="behn-looking.012" n="Behn:  The Goodness and Caomplaisance of Iris" type="Section">
+            </div>
+            <div id="behn-looking.012" n="Behn:  The Goodness and Caomplaisance of Iris" type="Section">
                <head>Behn: <hi rend="ITALIC"> The Goodness and Caomplaisance of Iris</hi>
                </head>
                <p>The Goodness and Complaisance of Iris.</p>
@@ -606,8 +606,8 @@ tender of that Number.</p>
                   <l>Your Mercy else, will come too late.</l>
                   <l>Distance in Love more cruel is, than Hate.</l>
                </lg>
-            </div2>
-            <div2 id="behn-looking.013" n="Behn: The Wit of Iris" type="Section">
+            </div>
+            <div id="behn-looking.013" n="Behn: The Wit of Iris" type="Section">
                <head>Behn: <hi rend="ITALIC">The Wit of Iris</hi>
                </head>
                <p>The Wit of Iris.</p>
@@ -655,8 +655,8 @@ Heart? For all great Wits are Prophets too:</p>
                   <l>Oh! Tell me Truth, to ease my Pain:</l>
                   <l>Say rather, I shall die by her Disdain.</l>
                </lg>
-            </div2>
-            <div2 id="behn-looking.014" n="Behn:  The Modesty of Iris" type="Section">
+            </div>
+            <div id="behn-looking.014" n="Behn:  The Modesty of Iris" type="Section">
                <head>Behn: <hi rend="ITALIC"> The Modesty of Iris</hi>
                </head>
                <p>The Modesty of Iris.</p>
@@ -697,8 +697,8 @@ perswaded to lessen my pain, and restore me to my Joys; for <pb n="24"/>
 there is
 no Torment so great, as the Absence of a Lover from his Mistress; of which,
 this is the Idea.</p>
-            </div2>
-            <div2 id="behn-looking.015" n="Behn:  The Effects of Absence from what we love" type="Section">
+            </div>
+            <div id="behn-looking.015" n="Behn:  The Effects of Absence from what we love" type="Section">
                <head>Behn: <hi rend="ITALIC"> The Effects of Absence from what we love</hi>
                </head>
                <p>The Effects of Absence from what we love.</p>
@@ -722,8 +722,8 @@ this is the Idea.</p>
                   <l>Which if by Chance it catch, thou'rt lost again.</l>
                   <l>The End of the Looking-Glass.</l>
                </lg>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </body>
    </text>
 </TEI.2>

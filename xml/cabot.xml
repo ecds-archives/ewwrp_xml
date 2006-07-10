@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="cabot.001" n=" Letter to a Friend" type="letter">
+         <div id="cabot.001" n=" Letter to a Friend" type="letter">
             <docAuthor>Cabot, Susan C. </docAuthor>
             <head>
                <title> Letter to a Friend</title>
@@ -85,7 +85,7 @@ living reality; to become a part of our spiritual being? This, doubtless, is a h
             <p>Let me make one more remark, then I have done. Is there not great danger, that, with all our convictions and acknowledgements to the contrary, the covering that God has been pleased to put upon the negro hides from our faithless hearts the truth that he is as one of us? And does not that make us more busy in our home charities, which have but one complexion, than we otherwise should be, when called upon to help, those who are indeed distant? If our slaves had our skins, would it be so difficult to find time to think about them? I ask these questions without fear of giving offence, for I know your benevolence, how wide it is. I feel sure that if I have touched
 <pb n="105"/>
 upon a tender place, you will courageously touch it again, and ascertain whether there be any real unsoundness there; and, cost what it may, will take the necessary remedies for restoring health to the sick part. After this, I say nothing in extenuation of my frankness.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

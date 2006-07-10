@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="eleanorarraign.001" n="The Arraignment." type="Prose">
+         <div id="eleanorarraign.001" n="The Arraignment." type="Prose">
             <docAuthor>Eleanor, Lady</docAuthor>
             <head>"The Arraignment"</head>
             <docDate>1650</docDate>
@@ -160,7 +160,7 @@ Women Writers Resource Project at Emory University</p>
                   <hi rend="italic">F I N I S. </hi>
                </hi>
             </p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

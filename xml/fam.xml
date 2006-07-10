@@ -54,19 +54,19 @@
    </teiHeader>
    <text>
       <front>
-         <div1 id="fam.001" n=" Introduction to A Family Discussion" type="Introduction">
+         <div id="fam.001" n=" Introduction to A Family Discussion" type="Introduction">
             <docAuthor>Enright, Amy. </docAuthor>
             <head> Introduction to <title>A Family Discussion</title>
             </head>
             <docDate>1997</docDate>
-            <div2 id="fam.002" n="A Family Discussion:  The Process of Edition and Translation  " type="Section">
+            <div id="fam.002" n="A Family Discussion:  The Process of Edition and Translation  " type="Section">
                <head>A Family Discussion:  The Process of Edition and Translation  </head>
                <p> The hermeneutical disadvantage inherent in the edition and particularly in the translation of historical texts is the inevitable camouflaging of the differences between the culture of the author and that of the reader. The opening pages of this edition seek to redress that disadvantage by means of visual metaphor. On the cover page, the image of the original title page, creased and blurred, exhibits the age of this document. Moreover, the image fades into the blackness of the border, just as its context and contents are fading into the darkness of lost history. This is the true state of this document: aged, discarded, fading. The following page demonstrates the artificial transformation achieved by the processes of translation and edition. Suddenly, the text is in English, the fonts regular, and the borders straight. Here, the encroaching blackness of history is absent; the text is, to all appearances, accessible to the modern reader. Nevertheless, the cultural leap between early modern Paris and twentieth century America remains immense.</p>
                <p> It is of vital importance to keep in mind that this document, now presented in the context of things academic and abstract, was written, printed, sold, and read by people gripped with the urgency of their situation. The aim of this translation is to acknowledge the disparity between the culture of the reader and that of the author and, paradoxically, to attempt to bridge that gap which is larger than years or miles can measure. It seeks to investigate the opinions and assumptions of the author, examining them as a means by which early modem views of female rulership can be better understood.</p>
                <p> The camouflaging of cultural difference can be partially remedied by editorial manipulation. To this end, the seventeenth century French text has been included with the English translation. Its presence will afford francophone readers the opportunity to explore the original style of the prose while reminding readers of English that they are handling a foreign text. In an additional effort to create a translation faithful to the spirit of the original, the historical and literary notes have been placed on the pages opposing the terms they describe. It is hoped that this placement will facilitate their accessibility without interrupting the fluid banter of the pamphlet, as footnotes doubtlessly would have done. Finally, as few alterations as possible have been made to the French text, though u/i/y have been modernized to v/j/i in most cases. The English translation closely follows the literary style and grammatical construction of the French; antecedents and direct objects have been added in brackets only in those cases where their absence might cause confusion.</p>
                <p> In a fnal note, the author is pleased to acknowledge her debt to Professor William Beik of Emory University. His kind offer to review the translated portion of the text and his subsequent suggestions did much to bring the project to fruition.</p>
-            </div2>
-            <div2 id="fam.003" n="A Family Discussion:  'My good mother...': Regency and Revolt in mid- seventeenth-century France" type="Section">
+            </div>
+            <div id="fam.003" n="A Family Discussion:  'My good mother...': Regency and Revolt in mid- seventeenth-century France" type="Section">
                <head>A Family Discussion:  'My good mother...': Regency and Revolt in mid- seventeenth-century France  </head>
                <p>History records her as Anne 'of Austria,' but, in fact, Anne's life was shaped by the erratic relationship between the kingdoms of Spain and France during the seventeenth century. She was raised as a Spanish princess, the first child of Philip III of Spain and Margaret of Austria, and married at age fourteen to Louis XIII of France with the hopes that under her influence Louis would prove more of a friend to the powerful Spanish monarchy than his father, the bellicose Henry IV, had been. Henry IV had feared that an alliance with the powerful Hapsburg empire which surrounded France -- to the north in the Netherlands and to the South in Spain and Italy -- would reduce his newly-won kingdom to the level of a client-state. After Henry's assassination in 1610, his widow, Marie de Medici, reversed French foreign policy by pursuing a marriage alliance between her eldest son and Princess Anne, an act of union which would wed the two most powerful Catholic nations in Europe.</p>
                <p> Hopes that Anne would grow so close to Louis as to sway him towards pro-Spanish policy grew quickly dim. Louis was not an overly intimate person and those few favorites he did have did not include his wife. Married as adolescents, the couple led separate lives punctuated by formal meetings and unpleasant quarrels prompted by Louis' periodic dismissal of the Spanish members of Anne's household. When pressed to explain his neglect of his wife, Louis claimed that though Anne might begin to look French as she acclimated to Gallic styles of dress and comportment, she remained Spanish at heart. For this reason, he distrusted and avoided her. <ref target="fam.006.in1">1</ref>  Even after 1620, when their marriage improved to the point where Louis lived with her as husband, Anne's status with him remained low, for she did not conceive often nor was she able to bring a child to term and thus fulfill her role as queen. Rather than playing the dutiful wife, Anne's interests centered on her religious life, especially on Val-de-Gr&#x00E2;ce, the convent she founded, and on her friendships, friendships that often allied her with those of whom Louis disapproved.</p>
@@ -104,14 +104,14 @@
                <p> That Anne is entirely caught up with the satisfaction of her own desires is demonstrated first in her tendency to appoint ministers based on their willingness to appease her and second in her violent reaction against those who oppose her will. The author expressly defines Anne's pursuit of vengeance against the Parlement of Paris as a characteristic of female rulers. Instead of ruling her emotions and serving her subjects -the definition of a virtuous ruler -- Anne is dominated by her passions and neglectful of the people of France. When the Parlement, claiming to speak for the people, rebukes her, her former carelessness turns to vindictive action.</p>
                <p> The author refers to a succession of heroic kings, such as St. Louis, King David of Israel, and Henry IV, contrasting Anne's shameful leadership with their own. Rather than following the godly examples of these figures, or holding them up as models for her son, Anne associates herself with the cruelty of King Herod of Judah. Herod's murder of thousands of Jews in an effort to kill Jesus Christ is invoked as an analogy of the evil and depravity inherent in Anne's willingness to starve the French people. In <hi rend="Italic">A Family Discussion. . . </hi>Anne's frequent attendance at mass and her involvement in the Catholic revival appear calculated and hypocritical. Conforming to the nature of all female rulers, she is incapable of either competently or sincerely caring for the nation and the people she leads.</p>
                <p> The composite nature of her literary characterization makes it difficult to ascertain to what degree the author wished to implicate Anne in the creation of specific grievances; but it is clear that, as a <hi rend="Italic">reigning </hi>Queen Regent, she is considered capable of bringing about the ruin of France. As a failed mother she is dangerous to her sons and to the kingdom that she rules in their stead. This theme is echoed in another Mazarinade which argues that, because of Anne's disloyalty to France, she is an unnatural mother to Louis -who no longer belongs under her tutelage. Instead, the French people should serve as the parent and protector of the King. <ref target="fam.006.in19">19</ref> It is ironic that the critics of Anne of Austria would declare her, who suffered so much to preserve a strong France for Louis XIV, to be an unfit mother to her son and his people.</p>
-            </div2>
-         </div1>
-         <div1 id="fam.004" n="Timeline for A Family Discussion" type="Timeline">
+            </div>
+         </div>
+         <div id="fam.004" n="Timeline for A Family Discussion" type="Timeline">
             <docAuthor>Enright, Amy. </docAuthor>
             <head> Timeline for <title>A Family Discussion</title>
             </head>
             <docDate>1997</docDate>
-            <div2 id="fam.005" n=" Timeline for A Family Discussion" type="Timeline">
+            <div id="fam.005" n=" Timeline for A Family Discussion" type="Timeline">
                <head>A Family Discussion:  Anne of Austria  </head>
                <list type="ORDERED">
                   <item>
@@ -155,9 +155,9 @@
                   <item>
                      <hi rend="Bold">1666:</hi> January 20: Anne dies.</item>
                </list>
-            </div2>
-         </div1>
-         <div1 id="fam.006" n="Notes to the Introduction for A Family Discussion" type="Notes">
+            </div>
+         </div>
+         <div id="fam.006" n="Notes to the Introduction for A Family Discussion" type="Notes">
             <docAuthor>Enright, Amy. </docAuthor>
             <head>Notes to the Introduction for <title>A Family Discussion</title>
             </head>
@@ -201,10 +201,10 @@
                <hi rend="BOLD">18</hi> Ranum, p. 202.</note>
             <note id="fam.006.in19" n="19" anchored="yes">
                <hi rend="BOLD">19</hi> Merrick, p. 689.</note>
-         </div1>
+         </div>
       </front>
       <body>
-         <div1 id="fam.007" n="A Family Discussion" type="Text">
+         <div id="fam.007" n="A Family Discussion" type="Text">
             <docAuthor>[Unknown]. </docAuthor>
             <head>
                <title> A Family Discussion:  A FAMILY DISCUSSION between the King and the Queen Regent, his mother, concerning current affairs including advice from the Duke of Anjou to the King presented to her Majesty by a faithful Official of her Household at St. Germain-en-Laye on Ash Wednesday, 1649.
@@ -822,8 +822,8 @@ La Reine: Mon fils, &#x00E7;'a este M. le Prince de Cond&#x00E9;, qui m'a dit qu
             <p>
                <hi rend="BOLD">FIN</hi>
             </p>
-         </div1>
-         <div1 id="fam.008" n="Text Notes for A Family Discussion " type="notes">
+         </div>
+         <div id="fam.008" n="Text Notes for A Family Discussion " type="notes">
             <docAuthor>Enright, Amy. </docAuthor>
             <head> Text Notes for <title>A Family Discussion</title>
             </head>
@@ -861,14 +861,14 @@ La Reine: Mon fils, &#x00E7;'a este M. le Prince de Cond&#x00E9;, qui m'a dit qu
                <hi rend="BOLD">16</hi> The author points out the irony of civil war, wherein a Thanksgiving mass is offered for the taking of French property.</note>
             <note id="fam.008.n17" n="17" anchored="yes">
                <hi rend="BOLD">17</hi> Pamplona is a city in Northern Spain which is very close to the border of the Southwestern French territory of Navarre.</note>
-         </div1>
+         </div>
       </body>
       <back>
-         <div1 id="fam.009" n="Bibliography and Related Readings for A Family Discussion" type="Bibliography">
+         <div id="fam.009" n="Bibliography and Related Readings for A Family Discussion" type="Bibliography">
             <docAuthor>Enright, Amy. </docAuthor>
             <head>Bibliography and Related Readings for <title>A Family Discussion</title>
             </head>
-            <div2 id="fam.010" n="A Family Discussion:  ANNE OF AUSTRIA / FEMALE RULERSHIP IN FRANCE" type="Section">
+            <div id="fam.010" n="A Family Discussion:  ANNE OF AUSTRIA / FEMALE RULERSHIP IN FRANCE" type="Section">
                <head>A Family Discussion:  ANNE OF AUSTRIA / FEMALE RULERSHIP IN FRANCE  </head>
                <bibl>
                   <author>Kleinman, Ruth</author> 
@@ -953,8 +953,8 @@ La Reine: Mon fils, &#x00E7;'a este M. le Prince de Cond&#x00E9;, qui m'a dit qu
                      <date>1993</date>
                   </imprint>
                </bibl>
-            </div2>
-            <div2 id="fam.011" n="A Family Discussion:  ANNE OF AUSTRIA / FEMALE RULERSHlP IN FRANCE  " type="Section">
+            </div>
+            <div id="fam.011" n="A Family Discussion:  ANNE OF AUSTRIA / FEMALE RULERSHlP IN FRANCE  " type="Section">
                <head>A Family Discussion:  THE FRONDE  </head>
                <bibl>
                   <author>Doolin, Paul Rice</author> 
@@ -996,8 +996,8 @@ La Reine: Mon fils, &#x00E7;'a este M. le Prince de Cond&#x00E9;, qui m'a dit qu
                      <date>1993</date>
                   </imprint>
                </bibl>
-            </div2>
-            <div2 id="fam.012" n="A Family Discussion:  THE FRONDE  " type="Section">
+            </div>
+            <div id="fam.012" n="A Family Discussion:  THE FRONDE  " type="Section">
                <head>A Family Discussion:  POLITICAL PROPAGANDA IN EARLY MODERN FRANCE:  </head>
                <bibl>
                   <author>Darnton, Robert</author> 
@@ -1061,8 +1061,8 @@ La Reine: Mon fils, &#x00E7;'a este M. le Prince de Cond&#x00E9;, qui m'a dit qu
                   <date>1975</date>
                   <biblScope>57-88</biblScope>
                </bibl>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </back>
    </text>
 </TEI.2>

@@ -68,7 +68,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="bathurst.001" n=" An Expostulatory appeal to the Professors of Christianity, Joyned in Community with  Samuel Ansley." type="text">
+         <div id="bathurst.001" n=" An Expostulatory appeal to the Professors of Christianity, Joyned in Community with  Samuel Ansley." type="text">
             <docAuthor>Bathurst, Elizabeth. </docAuthor>
             <head>An Expostulatory appeal to
 the Professors of Christianity, Joyned in Community with 
@@ -272,7 +272,7 @@ the Lord to with-hold his Spirit from striving with you.  </p>
             <p> Written
 in Obedience to the Lord, <lb/> by your Friend <lb/> ANNE BATHURST</p>
             <p>THE END.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

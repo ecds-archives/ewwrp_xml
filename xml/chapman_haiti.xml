@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="chapman-haiti.001" n=" HAITI" type="article">
+         <div id="chapman-haiti.001" n=" HAITI" type="article">
             <docAuthor>Chapman, Maria Weston. </docAuthor>
             <head>
                <title> HAITI</title>
@@ -208,7 +208,7 @@ ple, which operates so unfavorably upon their prospects for the future, they hav
                <hi rend="BOLD">3</hi>Maria Weston Chapman<title> Haiti </title>p.204 The French spoken among the peasantry, the Creole, as it is called, is a corrupted Patois; but the Spanish is far purer: while, by the cultivated portion of the people, both are well spoken.</note>
             <note id="chapman-haiti.001.n4" n="4" anchored="yes">
                <hi rend="BOLD">4</hi>Maria Weston Chapman<title> Haiti </title>  Proposals for the formation of a Steamboat Company have just been issued.</note>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

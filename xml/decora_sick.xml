@@ -94,7 +94,7 @@ Emory Women Writers Resource Project.</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="decora.001" n="The Sick Child" type="story">
+         <div id="decora.001" n="The Sick Child" type="story">
             <docAuthor>De Cora, Angel (Henook-Makhewe-KeleNaka [sic])</docAuthor>
             <head>The Sick Child. A Story.</head>
             <docDate/>
@@ -196,7 +196,7 @@ the spirit-land, and we must not talk about her. They made us look
 upon her. We felt of her and kissed her, but she made no
 response. Then I realized what death meant. Remorse again seized me,
 but I was silent.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

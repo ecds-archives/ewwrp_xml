@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="laflesche-question.001" n="The Indian Question" type="essay">
+         <div id="laflesche-question.001" n="The Indian Question" type="essay">
             <docAuthor>La Flesche, Susette (Bright Eyes)</docAuthor>
             <head>"The Indian Question."</head>
             <docDate>1880</docDate>
@@ -73,7 +73,7 @@ Women Writers Resource Project at Emory University</p>
 <pb n="223"/>
 like some strange story to think of this powerful government sending out its armed forces against a miserable little band composed of eight men, twenty-two women and children, all of them half starved, and half of them sick with the malarial diseases caught in that strange climate.</p>
             <p>Why did the government do this? Because the Indian is a child, thing or ward, and must be taken care of and fed; moreover, he left that strange land without permission from his father, master or guardian, whichever you will. But the government feeds them. Was the government feeding them when it took from them their land and carried them to a strange, unbroken country, reeking with malaria, there to live in canvas tents and likely to starve because their great father, guardian or master failed to issue to them rations for three months? This is not a solitary instance, but has happened again and again, and will happen again and again until this system is done away with. It is either extermination or citizenship for the Indian. This system has been tried for nearly a hundred years, and has only worked ruin on the Indian. It has resulted only in the shedding of blood and mutual hatred between the two nations. It has resulted in the expenditure of vast sums of money; but all the money is nothing to the loss of a single human life. Set aside the idea that the Indian is a child and must be taken care of, make him understand that he is to take care of himself as all other men do, give him a title to his lands, throw over him the protection of the law, make him amenable to it, and the Indian will take care of himself. Then there will be no more wars in trying to settle the Indian problem, for there will be no problem to settle.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

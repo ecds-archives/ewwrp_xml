@@ -57,13 +57,13 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <front>
-         <div1 id="gc-complete.001" n="Introduction to The Gentlewomans Companion" type="Introduction">
+         <div id="gc-complete.001" n="Introduction to The Gentlewomans Companion" type="Introduction">
             <docAuthor>Ellison, Katherine</docAuthor>
             <head>Introduction to <title>The Gentlewomans Companion</title>
             </head>
             <docDate>1999</docDate>
             <p>First published in 1673, <title>The Gentlewomans Companion</title> stands at an important crossroads in twentieth-century interpretations of seventeenth-century texts.  In its discussion of female education and behavior, the <title>Companion</title> is an integral part of an ongoing debate about the place of women within society's institutions of learning.  In its mission to provide "all Young Ladies, Gentlewomen, and all Maidens whatever" access to information on conduct, fitting female models, speech, fashion, recreation, fine cooking, and medical remedies, the <title>Companion</title> is a key text in the inclusion of women as professional writers in the print community.  In its inaccurate identification as Hannah Wolley's compilation of her own work, the <title>Companion</title> is an excellent example of the conflicts faced by women as writers in the seventeenth-century world of print and plagiarism.  The anonymous author states in the dedication of the work that the "great Design" of the <title>Companion</title> is to present "our Sex a <orig reg="Complete">Compleat</orig> Directory"-and that is exactly what follows.  Reappearing after at least two later printings in 1675 and 1682, the complete directory enjoyed enormous success, in part because the name of Hannah Wolley, known as one of the first professional women writers, appeared on the title page.  Although Wolley was not given the chance-as she had hoped she would be-to produce a collection of her own works in a single edition, the <title>Companion</title> nonetheless includes several documents that can be traced to Wolley's own voice.  For this reason, the text is a valuable contribution to the growing corpus of Renaissance women's writing and should be studied as a text that encapsulates the gender conflicts of not only the seventeenth century, but also those still persisting today.  Any approach to the <title>Companion</title>, however, must take into consideration the authorship of the text and the problems it poses for modern-day interpretations of Renaissance writings.  Beginning with Elaine Hobby's evidence for the false authorship of the text, this introduction will then comment on what that authorship reveals about the nature of the print culture and the function of literary texts as property.  At this point, it is also necessary to provide a biographical background of Wolley, as well as emphasize the persistence of the false biography printed in the <title>Companion</title> in today's scholarship.  Lastly, this study will look at the place of the <title>Companion</title> within the Renaissance discourse on female education and, finally, the role of advice books as alternative forms of literature that are often overlooked in studies of seventeenth-century contributions to women's writing.</p>
-            <div2 id="gc-complete.002" n="The Authorship of The Gentlewomans Companion" type="Section">
+            <div id="gc-complete.002" n="The Authorship of The Gentlewomans Companion" type="Section">
                <head>The Authorship of The Gentlewomans Companion</head>
                <p>The author of <title>The Gentlewomans Companion</title>, in a chapter entitled "What Recreations and Pleasures are most fitting and proper for young Gentlewomen," asks: "Why should ye seek that in many which you may find in one? The Sun, whilst in our Hemisphere needs no other light but its own to illuminate the World. One Book may serve for a Library. The reading of few Books, is not to be less knowing, but to be the less troubled."  The statement is an essential one, for it not only describes the author's perspective on education and reading, but also contributes a fitting description of the structure of the <title>Companion</title>.  Simply put, the work is a compilation of writings taken from a number of sources, brought together to provide female readers with a definitive edition they can consult on any occasion.  More importantly, the argument that "[o]ne Book may serve for a Library" also provides justification for the <title>Companion</title>'s problematic 
 <pb n="ii"/>
@@ -117,8 +117,8 @@ books, miscellanies, and companions, writers like Wolley were introduced to new 
                <p>The audience of the <title>Companion</title> and Wolley's true works is essential, for it is here that we begin to note the importance that the advice book genre held in seventeenth-century society and literature.  Ferguson seems comfortable with Wolley's double audience, while other critics either emphasize one readership or express concern over the writer's ambiguity.  Deirdre Raftery, writing in <title>Women and Learning in English Writing, 1600-1900</title>, believes that writers like Wolley "proposed schools and colleges catering for an intellectual rather than a vocational education," and this emphasis on middle- and upper-class women's education "reflects concern at the paucity of provision" (30) <ref target="gc-complete.007.gc-intro5">5</ref>.  On one hand, the <title>Companion</title> does repeatedly speak directly to "ladies," revealing that the <title>Companion</title> is directed toward literature readers of the middle and upper classes.  The <title>Companion</title> also includes sections like "Of a young Gentlewomans deportment to her Governess and Servants in the Family," but the table of contents also notably includes specific individual sections dedicated specifically "To Nursery-Maids in Noble Familes" and "in London or elsewhere," as well as chapters "To Cook-maids," "Laundry-maids," "Dairy-maids," "House-maids," and "Scullery-maids."  Hobby cites Wolley's third publication, <title>The Queen-like Closet</title> (1670), as indicative of the writer's double audience.  This third publication, Hobby feels, is "divided over the problem of which class it is addressing" because while, on one hand, Wolley discusses party food of the upper classes, she also directs the third part of the <title>Closet</title> to servants (169). "Her more likely pupils, of course," Hobby writes, "are not servants themselves, but their mistresses who, in becoming more leisured, might be losing the traditional female skills of running the household" (Hobby 171).  "She seeks, indeed, to professionalize housework, or to turn it into a recognised trade, offering a seven-year training in some ways comparable to the seven-year apprenticeship that Robert May and other men took to become cooks" (171).  Another view of the "problematic" audience of the <title>Companion</title> and Wolley's <title>Closet</title>--and one not mentioned in current scholarship--is that it marks one of the most important characteristics of the genres of advice writing and cookery.  While Wolley's upper-class audience may overlook those sections addressed to their employees, women hired as service workers no doubt paid close attention not only to the chapters dedicated to them, but also 
 <pb n="ix"/>
 to the beginning sections of the work that outline proper conduct and education for "ladies and gentlewomen."  Although literacy amongst the working class was still relatively low, advice literature gave women of that class access to literature that not only provided recipes and cleaning suggestions, but that also included arguments for the improved education of the female sex.  It is impossible to measure the impact that advice literature had on members of the working classes, but the content and wide target audience of works like the <title>Companion</title> repeatedly reached readers in a way that poetry, fiction, and other forms of prose could not.</p>
-            </div2>
-            <div2 id="gc-complete.003" n="Hannah Wolley: Her Life and Works" type="Section">
+            </div>
+            <div id="gc-complete.003" n="Hannah Wolley: Her Life and Works" type="Section">
                <head>Hannah Wolley: Her Life and Works</head>
                <p>The "spurious biography" that appears in the anonymous <title>Companion</title> is the basis for the majority of the few modern Wolley biographies. In her otherwise outstanding book, Raftery adopts the facts of the constructed life of Wolley (spelled "Woolley" in her text), but Raftery does admit that information about the author is incomplete.  Apparently basing her <orig reg="knowledge">knowledg</orig>e of Wolley's life on "The Short Account" that appears in the beginning of the <title>Companion</title>, Raftery calculates Wolley's birth year as 1623, just one year off from Hobby's calculation (37).  According to Raftery, Wolley was orphaned at age fourteen and, adopting the language of the account, became "mistress of her own little school" at the age of fifteen (37).  Unfamiliar with Hobby's findings, Raftery inaccurately attributes the <title>Companion</title> to Wolley, stating that it is here that Wolley "boldly states that she believed that female ignorance was the result of male conspiracy" (37).</p>
                <p>To set the record straight, Hobby provides a new biography, which she compiles after an impressive close reading of small hints throughout the corpus of Wolley's true texts and from county histories and death notices.  From these readings, Hobby discovers that Wolley's date of birth is most likely 1622, and that from 1639 to 1646 Wolley worked as a servant for an unnamed woman, during which time she learned about medical remedies and recipes (166).  In 1646 Hobby married Benjamin Wolley, who was the master of the Newport Grammar School where Hobby put into practice those skills of "physick" which she acquired earlier.  Hobby does not cite where she obtains the information, but she states that Wolley and her husband moved from Newport to Hackney, where the couple started another school (166).  Benjamin Wolley died on August 1661, as indicated in the <title>Victoria County History</title>, and interestingly Hannah Wolley publishes her first book, <title>The Ladies Directory</title>, just one month before her husband's death (166).  Hobby speculates that the husband's death must have followed an illness, for Hannah most likely began publishing to provide an alternative income and to look ahead to her future as a single parent of four children (166).  By the time of her first husband's death, Wolley had earned a reputation as a successful physician, despite her amateur experience and the volatile environment for female medics.  "From the beginning," Hobby writes, "she used her books as an advertisement for her prowess, both preparing the way for her forthcoming publications and inviting her readers to consult her in person if they required further instruction" (167).  Ironically, Hobby points out, Wolley's first title page warns readers to beware of counterfeits (167).  Wolley remarried in 1666, but her second husband, Francis Chaloner, died within a decade later around 1674 (166).  Wolley's own date of death is unknown, "but since she raised no public protest at T.P.s making free with her work in 1675 in <title>The Accomplish'd Ladies Delight</title>, it is possible that she did not live to see it appear"(Hobby 167).
@@ -128,8 +128,8 @@ to the beginning sections of the work that outline proper conduct and education 
                <p>
                   <title>The Queen-like Closet</title> was published in 1670, and is largely an expansion of the content of her two previous works.  "Her presentation of her material," Hobby points out, "shows her confidence in the act of writing, and her sense of the role of author, to be expanding" (168).  Hobby concludes her summaries of Wolley's true works with a look at <title>A Supplement to the Queen-like Closet</title>, printed in 1674 and particularly important because it provides the main support for the false authorship of <title>The Gentlewomans Companion</title>.  Like the compiled <title>Companion</title>, the supplement offers advice on letter writing, as well as contains discussions of needlework, handwriting, grammar, and household activities.</p>
                <p>A look at the evolution of Wolley's writing proves that Renaissance scholars--and all readers in general--would benefit from additional studies of Wolley as a writer, an educator, and an activist. Her low-key goal in <title>The Ladies Directory</title>--to provide information on preserving and candying, is a stark contrast to the confidence of <title>A Supplement</title>, where Wolley even offers advice on writing and communication.  During the course of her career, Wolley picks up the literary conventions of her time and successfully applies them so that, by the 1670s, her name is so well-known it is "borrowed" by a publisher who seeks additional profit for his printing business.  As Hobby states, Wolley's body of work proves that she "has progressed a long way from her initial recipe books made up of long, rambling sentences, to being able to advise and adjudicate about the correct language to use for various purposes" (172).</p>
-            </div2>
-            <div2 id="gc-complete.004" n="Locating the Companion in Seventeenth-Century Women's Education and Literature" type="Section">
+            </div>
+            <div id="gc-complete.004" n="Locating the Companion in Seventeenth-Century Women's Education and Literature" type="Section">
                <head>Locating the <title>Companion</title> in Seventeenth-Century Women's Education and Literature</head>
                <p>Raftery writes in <title>Women and Learning in English Writing, 1600-1900</title> that during the Renaissance, "the debate about the education of women inherited a set of arguments, supported by classical and biblical exempla, that promoted the idea that a woman's education should equip her for nothing more than the duties of a virtuous wife and mother" (16).  "The education of 
 <pb n="xi"/>
@@ -148,8 +148,8 @@ reach of Sickness and Old Age, by transferring it from a corruptible Body to an 
                </p>
                <p>More than any other genre, mother's manuals and advice books enjoyed enormous success during the seventeenth century.  The popularity of this body of literature, Kristen Poole points out in "'The fittest closet for all goodness': Authorial Strategies in Jacobean Mothers' Manuals" "invites us to reconsider the perception and reception of women's writing in Jacobean England" (69).  At the root of the genre's popularity, she explains, is its "highly unusual" presentation--it "overtly commands and instructs" (69, 70).  Poole here focuses on the meaning behind the candidly authoritative female voice of advice literature, which she feels may challenge our tendencies to see the public and private spheres as inherently separate.  To explore the issue of the public and private, Poole looks to the genre's apparent definition of the word "home": "defining 'home' (the private) became a way of defining 'not home' (the public)" (71).  Conduct literature, she concludes, thus not only  "aimed at defining the proper role of gentlewomen" and "the social place and function of domesticity," but also strove to define what was meant by the word "public" (71).  As mothers, Poole also adds, these female writers emphasized the "duality of their private and public roles" (71).  Hannah Wolley pushes this duality even further, it seems, by taking on not only the roles of mother and writer, but by also adopting the roles of teacher, tutor, wife, former cook for Charles I, midwife, apothecary, musician, and poet.</p>
                <p>It is fitting to begin reading <title>The Gentlewomans Companion</title> with Poole's comments about the thin line between the private and public spheres in the foreground, for they provide a context within which to approach not only the genre of advice writing, but also the text's problematic history.  Before entering the text, however, a statement of gratitude is in order for Elaine Hobby, whose research, as this introduction has attempted to capture, has opened up a large discussion of authorship, authority, and literary property in seventeenth-century English women's writing.  The <title>Companion</title> also provides an effective model for the advice genre in its double audience, diverse subject matter, and portrayal of the conflicting-yet often compatible-issues of female education reformation and domestic training.  Fittingly, the author of the <title>Companion</title> states in a chapter "Of Speech and Complement" that "[t]he Eye entertains it self not with more Objects than the Invention furnisheth the Tongue with Subjects; and as without Speech, no Society can subsist" (14).  <title>The Gentlewomans Companion</title> definitely provides the subjects-it is now up to readers to decide what can be done with them.</p>
-            </div2>
-            <div2 id="gc-complete.005" n="Textual Explanation and Notes" type="Section">
+            </div>
+            <div id="gc-complete.005" n="Textual Explanation and Notes" type="Section">
                <head>
                   <title>The Gentlewomans Companion:</title> Textual Explanation and Notes</head>
                <p>As is common practice, I have revised the letter 's' in <title>The Gentlewomans Companion</title>, which in the 1673 manuscript, available on microfilm copy from the <title>English Short Title Catalogue</title>, appears as the conventional ["long s"].  I have also left contractions, punctuation, and capitalization as they appear in the original, for two reasons: first, the <title>Companion</title> is highly readable in its current form; more importantly, the preservation of the original style of the manuscript allows scholars to compare <title>The Gentlewomans Companion</title> to texts that are confirmed as works by Hannah Wolley.  Because the authorship of the Companion is still questionable and future scholars may wish to pursue the question of authorship and gender in seventeenth-century advice and conduct literature, the edited text must be as close to the original as possible.  The only spelling variation in the text occurs with the word 'virtue," which often appears in its alternative form as 'vertue.'  While italics in the 1673 edition are confined to proper names, places, languages (as in <hi rend="italic">French, Italian, Greek,</hi> and <hi rend="italic">English</hi>), and quotations, a 
@@ -160,8 +160,8 @@ look at the later 1675 edition reveals a substantially more indulgent use of ita
                <p>The first three sections of the <title>Companion</title>--"To all Young Ladies, Gentlewomen, and all Maidens whatever," "The Introduction," and "A Short Account of the life and abilities of the Authoress of this Book"--are the original beginning sections of the text.  The dedication is significant not only because it identifies the intended audience of the work, but also because it provides essential information on the texts that are "borrowed" by the author to compile the <title>Companion</title>.  The section on "What qualifications best become and are most suitable to a Gentlewoman" sets the stage for the author's approach to the audience, as well as cites a number of issues essential to the <title>Companion</title>'s argument for advancements in female education, as does the following chapter "Of a Gentlewomans civil Behaviour to all sorts of people in all places."  
 <pb n="xv"/>
 The next four sections, all concerned with the physical presentation of gentlewomen, illustrate the conflict cited in the introduction between education and femininity, in addition to including several passages that are worth noting for their wit and humor.  At this point, readers turn to "The Gentlewomans Mirrour, or Patterns for the imitation of such famous Women who have been emminent in Piety and Learning," which places great emphasis on the relationship between scholarship and chastity.  This section also serves as a lengthy catalog of important historical female figures.  The last section in the advice genre is "Of Marriage, and the duty of a Wife to her Husband," which highlights Kristen Poole's argument about the role of the public and private and, in addition, addresses the issue of authority.  The last included chapters are part of a much longer compilation of medical remedies, of which I provide the introduction and a few examples.  This section--as well as the many recipes in the <title>Companion</title> that I regret are not included here--is a rich area for further study.  In the "Observations of Physick and Chyrurgery," for instance, the author puts forth a lecture on hygiene that is essential to the history of the health care practice, proving that the <title>Companion</title>'s worth extends outside of the field of literature and into fields that could greatly benefit from additional historical sources.</p>
-            </div2>
-            <div2 id="gc-complete.006" n="Works Cited" type="Bibliography">
+            </div>
+            <div id="gc-complete.006" n="Works Cited" type="Bibliography">
                <head>
                   <title>The Gentlewomans Companion:</title> Works Cited</head>
                <p>
@@ -259,8 +259,8 @@ The next four sections, all concerned with the physical presentation of gentlewo
                      </imprint>
                   </bibl>
                </p>
-            </div2>
-            <div2 id="gc-complete.007" n="Notes to Introduction" type="Notes">
+            </div>
+            <div id="gc-complete.007" n="Notes to Introduction" type="Notes">
                <head>
                   <title>The Gentlewomans Companion:</title> Notes to Introduction</head>
                <p>
@@ -291,15 +291,15 @@ The next four sections, all concerned with the physical presentation of gentlewo
                   <note id="gc-complete.007.gc-intro7" n="7" anchored="yes">
                      <hi rend="bold">7.</hi> pg. 8.</note>
                </p>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </front>
       <body>
-         <div1 id="gc-complete.008" n="The Gentlewomans Companion" type="Book">
+         <div id="gc-complete.008" n="The Gentlewomans Companion" type="Book">
             <docAuthor>[Unknown]</docAuthor>
             <head>The Gentlewomans Companion</head>
             <docDate>1673</docDate>
-            <div2 id="gc-complete.009" n="To all Young Ladies, Gentlewomen, and all Maidens whatever" type="Preface">
+            <div id="gc-complete.009" n="To all Young Ladies, Gentlewomen, and all Maidens whatever" type="Preface">
                <head>To all Young Ladies, Gentlewomen, and all Maidens whatever.</head>
                <p>I Have formerly sent forth amongst you two little books; the first called, <title>The Ladies Directory</title>
                   <ref target="gc-complete.022.gc1">1</ref>; the other, <title>The Cooks Guide</title>
@@ -321,8 +321,8 @@ and Frame: So I, when I was to write of Physick and Chirurgery<ref target="gc-co
 Your Most humble Servant, Hannah Woolley.
 <pb n="3"/>
                </p>
-            </div2>
-            <div2 id="gc-complete.010" n="The Introduction" type="Introduction">
+            </div>
+            <div id="gc-complete.010" n="The Introduction" type="Introduction">
                <head>The Introduction</head>
                <p>THe right Education of the Female Sex, as it is in a manner everywhere neglected, so it ought to be generally lamented. Most in this depraved later Age think a Woman learned and wife enough, if she can distinguish her Husbands Bed from anothers.  Certainly Mans Soul cannot boast of a more sublime Original than ours, they had equally their efflux<ref target="gc-complete.022.gc13">13</ref> from the same eternal Immensity, and therefore capable of the same Improvement by good Education. Vain Man is apt to think we were <orig reg="merely">meerly</orig> intended for the Worlds propagation, and to keep its humane Inhabitants sweet and clean; but, by their leaves, had we the same Literature, he would find our brains as fruitful as our bodies. Hence I am induced to believe, we are debar'd from the <orig reg="knowledge">knowledg</orig> of Humane Learning, lest our pregnant Wits should rival <orig reg="towering">towring</orig> conceits of our insulting Lords and Masters.</p>
                <p>Pardon the Severity of this Expression, since I intend not thereby to infuse bitter rebellion into the sweet blood of Females; for know, I would have all such as are <orig reg="entered">enter'd</orig> into the Honourable State of Matrimony to be loyal and loving Subjects to their lawful (though lording) Husbands. I cannot but complain of, and must condemn the great negligence of Parents<ref target="gc-complete.022.gc14">14</ref>, in letting the fertile ground of their Daughters lie sallow, yet send the barren Noddles<ref target="gc-complete.022.gc15">15</ref> of their <hi rend="italic">Sons</hi> to the <hi rend="italic">University</hi>. Where they stay for no other purpose than to fill their empty Sconces<ref target="gc-complete.022.gc16">16</ref> with <orig reg="idle">idel</orig> Notions to make a noise in the Country.</p>
@@ -335,8 +335,8 @@ Your Most humble Servant, Hannah Woolley.
                <p>There is no instruction more moving, than the example of your living. By that line of yours they are to conform their own. Take heed then lest the damp of your own life extinguish the light of your Childrens. As you are a kind Mother to them be a careful Monitor about them; and if your business will permit, teach them your self, with their Letters, good Manners. For there is an in-bred, filial fear in Children to their Parents, which will beget in them more attention in hearing, and retention in holding what they hear. But if it be inconsistent with your conveniency, and that you must commit the Tutelage<ref target="gc-complete.022.gc18">18</ref> and Education of your Children to a Governess, give me leave to inform you what she ought to be.
 <pb n="5"/>
                </p>
-            </div2>
-            <div2 id="gc-complete.011" n="A Short account of the life and abilities of Authoress of this Book" type="Section">
+            </div>
+            <div id="gc-complete.011" n="A Short account of the life and abilities of Authoress of this Book" type="Section">
                <head>A Short account of the life and abilities of Authoress of this Book<ref target="gc-complete.022.gc19">19</ref>
                </head>
                <p>I Would not presume to trouble you with any passages of my life, or relate my innate qualifications, or acquired, were it not in obedience to a Person of Honour, who <orig reg="engaged">engag'd</orig> me so to do if for no other reason than to stop the mouths of such who may be so maliciously censorious as to believe I pretend what I cannot perform.</p>
@@ -376,8 +376,8 @@ Table. And when any bad accident required their help in Physick and Chirurgery, 
                <p>As I have taken great pains for an honest livelihood, so that hand of the Almighty hath exercised me in all manner of Afflictions, by death of Parents when very young, by loss of Husband, Children, Friends, Estate, very much sickness, by which I was disenabled from my Employment. <ref target="gc-complete.022.gc27">27</ref> Having already given you an account of the duty, and requisite, endowments which ought to be in a Governess, and how qualified I was my self in that troublesome concern; I shall now proceed in giving young Ladies such Rules which long experience and observation hath taught me, which may be as their perfect guide in all ages and conditions, the practice whereof will assuredly <orig reg="embalm">imbalm</orig> their Names here; let their <orig reg="steadfast">stedfast</orig> faith in Jesus Christ only crown them with Glory hereafter.
 <pb n="8"/>
                </p>
-            </div2>
-            <div2 id="gc-complete.012" n="What qualifications best become and are most suitable to a Gentlewoman" type="Section">
+            </div>
+            <div id="gc-complete.012" n="What qualifications best become and are most suitable to a Gentlewoman" type="Section">
                <head>What qualifications best become and are most suitable to a Gentlewoman</head>
                <p>I Have already endeavoured to prove, that though Nature hath <orig reg="differed">differ'd</orig> Mankind into Sexes, yet she never intended any great difference in the Intellect. This will evidently appear not only from those many arguments learned <hi rend="italic">Cornelius Agrippa</hi> hath laid down in a particular Treatise for the Vindication of the Excellency of the Female Sex<ref target="gc-complete.022.gc28">28</ref>, but likewise from the many learned and incomparable Writings of Famous Women, ancient and modern, particularly Anna Commena who wrote the Eastern History in <hi rend="italic">Greek</hi>
                   <ref target="gc-complete.022.gc29">29</ref>, a large Folio. Nor can we without great ingratitude, forget the memory of that most ingenious <hi rend="italic">Dutch</hi> Lady <hi rend="italic">Anna Maria Schurman</hi>
@@ -397,8 +397,8 @@ Table. And when any bad accident required their help in Physick and Chirurgery, 
                   <hi rend="italic">Italian</hi> Seignor <hi rend="italic">Torriano</hi>
                   <ref target="gc-complete.022.gc36">36</ref>; and that unimitable Master of the <hi rend="italic">French</hi> Tongue, Monsieur <hi rend="italic">Mauger</hi>
                   <ref target="gc-complete.022.gc37">37</ref>, both which have <orig reg="published">publisht</orig> their <orig reg="Grammars">Gramars</orig>; the first a large and useful <hi rend="italic">Italian</hi> Dictionary also. Both these <orig reg="Countries">Countrys</orig> have been happy and may be justly proud in producing so many learned and ingenious Men; so many, should I nominate them with their deserved Encomiums<ref target="gc-complete.022.gc38">38</ref>, this small Treatise would swell into Volumes; I shall therefore pass them over, but would not have you their Writings, where you shall find plenty of every thing, which shall either tickle your fancy, or furnish your understanding.  Having thus adapted you for conversation, let me next show you your deportment therein.</p>
-            </div2>
-            <div2 id="gc-complete.013" n="Of a Gentlewomans civil Behaviour to all sorts of people in all places" type="Section">
+            </div>
+            <div id="gc-complete.013" n="Of a Gentlewomans civil Behaviour to all sorts of people in all places" type="Section">
                <head>Of a Gentlewomans civil Behaviour to all sorts of people in all places</head>
                <p>A Painter of old being about a Draught<ref target="gc-complete.022.gc39">39</ref> of a most absolute Beauty, propounded for the accomplishment thereof half a dozen of the most exquisite and wonderful fair Maidens he could find, that he might steal from each those charms and features which he thought were most powerful; but I will assure you, a greater assistance is required in the framing and fashioning of a Woman, whose behaviour should be such as to please in all companies. Whatsoever Nature can afford, or good manners inform, come short of this purpose. In this Subject the fairest Ornaments are most necessary; among which what I have already <orig reg="expressed">exprest</orig>, are highly to be prized, which with the aggregation<ref target="gc-complete.022.gc40">40</ref> of all the best qualities can be desired, are the proper things, which as in their Center, must terminate in Conversation.</p>
                <p>The first thing I <orig reg="judge">judg</orig> most necessary, and do wish, with <hi rend="italic">Socrates</hi>, were in you Ladies, as he desired in his Pupils, are <hi rend="italic">Discretion</hi>, <hi rend="italic">Silence</hi> and <hi rend="italic">Modesty</hi>
@@ -414,8 +414,8 @@ associating your self, you will inevitably contract a suspicion of being as bad 
                <p>Shun all affectation in your behaviour, for Virtue admits of no such thing in her gesture or habit, but that which is proper, and not enforced; native or decent, and not what is apishly<ref target="gc-complete.022.gc45">45</ref> introduced. Therefore since nothing better befits you than what is your own, make known by your dress, how much you hate formality. To this end play not the Hypocrite with your Creator, in pretending to go to Church to serve him, whereas it is to serve your selves in the imitation of some new fashion. That which becometh another well, may ill become you. You deserve in your 
 <pb n="12"/>
 preposterous imitation, suitable connection with the Ass in the Fable, who seeing the Spaniel fawningly to leap on his Master, thought that the like posture would alike become and oblige him; which he adventuring to put in practice, <orig reg="alarmed">alarm'd</orig> the whole Family, and was soundly beaten for his unadvised folly. Affectation cannot be <orig reg="concealed">conceal'd</orig>, and the indecency of your deportment will quickly be discovered in <orig reg="public">publick</orig> Societies, wherefore behave your self so discreetly abroad, that you may confer no less a benefit on such as see your behaviour, than you profit such as shall observe your carriage at home: Express in <orig reg="public">publick</orig> such a well-becoming Garb, that every action may deserve the applause &#x0026; imitation of all that are your company. Let your conceits be nimble and ready, &#x0026; not <orig reg="tempered">temper'd</orig> or <orig reg="mixed">mixt</orig> with lightness; let your jests be innocent and seasonable, without the least capriciousness; let your discourse be free without niceness; your whole carriage delightful and agreeable, and flowing with a seeming carelessness. Thus much in general, let me now come to particulars.</p>
-            </div2>
-            <div2 id="gc-complete.014" n="Of the Gait or Gesture" type="Section">
+            </div>
+            <div id="gc-complete.014" n="Of the Gait or Gesture" type="Section">
                <head>Of the Gait or Gesture</head>
                <p>IT is an <orig reg="easy">easie</orig> matter to gather the disposition of our heart, by the dimension of our Gait<ref target="gc-complete.022.gc46">46</ref>. A light carriage most commonly discovers a loose inclination; as jetting and strutting, shew haughtiness and self-conceit. Were your Bodies transparent, you could not more perspicuously display your levity than by wanton Gesticulations.</p>
                <p>
@@ -427,8 +427,8 @@ preposterous imitation, suitable connection with the Ass in the Fable, who seein
 discretion only that which is neat. Having thus soken what is requisite in Gesture, I shall next treat how the Eye ought to be governed.
 <pb n="14"/>
                </p>
-            </div2>
-            <div2 id="gc-complete.015" n="Of Speech and Complement" type="Section">
+            </div>
+            <div id="gc-complete.015" n="Of Speech and Complement" type="Section">
                <head>Of Speech and Complement.</head>
                <p>THe Eye entertains it self not with more Objects than the Invention furnisheth the Tongue with Subjects; and as without Speech, no Society can subsist; so by it we express what we are; as Vessels discover themselves best by the found. Let Discretion make Opportunity her Anvil, whereon to fashion a seasonable Discourse; otherwise, though you speak much, you discourse little.</p>
                <p>It is true (Ladies) your Tongues are held your defensive armour, but you never detract more from your honour than when you give too much liberty to that slippery glib member. That Ivory guard or garrison, which impales your Tongue, doth caution and instruct you, to put a restraint on your Speech. In much talk you must of necessity commit much error, as least it leaves some tincture of vain glory, which proclaims the proud Heart from whence it proceeded, or some taste of scurrility, which <orig reg="despoils">dispoils</orig> the wanton Heart from whence it streamed.</p>
@@ -441,8 +441,8 @@ discretion only that which is neat. Having thus soken what is requisite in Gestu
                <p>Silence in a Woman is a moving-<orig reg="rhetoric">rhetorick</orig>, winning most, when in words it woeth least. If opportunity give your Sex argument of discourse, let it neither taste of affectation, for that were servile; nor touch upon any wanton relation, for that were uncivil; nor any thing above the Sphere of your proper concern, for that were unequal. This will make your Discourse generally acceptable, and free you from prejudicate censure.
 <pb n="15"/>
                </p>
-            </div2>
-            <div2 id="gc-complete.016" n="Of Habit, and the neatness and property thereof. Of Fashions, and their ridiculous apish imitation" type="Section">
+            </div>
+            <div id="gc-complete.016" n="Of Habit, and the neatness and property thereof. Of Fashions, and their ridiculous apish imitation" type="Section">
                <head>Of Habit, and the neatness and property thereof. Of Fashions, and their ridiculous apish imitation.</head>
                <p>THe neatness and property of your Clothes, may be said to shew a great part of your breeding. Property, I call a certain suitableness and convenience, betwixt the Clothes and the Person; as Civility is the framing and adapting our actions to the satisfaction of other people. And indeed the suitableness and comeliness of your habit, makes the greatest discovery of your virtue and discretion; for it must consequently follow, that a ridiculous Garb is the most certain indicium<ref target="gc-complete.022.gc52">52</ref> of a foolish person.</p>
                <p>Now if you desire to be exact, you ought to proportion your Clothes to your shape, condition, and age; and not to run into excesses, stimulated thereunto by too much exactness, or an <orig reg="overvalued">overvalu'd</orig> conceit. And indeed it is a great fault in our Sex, being very much <orig reg="inclined">inclin'd</orig> to pride it in sin with what our merciful Creator <orig reg="bestowed">bestow'd</orig> upon us to cover our shame. The fruit of a Tree made Woman first to sin, and the leaves thereof made her first covering.</p>
@@ -474,8 +474,8 @@ Band; nor can I now abstain from laughter, when I see a man of small stature wit
                <p>Now lest I have been too rigid concerning Apparel, and so have justly <orig reg="incurred">incur'd</orig> the displeasure of some Ladies I am ever bound to respect for those singular favours they have from time to time <orig reg="conferred">confer'd</orig> on their poor Servant; I shall endeavour to make them amends for it, without wronging my Conscience, in this ensuing Chapter<ref target="gc-complete.022.gc61">61</ref>.
 <pb n="19"/>
                </p>
-            </div2>
-            <div2 id="gc-complete.017" n="What Recreations and Pleasures are most fitting and proper for young Gentlewomen" type="Section">
+            </div>
+            <div id="gc-complete.017" n="What Recreations and Pleasures are most fitting and proper for young Gentlewomen" type="Section">
                <head>What Recreations and Pleasures are most fitting and proper for young Gentlewomen.</head>
                <p>REcreations which are most proper and suitable to Ladies, may be <orig reg="ranked">rankt</orig> under four principal heads, <orig reg="Music">Musick</orig>, Dancing, Limning<ref target="gc-complete.022.gc62">62</ref> and Reading. Of Dancing I have already lightly treated on in the directions for your deportment at Balls<ref target="gc-complete.022.gc63">63</ref>; however this I will say further of it, that though the <hi rend="italic">Romans</hi> had no very great esteem for it as may appear by Salusts speaking of Sempronia<ref target="gc-complete.022.gc64">64</ref>, She danced better than became a virtuous Lady, yet the mode and humour of these times look upon it not only as a generous and becoming property, but look upon Gentility ill bred if not <orig reg="thoroughly">thorowly</orig> acquainted therewith; and to speak the truth it is the best and readiest way to put the body into a graceful posture; behaviour must of necessity halt without it; and how will you blush when you come into a <orig reg="mixed">mixt</orig> society, where each person strives to shew her utmost art and skill in Dancing, and you for the want thereof must stand still and appear like one whose body was well framed but wanted motion, or a soul to actuate it.</p>
                <p>In the next place, <orig reg="Music">Musick</orig> is without doubt an excellent quality; the ancient Philosophers were of the opinion, that Souls were made of Harmony; and that that Man or Woman could not be virtuously inclined who loved not <orig reg="Music">Musick</orig>; wherefore without it a Lady or Gentlewoman can hardly be said to be absolutely accomplished.</p>
@@ -491,8 +491,8 @@ Plays the harmless Spenders of time, and largely contributed to the maintenance 
                <p>In this pleasing variety (whatsoever your humour be) you may find matter for delectation<ref target="gc-complete.022.gc66">66</ref> and information. Reading is of most exquisite and requisite use, it for nothing but this that these dumb Teachers instruct impartially. Beauty, as well as Royalty, is constantly attended with more flatterers than true informers. To discover and ac<orig reg="knowledge">knowledg</orig> their faults, it is necessary that they sometimes learn of the dead what the living either dare not or are loth to tell them. Books are the true discoverers of the mind's imperfections, as a glass the faults of their face, herein shall they find Judges that cannot be corrupted with love or hate. The fair and the foul are both alike treated, having to do with such who have no other eyes but to put a difference <orig reg="between">betwen</orig> Virtue and Vice. In <orig reg="persuading">perswading</orig> you to read, I do not advise you should read all Books; advise with persons of understanding in your choice of Books; and fancy not their <hi rend="italic">quantity for quantity but quality</hi>. For why should ye seek that in many which you may find in one? The Sun, whilst in our Hemisphere needs no other light but its own to illuminate the World. One Book may serve for a Library. The reading of few Books, is not to be less knowing, but to be the less troubled.
 <pb n="21"/>
                </p>
-            </div2>
-            <div2 id="gc-complete.018" n="The Gentlewomans Mirrour, or Patterns for them imitation of such famous Women who have been emment in Piety and Learning" type="Section">
+            </div>
+            <div id="gc-complete.018" n="The Gentlewomans Mirrour, or Patterns for them imitation of such famous Women who have been emment in Piety and Learning" type="Section">
                <head>The Gentlewomans Mirrour, or Patterns for them imitation of such famous Women who have been emment in Piety and Learning<ref target="gc-complete.022.gc67">67</ref>
                </head>
                <p>REvisit those ancient Families of Rome, and you shall find those Matrons made a Pagan State seem Morally Christian. <hi rend="italic">Octavia, Portia, Cecilia, Cornelia</hi>
@@ -537,8 +537,8 @@ suppose did these Pagan Ladies hold to be the absolute end whereto this tender c
                <p>Your ambition, Gentlewomen, must mount more high, because your Conversation is most heavenly. It is immortality you aspire to, a lower orb cannot hold you; nothing else may confine you.
 <pb n="25"/>
                </p>
-            </div2>
-            <div2 id="gc-complete.019" n="Of Marriage, and the duty of a Wife to her Husband" type="Section">
+            </div>
+            <div id="gc-complete.019" n="Of Marriage, and the duty of a Wife to her Husband" type="Section">
                <head>Of Marriage, and the duty of a Wife to her Husband.</head>
                <p>MArriage is an holy and inviolable bond; if the choice on both sides be good and well ordered, there is nothing in the World that is more beautiful, more comfortable. It is a sweet society, full of trust and loyalty. It is a fellowship, not of hot distempered love, but endeared affection; for these two are as different as the inflamed fit of an high <orig reg="Fever">Feaver</orig>, from the natural heat of a sound and healthy body. Love in the first acceptation is a distemper, and no wonder then that Marriages succeed so ill, which have their original from such disordered amorous desires. This boiling affection is seldom worth any thing. There are these two Essentials in Marriage, Superiority and Inferiority. Undoubtedly the Husband hath power over the Wife, and the Wife ought to be subject to the Husband in all things. Although the Wife be more noble in her extraction, and more wealthy in portion, yet being once married is inferior to her Husband in condition. Man, of human-kind, was Gods first workmanship; Woman was made after Man, and of the same substance, to be subservient and assisting to him.</p>
                <p>Though the power of an Husband in this Kingdom extends it self farther than it is commonly exercised, yet something more moderate than in foreign parts. Amongst the Romans the Husband had power to kill the Wife in four cases; Adultery, suborning of Children, counterfeiting false Keys, and drunkenness.</p>
@@ -570,8 +570,8 @@ of the weakness of her Husbands understanding: She is to give honour, respect, a
                <p>Let me counsel you not only to avoid unnecessary or immoderate charges, but also with a little cost make a great shew; but above all suffer not your expence to exceed the receipt of your Husbands income. There is a Proverbial saying, <hi rend="italic">That the Masters eye maketh the Horse fat</hi>; I am sure the active vigilance of a good and careful Wife is the ready way to enrich a bad Husband.
 <pb n="28"/>
                </p>
-            </div2>
-            <div2 id="gc-complete.020" n="What is to be observed by a Gentlewoman before she undertakes the administration of Physick" type="Section">
+            </div>
+            <div id="gc-complete.020" n="What is to be observed by a Gentlewoman before she undertakes the administration of Physick" type="Section">
                <head>What is to be observed by a Gentlewoman before she undertakes the administration of Physick.<ref target="gc-complete.022.gc83">83</ref>
                </head>
                <p>THe first inconvenience you must shun (which I have observed in most Physical Practitioners) is the vulgar error of not suffering the diseased or sick person to change his <orig reg="linen">linnen</orig> often; and I know not by what unreasonable prescription they will not suffer a diseased female to change her head-clothes, till it too sensibly offend the noses of the Visitants. Their common objection is, That the sick by that means may catch cold; and next, That their shifting much <orig reg="weaketh">weakneth</orig> them.</p>
@@ -579,8 +579,8 @@ of the weakness of her Husbands understanding: She is to give honour, respect, a
                <p>Should I add other observables, with the Symptoms of Diseases, I should swell this small Treatise into a greater volume than is requisite. I shall therefore desist and give you my 
 <pb n="29"/>
 collection (with my own observation) of the choicest receipts in Physick and Chirugery<ref target="gc-complete.022.gc86">86</ref> I could meet with in my strictest indigation.</p>
-            </div2>
-            <div2 id="gc-complete.021" n="Choice and Experimental Observations in Physick and Chyrurgery, such which rarely fail'd any who made trial thereof" type="Section">
+            </div>
+            <div id="gc-complete.021" n="Choice and Experimental Observations in Physick and Chyrurgery, such which rarely fail'd any who made trial thereof" type="Section">
                <head>
                   <hi rend="bold">Choice and Experimental Observations in Physick and Chyrurgery, such which rarely <orig reg="failed">fail'd</orig> any who made trial thereof</hi>.</head>
                <p>
@@ -615,9 +615,9 @@ collection (with my own observation) of the choicest receipts in Physick and Chi
                   <hi rend="italic">For young Children who by reason of the weakness of their Limbs can neither stand nor go</hi>.</p>
                <p>Take Marjoram<ref target="gc-complete.022.gc92">92</ref> and Sage, of each a like quantity, beat them very well together, then strain out the juice, and put it into a double Glass-Vial, filling the Glass as full as it will hold; stop it then with paste very close all over, let it into an Oven, and there let it stand the time of an <orig reg="Household">Houshold</orig>-loafs baking; taking it out, let it stand till it be cold; then breaking the paste round about it, see if the juice be grown thick; if so, break the Glass, and put what was therein <orig reg="contained">contain'd</orig>, into a Gally-pot<ref target="gc-complete.022.gc93">93</ref>, and keep it. When you use it, take the quantity of two spoonfuls at a time and as much Marrow of an Oxleg, melt them together, and mingle them well, and both morning and evening anoint therewith (as warm as can be <orig reg="endured">endur'd</orig>) the tender parts of the Childs legs, knees and thighs, chafing them well with your hands; and in a short time (<hi rend="italic">Deo volente</hi>
                   <ref target="gc-complete.022.gc94">94</ref>) the child will be able to go and stand; this receipt hath been ever found successful.</p>
-            </div2>
-         </div1>
-         <div1 id="gc-complete.022" n="Notes to The Gentlewomans Companion" type="Notes">
+            </div>
+         </div>
+         <div id="gc-complete.022" n="Notes to The Gentlewomans Companion" type="Notes">
             <docAuthor>Ellison, Katherine</docAuthor>
             <head>Notes to <title>The Gentlewomans Companion</title>
             </head>
@@ -1004,8 +1004,8 @@ collection (with my own observation) of the choicest receipts in Physick and Chi
                <note id="gc-complete.022.gc94" n="94" anchored="yes">
                   <hi rend="bold">94.</hi> '<hi rend="italic">Deo volente</hi>': "God willing."</note>
             </p>
-         </div1>
-         <div1 id="gc-complete.023" n="Works Cited" type="Bibliography">
+         </div>
+         <div id="gc-complete.023" n="Works Cited" type="Bibliography">
             <docAuthor>Ellison, Katherine</docAuthor>
             <head>
                <title>The Gentlewomans Companion:</title> 
@@ -1159,10 +1159,10 @@ Works Cited</head>
                   </imprint>
                </bibl>
             </p>
-         </div1>
+         </div>
       </body>
       <back>
-         <div1 id="gc-complete.024" n="To all Ingenious Ladies and Gentlewomen" type="Appendix">
+         <div id="gc-complete.024" n="To all Ingenious Ladies and Gentlewomen" type="Appendix">
             <docAuthor>[Unknown]</docAuthor>
             <head>
                <title>The Gentlewomans Companion:</title> 
@@ -1305,7 +1305,7 @@ Ladies  and  Gentlewomen</head>
                </l>
             </lg>
             <signed>H. W.</signed>
-         </div1>
+         </div>
       </back>
    </text>
 </TEI.2>

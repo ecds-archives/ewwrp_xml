@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="child.001" n="How a Kentucky Girl Emancipated Her Slaves" type="essay">
+         <div id="child.001" n="How a Kentucky Girl Emancipated Her Slaves" type="essay">
             <docAuthor>Lydia Maria Child</docAuthor>
             <head>How a Kentucky Girl Emancipated Her Slaves</head>
             <docDate>March 27, 1862</docDate>
@@ -76,7 +76,7 @@ Women Writers Resource Project at Emory University</p>
             <p>It is now four years since this emancipation took place. A few months ago, I heard that all these redeemed ones were behaving well and getting a comfortable living. Henderson has succeeded in buying his beloved wife, and both are doing well. The oldest woman, generally called "Mammy," sometimes pines for a sight of old friends and relatives in Kentucky, but even she thinks freedom is worth that painful sacrifice. In view of these facts, I would ask any candid person what reason there is to apprehend danger in emancipating the slaves. It is surely time for us to stop repeating stereotyped falsities, invented for the convenience of slaveholders.</p>
             <p>It is worthy of remark that Miss Griffith's moral sense received no aid from abolitionists. She manifested sympathy with the slaves from her very childhood; and as she grew older she uttered many an earnest protest against the system. She never read an anti-slavery tract or newspaper, and never talked with an abolitionist. She wrote to me, "I was always taught to regard the abolitionists of the North as wolves in sheep's clothing; as violent, bad men, who decoyed slaves away from their homes with false promises; but since I have come to the free states, I know and honor the abolitionists." I wrote her in reply that it would be much nearer the truth to describe them as sheep in wolves' clothing.</p>
             <p>When Mr. Sumner was nearly assassinated in the Senate, the news excited her greatly. She sent for the speech which caused the outrage, and she told me <hi rend="italic">that</hi> was the first anti-slavery document she ever read. The purpose which had long been latent in her mind, ripened at once. She sent for Henderson, and said, "I am going to give you your freedom." In answer to his exclamations of surprise and gratitude, she replied, "Don't thank <hi rend="italic">me</hi>, Henderson. It is Mr. Charles Sumner who sets you free."-- <hi rend="italic">Lydia Maria Child, in The Tribune</hi>.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

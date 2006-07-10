@@ -55,10 +55,10 @@
    </teiHeader>
    <text>
       <body>
-         <div1 id="fiery01" n="THE FIERY CROSS: An Anthology of War Poems" type="Anthology">
+         <div id="fiery01" n="THE FIERY CROSS: An Anthology of War Poems" type="Anthology">
             <head rend="center">THE FIERY CROSS</head>
             <head rend="center">An Anthology of War Poems</head>
-            <div2 id="fiery02" n="From Germany" type="poem">
+            <div id="fiery02" n="From Germany" type="poem">
                <pb n="[ 24 ]"/>
                <head rend="center">
                   <hi rend="bold">From Germany</hi>
@@ -86,8 +86,8 @@
                <byline> 
                   <hi rend="italic">Mary Booth.</hi>
                </byline>
-            </div2>
-            <div2 id="fiery03" n="St. George for England" type="poem">
+            </div>
+            <div id="fiery03" n="St. George for England" type="poem">
                <pb n="[ 36 ]"/>
                <head rend="center">
                   <hi rend="bold">St George for England</hi>
@@ -132,8 +132,8 @@
                <byline>
                   <hi rend="italic">Mary Booth.</hi>
                </byline>
-            </div2>
-            <div2 id="fiery04" n="The Coming of the Colonies" type="poem">
+            </div>
+            <div id="fiery04" n="The Coming of the Colonies" type="poem">
                <pb n="[ 37 ]"/>
                <head rend="center">
                   <hi rend="bold">The Coming of the Colonies</hi>
@@ -164,8 +164,8 @@
                <trailer>
                   <hi rend="italic">A Little Book of Quiet.</hi>
                </trailer>
-            </div2>
-            <div2 id="fiery05" n="The Admonition" type="poem">
+            </div>
+            <div id="fiery05" n="The Admonition" type="poem">
                <pb n="[ 39 ]"/>
                <head rend="center">
                   <hi rend="bold">The Admonition</hi>
@@ -203,8 +203,8 @@
                <trailer>
                   <hi rend="italic">Westminster Gazette.</hi>
                </trailer>
-            </div2>
-            <div2 id="fiery06" n="The Tirailleur" type="poem">
+            </div>
+            <div id="fiery06" n="The Tirailleur" type="poem">
                <pb n="[ 40 ]"/>
                <head rend="center">
                   <hi rend="bold">The Tirailleur</hi>
@@ -256,8 +256,8 @@
                <lb/>
                <byline>
                   <hi rend="italic">Millicent Sutherland.</hi>&#x003E;</byline>
-            </div2>
-            <div2 id="fiery13" n="Gifts" type="poem">
+            </div>
+            <div id="fiery13" n="Gifts" type="poem">
                <pb n="[ 45 ]"/>
                <head rend="center">
                   <hi rend="bold">Gifts</hi>
@@ -301,8 +301,8 @@
                <byline>
                   <hi rend="italic">Mary Booth.</hi>
                </byline>
-            </div2>
-            <div2 id="fiery07" n="Territorials" type="poem">
+            </div>
+            <div id="fiery07" n="Territorials" type="poem">
                <pb n="[ 53 ]"/>
                <head rend="center">
                   <hi rend="bold">Territorials</hi>
@@ -336,8 +336,8 @@
                <trailer>
                   <hi rend="italic">Country Life.</hi>
                </trailer>
-            </div2>
-            <div2 id="fiery08" n="Requiescant" type="poem">
+            </div>
+            <div id="fiery08" n="Requiescant" type="poem">
                <pb n="[ 63 ]"/>
                <head rend="center">
                   <hi rend="bold">Requiescant</hi>
@@ -368,8 +368,8 @@
                <trailer>
                   <hi rend="italic">A Little Book of Quiet.</hi>
                </trailer>
-            </div2>
-            <div2 id="fiery09" n="Expiation" type="poem">
+            </div>
+            <div id="fiery09" n="Expiation" type="poem">
                <pb n="[ 67 ]"/>
                <head rend="center">
                   <hi rend="bold">Expiation</hi>
@@ -394,8 +394,8 @@
                <byline>
                   <hi rend="italic">Mary Booth.</hi>
                </byline>
-            </div2>
-            <div2 id="fiery10" n="'Despise Not the Day of Small Things'" type="poem">
+            </div>
+            <div id="fiery10" n="'Despise Not the Day of Small Things'" type="poem">
                <pb n="[ 73 ]"/>
                <head rend="center">
                   <hi rend="bold">"Despise not the Day of Small Things"</hi>
@@ -423,8 +423,8 @@
                <byline>
                   <hi rend="italic">E. Mary Cruttwell.</hi>
                </byline>
-            </div2>
-            <div2 id="fiery11" n="Men Who Die for England" type="poem">
+            </div>
+            <div id="fiery11" n="Men Who Die for England" type="poem">
                <pb n="[ 80 ]"/>
                <head rend="center">
                   <hi rend="bold">Men Who Die for England</hi>
@@ -483,8 +483,8 @@
                <byline>
                   <hi rend="italic">Margaret L. Woods.</hi>
                </byline>
-            </div2>
-            <div2 id="fiery12" n="Lay Your Head on the Earth's Breast" type="poem">
+            </div>
+            <div id="fiery12" n="Lay Your Head on the Earth's Breast" type="poem">
                <pb n="[ 92 ]"/>
                <head rend="center">
                   <hi rend="bold">Lay your Head on the Earth's Breast</hi>
@@ -533,8 +533,8 @@
                <trailer>
                   <hi rend="italic">Country Life.</hi>
                </trailer>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </body>
    </text>
 </TEI.2>

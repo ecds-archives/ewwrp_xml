@@ -64,7 +64,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="james.001" n=" Mrs. James's vindication of the Church of England, in a Answer to a Pamphlet entitled a New Test of the Church of England's Loyalty " type="text">
+         <div id="james.001" n=" Mrs. James's vindication of the Church of England, in a Answer to a Pamphlet entitled a New Test of the Church of England's Loyalty " type="text">
             <docAuthor>James, Elinor. </docAuthor>
             <head>
                <title> Mrs. James's vindication of the Church of England, in a Answer to a Pamphlet entitled a New Test of the Church of England's Loyalty </title>
@@ -603,7 +603,7 @@ be an enemy to the Church of England, yet their Fall would be your Ruin.
 But God be thanked we have no need to Fear, for the King will not with-draw
 his Favour from us, neither shall Men or Devils prevent it.</p>
             <p>And so GOD Save the KING.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="stantonf.001" n="Sunday at the World's Fair" type="Essay">
+         <div id="stantonf.001" n="Sunday at the World's Fair" type="Essay">
             <docAuthor>Elizabeth Cady Stanton</docAuthor>
             <head>Sunday at the World's Fair</head>
             <docDate>1892</docDate>
@@ -79,7 +79,7 @@ influence in all these directions the World's Fair will be. The location is in e
             <p>Here, too, in shady nooks gifted orators might speak to the multitudes on popular reforms or religious questions, for there are no meetings more impressive than those held in the open air, and many assemblies might be held in that vast space without interfering with each other.</p>
             <p>If, then, the influence of the exposition on the minds of the people, can be alike entertaining and instructive, we may well ask, Why should it be closed on Sunday?</p>
             <p>ELIZABETH CADY STANTON.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

@@ -57,7 +57,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="reed.001" n="Great Work of an Indian" type="Essay">
+         <div id="reed.001" n="Great Work of an Indian" type="Essay">
             <docAuthor>Eddleman Reed, Ora</docAuthor>
             <head>"Great Work of an Indian"</head>
             <docDate>1906</docDate>
@@ -83,7 +83,7 @@ with the pen with which President McKinley signed the act.</p>
             <p>He is a Knight Templar, Mystic Shriner, 32nd degree Mason, a life member Elk, and vice-president of the American Sunday School Union for Indian Territory.</p>
             <p>He has served the democratic party as a member of the congressional campaign committee, as democratic national committeeman, and as delegate to various national conventions.</p>
             <p>Mr. Owen is perhaps better known in Washington among public men than any man who ever came from Indian Territory, and among his personal friends are numbered the leaders of the nation of both political parties.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="elizabeth.001" n=" Queene Elizabeth's Speech to Her Last Parliament." type="speech">
+         <div id="elizabeth.001" n=" Queene Elizabeth's Speech to Her Last Parliament." type="speech">
             <docAuthor>Elizabeth, Queen of England. </docAuthor>
             <head>
                <title> Queene Elizabeth's Speech to Her Last Parliament.</title>
@@ -169,7 +169,7 @@ care and your further Councels, &#x0026; I pray you Mr. Controullor, &#x0026; Mr
 Secretary, and you of my Councell, that before these Gentlemen depart into
 their Countreys you bring them all to kisse my Hand.</p>
             <p>FINIS.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

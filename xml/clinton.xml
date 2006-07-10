@@ -58,7 +58,7 @@ Emory Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <front>
-         <div1 id="clinton.001" n="The Countess of Lincolnes Nurserie: A Critical Edition" type="Book">
+         <div id="clinton.001" n="The Countess of Lincolnes Nurserie: A Critical Edition" type="Book">
             <head>
                <title>The Countess of Lincolnes Nurserie</title>: A Critical Edition</head>
             <docAuthor>McPherson, Kate</docAuthor>
@@ -66,7 +66,7 @@ Emory Women Writers Resource Project at Emory University</p>
             <argument>
                <p>An early, in-depth account and analysis of breastfeeding.</p>
             </argument>
-            <div2 id="clinton.002" n="Contents for The Countess of Lincolnes Nurserie: A Critical Edition" type="Contents">
+            <div id="clinton.002" n="Contents for The Countess of Lincolnes Nurserie: A Critical Edition" type="Contents">
                <docAuthor>McPherson, Kate</docAuthor>
                <head>Contents for <title>The Countess of Lincolnes Nurserie</title>: A Critical Edition</head>
                <docDate>1999</docDate>
@@ -84,8 +84,8 @@ Emory Women Writers Resource Project at Emory University</p>
                <p>
                   <title>The Countesse of Lincolnes Nurserie</title> . . . 1</p>
                <pb n="ii"/>
-            </div2>
-            <div2 id="clinton.003" n="'What a racket do Authors make about this': The Debate Over  Maternal Breastfeeding in Early Modern England" type="Section">
+            </div>
+            <div id="clinton.003" n="'What a racket do Authors make about this': The Debate Over  Maternal Breastfeeding in Early Modern England" type="Section">
                <head>Introduction<lb/>
 I.<lb/>
 "What a racket do Authors make about this": The Debate Over 
@@ -97,8 +97,8 @@ Maternal Breastfeeding in Early Modern England</head>
                </p>
                <p>Culpepper mentions the primary reasons maternal breastfeeding was encouraged-religious duty, natural law, and maternal obligation--but he also perceives the selective use of these justifications.  Although Clinton was not the first Puritan to preach about breastfeeding, she was the first woman to <hi rend="italic">publish</hi> her views on the topic, providing a rare example of a woman contributing to the predominantly male discourse about proper maternal behavior.    <pb n="iii"/>
                </p>
-            </div2>
-            <div2 id="clinton.004" n="'And to be short, the mothers milke is most wholesome for the childe': Medical Texts and Maternal Breastfeeding" type="Section">
+            </div>
+            <div id="clinton.004" n="'And to be short, the mothers milke is most wholesome for the childe': Medical Texts and Maternal Breastfeeding" type="Section">
                <head>II.<lb/>
 "And to be short, the mothers <orig reg="milk">milke</orig> is most wholesome for the <orig reg="child">childe</orig>":  
 Medical Texts and Maternal Breastfeeding</head>
@@ -150,8 +150,8 @@ it so well as she that proves the Nurse to it as well as Mother: and without dou
                <p>But Sharp tempers her criticism when she notes that the hazards to the wet-nursed child occur only "if great care is not taken in the choice of a nurse." <ref target="clinton.010.intro12">12</ref>  Since she gives extensive directions for choosing a nurse, presumably she believes that locating a qualified wet nurse is indeed possible.  Sharp also wavers between using women's fear of losing their child's affections by its "sucking of strange milk" and compassion for the difficulties of childbirth and nursing.  
 <pb n="vii"/>
 Her views, more flexible than those in many other medical texts from the period, reveal that she acknowledged the conflicted status of maternal breastfeeding, and strove to provide constructive advice to families on both sides of the divide.  Not surprisingly, no such flexibility can be found in the numerous religious and moralistic tracts of the period which frequently sought to prescribe maternal behavior.</p>
-            </div2>
-            <div2 id="clinton.005" n="'Sure if their breasts be drie. . . they should fast and pray together': Breastfeeding and Moral Advice Tracts in Early Modern England" type="Section">
+            </div>
+            <div id="clinton.005" n="'Sure if their breasts be drie. . . they should fast and pray together': Breastfeeding and Moral Advice Tracts in Early Modern England" type="Section">
                <head>III.<lb/>
 "Sure if their breasts be <orig reg="dry">drie</orig>. . . they should fast and pray together":
 Breastfeeding and Moral Advice Tracts in Early Modern England</head>
@@ -190,8 +190,8 @@ love, health, and above all Christian duty, to prove that all mothers who are ph
                <p>Newcome appeals to two emotional issues here: the aristocratic concern with a successful lineage and mothers' love and fear for their children.  Newcome takes his persuasive task seriously, 
 <pb n="xi"/>
 moving beyond exhortations of biblical duty and into direct emotional appeals to parents, and to women in particular.  Although <title>The Compleat Mother</title>, and other texts like it promoted maternal breastfeeding across class lines, such polemics had little measurable effect.  Wet nursing continued to be the norm among the higher ranks, as many diaries and memoirs attest.</p>
-            </div2>
-            <div2 id="clinton.006" n="'We were sensible of the neglect of duty in not having nursed her': Personal Testimony about Breastfeeding" type="Section">
+            </div>
+            <div id="clinton.006" n="'We were sensible of the neglect of duty in not having nursed her': Personal Testimony about Breastfeeding" type="Section">
                <head>IV.<lb/>
 "We were sensible of the neglect of duty in not having nursed her": 
 Personal Testimony about Breastfeeding</head>
@@ -225,8 +225,8 @@ whom it was no little satisfaction, while I <orig reg="enjoyed">injoyed</orig> h
                <p>Few women were as deeply committed to maternal breastfeeding as Alice Thornton.  Despite the numerous moralistic tracts of the seventeenth century--of which <title>The Countesse of Lincolnes Nurserie</title> discussed below is a primary example--Thornton's and other women's experiences demonstrate that families responded individually to the discordant messages about 
 <pb n="xv"/>
 breastfeeding.  The ambivalence of medical texts, combined with the intense rhetorical efforts to promote maternal breastfeeding in moral advice tracts, created a battle between custom and conscience.  As part of the concerted effort to define and regulate maternal behavior during the seventeenth century, the conflict over breastfeeding is a powerful example of how hard the battle was fought, and how far short of victory the moralists often fell.</p>
-            </div2>
-            <div2 id="clinton.007" n="Joining in the Discourse: The Countesse of Lincolnes Nurserie" type="Section">
+            </div>
+            <div id="clinton.007" n="Joining in the Discourse: The Countesse of Lincolnes Nurserie" type="Section">
                <head>V.<lb/>
 Joining in the Discourse:<lb/>
                   <title>The Countesse of Lincolnes Nurserie</title>
@@ -298,16 +298,16 @@ a woman writing to other women "for the benefit of their own sex." <ref target="
                <p>In this light, then, Elizabeth Clinton, the Countess of Lincoln, is not merely a woman writing to other women, or a concerned mother hoping to save her daughters and grandchildren from sin and danger.  In part, she is a Christian voice speaking out to other Christians, exhorting and preaching to them about their duties to God; in part, she is a noblewoman using her place and her authority to appeal to her peers; and in part, she is a writer working to stabilize the vexed position of parents affected by the cultural ambivalence about maternal breastfeeding.  The annotated text that follows clearly demonstrates that through effective and varied rhetoric, Clinton inserts herself, her voice and opinions, into a discourse on proper and godly childbearing.
 <pb n="xxii"/>
                </p>
-            </div2>
-            <div2 id="clinton.008" n="Editorial Practice" type="Preface">
+            </div>
+            <div id="clinton.008" n="Editorial Practice" type="Preface">
                <head>IV.<lb/>
 Editorial Practice</head>
                <p>I have designed the edition which follows with both the scholar and student of early modern literature in mind.  I have left the original punctuation and spelling as they appear in the 1622 first edition.  I have, for the sake of clarity, silently emended i/j, f/s, u/v, and vv/w.  I have also retained the original orthography and italicization since they covey emphasis unavailable in purely Roman typeface.</p>
                <p>When annotating the text, I provided extensive Biblical citation and quotation to allow the reader to more fully grasp the rich tapestry Clinton weaves using Scripture as her guide; from personal experience I also know that a reference to a Bible chapter and verse is not as instructive--due to basic laziness--as the full text of one is.  I likewise gloss  unusual vocabulary, as well as references to further reading, when I believe it would be helpful.
 <pb n="xxiii"/>
                </p>
-            </div2>
-            <div2 id="clinton.009" n="Biographical Essay" type="Biography">
+            </div>
+            <div id="clinton.009" n="Biographical Essay" type="Biography">
                <head>VII.<lb/>
 Biographical Essay</head>
                <p>Elizabeth Knevet, daughter of Sir Henry Knevet and Anne Pickering, was born in Charlton, Wiltshire, in 1574, the year her father was knighted by Queen Elizabeth I.  Although her birth is not recorded in the parish register for Charlton, it is recorded in the family Bible. <ref target="clinton.010.intro59">59</ref> The Knevets were a genteel family of some fortune,  although generally unimportant in court; Elizabeth's brother Thomas did rise to power in the reign of King James I, when he became a Gentleman of the Bedchamber to James, as well as receiving a baronetcy on July 4, 1607 for his role as Justice of the Peace for Westminster in helping to unmask the Gunpowder Plot in 1605. <ref target="clinton.010.intro60">60</ref> Her sister, Susanna, was married to the powerful nobleman, Thomas Howard, earl of Suffolk.  Clearly, the Knevets commanded sufficient status and wealth to ensure that their male children obtained rank and privilege through politics, and that marriage did the same for the female offspring.</p>
@@ -318,8 +318,8 @@ Biographical Essay</head>
                <p>Elizabeth Clinton was thus Dowager Countess of Lincoln when she composed and published <title>The Countesse of Lincolnes Nurserie</title>, which she dedicated to her daughter-in-law, Briget Clinton.  Through Briget, Clinton had nine grandchildren, and it is their mother's virtuous behavior that inspires the treatise.  Although Clinton styles the tract "the first <orig reg="work">worke</orig> of mine that ever came in Print," none else survive.  Clinton herself died in 1630, eight years after the publication of <title>The Countesse of Lincolnes Nurserie</title>, and is buried in the parish church in Great Grimsby, Lincolnshire. <ref target="clinton.010.intro65">65</ref>
                </p>
                <pb n="xxv"/>
-            </div2>
-            <div2 id="clinton.010" n="Notes to the introduction to The Countesse of Lincolnes Nurserie" type="Notes">
+            </div>
+            <div id="clinton.010" n="Notes to the introduction to The Countesse of Lincolnes Nurserie" type="Notes">
                <head>Notes to the introduction to <title>The Countesse of Lincolnes Nurserie</title>
                </head>
                <p>
@@ -592,11 +592,11 @@ The author, James Wolveridge, like most other writers with Puritan leanings--inc
                      <hi rend="bold">65.</hi> 
                      <title>Encyclopedia of British Women Writers</title>, 109.</note>
                </p>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </front>
       <body>
-         <div1 id="clinton.011" n="The Countesse of Lincolnes Nurserie" type="Book">
+         <div id="clinton.011" n="The Countesse of Lincolnes Nurserie" type="Book">
             <head>The Countesse of Lincolnes Nurserie</head>
             <docAuthor>Clinton, Elizabeth Knevet</docAuthor>
             <docDate>1622</docDate>
@@ -608,7 +608,7 @@ NURSERIE</p>
             <p>Printed by John Lichfield and James Short, Printers to 
 the famous Universitie, 1622.<pb n="2"/>
             </p>
-            <div2 id="clinton.012" n="To the Right Honorable, and approved vertuous Lady,  Briget, Countesse of Lincolne" type="Dedication">
+            <div id="clinton.012" n="To the Right Honorable, and approved vertuous Lady,  Briget, Countesse of Lincolne" type="Dedication">
                <head>To the Right Honorable, and approved <orig reg="virtuous">vertuous</orig> Lady, <lb/>
 Briget, Countesse of Lincolne <ref target="clinton.015.countesse1">1</ref>
                </head>
@@ -623,8 +623,8 @@ full of care to please God, and of <orig reg="natural">naturall</orig> affection
                   <orig reg="abundantly">aboundantly</orig> all Blessings of heaven and earth upon you, and your children, as they increase in number.Your Ladyship: in the best and fastest <ref target="clinton.015.countesse8">8</ref> love ELIZABETH LINCOLNE.
 <pb n="4"/>
                </p>
-            </div2>
-            <div2 id="clinton.013" n="TO THE COURTEOUS, chiefly most Christian, Reader" type="Preface">
+            </div>
+            <div id="clinton.013" n="TO THE COURTEOUS, chiefly most Christian, Reader" type="Preface">
                <head>Preface to the Countesse of Lincolnes Nurserie: TO THE COURTEOUS, chiefly most Christian, Reader</head>
                <p>TO THE COURTEOUS,<lb/>
 chiefly most Christian, Reader.</p>
@@ -655,8 +655,8 @@ chiefly most Christian, Reader.</p>
                <p>Thomas Lodge <ref target="clinton.015.countesse20">20</ref>
                   <pb n="6"/>
                </p>
-            </div2>
-            <div2 id="clinton.014" n="The Countesse of Lincolnes Nurserie" type="Text">
+            </div>
+            <div id="clinton.014" n="The Countesse of Lincolnes Nurserie" type="Text">
                <head>THE COUNTESSE OF<lb/>
 Lincolnes Nurserie</head>
                <p>Because it hath pleased God to <orig reg="bless">blesse</orig> me with many children, and so caused me to observe many things falling out to mothers, and to their children; I thought good to open my <orig reg="mind">minde</orig> concerning a <orig reg="special">speciall</orig> matter belonging to all <orig reg="child">childe</orig>-bearing women, seriously to consider of: and to manifest my <orig reg="mind">minde</orig> the better even to write of this matter, so <orig reg="far">farr</orig> as God shall please to direct me <ref target="clinton.015.countesse21">21</ref>; in <orig reg="sum">sume</orig>, the matter I mean, <hi rend="italic">Is the duty of nursing due by mothers to their <orig reg="own">owne</orig> children.</hi>
@@ -774,8 +774,8 @@ inquire not of those that refuse to <orig reg="do">doe</orig> this: consult not 
                   <orig reg="again">againe</orig> how your Babe crying for your breast, sucking <orig reg="heartily">hartily</orig> the <orig reg="milk">milke</orig> out of it, and growing by it, is the <hi rend="italic">Lords <orig reg="own">owne</orig> instruction</hi>, every <orig reg="hour">houre</orig>, and every day, that you are sucking it, instructing you to shew that you are his <hi rend="italic">new borne Babes</hi>, <ref target="clinton.015.countesse85">85</ref> by your earnest desire after his word, &#x0026; the sincere doctrine thereof, and by your daily growing in grace and <orig reg="goodness">goodnesse</orig> thereby, so shall you <orig reg="reap">reape</orig> pleasure, and profit. <orig reg="Again">Againe</orig>, you may consider, that when your <orig reg="child">childe</orig> is at your breast, it is a fit occasion to move your heart to pray for a blessing on that <orig reg="work">worke</orig>; and to give thanks for your child, and ability &#x0026; freedom unto that, which many a mother would have done and could not; who have tried and ventured their health, &#x0026; taken much <orig reg="pains">paines</orig>, and yet have not obtained their desire. But they that are fitted every way for this <hi rend="italic">commendable act</hi>, have certainly great cause to be <orig reg="thankful">thankfull</orig>: and I desire that God may have glory and praise for every good <orig reg="work">worke</orig>, and you much comfort, that <orig reg="do">doe</orig> 
                   <orig reg="seek">seeke</orig> to honour God in all things.  Amen.</p>
                <p>FINIS</p>
-            </div2>
-            <div2 id="clinton.015" n="Notes to The Countesse of Lincolnes Nurserie" type="Notes">
+            </div>
+            <div id="clinton.015" n="Notes to The Countesse of Lincolnes Nurserie" type="Notes">
                <head>Notes to <title>The Countesse of Lincolnes Nurserie</title>
                </head>
                <p>
@@ -1125,8 +1125,8 @@ inquire not of those that refuse to <orig reg="do">doe</orig> this: consult not 
                   <note id="clinton.015.countesse85" n="85" anchored="yes">
                      <hi rend="bold">85.</hi>  See Note 6 for the text of this Scripture from 1 Peter 2:2.</note>
                </p>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </body>
    </text>
 </TEI.2>

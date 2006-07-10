@@ -84,7 +84,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
    </teiHeader>
    <text>
       <body>
-         <div1 id="decora-people.001" n="My People" type="Essay">
+         <div id="decora-people.001" n="My People" type="Essay">
             <docAuthor>De Cora, Angel</docAuthor>
             <head>"My People"</head>
             <docDate>1897</docDate>
@@ -101,7 +101,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
                <l>The lamp of life deny?"</l>
             </lg>
             <p>Let us, who are members of this unfortunate tribe, strive to prepare ourselves to elevate our people into a higher civilization. The responsibility is ours.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

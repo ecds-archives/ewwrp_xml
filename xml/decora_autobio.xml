@@ -86,7 +86,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
    </teiHeader>
    <text>
       <body>
-         <div1 id="decora-autobio.001" n="An Autobiography" type="essay">
+         <div id="decora-autobio.001" n="An Autobiography" type="essay">
             <docAuthor>De Cora, Angel</docAuthor>
             <head>"An Autobiography"</head>
             <docDate>1911</docDate>
@@ -110,7 +110,7 @@ I opened a studio in Boston and did some illustrative work for Small &#x0026; Ma
             <p>I left Boston and went to New York City, and while I did some illustrating, portrait and landscape work, I found designing a more lucrative branch of art.</p>
             <p>Although at times I yearn to express myself in landscape art, I feel that designing is the best channel in which to convey the native qualities of the Indian's decorative talent.</p>
             <p>In 1906, Hon. Francis E. Leupp, Commissioner of Indian Affairs, appointed me to the Carlisle Indian School in Pennsylvania to foster the native talents of the Indian students there. There is no doubt that the young Indian has a talent for the pictorial art, and the Indian's artistic conception is well worth recognition, and the school-trained Indians of Carlisle are developing it into possible use that it may become his contribution to American Art.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>
