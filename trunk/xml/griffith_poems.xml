@@ -58,7 +58,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div0 id="poems.00" n="Poems, by Mattie Griffith" type="Book">
+         <div id="poems.00" n="Poems, by Mattie Griffith" type="Book">
             <docAuthor>Griffith, Mattie [Martha]</docAuthor>
             <docAuthor>Browne, Mattie Griffith</docAuthor>
             <head>
@@ -3694,7 +3694,7 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
                   <l>THE END.</l>
                </lg>
             </div>
-         </div0>
+         </div>
       </body>
    </text>
 </TEI.2>

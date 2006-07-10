@@ -63,7 +63,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div0 id="bryher-develop.001" n="Development. A Novel by W. Bryher, With a Preface by Amy Lowell" type="Book">
+         <div id="bryher-develop.001" n="Development. A Novel by W. Bryher, With a Preface by Amy Lowell" type="Book">
             <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
             <head>
                <title>DEVELOPMENT</title>
@@ -1014,7 +1014,7 @@ through the summer weather, ride with hands roughened by a sword hilt, actually 
                   <p>The author has in preparation a second volume to be entitled <title>Adventure</title>, in which the story of <title>Development</title> will be continued.</p>
                </div>
             </div>
-         </div0>
+         </div>
       </body>
    </text>
 </TEI.2>

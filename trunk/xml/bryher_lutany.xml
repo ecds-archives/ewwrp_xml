@@ -61,7 +61,7 @@ Women Writers Resource Project at Emory University</p>
    </teiHeader>
    <text>
       <body>
-         <div0 id="bryher-lutany.001" n="Region of Lutany" type="book">
+         <div id="bryher-lutany.001" n="Region of Lutany" type="book">
             <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
             <head>REGION OF LUTANY<lb/>By WINIFRED ELLERMAN</head>
             <argument>
@@ -707,7 +707,7 @@ Tristfulness		     31<pb n="5"/>
                   <p>1913. </p>
                </div>
             </div>
-         </div0>
+         </div>
       </body>
    </text>
 </TEI.2>
