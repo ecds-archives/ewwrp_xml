@@ -2,14 +2,14 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt n=" Anecdote of Elias Hicks">
-            <title>Anecdote of Elias Hicks</title>
-            <author n="Child, Lydia Maria Francis">Child, Lydia Maria</author>
+            <title>Anecdote of Elias Hicks, an electronic edition.</title>
+            <author><name type="person" reg="Child, Lydia Maria Francis, 1802-1880">Lydia Maria Child</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>10kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -27,26 +27,46 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Child, Lydia Maria.  Anecdote of Elias Hicks.  Liberty Bell. Boston: American Anti-Slavery Society. 25 Cornhill, 1839 (vol. 1).  American Periodical Series 1800-1850 microfilm.  APS 1207 Liberty Bell Volumes 1-13 (1839-52) reel 491. </bibl>
+            <bibl>Child, Lydia Maria.  Anecdote of Elias Hicks.  <publisher>Liberty Bell</publisher>. Boston: American Anti-Slavery Society. 25 Cornhill, <date>1839</date> (vol. 1).  American Periodical Series 1800-1850 microfilm.  APS 1207 Liberty Bell Volumes 1-13 (1839-52) reel 491. </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Abolition, Freedom, and Rights</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">United States</rs>
             <date>1800-1899</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Hicks, Elias, 1748-1830.</item>
+	       <item>Women authors, American--19th Century.</item>
+	       <item>Quaker abolitionists.</item>
+	       <item>Quakers.</item>
+	       <item>Religiosity.</item>
+	       <item>Social reformers.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -57,11 +77,20 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck
+	    Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <div id="child-anecdote.001" n=" Anecdote of Elias Hicks" type="article">
+         <div1 id="child-anecdote.001" n=" Anecdote of Elias Hicks" type="article">
             <docAuthor>Child, Lydia Maria. </docAuthor>
             <head>
                <title> Anecdote of Elias Hicks</title>
@@ -86,7 +115,7 @@ by reason of a restraining power within. Earnestly, as the planter might wish th
             <p>This led to a long argument, maintained in the most friendly spirit. At parting, the slave-holder cordially shook hands with the Quaker, 
 <pb n="68"/>
 and begged him to come again. His visits were renewed; and six months after, the Virginian emancipated all his slaves.</p>
-         </div>
+         </div1>
       </body>
    </text>
 </TEI.2>

@@ -1,15 +1,15 @@
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
-         <titleStmt n=" Letter to a Friend">
-            <title>Letter to a Friend</title>
-            <author n="Cabot, Susan Copley">Cabot, Susan C.</author>
+         <titleStmt n="Letter to a Friend">
+            <title>Letter to a Friend, an electronic edition.</title>
+            <author><name type="person" reg="Cabot, Susan C. (Susan Copley), 1794-1861">Susan C. Cabot</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>10kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -27,26 +27,43 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Susan C. Cabot.  Letter to a Friend.  The Liberty Bell.  Boston: Massachusetts Anti-Slavery Fair, 1844.  American Periodical Series 1800-1850 microfilm.  Volumes 1-13 (1839-52) reel 491.</bibl>
+            <bibl>Susan C. Cabot.  Letter to a Friend.  <publisher>The Liberty Bell</publisher>.  Boston: Massachusetts Anti-Slavery Fair, <date>1844</date>.  American Periodical Series 1800-1850 microfilm.  Volumes 1-13 (1839-52) reel 491.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Abolition, Freedom, and Rights</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">United States</rs>
             <date>1800-1899</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Women authors, American--19th Century.</item>
+	       <item>Women abolitionists--Massachusetts--Boston.</item>
+	       <item>Slavery and the Church--United States.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -57,11 +74,20 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck
+	    Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <div id="cabot.001" n=" Letter to a Friend" type="letter">
+         <div1 id="cabot.001" n=" Letter to a Friend" type="letter">
             <docAuthor>Cabot, Susan C. </docAuthor>
             <head>
                <title> Letter to a Friend</title>
@@ -85,7 +111,7 @@ living reality; to become a part of our spiritual being? This, doubtless, is a h
             <p>Let me make one more remark, then I have done. Is there not great danger, that, with all our convictions and acknowledgements to the contrary, the covering that God has been pleased to put upon the negro hides from our faithless hearts the truth that he is as one of us? And does not that make us more busy in our home charities, which have but one complexion, than we otherwise should be, when called upon to help, those who are indeed distant? If our slaves had our skins, would it be so difficult to find time to think about them? I ask these questions without fear of giving offence, for I know your benevolence, how wide it is. I feel sure that if I have touched
 <pb n="105"/>
 upon a tender place, you will courageously touch it again, and ascertain whether there be any real unsoundness there; and, cost what it may, will take the necessary remedies for restoring health to the sick part. After this, I say nothing in extenuation of my frankness.</p>
-         </div>
+         </div1>
       </body>
    </text>
 </TEI.2>

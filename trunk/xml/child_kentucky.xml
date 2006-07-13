@@ -2,14 +2,16 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>How a Kentucky Girl Emancipated Her Slaves</title>
-            <author n="Child, Lydia Maria Francis">Child, Lydia Maria</author>
+            <title>How a Kentucky Girl Emancipated Her Slaves, an
+	   electronic edition.</title>
+            <author><name type="person" reg="Child, Lydia Maria
+	   Francis, 1802-1880">Lydia Maria Child</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>15kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -26,23 +28,42 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Child, Lydia Maria.  How a Kentucky Girl Emancipated Her Slaves. The Independent  March 27, 1862: 6-7.  Originally published in The New York Tribune.</bibl>
+            <bibl>Child, Lydia Maria.  How a Kentucky Girl Emancipated Her Slaves. <publisher>The Independent</publisher> March 27, <date>1862</date>: 6-7.  Originally published in The New York Tribune.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Abolition, Freedom, and Rights</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">United States</rs>
             <date>1800-1899</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Browne, Martha Griffith, d. 1906.</item>
+	       <item>Women abolitionists.</item>
+	       <item>Slaves--Emancipation--United States--Sources.</item>
+	       <item>Women authors, American--19th Century.</item>
+	       <item>Race relations.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -53,11 +74,20 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck
+	    Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <div id="child.001" n="How a Kentucky Girl Emancipated Her Slaves" type="essay">
+         <div1 id="child.001" n="How a Kentucky Girl Emancipated Her Slaves" type="essay">
             <docAuthor>Lydia Maria Child</docAuthor>
             <head>How a Kentucky Girl Emancipated Her Slaves</head>
             <docDate>March 27, 1862</docDate>
@@ -76,7 +106,7 @@ Women Writers Resource Project at Emory University</p>
             <p>It is now four years since this emancipation took place. A few months ago, I heard that all these redeemed ones were behaving well and getting a comfortable living. Henderson has succeeded in buying his beloved wife, and both are doing well. The oldest woman, generally called "Mammy," sometimes pines for a sight of old friends and relatives in Kentucky, but even she thinks freedom is worth that painful sacrifice. In view of these facts, I would ask any candid person what reason there is to apprehend danger in emancipating the slaves. It is surely time for us to stop repeating stereotyped falsities, invented for the convenience of slaveholders.</p>
             <p>It is worthy of remark that Miss Griffith's moral sense received no aid from abolitionists. She manifested sympathy with the slaves from her very childhood; and as she grew older she uttered many an earnest protest against the system. She never read an anti-slavery tract or newspaper, and never talked with an abolitionist. She wrote to me, "I was always taught to regard the abolitionists of the North as wolves in sheep's clothing; as violent, bad men, who decoyed slaves away from their homes with false promises; but since I have come to the free states, I know and honor the abolitionists." I wrote her in reply that it would be much nearer the truth to describe them as sheep in wolves' clothing.</p>
             <p>When Mr. Sumner was nearly assassinated in the Senate, the news excited her greatly. She sent for the speech which caused the outrage, and she told me <hi rend="italic">that</hi> was the first anti-slavery document she ever read. The purpose which had long been latent in her mind, ripened at once. She sent for Henderson, and said, "I am going to give you your freedom." In answer to his exclamations of surprise and gratitude, she replied, "Don't thank <hi rend="italic">me</hi>, Henderson. It is Mr. Charles Sumner who sets you free."-- <hi rend="italic">Lydia Maria Child, in The Tribune</hi>.</p>
-         </div>
+         </div1>
       </body>
    </text>
 </TEI.2>
