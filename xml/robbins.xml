@@ -2,14 +2,15 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt n=" Freedom">
-            <title>Freedom</title>
-            <author n="Robbins, Mary Eliza">Robbins, Mary Eliza</author>
+            <title>Freedom, an electronic edition.</title>
+            <author><name type="person" reg="Robbins, Mary Eliza">Mary
+Eliza Robbins</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>10kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -27,26 +28,42 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Robbins, Mary Eliza.  Freedom.  The Liberty Bell.  Boston: Massachusetts.  American Anti-slavery Society 25 Cornhill, 1839 (vol.1).  American Periodical Series 1800-1850 microfilm.  APS 1207 Liberty Bell.  Volumes 1-13 (1839-52) reel 491</bibl>
+            <bibl>Robbins, Mary Eliza.  Freedom.  <publisher>The Liberty Bell</publisher>.  Boston: Massachusetts.  American Anti-slavery Society 25 Cornhill, <date>1839</date> (vol.1).  American Periodical Series 1800-1850 microfilm.  APS 1207 Liberty Bell.  Volumes 1-13 (1839-52) reel 491</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Abolition, Freedom, and Rights</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">United States</rs>
             <date>1800-1899</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Antislavery movements--United States--History--Sources.</item>
+	       <item>Women authors, American--19th Century.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -57,11 +74,20 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck
+	    Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <div id="robbins.001" n=" Freedom" type="article">
+         <div1 id="robbins.001" n=" Freedom" type="article">
             <docAuthor>Robbins, Mary Eliza. </docAuthor>
             <head>
                <title> Freedom</title>
@@ -76,7 +102,7 @@ Women Writers Resource Project at Emory University</p>
             <p>That man, or that woman, who, by life and by speech, contributes to this end, is a true Ab-
 <pb n="52"/>
 olitionist; since he, or she, adds another <hi rend="ITALIC">stubborn fact</hi>, in confirmation of the doctrine that man was created to be free.  When Man shall be understood, when he shall cease to be afraid of himself, the idea of supremacy among human beings will become as obsolete, as the notion of dividing this harmonious universe between a God and a Devil.  &#x0022;A kingdom divided against itself cannot stand.&#x0022;</p>
-         </div>
+         </div1>
       </body>
    </text>
 </TEI.2>

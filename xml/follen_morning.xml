@@ -2,14 +2,15 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt n=" A Morning Walk">
-            <title>A Morning Walk</title>
-            <author n="Follen, Eliza Lee Cabot">Follen, Eliza Lee</author>
+            <title>A Morning Walk, an electronic edition.</title>
+            <author><name type="person" reg="Follen, Eliza Lee Cabot,
+1787-1860">Eliza Lee Follen</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>15kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -27,26 +28,42 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Follen, Eliza Lee.  A Morning Walk.  The Liberty Bell.  Boston: Massachusetts.  Anti-slavery Society Fair MDCCCXLI (1841).  American Periodical Series 1800-1850 microfilm.  APS 1207 Liberty Bell.  Volumes 1-13 (1839-52) reel 491</bibl>
+            <bibl>Follen, Eliza Lee.  A Morning Walk.  <publisher>The Liberty Bell</publisher>.  Boston: Massachusetts.  Anti-slavery Society Fair MDCCCXLI (<date>1841</date>).  American Periodical Series 1800-1850 microfilm.  APS 1207 Liberty Bell.  Volumes 1-13 (1839-52) reel 491</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Abolition, Freedom, and Rights</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">United States</rs>
             <date>1800-1899</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Antislavery movements--United States--History--Sources.</item>
+	       <item>Women authors, American--19th Century.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -57,11 +74,20 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck
+	    Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <div id="follen-morning.001" n=" A Morning Walk" type="article">
+         <div1 id="follen-morning.001" n=" A Morning Walk" type="article">
             <docAuthor>Follen, Eliza Lee. </docAuthor>
             <head>
                <title> A Morning Walk</title>
@@ -100,7 +126,7 @@ hardening influence of the contempt in which their race is held, if they still h
 <pb n="109"/>
 ular place in the garret, and there she folded her hands and made a low courtesy, and with the deepest feeling of reverence said, " I thank you, God."</p>
             <p>Oh that the day might be at hand when all her brothers and sisters in our country may have cause for an equal gratitude; oh that their chains might be struck off, their rights restored, their wounds healed, the hitherto untouched springs of joy opened in their hearts, and that these, our fellow beings, might for a while leave their labors, and, dressed in their holiday clothes, bow the knee before the Father of mercies, and with hearts full of devotion and joy, unite with one voice in saying, "we thank you, God."</p>
-         </div>
+         </div1>
       </body>
    </text>
 </TEI.2>

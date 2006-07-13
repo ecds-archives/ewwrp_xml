@@ -2,14 +2,15 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>Ratie: A True Story of a Little Hunchback</title>
-            <author n="Browne, Martha Griffith">Griffith, Mattie [Martha]</author>
+            <title>Ratie: A True Story of a Little Hunchback, an electronic edition.</title>
+            <author><name type="person" reg="Browne, Martha Griffith,
+	    d. 1906">Mattie Griffith</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>25kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -23,26 +24,44 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Griffith, Mattie [Martha]. Ratie: A True Story of a Little Hunchback. National Anti-Slavery Standard Vol. XXIII, No.32, Dec 20, 1862</bibl>
+            <bibl>Griffith, Mattie [Martha]. Ratie: A True Story of a Little Hunchback. <publisher>National Anti-Slavery Standard</publisher> Vol. XXIII, No.32, Dec 20, <date>1862</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
-            <rs type="ethnicity">African American</rs>
+	    <rs type="collection">Abolition, Freedom, and Rights</rs>
+	    <rs type="language">English</rs>
+            <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">United States</rs>
             <date>1800-1899</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Women authors, American--19th Century.</item>
+	       <item>Antislavery movements--United States--History--Sources.</item>
+	       <item>Race relations.</item>
+	       <item>Childhood.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -53,11 +72,19 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <div id="ratie.001" n="Ratie: A True Story of a Little Hunchback" type="Story">
+         <div1 id="ratie.001" n="Ratie: A True Story of a Little Hunchback" type="Story">
             <docAuthor>Griffith, Mattie [Martha]</docAuthor>
             <docAuthor>Browne, Mattie Griffith</docAuthor>
             <head>RATIE:  A TRUE STORY OF A LITTLE HUNCHBACK.</head>
@@ -113,7 +140,7 @@ Women Writers Resource Project at Emory University</p>
             <p>"Don't you see, over dar," pointing eastward, "is de old plantation?  How pretty and nice it looks; and dar is all de peoples at work; how busy dey is!  But I is not gwine dar.  I doesn't want to, any more.  Dere up dar is God's plantation, and it is betterer far.  Dere is no slaves dar, but all is free and happy--loving friends; and it is dar dat I wants to go; and I hopes dat all de plantation folks will be dar, or soon come to me."</p>
             <p>So she died!</p>
             <p>When they heard of her death at the old plantation, they were much distressed.  One of the old negroes said that, late in the evening, down at the lower end of the quarter, he distinctly saw, near her mammy's rude grave, the shadow of the little hunchback, Ratie.</p>
-         </div>
+         </div1>
       </body>
    </text>
 </TEI.2>
