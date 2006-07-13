@@ -24,11 +24,6 @@ or installed elsewhere and added to your $CLASSPATH
 </target>
 
 <!-- final info for user: where files are, what to do next -->
-<target name="final-info" depends="config">
-<echo level="info">The final copy of your built XML files are now in ${xmldir}.
-Please check these files, and if you are satisified with them, 
-copy them back to your cvs directory and check them back into cvs.</echo>
-</target>
 
 <target name="config">
   <echo level="info" message="Loading configuration settings."/>
@@ -51,6 +46,7 @@ Using the following settings for loading data:
   <property name="workdir"     value="${xmldir}/tmp"/>
   <property name="workdir.entities"     value="${workdir}/entities"/>
   <property name="workdir.id"     value="${workdir}/id"/>
+  <property name="workdir.whitespace"     value="${workdir}/whitespace"/>
 
   <!-- directories for image tasks -->
   <property name="imgdir"     value="${basedir}/img"/>
@@ -79,6 +75,8 @@ Using the following settings for loading data:
   <property name="entityscript" value="convertEntities2Unicode_controller.pl"/>
   <property name="entityscript.dep1" value="convertEntities2Unicode.pl"/>
   <property name="entityscript.dep2" value="entity_list.pl"/>
+
+  <property name="whitespacexsl" value="whitespace.xsl"/>
 
   <!-- create main document directory -->
   <mkdir dir="${xmldir}"/>
@@ -121,6 +119,14 @@ Using the following settings for loading data:
        cvsRoot="${env.CVSROOT}"
   /> 
 
+  <!-- check out unicode entity script -->
+  <cvs command="checkout -d ${fw}"
+       package="${cvs.fw}/${whitespacexsl}"
+       quiet="true"
+       dest="${scriptdir}"
+       cvsRoot="${env.CVSROOT}"
+  />
+
 
    <!-- add these script directories to the path -->
    <path id="path">
@@ -134,14 +140,14 @@ Using the following settings for loading data:
 
 
 
-<target name="xml" depends="input,unicode-entities,validate" 
+<target name="xml" depends="input,unicode-entities,whitespace,validate" 
    description="* convert entities to unicode and validate"/>
 
 
 <!-- copy xml files from input directory to build xml dir -->
 <target name="input" depends="config">
 
- <echo level="info" message="Converting xml files from input directory ${xmldir}."/>
+ <echo level="info" message="Copying xml files from input directory to ${xmldir}."/>
  <echo level="info" message="****************************************************"/>
 
  <copy todir="${xmldir}" overwrite="true">
@@ -173,7 +179,37 @@ Using the following settings for loading data:
 
 </target> <!-- end unicode-entities -->
 
-<target name="validate" depends="config,unicode-entities">
+<target name="whitespace" depends="config,cvs">
+ <mkdir dir="${workdir}"/>
+ <!-- delete whitespace dir just in case, to get rid of any old files -->
+ <delete dir="${workdir.whitespace}"/>
+ <mkdir dir="${workdir.whitespace}"/>
+
+
+  <!-- replace & with || so entities will not get resolved -->
+  <replace dir="${xmldir}" value="||">
+    <include name="*.xml"/>
+    <replacetoken><![CDATA[&]]></replacetoken>
+  </replace>
+
+  <!-- clean up white space -->
+  <xslt style="${scriptdir}/${fw}/whitespace.xsl" 
+	destdir="${workdir.whitespace}" basedir="${xmldir}"  extension=".xml"/> 
+
+  <!-- copy files back to main xml dir and replace earlier version of files -->
+  <copy todir="${xmldir}" overwrite="true">
+    <fileset dir="${workdir.whitespace}" includes="*.xml"/>
+  </copy>
+
+  <!-- convert || back to & -->
+  <replace dir="${xmldir}" token="||" includes="*.xml">
+    <replacevalue><![CDATA[&]]></replacevalue>
+  </replace> 
+
+</target>
+
+
+<target name="validate" depends="config">
   <xmlvalidate  lenient="true" failonerror="true" warn="true" classpath="${classpath}">
     <fileset dir="${xmldir}" includes="*.xml"/>
     <dtd publicId="${config.dtd.publicid}" location="${config.dtd.location}"/>
@@ -182,6 +218,7 @@ Using the following settings for loading data:
   <!-- If we get to this point, it worked. --> 
   <echo level="info" message="Successfully validated all xml files."/>
 </target>
+
 
 
 <!-- add ids to specified elements (doesn't replace existing ids) -->
@@ -194,7 +231,7 @@ Using the following settings for loading data:
   <delete dir="${workdir.id}"/>
   <mkdir dir="${workdir.id}"/>
 
-  <exec executable="perl"  dir="${workdir.id}" failonerror="true">
+  <exec executable="perl"  dir="${basedir}" failonerror="true">
    <arg line="${scriptdir}/${utils}/${idscript} -d ${xmldir} -o ${workdir.id} -t TEI"/>
   </exec>
 
@@ -351,12 +388,27 @@ webserver" > -->
 
 </target>
 
+<target name="final-info" depends="config">
+<echo level="info">The final copy of your built XML files are now in ${xmldir}.
+Please check these files, and if you are satisified with them, 
+copy them back to your cvs directory and check them back into cvs.</echo>
+</target>
 
 <!-- remove all temporary non-final files created by the build -->
 <target name="clean" depends="config">
  <delete dir="${workdir}"/>
  <delete dir="${imgdir}"/>
 </target>
+
+<!-- remove all input files used in a previous build -->
+<target name="cleanall" depends="config,clean" 
+description="* Remove all temporary files and input files from a previous build">
+ <delete>
+   <fileset dir="${xmldir}" includes="*.xml"/>
+ </delete>
+</target>
+
+
 
 <target name="exist-load" depends="config" 
   description="* load files to exist">
