@@ -1,24 +1,20 @@
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
-         <titleStmt n=" The Gentlewoman's Companion: or, A Guide to the Female Sex">
-            <title>The Gentlewoman's Companion: or, A Guide to the Female
-Sex</title>
-            <author n="Woolley, Hannah">Woolley, Hannah</author>
+         <titleStmt n="The Gentlewoman's Companion: or, A Guide to the Female Sex">
+            <title>The Gentlewoman's Companion: or, A Guide to the Female Sex, an electronic edition.</title>
+            <author><name type="person" reg="Woolley, Hannah, fl. 1670">Hannah Woolley</name></author>
             <respStmt>
-               <resp>Compiled and edited
-by</resp>
+               <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>500kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory
-University</pubPlace>
+            <pubPlace>Emory University</pubPlace>
             <address>
-               <addrLine>Atlanta,
-Georgia</addrLine>
+               <addrLine>Atlanta, Georgia</addrLine>
             </address>
             <availability>
                <p>1997 Emory University. Permission is granted to  download, transmit, or otherwise
@@ -32,27 +28,45 @@ Emory University, Atlanta, Georgia 30322</p>
             <date>1997</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
             <bibl>Woolley, Hannah. The Gentlewoman's Companion: or, A Guide to the
-Female Sex.  London: 1675.</bibl>
+Female Sex.  London: <date>1675</date>.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p> This text is produced in conjunction with the Women
-Writers Resource  Project at Emory University</p>
+            <p> This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
-            <rs n="Caucasian" type="ethnicity">Caucasian</rs>
-            <rs n="unedited" type="form">Unedited</rs>
-            <rs n="drama" type="genre">Drama</rs>
-            <rs n="Great Britain" type="geography">Great Britain</rs>
-            <date value="1600-1699">1600-1699</date>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Drama</rs>
+            <rs type="geography">Great Britain</rs>
+            <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Women--Conduct of life--Early works to 1800.</item>
+	       <item>Home economics--Early works to 1800.</item>
+	       <item>Etiquette--Early works to 1800.</item>
+	       <item>Women authors, English--17th Century.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -61,9 +75,16 @@ Writers Resource  Project at Emory University</p>
                <name>Brendan Corcoran</name>
                <resp>Staff</resp>
             </respStmt>
-            <item>SGML
-tags inserted in compliance with TEI guidelines using  TEILITE</item>
+            <item>SGML tags inserted in compliance with TEI guidelines using  TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>

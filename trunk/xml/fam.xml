@@ -2,13 +2,14 @@
    <teiHeader type="TEXT">
       <fileDesc>
          <titleStmt n="A Family Discussion Between the King and the Queen Regent, His Mother, Concerning Current Affairs">
-            <title>A Family Discussion Between the King and the Queen Regent, His Mother, Concerning Current Affairs</title>
-            <author n="Unknown">Unknown</author>
+            <title>A Family Discussion Between the King and the Queen Regent, His Mother, Concerning Current Affairs, an electronic edition.</title>
+            <author><name type="person" reg="Anonymous">Anonymous</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Amy Enright</name>
             </respStmt>
          </titleStmt>
+	 <extent>115kb</extent>
          <publicationStmt>
             <publisher>Emory University General Libraries</publisher>
             <address>
@@ -29,17 +30,39 @@
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Edited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Mazarinades.</item>
+	       <item>Louis XIV, King of France, 1638-1715.</item>
+	       <item>Anne of Austria, 1601-1666.</item>
+	       <item>Anne, Queen, consort of Louis XIII, King of France, 1601-1666.</item>
+	       <item>Women authors, French--17th Century.</item>
+	       <item>France--History--Louis XIV, 1643-1715.</item>
+	       <item>France--Court and courtiers.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -50,6 +73,14 @@
             </respStmt>
             <item>Tagged according to TEI Lite conventions</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
