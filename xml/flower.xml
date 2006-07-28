@@ -2,14 +2,14 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt n="Flower of Youth: Poems in War Time">
-            <title>Flower of Youth: Poems in War Time</title>
-            <author n="Tynan, Katharine">Tynan, Katharine</author>
+            <title>Flower of Youth: Poems in War Time, an electronic edition.</title>
+            <author><name type="person" reg="Tynan, Katharine, 1861-1931">Katharine Tynan</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>100kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -23,25 +23,44 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <date>2001</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl> Tynan, Katharine "Flower of Youth: Poems in War Time." London: Sidgwick &#x0026; Jackson, 1915.  80 pages.</bibl>
+            <bibl>Tynan, Katharine "Flower of Youth: Poems in War Time." London: <publisher>Sidgwick &#x0026; Jackson</publisher>, <date>1915</date>.  80 pages.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This digital text is produced from a first edition volume of Katharine Tynan's <hi rend="italic">Flower of Youth: Poems in War Time</hi> generously loaned to the Beck Center by Professor Harry Rusche.  The production of this digital text was undertaken by the Beck Center for the Women Writers Resource Project at Emory University.</p>
+            <p>This digital text is produced from a first edition volume of Katharine Tynan's <hi rend="italic">Flower of Youth: Poems in War Time</hi> generously loaned to the Beck Center by Professor Harry Rusche.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">World War I</rs>
+	   <rs type="collection">Early 20th Century Literature</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Poetry</rs>
             <rs type="geography">Great Britain</rs>
             <date>1900-1999</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>World War, 1914-1918--Poetry.</item>
+	       <item>English poetry--Women authors--20th Century.</item>
+	       <item>War.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -52,6 +71,14 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>

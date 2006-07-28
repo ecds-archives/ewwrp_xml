@@ -2,15 +2,15 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt n="Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, c. of Woman. Written by a Lady in Vindication of her Sex.">
-            <title> Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, &#x0026;c. of Woman.
-Written by a Lady in Vindication of her Sex. </title>
-            <author n="Egerton, Sarah Fyge">Egerton, Sarah Fyge</author>
+            <title>Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, &#x0026;c. of Woman.
+Written by a Lady in Vindication of her Sex, an electronic edition.</title>
+            <author><name type="person" reg="Egerton, Sarah Fyge">Sarah Fyge Egerton</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>55kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -28,7 +28,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
             <bibl> Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and
@@ -36,24 +36,43 @@ Inconstancy, &#x0026;c. of Woman.
 Written by a Lady in Vindication of her Sex.
 Licens'd, June 2. 1686. R. P.
 London:
-Printed by H. C. for John Taylor, at the Globe in St. Pauls-Church_Yard.
-1686. </bibl>
+Printed by <publisher>H. C. for John Taylor</publisher>, at the Globe in St. Pauls-Church_Yard.
+<date>1686</date>. </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="collection">Women's Advocacy</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Poetry</rs>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Women Poets, English--17th Century.</item>
+	       <item>Women--Social conditions--Poetry.</item>
+	       <item>Sex discrimination against women--Poetry.</item>
+	       <item>Sexual animosity--Poetry.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -64,6 +83,14 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>

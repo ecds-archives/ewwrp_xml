@@ -2,15 +2,14 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt n="    The Revelation of Jesus Christ by Anne Wentworth     [a machine readable transcription].  Edited with an introduction by Vickie Taft.">
-            <title>The Revelation of Jesus Christ by Anne Wentworth, 1630?-1679? 
-[a machine readable transcription].  Edited with an introduction by Vickie Taft.</title>
-            <author n="Wentworth, Anne">Wentworth, Anne</author>
+            <title>The Revelation of Jesus Christ by Anne Wentworth [a machine readable transcription].  Edited with an introduction by Vickie Taft, an electronic edition.</title>
+            <author><name type="person" reg="Wentworth, Anne">Anne Wentworth</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Vickie Taft</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>200kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -23,27 +22,45 @@
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>The Revelation of Jesus Christ.  London: 1679. W1355. 
- </bibl>
+            <bibl>The Revelation of Jesus Christ.  London: <date>1679</date>. W1355.  </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the Women Writers Resource  
-Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Edited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Wentworth, Anne.</item>
+	       <item>Private revelations.</item>
+	       <item>Visions.</item>
+	       <item>Christianity.</item>
+	       <item>Religiosity.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -54,6 +71,14 @@ Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>

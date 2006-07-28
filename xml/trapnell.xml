@@ -1,25 +1,23 @@
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
-         <titleStmt n=" Strange and Wonderful Newes from White-Hall: or, The Mighty Visions Proceeding from Mistris Anna Trapnel, to divers Collonels Ladies and Gentlewomen, concerning the Government of the Commonwealth of England, Scotland, and Ireland">
+         <titleStmt n="Strange and Wonderful Newes from White-Hall: or, The Mighty Visions Proceeding from Mistris Anna Trapnel, to divers Collonels Ladies and Gentlewomen, concerning the Government of the Commonwealth of England, Scotland, and Ireland">
             <title>Strange and Wonderful Newes from White-Hall: or, The Mighty
 Visions Proceeding from Mistris Anna Trapnel, to divers Collonels
 Ladies and Gentlewomen, concerning the Government of the Commonwealth
-of England, Scotland, and Ireland</title>
-            <author n="Trapnell, Anna">Trapnell, Anna</author>
+of England, Scotland, and Ireland, an electronic edition.</title>
+            <author><name type="person" reg="Trapnell, Anna">Anna Trapnell</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>25kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory
-University</pubPlace>
+            <pubPlace>Emory University</pubPlace>
             <address>
-               <addrLine>Atlanta,
-Georgia</addrLine>
+               <addrLine>Atlanta, Georgia</addrLine>
             </address>
             <availability>
                <p>1996 Emory
@@ -34,30 +32,47 @@ Atlanta, Georgia 30322</p>
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
             <bibl>Trapnell, Anna. Strange and Wonderful Newes from White-Hall: or,
 The Mighty Visions Proceeding from Mistris Anna Trapnel, to divers
 Collonels Ladies and Gentlewomen, concerning the Government of the
-Commonwealth of England, Scotland, and Ireland. London, 1654. 8
+Commonwealth of England, Scotland, and Ireland. London, <date>1654</date>. 8
 pages. EEB 263:E:224(3) TT 39:E.224(3)</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the  Women
-Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Visions--Early works to 1800.</item>
+	       <item>Dissenters, Religious--England--History--17th Century.</item>
+	       <item>Women authors, English--17th Century.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -66,9 +81,16 @@ Writers Resource Project at Emory University</p>
                <name>Scott Ellis</name>
                <resp>Staff</resp>
             </respStmt>
-            <item>SGML
-tags inserted in compliance with TEI guidelines using TEILITE</item>
+            <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>

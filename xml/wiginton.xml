@@ -1,15 +1,20 @@
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
-         <titleStmt n=" THE CONFESSION AND EXECUTION OF Letitia Wigington of Ratclif, who suffered at TYBURN, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days be- fore her death, being Condemned for whiping her Apprentice Girl to Death.">
-            <title>THE CONFESSION AND EXECUTION OF Letitia Wigington of Ratclif, who suffered at TYBURN, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days be- fore her death, being Condemned for whiping her Apprentice Girl to Death.</title>
-            <author n="Wigington, Leticia">Wigington, Leticia</author>
+         <titleStmt n="THE CONFESSION AND EXECUTION OF Letitia Wigington of Ratclif, who suffered at TYBURN, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days be- fore her death, being Condemned for whiping her Apprentice Girl to Death.">
+            <title>THE CONFESSION AND EXECUTION OF Letitia Wigington
+	   of Ratclif, who suffered at TYBURN, on Fryday the 9 h of
+	   this instant September, 1681, written by her own hand in
+	   the Goal of Newgate two days be- fore her death, being
+	   Condemned for whiping her Apprentice Girl to Death, an
+	   electronic edition.</title>
+            <author><name type="person" reg="Wigington, Leticia, d. 1681">Leticia Wigington</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>25kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -27,26 +32,44 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Wiginton, Leticia.  THE CONFESSION AND EXECUTION OF Letitia Wigington of Ratclif, who suffered at TYBURN, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days be- fore her death, being Condemned for whiping her Apprentice Girl to Death. London, 1681. 4 pages. EEB 950:32</bibl>
+            <bibl>Wiginton, Leticia.  THE CONFESSION AND EXECUTION OF Letitia Wigington of Ratclif, who suffered at TYBURN, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days be- fore her death, being Condemned for whiping her Apprentice Girl to Death. London, <date>1681</date>. 4 pages. EEB 950:32</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Trials (Murder)--Great Britain--Early works to 1800.</item>
+	       <item>Women authors, English--17th Century.</item>
+	       <item>Crime.</item>
+	       <item>Murder.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -57,6 +80,14 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
