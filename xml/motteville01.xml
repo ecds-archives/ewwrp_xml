@@ -2,14 +2,14 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt n="Memoirs of Madame de Motteville, Volume I">
-            <title>Memoirs of Madame de Motteville, Volume I</title>
-            <author n="Motteville, Madame de">Motteville, Madame de</author>
+            <title>Memoirs of Madame de Motteville, Volume I, an electronic edition.</title>
+            <author><name type="person" reg="Motteville, Madame de">Madame de Motteville</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>150kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -22,25 +22,43 @@
             <date>2002</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl> Motteville, Madame de.  <hi rend="italic">Memoirs of Madame de Motteville.</hi> Vol. I.  Boston: Hardy, Pratt, and Co., 1902.  374 pages.</bibl>
+            <bibl> Motteville, Madame de.  <hi rend="italic">Memoirs of Madame de Motteville.</hi> Vol. I.  Boston: <publisher>Hardy, Pratt, and Co.</publisher>, <date>1902</date>.  374 pages.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This digital text is produced from a 1902 edition of Madame de Motteville's <hi rend="italic">Memoirs</hi> which was first published in 1723.  The 1902 edition was translated from the original French by Katharine Prescott Wormeley and introduced by C.A. Sainte-Beuve, both of whom provided annotations to the text that we have included in our electronic edition.  Furthermore, selections from de Motteville's text included in this electronic publication were kindly made by Professor William Beik of Emory University's History Department.  The production of this digital text was undertaken by the Beck Center for the Women Writers Resource Project at Emory University.</p>
+            <p>This digital text is produced from a 1902 edition of Madame de Motteville's <hi rend="italic">Memoirs</hi> which was first published in 1723.  The 1902 edition was translated from the original French by Katharine Prescott Wormeley and introduced by C.A. Sainte-Beuve, both of whom provided annotations to the text that we have included in our electronic edition.  Furthermore, selections from de Motteville's text included in this electronic publication were kindly made by Professor William Beik of Emory University's History Department.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">France</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Women authors, French--19th Century.</item>
+	       <item>France--History--Louis XIV, 1643-1715.</item>
+	       <item>France--Court and Courtiers.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -51,6 +69,14 @@
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>

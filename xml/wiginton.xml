@@ -1,11 +1,11 @@
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
-         <titleStmt n="THE CONFESSION AND EXECUTION OF Letitia Wigington of Ratclif, who suffered at TYBURN, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days be- fore her death, being Condemned for whiping her Apprentice Girl to Death.">
-            <title>THE CONFESSION AND EXECUTION OF Letitia Wigington
-	   of Ratclif, who suffered at TYBURN, on Fryday the 9 h of
+         <titleStmt n="The Confession and Execution of Letitia Wigington of Ratclif, who suffered at Tyburn, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days before her death, being Condemned for whiping her Apprentice Girl to Death.">
+            <title>The Confession and Execution of Letitia Wigington
+	   of Ratclif, who suffered at Tyburn, on Fryday the 9 h of
 	   this instant September, 1681, written by her own hand in
-	   the Goal of Newgate two days be- fore her death, being
+	   the Goal of Newgate two days before her death, being
 	   Condemned for whiping her Apprentice Girl to Death, an
 	   electronic edition.</title>
             <author><name type="person" reg="Wigington, Leticia, d. 1681">Leticia Wigington</name></author>
@@ -35,7 +35,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Wiginton, Leticia.  THE CONFESSION AND EXECUTION OF Letitia Wigington of Ratclif, who suffered at TYBURN, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days be- fore her death, being Condemned for whiping her Apprentice Girl to Death. London, <date>1681</date>. 4 pages. EEB 950:32</bibl>
+            <bibl>Wiginton, Leticia.  The Confession and Execution of Letitia Wigington of Ratclif, who suffered at Tyburn, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days before her death, being Condemned for whiping her Apprentice Girl to Death. London: <publisher>Printed for Langley Curtis</publisher>, on Ludgate hill, <date>1681</date>. 4 pages. EEB 950:32</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -92,10 +92,10 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    </teiHeader>
    <text>
       <body>
-         <div id="wiginton.001" n=" THE CONFESSION AND EXECUTION OF Letitia Wigington of Ratclif, who suffered at TYBURN, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days be- fore her death, being Condemned for whiping her Apprentice Girl to Death." type="text">
+         <div id="wiginton.001" n=" THE CONFESSION AND EXECUTION OF Letitia Wigington of Ratclif, who suffered at TYBURN, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days before her death, being Condemned for whiping her Apprentice Girl to Death." type="text">
             <docAuthor>Wigington, Leticia. </docAuthor>
             <head>
-               <title> THE CONFESSION AND EXECUTION OF Letitia Wigington of Ratclif, who suffered at TYBURN, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days be- fore her death, being Condemned for whiping her Apprentice Girl to Death.</title>
+               <title> THE CONFESSION AND EXECUTION OF Letitia Wigington of Ratclif, who suffered at TYBURN, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days before her death, being Condemned for whiping her Apprentice Girl to Death.</title>
             </head>
             <docDate> 1684</docDate>
             <argument>

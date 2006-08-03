@@ -2,14 +2,14 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt n=" The Lost Lover; or, The Jealous Husband. A Comedy.">
-            <title>The Lost Lover; or, The Jealous Husband. A Comedy.</title>
-            <author n="Manley, Mary de la Riviere">Manley, Mary de la Riviere</author>
+            <title>The Lost Lover; or, The Jealous Husband. A Comedy, an electronic edition.</title>
+            <author><name type="person" reg="Manley, Mary de la Riviere">Mary de la Riviere Manley</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>150kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -27,26 +27,45 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Manley, Mary de la Riviere. The Lost Lover; or, The Jealous Husband. A Comedy. London, 1696. 39 pages. EEB 36:6 </bibl>
+            <bibl>Manley, Mary de la Riviere. The Lost Lover; or, The
+	   Jealous Husband. A Comedy. London: <publisher>Printed for R. Bently</publisher>,
+	   in Covent Garden; <publisher>F. Saudners</publisher>, in the New-Exchange;
+	   <publisher>J. Knapton, and R. Wellington</publisher>, in St. Paul's Church-Yard. <date>1696</date>. 39 pages. EEB 36:6 </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Drama</rs>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>English Drama--Women authors--17th Century.</item>
+	       <item>Women as writers.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -57,6 +76,14 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
