@@ -1,15 +1,15 @@
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
-         <titleStmt n=" A Contemplation of Bassetts-down-Hill">
-            <title>A Contemplation of Bassetts down-Hill</title>
-            <author n="Kemp, Anne">Kemp, Anne</author>
+         <titleStmt n=" A Contemplation on Bassets-down-Hill">
+            <title>A Contemplation on Bassets-down-Hill, an electronic edition.</title>
+            <author><name type="person" reg="Kemp, Anne">Anne Kemp</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>15kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -27,26 +27,41 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Kemp, Anne.  A Contemplation of Bassetts-down-Hill. Oxford, 1658. Broadside. EEB 1151:12</bibl>
+            <bibl>Kemp, Anne.  A Contemplation on Bassets-down-Hill. Oxford, <date>1658</date>. Broadside. EEB 1151:12</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>English poetry--Women authors--17th Century.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -57,14 +72,22 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <div id="kemp.001" n=" A Contemplation of Bassetts-down-Hill" type="">
+         <div id="kemp.001" n=" A Contemplation on Bassets-down-Hill" type="">
             <docAuthor>Kemp, Anne. </docAuthor>
             <head>
-               <title> A Contemplation of Bassetts-down-Hill</title>
+               <title> A Contemplation on Bassets-down-Hill</title>
             </head>
             <docDate> 1658</docDate>
             <argument>

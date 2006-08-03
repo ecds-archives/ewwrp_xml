@@ -1,16 +1,16 @@
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
-         <titleStmt n=" A TRUE TESTIMONY From the People of God: (Who by the world are called QUAKERS) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Cove- nant, which brought again our LORD JESUS from the dead. ">
-            <title>A TRUE TESTIMONY From the People of God: (Who by the world are called
-QUAKERS) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Cove- nant, which brought again our LORD JESUS from the dead.</title>
-            <author n="Fox, Margaret Askew Fell">Fell Fox, Margaret Askew</author>
+         <titleStmt n=" A True Testimony From the People of God: (Who by the world are called Quakers) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Covenant, which brought again our Lord Jesus from the dead. ">
+            <title>A True Testimony From the People of God: (Who by the world are called
+Quakers) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Covenant, which brought again our Lord Jesus from the dead, an electronic edition.</title>
+            <author><name type="person" reg="Fox, Margaret Askew Fell, 1614-1702">Margaret Askew Fell Fox</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>85kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -28,26 +28,45 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Fell Fox, Margaret Askew: A TRUE TESTIMONY From the People of God: (Who by the world are called QUAKERS) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Cove- nant, which brought again our LORD JESUS from the dead. LONDON, Printed for Robert Wilson, and are to be sold at his shop at the sign of the Black-spread-Eagle and Wind-Mill in Martins L' Grand, 1660.  EEB 1592:32.</bibl>
+            <bibl>Fell Fox, Margaret Askew: A True Testimony From the People of God: (Who by the world are called Quakers) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Covenant, which brought again our Lord Jesus from the dead. London, <publisher>Printed for Robert Wilson</publisher>, and are to be sold at his shop at the sign of the Black-spread-Eagle and Wind-Mill in Martins L' Grand, <date>1660</date>.  EEB 1592:32.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Women authors, English--17th Century.</item>
+	       <item>Society of Friends--Doctrines.</item>
+	       <item>Christianity.</item>
+	       <item>Religiosity.</item>
+	       <item>Quakers.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -58,13 +77,21 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
       <front>
-         <div id="fellfox-testimony.001" n="Fell Fox:  A TRUE TESTIMONY From the People of God: (Who by the world are called QUAKERS) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Cove- nant, which brought again our LORD JESUS from the dead." type="text">
+         <div id="fellfox-testimony.001" n="Fell Fox:  A TRUE TESTIMONY From the People of God: (Who by the world are called QUAKERS) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Covenant, which brought again our LORD JESUS from the dead." type="text">
             <docAuthor>Fell Fox, Margaret Askew</docAuthor>
-            <head> A TRUE TESTIMONY From the People of God: (Who by the world are called QUAKERS) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Cove- nant, which brought again our LORD JESUS from the dead.</head>
+            <head> A TRUE TESTIMONY From the People of God: (Who by the world are called QUAKERS) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Covenant, which brought again our LORD JESUS from the dead.</head>
             <docDate> 1660</docDate>
             <argument>
                <p>Tracts citing differences between Quakers and other religious groups.</p>
