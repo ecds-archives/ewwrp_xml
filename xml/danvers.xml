@@ -1,15 +1,15 @@
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
-         <titleStmt n=" A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia..">
-            <title>A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia..</title>
-            <author n="D'anvers Alicia">D'anvers, Alicia</author>
+         <titleStmt n=" A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia.">
+            <title>A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia, an electronic edition.</title>
+            <author><name type="person" reg="D'anvers, Alicia">Alicia D'anvers</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center </name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>15kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -27,26 +27,42 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia.  December 23, 1690.  London, Printed for Tho. Bever, at the Hand and Star, near Temple Barr, in Fleet-street, MDCXCI</bibl>
+            <bibl>A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia.  December 23, <date>1690</date>.  London, <publisher>Printed for Tho. Bever</publisher>, at the Hand and Star, near Temple Barr, in Fleet-street, MDCXCI</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Poetry</rs>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>English poetry--Women authors--17th Century.</item>
+	       <item>Grand Alliance, War of the, 1689-1697--Poetry.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -57,6 +73,14 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>

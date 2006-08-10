@@ -2,14 +2,14 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt n=" Queene Elizabeth's Speech to Her Last Parliament.">
-            <title>Queene Elizabeth's Speech to Her Last Parliament.</title>
-            <author n="Elizabeth I, Queen">Elizabeth [Queen]</author>
+            <title>Queene Elizabeth's Speech to Her Last Parliament, an electronic edition.</title>
+            <author><name type="person" reg="Elizabeth I, Queen">Elizabeth [Queen]</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>15kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -27,26 +27,45 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl> Elizabeth, Queen of England "Queene Elizabeth's Speech to Her Last Parliament." London, 1642. 5 pages. PEEB 142:12 and 259:E.200(15) TT 35:E.200(15)</bibl>
+            <bibl> Elizabeth, Queen of England "Queene Elizabeth's Speech to Her Last Parliament." London, <date>1642</date>. 5 pages. PEEB 142:12 and 259:E.200(15) TT 35:E.200(15)</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Queens--Great Britain--Sources.</item>
+	       <item>Speeches, addresses, etc., English--17th Century.</item>
+	       <item>Women authors, English--17th Century.</item>
+	       <item>Great Britain--History--Elizabeth, 1558-1603--Sources.</item>
+	       <item>Great Britain--Politics and government--1558-1603--Sources.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -57,6 +76,14 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>

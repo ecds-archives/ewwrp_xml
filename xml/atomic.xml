@@ -3,12 +3,13 @@
       <fileDesc>
          <titleStmt n=" The Atomic Poems of Margaret (Lucas) Cavendish, Duchess of Newcastle, from her Poems, and Fancies, 1653 [a machine readable transcription].  Edited with an introduction by Leigh Tillman Partington.">
             <title>The Atomic Poems of Margaret (Lucas) Cavendish, Duchess of Newcastle, from her Poems, and Fancies, 1653 [a machine readable transcription].  Edited with an introduction by Leigh Tillman Partington.</title>
-            <author n="Cavendish, Margaret">Cavendish, Margaret</author>
+            <author><name type="person" reg="Newcastle, Margaret Cavendish, Duchess of, 1624?-1674">Margaret Cavendish</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Leigh Tillman Partington</name>
             </respStmt>
          </titleStmt>
+	 <extent>200kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -21,25 +22,42 @@
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>The Atomic Poems of Margaret (Lucas) Cavendish, Duchess of Newcastle, from her Poems, and fancies, 1653</bibl>
+            <bibl>The Atomic Poems of Margaret (Lucas) Cavendish, Duchess of Newcastle, from her Poems, and fancies, <date>1653</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Edited</rs>
             <rs type="genre">Poetry</rs>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Women and literature--England--History--17th Century.</item>
+	       <item>Science fiction--Women authors.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -50,6 +68,14 @@
             </respStmt>
             <item>Tagged according to TEI Lite conventions</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
