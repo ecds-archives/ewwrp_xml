@@ -2,14 +2,14 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>The Countess of Lincolnes Nurserie</title>
-            <author n="Clinton, Elizabeth Knevet">Clinton, Elizabeth Knevet</author>
+            <title>The Countess of Lincolnes Nurserie, an electronic edition.</title>
+            <author><name type="person" reg="Lincoln, Elizabeth Clinton, Countess of">Elizabeth Knevet Clinton</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Kate McPherson</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>160kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -31,19 +31,35 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Emory Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
             <p>We have used the "orig" tag to designate regularized spellings of words for searching purposes.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Edited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Breastfeeding--Early works to 1800.</item>
+	       <item>Motherhood.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>

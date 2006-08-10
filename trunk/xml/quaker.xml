@@ -2,16 +2,15 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt n="  The Oppression of Prophecy: Quaker Women in   Late Seventeenth Century Yorkshire:  Writings by Judith Boulbie  and Mary Waite [a machine readable transcription].  Edited by Amy Enright.">
-            <title>The Oppression of Prophecy: Quaker Women in 
-Late Seventeenth Century Yorkshire:  Writings by Judith Boulbie
+            <title>The Oppression of Prophecy: Quaker Women in Late Seventeenth Century Yorkshire:  Writings by Judith Boulbie
 and Mary Waite [a machine readable transcription].  Edited by Amy Enright.</title>
-            <author n="Boulbie, Judith and Waite, Mary">Boulbie, Judith and Mary Waite</author>
+            <author><name type="person" reg="Boulbie, Judith and Waite, Mary">Judith Boulbie and Mary Waite</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Amy Enright</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>200kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -25,27 +24,43 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
             <bibl>Boulbie, Judith and Mary Waite A Testimony for Truth against all Hireling-Priests and Deceivers . . . .  
-1655;  A Warning to all Friends who Professeth the Everlasting Truth . . . .   1688.</bibl>
+<date>1655</date>;  A Warning to all Friends who Professeth the Everlasting Truth . . . .   <date>1688</date>.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Prroject at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Prroject.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Edited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Quaker women.</item>
+	       <item>Quakers.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -56,6 +71,14 @@ Women Writers Resource Prroject at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>

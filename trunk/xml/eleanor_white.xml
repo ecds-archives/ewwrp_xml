@@ -2,14 +2,14 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>For the most Honorable States sitting at White-Hall</title>
-            <author n="Davies, Lady Eleanor">Eleanor, Lady</author>
+            <title>For the most Honorable States sitting at White-Hall, an electronic edition.</title>
+            <author><name type="person" reg="Douglas, Eleanor, Lady, d. 1652">Lady Eleanor</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent/>
+         <extent>15kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -23,26 +23,43 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <date>1996</date>
          </publicationStmt>
          <seriesStmt>
-            <title>Women Writers Resource Project</title>
+            <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Eleanor, Lady. For the most Honorable States sitting at White-Hall. London, 1649.</bibl>
+            <bibl>Eleanor, Lady. For the most Honorable States sitting at White-Hall. London, <date>1649</date>.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This text is produced in conjunction with the 
-Women Writers Resource Project at Emory University</p>
+            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
+	   <rs type="collection">Early Modern through the 18th Century</rs>
+	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
             <rs type="genre">Prose</rs>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Women authors, English--17th Century.</item>
+	       <item>Prophecies.</item>
+	       <item>Religiosity.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
@@ -53,6 +70,14 @@ Women Writers Resource Project at Emory University</p>
             </respStmt>
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alden Mahler</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
       </revisionDesc>
    </teiHeader>
    <text>
