@@ -10,7 +10,7 @@ P.">William P. Tomlinson, Editor</name></author>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent>2200kb</extent>
+         <extent>650kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -94,6 +94,14 @@ P.">William P. Tomlinson, Editor</name></author>
 	    </respStmt>
 	    <item>TEI header elements changed to conform to new Beck
 	    Center standards.</item>
+	 </change>
+	 <change>
+	    <date>2006</date>
+	    <respStmt>
+	       <name>Alice Hickcox</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>Document split into 3 files, 1 for each volume.</item>
 	 </change>
       </revisionDesc>
    </teiHeader>
