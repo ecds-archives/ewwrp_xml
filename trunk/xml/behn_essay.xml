@@ -51,7 +51,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
 	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
-            <rs type="genre">Prose</rs>
+            <rs type="genre">Essay</rs>
             <rs type="geography">Great Britain</rs>
             <date>1700-1799</date>
          </creation>
@@ -85,7 +85,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    </teiHeader>
    <text>
       <body>
-         <div id="behn-essay.001" n=" An Essay on Translated Prose" type="text">
+         <div id="behn-essay.001" n=" An Essay on Translated Prose" type="essay">
             <docAuthor>Behn, Aphra. </docAuthor>
             <head>An Essay on Translated Prose</head>
             <docDate> 1700</docDate>

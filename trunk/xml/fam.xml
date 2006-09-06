@@ -2,7 +2,9 @@
    <teiHeader type="TEXT">
       <fileDesc>
          <titleStmt n="A Family Discussion Between the King and the Queen Regent, His Mother, Concerning Current Affairs">
-            <title>A Family Discussion Between the King and the Queen Regent, His Mother, Concerning Current Affairs, an electronic edition.</title>
+            <title>A Family Discussion Between the King and the Queen
+	    Regent, His Mother, Concerning Current Affairs, an
+	    electronic edition. Edited with an introduction by Amy Enright.</title>
             <author><name type="person" reg="Anonymous">Anonymous</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
@@ -84,7 +86,8 @@
       </revisionDesc>
    </teiHeader>
    <text>
-      <front>
+      <body>
+	<div id="fam.000" type="critical introduction">
          <div id="fam.001" n=" Introduction to A Family Discussion" type="Introduction">
             <docAuthor>Enright, Amy. </docAuthor>
             <head> Introduction to <title>A Family Discussion</title>
@@ -194,664 +197,663 @@
             </head>
             <docDate>1997</docDate>
             <note id="fam.006.in1" n="1" anchored="yes">
-               <hi rend="BOLD">1</hi> Ruth Kleinman. <title>Anne of Austria</title> (Columbus, OH, 1985), p.39.</note>
+               <hi rend="bold">1</hi> Ruth Kleinman. <title>Anne of Austria</title> (Columbus, OH, 1985), p.39.</note>
             <note id="fam.006.in2" n="2" anchored="yes">
-               <hi rend="BOLD">2</hi> Sarah Hanley. <title>The Lit de Justice of the Kings of France</title>. (Princeton, 1983), p.246.</note>
+               <hi rend="bold">2</hi> Sarah Hanley. <title>The Lit de Justice of the Kings of France</title>. (Princeton, 1983), p.246.</note>
             <note id="fam.006.in3" n="3" anchored="yes">
-               <hi rend="BOLD">3</hi> See Appendix A.</note>
+               <hi rend="bold">3</hi> See Appendix A.</note>
             <note id="fam.006.in4" n="4" anchored="yes">
-               <hi rend="BOLD">4</hi> See Appendix A.</note>
+               <hi rend="bold">4</hi> See Appendix A.</note>
             <note id="fam.006.in5" n="5" anchored="yes">
-               <hi rend="BOLD">5</hi> See Appendix A.</note>
+               <hi rend="bold">5</hi> See Appendix A.</note>
             <note id="fam.006.in6" n="6" anchored="yes">
-               <hi rend="BOLD">6</hi> Tax-farmers were wealthy men who bought the right from the monarchy to collect the taxes owed to the king in a specific region of France. The system allowed the government to raise large amounts of money quickly and resulted in huge private fortunes for the tax-farmers who generally managed to make a profit by collecting more than the amount due.</note>
+               <hi rend="bold">6</hi> Tax-farmers were wealthy men who bought the right from the monarchy to collect the taxes owed to the king in a specific region of France. The system allowed the government to raise large amounts of money quickly and resulted in huge private fortunes for the tax-farmers who generally managed to make a profit by collecting more than the amount due.</note>
             <note id="fam.006.in7" n="7" anchored="yes">
-               <hi rend="BOLD">7</hi> 
-               <hi rend="ITALIC">Lettres de Cachet</hi> were royal warrants of arrest which allowed the king to arrest and imprison an individual indefinitely, without recourse to trial.</note>
+               <hi rend="bold">7</hi> 
+               <hi rend="italic">Lettres de Cachet</hi> were royal warrants of arrest which allowed the king to arrest and imprison an individual indefinitely, without recourse to trial.</note>
             <note id="fam.006.in8" n="8" anchored="yes">
-               <hi rend="BOLD">8</hi> Hanley, p.317</note>
+               <hi rend="bold">8</hi> Hanley, p.317</note>
             <note id="fam.006.in9" n="9" anchored="yes">
-               <hi rend="BOLD">9</hi> Kleinman, p. 208.</note>
+               <hi rend="bold">9</hi> Kleinman, p. 208.</note>
             <note id="fam.006.in10" n="10" anchored="yes">
-               <hi rend="BOLD">10</hi> In late 1648, the rebellion of the Parliament against the policies and powers of the regency began to be referred to as the <hi rend="ITALIC">fronde</hi>, a term denoting the slingshot used by insubordinate street urchins.</note>
+               <hi rend="bold">10</hi> In late 1648, the rebellion of the Parliament against the policies and powers of the regency began to be referred to as the <hi rend="italic">fronde</hi>, a term denoting the slingshot used by insubordinate street urchins.</note>
             <note id="fam.006.in11" n="11" anchored="yes">
-               <hi rend="BOLD">11</hi> See Appendix A.</note>
+               <hi rend="bold">11</hi> See Appendix A.</note>
             <note id="fam.006.in12" n="12" anchored="yes">
-               <hi rend="BOLD">12</hi> See Appendix A. </note>
+               <hi rend="bold">12</hi> See Appendix A. </note>
             <note id="fam.006.in13" n="13" anchored="yes">
-               <hi rend="BOLD">13</hi> Jeffrey K. Sawyer. <title>Printed Poison: Pamphlet Propaganda, Faction politics, and the Public Sphere in Early Seventeenth Century France</title>. (Berkeley, 1990), see introduction.</note>
+               <hi rend="bold">13</hi> Jeffrey K. Sawyer. <title>Printed Poison: Pamphlet Propaganda, Faction politics, and the Public Sphere in Early Seventeenth Century France</title>. (Berkeley, 1990), see introduction.</note>
             <note id="fam.006.in14" n="14" anchored="yes">
-               <hi rend="BOLD">14</hi> Orest Ranum. <title>The Fronde: A French Revolution 1648-1652</title>. (New York, 1993), pp. 177-176.</note>
+               <hi rend="bold">14</hi> Orest Ranum. <title>The Fronde: A French Revolution 1648-1652</title>. (New York, 1993), pp. 177-176.</note>
             <note id="fam.006.in15" n="15" anchored="yes">
-               <hi rend="BOLD">15</hi> Ranum, p. 201.</note>
+               <hi rend="bold">15</hi> Ranum, p. 201.</note>
             <note id="fam.006.in16" n="16" anchored="yes">
-               <hi rend="BOLD">16</hi> Robert Darnton. <title>The Forbidden Best-Sellers of Pre-Revolutionary France</title>. (New York, 1995), p. 206 offers the statistic that ten pamphlets were produced per day in paris during January-March of 1649.</note>
+               <hi rend="bold">16</hi> Robert Darnton. <title>The Forbidden Best-Sellers of Pre-Revolutionary France</title>. (New York, 1995), p. 206 offers the statistic that ten pamphlets were produced per day in paris during January-March of 1649.</note>
             <note id="fam.006.in17" n="17" anchored="yes">
-               <hi rend="BOLD">17</hi> Jeffrey Merrick. "The Cardinal and the Queen: Sexual and Political Disorders in the Mazarinades," in <title>French historical Studies</title> vol. 18, no. 3 (Spring 1994), p. 687.</note>
+               <hi rend="bold">17</hi> Jeffrey Merrick. "The Cardinal and the Queen: Sexual and Political Disorders in the Mazarinades," in <title>French historical Studies</title> vol. 18, no. 3 (Spring 1994), p. 687.</note>
             <note id="fam.006.in18" n="18" anchored="yes">
-               <hi rend="BOLD">18</hi> Ranum, p. 202.</note>
+               <hi rend="bold">18</hi> Ranum, p. 202.</note>
             <note id="fam.006.in19" n="19" anchored="yes">
-               <hi rend="BOLD">19</hi> Merrick, p. 689.</note>
+               <hi rend="bold">19</hi> Merrick, p. 689.</note>
          </div>
-      </front>
-      <body>
+	</div>
          <div id="fam.007" n="A Family Discussion" type="Text">
             <docAuthor>[Unknown]. </docAuthor>
             <head>
                <title> A Family Discussion:  A FAMILY DISCUSSION between the King and the Queen Regent, his mother, concerning current affairs including advice from the Duke of Anjou to the King presented to her Majesty by a faithful Official of her Household at St. Germain-en-Laye on Ash Wednesday, 1649.
-<hi rend="BOLD">The King begins:</hi>  
+<hi rend="bold">The King begins:</hi>  
                </title>
             </head>
             <docDate> 1649</docDate>
             <p>Ma bonne maman, pourquoi avez vous pris la Regence puisque mon Papa l'avoit defendu &#x00E0; sa mort.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why have you taken over the Regency when my father prohibited this at the time of his death?</hi>
+               <hi rend="italic">King: My good mother, why have you taken over the Regency when my father prohibited this at the time of his death?</hi>
             </p>
             <p/>
             <p>
-               <hi rend="BOLD">The Queen answers:</hi>
+               <hi rend="bold">The Queen answers:</hi>
             </p>
             <p>Mon fils, pour estre la maitresse de toute la France sous vostre authorit&#x00E9;. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, in order to be mistress of all France, by means of your authority.</hi>
+               <hi rend="italic">Queen: My son, in order to be mistress of all France, by means of your authority.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi ne m'avez vous pas laiss&#x00E9; entre les mains de M. Ie duc de Beaufort, comme mon Papa l'avoit fait en mourant. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why haven't you left me to be governed by the Duke of Beaufort, as my father decreed on his deathbed?</hi>
+               <hi rend="italic">King: My good mother, why haven't you left me to be governed by the Duke of Beaufort, as my father decreed on his deathbed?</hi>
             </p>
             <p>
 La Reine: Mon fils, c'est que je ne l'aimois pas comme M. Ie C. Mazarin. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, because I do not love him the way I love Cardinal Mazarin.</hi>
+               <hi rend="italic">Queen: My son, because I do not love him the way I love Cardinal Mazarin.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi ne vous estes vous pas servie de M. I'Evesque de Beauvais.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why didn't you make use of the Bishop of Beauvais?</hi>
+               <hi rend="italic">King: My good mother, why didn't you make use of the Bishop of Beauvais?</hi>
                <ref target="fam.008.n1">1</ref>
             </p>
             <p>
 La Reine: Mon fils, parce qu'il est trop homme de bien, il n'auroit pas fait ce que j'avsois voulu come M. Ie C. Mazarin.</p>
             <p>
-               <hi rend="ITALIC">Queen: My son, because he is too honest; he would not have done what I wanted, like Cardinal Mazarin.</hi>
+               <hi rend="italic">Queen: My son, because he is too honest; he would not have done what I wanted, like Cardinal Mazarin.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi avez vous chass&#x00E9; M. le Duc de Vend&#x00F4;me, &#x0026; fait emprisonner M. de Beaufort.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why have you driven out the Duke of Vend&#x00F4;me and imprisoned the Duke of Beaufort?</hi> 
+               <hi rend="italic">King: My good mother, why have you driven out the Duke of Vend&#x00F4;me and imprisoned the Duke of Beaufort?</hi> 
                <ref target="fam.008.n2">2</ref>
             </p>
             <p>
 La Reine: Mon fils, parce qu'ils sont trop gens d'honneur pour suivre les conseils de M. le C. Mazarin.</p>
             <p>
-               <hi rend="ITALIC">Queen: My son, because they are too honorable to follow the counsel of CardinalMazarin.</hi>
+               <hi rend="italic">Queen: My son, because they are too honorable to follow the counsel of CardinalMazarin.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi vous servez vous plustost de M. le C. Mazarin que d'un autre?</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why do you make use of Cardinal Mazarin rather than anyone else?</hi>
+               <hi rend="italic">King: My good mother, why do you make use of Cardinal Mazarin rather than anyone else?</hi>
             </p>
             <p>
 La Reine: Mon fils, parce que je l'aime &#x0026; qu'il fait tout ce que je veux. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, because I love him and he does all that I wish</hi>
+               <hi rend="italic">Queen: My son, because I love him and he does all that I wish</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi l'avez vous laiss&#x00E9; loger dans mon Palais si pr&#x00E0;s de vous.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why have you allowed him to live in my palace so close to you?</hi>
+               <hi rend="italic">King: My good mother, why have you allowed him to live in my palace so close to you?</hi>
             </p>
             <p>
 La Reine: Mon firs, pour le voir quand je veux &#x0026; plus commod&#x00E9;ment. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, so that I may see him whenever I wish, and more conveniently.</hi>   
+               <hi rend="italic">Queen: My son, so that I may see him whenever I wish, and more conveniently.</hi>   
                <ref target="fam.008.n3">3</ref>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi lui permettez vous d'avoir des gardes qui portant des armes dans mon Palais.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why do you allow him to have guards who bear weapons inside my palace?</hi>
+               <hi rend="italic">King: My good mother, why do you allow him to have guards who bear weapons inside my palace?</hi>
             </p>
             <p>
 La Reine: Mon fils, pour la seuret&#x00E9; de sa personne sans laquelle je ne puis vivre. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, for the security of his person, without whom I could not live.</hi>
+               <hi rend="italic">Queen: My son, for the security of his person, without whom I could not live.</hi>
             </p>
             <p/>
             <p>
 Le Roi: Ma bonne maman, pourquoi a t'on chass&#x00E1; ct fait mourir tant de Presidens &#x0026; de Conseillers du Parlement de Paris. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why have you driven out and done to death so many of the Presidents and Counselors of the Parlement of Paris?</hi>
+               <hi rend="italic">King: My good mother, why have you driven out and done to death so many of the Presidents and Counselors of the Parlement of Paris?</hi>
             </p>
             <p>
 La Reine: Mon fils, parce qu'ils n'ont pas voulu obeir &#x00E0; M. le C. Mazarin. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, because they did not want to obey Cardinal Mazarin.</hi>
+               <hi rend="italic">Queen: My son, because they did not want to obey Cardinal Mazarin.</hi>
             </p>
             <p>Le Roi: Ma bonne maman, pourquoi avez vous chasse M. de Ch&#x00E2;teauneuf. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why have you driven out Monsieur de Ch&#x00E2;teauneaf?</hi> 
+               <hi rend="italic">King: My good mother, why have you driven out Monsieur de Ch&#x00E2;teauneaf?</hi> 
                <ref target="fam.008.n4">4</ref>
             </p>
             <p>
 La Reine: Mon fils, parce qu'il m'a fasch&#x00E9; &#x0026; M. le C. aussi, disant, que le Parlement me pouvoit oster la Regence. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, because he angered me, and Cardinal Mazarin too, by saying that the Parlement could take away my power as Regent.</hi>
+               <hi rend="italic">Queen: My son, because he angered me, and Cardinal Mazarin too, by saying that the Parlement could take away my power as Regent.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi a t'on fait les barricades &#x00E0; Paris, a la sortie du Te Deum de Nostre-Dame.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why did they erect barricades in Paris, at the exit of the Te Deum sung at Notre-Dame?</hi>
+               <hi rend="italic">King: My good mother, why did they erect barricades in Paris, at the exit of the Te Deum sung at Notre-Dame?</hi>
             </p>
             <p>
 La Reine: Mon fils, &#x00E0; cause que j'avois fait prendre M. le President du Blanc-Mesnil, M. de Brm'ont ils quittossel, Conseiller au Parlement de Paris prisonnier parce qu'ils sont gens de bien. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, because I had Monsieur le President du Blanc-Mesnil and Monsieur de Brossel, members of the Parlement of Paris, imprisoned due to the fact that they are honest men.</hi>
+               <hi rend="italic">Queen: My son, because I had Monsieur le President du Blanc-Mesnil and Monsieur de Brossel, members of the Parlement of Paris, imprisoned due to the fact that they are honest men.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi &#x00E0; t'on chass&#x00E9; &#x0026; mis en prison tant de bons Predicateurs.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why have they driven out and imprisoned so many of the good preachers?</hi>
+               <hi rend="italic">King: My good mother, why have they driven out and imprisoned so many of the good preachers?</hi>
             </p>
             <p>
 La Reine: Mon fils, parce qu'ils parloient trop franchement, &#x0026; ouvertement contre M. le C. Mazarin &#x0026; le gouvernement de la Estat. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, because they spoke too frankly and openly against Cardinal Mazarin and the government of the State.</hi>
+               <hi rend="italic">Queen: My son, because they spoke too frankly and openly against Cardinal Mazarin and the government of the State.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi ne pouvez vous escourer ni souffrir les gens de bien aupres de vous.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why can you neither listen to nor permit the honest people to be around you?</hi>
+               <hi rend="italic">King: My good mother, why can you neither listen to nor permit the honest people to be around you?</hi>
             </p>
             <p>
 La Reine: Mon firs, parce que M. le C. Mazarin ne veut pas que j'escoute personne quelui &#x0026; ceux qu'il me dit.</p>
             <p>
-               <hi rend="ITALIC">Queen: My son, because Cardinal Mazarin does not want me to listen to anyone except himself or those he has recommended.</hi>
+               <hi rend="italic">Queen: My son, because Cardinal Mazarin does not want me to listen to anyone except himself or those he has recommended.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi communiez vous si sousont &#x0026; aliez par toutes les Eglises de Paris &#x0026; n'aimez pas les gens de bien.</p>
             <p> 
-               <hi rend="ITALIC">King: My good mother, why do you take communion so often and visit all the churches in Paris, yet fail to cherish honest people?</hi>
+               <hi rend="italic">King: My good mother, why do you take communion so often and visit all the churches in Paris, yet fail to cherish honest people?</hi>
             </p>
             <p>
 La Reine: Mon fils, M. le C. Mazarin dit qu'il me faut faire ainsi par maxime d'Estat, afin que l'on me tienne pour devote &#x0026; bonne Reine. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, Cardinal Mazarin told me it was necessary to do these things as a maxim of Statecraft - in order that people will take me for a devout and good queen.</hi>
+               <hi rend="italic">Queen: My son, Cardinal Mazarin told me it was necessary to do these things as a maxim of Statecraft - in order that people will take me for a devout and good queen.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi souffrez vous que les femmes se mettant sur les Autels avec le Prestre qui du temps de St. Louis n'entroient pas dans le coeur, &#x0026; que la Chanceliere oste les commandements de Dieu des Heures. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why do you allow women to place themselves at the altar with the Priest when in St. Louis ' day they were not allowed to enter the choir and why do you permit the Chancelloress to remove God 's commandments from the [Book of] Hours?</hi> 
+               <hi rend="italic">King: My good mother, why do you allow women to place themselves at the altar with the Priest when in St. Louis ' day they were not allowed to enter the choir and why do you permit the Chancelloress to remove God 's commandments from the [Book of] Hours?</hi> 
                <ref target="fam.008.n5">5</ref>
             </p>
             <p>
 La Reine: Mon fils, cela estoit bon du temps de S. Louis, mais &#x00E0; present tout va &#x00E0; la mode, les femmes sont-elles pas autant que les hommes &#x0026; plus voyez si je ne sai pas ce que je veux, &#x0026; pour les Commandements de Dieu, Madame la Chanceliere dit qu'ils sont trop vieux pour elle.</p>
             <p>
-               <hi rend="ITALIC">Queen: My son, those customs were fine in the time of St. Louis, but at present everything runs according to the latest fashion, and are not women as worthy as men? And furthermore, wait and see if I don't know what I want. As for the commandments of God, the Chancelloress says that they are too old-fashioned for her taste.</hi>
+               <hi rend="italic">Queen: My son, those customs were fine in the time of St. Louis, but at present everything runs according to the latest fashion, and are not women as worthy as men? And furthermore, wait and see if I don't know what I want. As for the commandments of God, the Chancelloress says that they are too old-fashioned for her taste.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi puisque vous voulez passer pour une bonne reine ne me nourrissez vous pas comme la mere de S. Louis le nourissoit qui estoit Roi de France comme moi.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, since you would like to be considered a good queen, why don't you raise me as the mother of St. Louis raised him, who was a King of France like me?</hi> 
+               <hi rend="italic">King: My good mother, since you would like to be considered a good queen, why don't you raise me as the mother of St. Louis raised him, who was a King of France like me?</hi> 
                <ref target="fam.008.n6">6</ref>
             </p>
             <p>
 La Reine: Mon fils, la mere de S. Louis, estoit une femme sage &#x0026; vertuese qui n&#x0022;avoit pas un C. pour Conseil.</p>
             <p>
-               <hi rend="ITALIC">Queen: My son, the mother of St. Louis was a wise and virtuous women who did not have a Cardinal for a counselor.</hi>
+               <hi rend="italic">Queen: My son, the mother of St. Louis was a wise and virtuous women who did not have a Cardinal for a counselor.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, dites moi qui sont vos Conseillers afin que je les connoisse. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, tell me who your Cournselors are, so that I may know them.</hi>
+               <hi rend="italic">King: My good mother, tell me who your Cournselors are, so that I may know them.</hi>
             </p>
             <p>
 La Reine: Mon fils, c'est M. le C. Mazarin, &#x0026; tous ceuz qui font ce qu'il veut, comme tous les parens du feu C. de Richelieu. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, they are Cardinal Mazarin and all those do as he wishes - for example, all the relations of the late Cardinal Richelieu.  </hi>
+               <hi rend="italic">Queen: My son, they are Cardinal Mazarin and all those do as he wishes - for example, all the relations of the late Cardinal Richelieu.  </hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, dites moi qui sont les parens du feu C. de Richelieu, afin que je les connoisse aussi.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, tell me who the relations of the late Cardinal Richelieu are, so that I may know them also.</hi>
+               <hi rend="italic">King: My good mother, tell me who the relations of the late Cardinal Richelieu are, so that I may know them also.</hi>
             </p>
             <p>
 La Reine: Mon fils, c'est ... &#x0026; autres que vous connoistrez quand vous serez en aage. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, these are the Cardinal of Lyon, the Marshall de Brez&#x00E9;, the Duke of Richelieu, the Marshall de la Meilleraye, the Marshall de Grandmont, the Duchess of Esguillon, and others whom you will know when you are older.</hi>
+               <hi rend="italic">Queen: My son, these are the Cardinal of Lyon, the Marshall de Brez&#x00E9;, the Duke of Richelieu, the Marshall de la Meilleraye, the Marshall de Grandmont, the Duchess of Esguillon, and others whom you will know when you are older.</hi>
             </p>
             <p>
 Le Roi: Ma Bonne Maman, dites moi aussi qui sont les assidez de M. le C. Mazarin, que vous aimez tant.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, tell me also who are the henchmen of Cardinal Mazarin, whom you love so much?</hi>
+               <hi rend="italic">King: My good mother, tell me also who are the henchmen of Cardinal Mazarin, whom you love so much?</hi>
             </p>
             <p>
 La Reine: Mon fils, ce sont ... &#x0026; tous les Partisans de France. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, these are the Prince of Cond&#x00E9;, the Conte d 'Arcout, the Chancellor, the Grand Master de Guiche, the Count de Brienne, Madame de Combalet, the abb&#x00E9; de la Riviere, the abb&#x00E9; de Palleau, the abb&#x00E9; Mondin de Villquier, de Gerz&#x00E9;: the Chevalier d 'Iars, de Beringhez, the Grand Prevost, tange&#x00E9;, le Tellier, Semettre Bautru, de Roquelaure, Cantarini, de Mauroy, Tubeuf, and all the tax-farmers of France.</hi>
+               <hi rend="italic">Queen: My son, these are the Prince of Cond&#x00E9;, the Conte d 'Arcout, the Chancellor, the Grand Master de Guiche, the Count de Brienne, Madame de Combalet, the abb&#x00E9; de la Riviere, the abb&#x00E9; de Palleau, the abb&#x00E9; Mondin de Villquier, de Gerz&#x00E9;: the Chevalier d 'Iars, de Beringhez, the Grand Prevost, tange&#x00E9;, le Tellier, Semettre Bautru, de Roquelaure, Cantarini, de Mauroy, Tubeuf, and all the tax-farmers of France.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, dites moi toutes ceux-l&#x00E0; sont-ils bien affectionnez &#x00E0; mon service.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, tell me are all of them truly devoted to my service?</hi>
+               <hi rend="italic">King: My good mother, tell me are all of them truly devoted to my service?</hi>
             </p>
             <p>
-La Reine: Mon fils, oui, vous vous en pouvez assurer, car M. le C. Mazarin les a choisis, &#x0026; ce sont ceux qui les conseillent, &#x0026; qui ont tout le bien de la France. <hi rend="ITALIC">Queen: My son, yes -you can relax, for Cardinal Mazarin has chosen them and they are the ones who advise him and who have all the property in France.</hi>
+La Reine: Mon fils, oui, vous vous en pouvez assurer, car M. le C. Mazarin les a choisis, &#x0026; ce sont ceux qui les conseillent, &#x0026; qui ont tout le bien de la France. <hi rend="italic">Queen: My son, yes -you can relax, for Cardinal Mazarin has chosen them and they are the ones who advise him and who have all the property in France.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi a t'on fait tant de Comedies dans mon Palais royal a Paris avec tant de depenses.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why do they put on so many plays in my royal palace in Paris, at such exorbitant cost?</hi>
+               <hi rend="italic">King: My good mother, why do they put on so many plays in my royal palace in Paris, at such exorbitant cost?</hi>
             </p>
             <p>
 La Reine: Mon fils, &#x00E7;a est&#x00E9; M. Ie C. Mazarin, pour me contanter, &#x0026; pour faire voir que les Italiens sont meilleurs Comediens que le Fran&#x00E7;ois. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, Cardinal Mazarin does that to please me and in order to show that the Italians are better actors than the French.</hi> 
+               <hi rend="italic">Queen: My son, Cardinal Mazarin does that to please me and in order to show that the Italians are better actors than the French.</hi> 
                <ref target="fam.008.n7">7</ref>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi avez vous cass&#x00E9; les Capitaines des gardes de mon Corps.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why have you dismissed the Captains of my guard troop?</hi>
+               <hi rend="italic">King: My good mother, why have you dismissed the Captains of my guard troop?</hi>
             </p>
             <p>La Reine: Mon fils, parce qu'ils ont voulu chasser vos anciennes gardes, de leurs postes &#x00E0; la Procession, dans les Cloistres des Fueillans &#x00E0; Paris, en la presence de M. le C. Mazarin sans respect. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, because they wanted to drive out your former guards disrespectfully from their place in the Procession in the Cloisters of the Feuillants in Paris, while in the presence of Cardinal Mazarin.</hi>
+               <hi rend="italic">Queen: My son, because they wanted to drive out your former guards disrespectfully from their place in the Procession in the Cloisters of the Feuillants in Paris, while in the presence of Cardinal Mazarin.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi n'a t'on pas fait le procez du gouvemeur de Courtray &#x0026; de Landrecy, qui m'ont laiss&#x00E9; perdre deux si bonnes places, &#x0026; pourquoi a t'on mis celui de Courtray pour gouverneur dans la ville d'Ipres. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why haven't they tried the governor of Courtray and the governor of Landrecy, who lost two such excellent fortresses and why has the governor of Courtray been named to govern over the city of Ipres?</hi>
+               <hi rend="italic">King: My good mother, why haven't they tried the governor of Courtray and the governor of Landrecy, who lost two such excellent fortresses and why has the governor of Courtray been named to govern over the city of Ipres?</hi>
             </p>
             <p>
 La Reine: Mon fils, parce qu'ils ont obei &#x00E0; M. le C. Mazarin, qui fait ce qu'il lui plaist. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, because they have obeyed Cardinal Mazarin, who does whatever pleases him.</hi>
+               <hi rend="italic">Queen: My son, because they have obeyed Cardinal Mazarin, who does whatever pleases him.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi a t'on tenu si long-tamps M. le Mareschal de la Mote Hodancour prisonnier &#x00E9; Lyon. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why has the Marshall de la Mote Hodancour been held prisoner in Lyon for such a long time?</hi>
+               <hi rend="italic">King: My good mother, why has the Marshall de la Mote Hodancour been held prisoner in Lyon for such a long time?</hi>
             </p>
             <p>
 La Reine: Mon fils, parce qu'il n'a pas voulu donner la Duch&#x00E9; de Cardonne a M. le C. Mazarin pour Monsieur le C. Ste. Cecile Viceroy de Catalogne son frere. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, because he didn't want to give the duchy of Cardonne to Cardinal Mazarin for the Cardinal of Ste. Cecile, the Viceroy of Catalonia, his brother.</hi>
+               <hi rend="italic">Queen: My son, because he didn't want to give the duchy of Cardonne to Cardinal Mazarin for the Cardinal of Ste. Cecile, the Viceroy of Catalonia, his brother.</hi>
             </p>
             <p>Le Roi: Ma bonne Maman, pourquoi m'a t'on emmen&#x00E9; de Paris comme en cachette sans battre Tambour, sans gardes, chevaux legers, ni gendarmes en pleine nuit. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why was I brought from Paris secretly, without the drum being beaten; without guards, light calvary or soldiers; in the dead of night?</hi>
+               <hi rend="italic">King: My good mother, why was I brought from Paris secretly, without the drum being beaten; without guards, light calvary or soldiers; in the dead of night?</hi>
             </p>
             <p>
 Le Reine: Mon fils, pour contanter M. le C. Mazarin qui l'a voulu ainsi. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, in order to please Cardinal Mazarin who wished it thus.  </hi>
+               <hi rend="italic">Queen: My son, in order to please Cardinal Mazarin who wished it thus.  </hi>
             </p>
             <p/>
             <p>Le Roi: Ma bonne maman, pourquoi est-ce que les Messieurs du Parlement de Paris, sont venus tant de fois &#x00E0; S. Germain en Laye. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why did the members of the Parliament of Paris come to St.- Germain-en-Laye so many times?</hi>
+               <hi rend="italic">King: My good mother, why did the members of the Parliament of Paris come to St.- Germain-en-Laye so many times?</hi>
             </p>
             <p>
 La Reine:Mon fils, pour y faire une Declaration, &#x0026; pour leur faire voir l'authorit&#x00E9; de M. Ie C. Mazarin.</p>
             <p>
-               <hi rend="ITALIC">Queen: My son, in order to make a Declaration there, and also in order that they might witness the authority of Cardinal Mazarin.</hi>
+               <hi rend="italic">Queen: My son, in order to make a Declaration there, and also in order that they might witness the authority of Cardinal Mazarin.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi n'execute t'on pas cette Declaration, puis qu'elle a donne tant de peine &#x00E0; faire. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why doesn't anyone implement the Declaration since it was created with such effort?</hi>
+               <hi rend="italic">King: My good mother, why doesn't anyone implement the Declaration since it was created with such effort?</hi>
             </p>
             <p>
 La Reine: Mon fils, nous ne l'avons faite que pour tromper les messieurs du Parlement de Paris, &#x0026; pour les amuser.</p>
             <p>
-               <hi rend="ITALIC">Queen: My son, we only drew it up to deceive the members of the parlement of Paris and to delay them.</hi>
+               <hi rend="italic">Queen: My son, we only drew it up to deceive the members of the parlement of Paris and to delay them.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi m'a t'on done remen&#x00E9; &#x00E0; Paris. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why then was I brought back to Paris?</hi>
+               <hi rend="italic">King: My good mother, why then was I brought back to Paris?</hi>
             </p>
             <p>
 La Reine: Mon fils, pour prendre mieux nostre temps afin de tromper tout le monde &#x0026; pour y recevoir 15 millions de livres. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, in order that we might better take our time to deceive everyone and in order to receive, in Paris, fifteen million livres.</hi>
+               <hi rend="italic">Queen: My son, in order that we might better take our time to deceive everyone and in order to receive, in Paris, fifteen million livres.</hi>
             </p>
             <p>Le Roi: Ma bonne maman, pourquoi a t'on receu c&#x00E9;t argent, &#x0026; qu'en a t'on fait, puisque ma table a manqu&#x00E9; deux jours. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why did you receive money and what have you done with it, for my table has gone without for two days?</hi>
+               <hi rend="italic">King: My good mother, why did you receive money and what have you done with it, for my table has gone without for two days?</hi>
             </p>
             <p>
 La Reine: Mon fils, on l'a baill&#x00E9; &#x00E0; M. de la Meilleraye, &#x0026; &#x00E0; Madame de Combalet en deposts sous pretexte de press, qu'ils vous ont fait, &#x0026; pour le manque de vostre table, c'est pour faire croire au peuple que c'est la faute des Messieurs du Parlement de Paris. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, I deposited it with Monsieur de la Meilleraye and Madame de Combalet, on the pretext of a loan which they made to you; and as for the shortages at your table, that helps to convince the people that the Parlement of Paris is at fault.</hi>
+               <hi rend="italic">Queen: My son, I deposited it with Monsieur de la Meilleraye and Madame de Combalet, on the pretext of a loan which they made to you; and as for the shortages at your table, that helps to convince the people that the Parlement of Paris is at fault.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi ne fait-on point la paix. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why don't they ever make peace?  </hi>
+               <hi rend="italic">King: My good mother, why don't they ever make peace?  </hi>
             </p>
             <p>
 LaReine: Mon firs, c'est que M. le C. ne le trouve pas &#x00E0; propos. Car il dit qu'il ne seroit plus respect&#x00E9; ni honore comme il est. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, this is because Cardinal Mazarin does not consider it prudent; because he thinks that he would not be respected or honored as he is now [if the war were to end].</hi>
+               <hi rend="italic">Queen: My son, this is because Cardinal Mazarin does not consider it prudent; because he thinks that he would not be respected or honored as he is now [if the war were to end].</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi mon cousin le Duc de Longueville n'a il pas sign&#x00E9; la paix, puisque l'on l'avoit envoy&#x00E9; pour cela. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why is it that my cousin, the Duke of Longueville did not sign the peace treaty, since it was sent to him for that?</hi>
+               <hi rend="italic">King: My good mother, why is it that my cousin, the Duke of Longueville did not sign the peace treaty, since it was sent to him for that?</hi>
             </p>
             <p>
 La Reine: Mon fils, &#x00E7;'a est&#x00E9; M. le C. qui l'a fait empescher par M. Servien, afin de pouvoir faire mieux nos affaires, &#x0026; de pouvoir marier ses niepces plus hautement. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, it was Cardinal Mazarin who hindered him, through Mr. Servien in order to further our affairs and in order to marry his nieces more advantageously.</hi> 
+               <hi rend="italic">Queen: My son, it was Cardinal Mazarin who hindered him, through Mr. Servien in order to further our affairs and in order to marry his nieces more advantageously.</hi> 
                <ref target="fam.008.n8">8</ref>
             </p>
             <p>
 Le Roi: Ma bonne maman, dites moi qui est M. le C. puis qu'il fait ce qu'il lui plaist de mon Royaume.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, tell me who is this Cardinal Mazarin who does as he pleases with my kingdom?</hi>
+               <hi rend="italic">King: My good mother, tell me who is this Cardinal Mazarin who does as he pleases with my kingdom?</hi>
             </p>
             <p>
 La Reine: Mon fils, c'est vostre gouverneur le premier Ministre de vostre estat, est-ce pas assez pour faire de vostre Royaume ce qu'il lui plaist. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, he is your governor, the first Minister of your State: is that not reason enough to do as he pleases with your kingdom?</hi>
+               <hi rend="italic">Queen: My son, he is your governor, the first Minister of your State: is that not reason enough to do as he pleases with your kingdom?</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman pourquoi vous fiez vous tant a lui, puis qu'il a tromp&#x00E9; le Pape, abus&#x00E9; L'Empereur, &#x0026; trahy le Roy d'Espagne vostre frere </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why do you trust him so much, since he has deceived the Pope, abused the Emperor and betrayed the king of Spain, your brother?</hi>
+               <hi rend="italic">King: My good mother, why do you trust him so much, since he has deceived the Pope, abused the Emperor and betrayed the king of Spain, your brother?</hi>
             </p>
             <p>
 La Reine: Mon fils, c'est un tesmoignage de son bon espirit, mais ne vous en mettez pas en peine, car M. le Prince de Cond&#x00E9; m'en a respondu. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, it is a testimony to his character, but don't upset yourself because the Prince de Cond&#x00E9; has guaranteed it.</hi> 
+               <hi rend="italic">Queen: My son, it is a testimony to his character, but don't upset yourself because the Prince de Cond&#x00E9; has guaranteed it.</hi> 
                <ref target="fam.008.n9">9</ref>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi m'a t'on fait lever si matin pour menmener de Paris le jour des Rois.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why did they wake me so early in the morning to take me out of Paris on Twelfth night?</hi>
+               <hi rend="italic">King: My good mother, why did they wake me so early in the morning to take me out of Paris on Twelfth night?</hi>
             </p>
             <p>
 La Reine: Mon fils, pour surprendre tout le monde, &#x0026; pour affamer la ville de Paris </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, in order to catch everyone unawares and to starve the city of Paris. </hi>
+               <hi rend="italic">Queen: My son, in order to catch everyone unawares and to starve the city of Paris. </hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, dites moi que vous a t'on fait &#x00E0; Paris. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, tell me what they did to offend you in Paris.</hi>
+               <hi rend="italic">King: My good mother, tell me what they did to offend you in Paris.</hi>
             </p>
             <p>La Reine: Mon fils, c'est que messieurs du Parlement ne veulent plus souffrir que M. le C., avec les Partisans, pille d'avantage vostre peuple. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, it is the members of Parlement who no longer wish to allow Cardinal Mazarin and the tax-farmers to pillage your people.</hi>
+               <hi rend="italic">Queen: My son, it is the members of Parlement who no longer wish to allow Cardinal Mazarin and the tax-farmers to pillage your people.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, qu'est-ce que des Partisans &#x0026; &#x00E0; quoi sont ils loons. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, who are these tax-farmers and what are they good for?</hi>
+               <hi rend="italic">King: My good mother, who are these tax-farmers and what are they good for?</hi>
             </p>
             <p>
-La Reine: Mon fils, se sont des personnes d'honneur de <hi rend="ITALIC">[illegible] </hi>le C. Mazarin ce sert pour attirer tout le bien de la France, avec les Intendans de Justice. </p>
+La Reine: Mon fils, se sont des personnes d'honneur de <hi rend="italic">[illegible] </hi>le C. Mazarin ce sert pour attirer tout le bien de la France, avec les Intendans de Justice. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, these are honorable men whom Cardinal Mazarin uses to gather up all the wealth of France - along with the Intendants of Justice.</hi>
+               <hi rend="italic">Queen: My son, these are honorable men whom Cardinal Mazarin uses to gather up all the wealth of France - along with the Intendants of Justice.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, &#x00E0; quoi sersont les Intendans de Justice dans les Provinces? </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, what is the purpose of the Intendants of Justice in the Provinces?</hi>
+               <hi rend="italic">King: My good mother, what is the purpose of the Intendants of Justice in the Provinces?</hi>
             </p>
             <p>La Reine: Mon fils, pour sous vostre authorit&#x00E9; &#x0026; le voile de Justice, firer tout l'argent de vostre Royaume.</p>
             <p>
-               <hi rend="ITALIC">Queen: My son, they are to siphon off all of the money from your kingdom, acting under your authority and that of the veil of Justice.</hi>
+               <hi rend="italic">Queen: My son, they are to siphon off all of the money from your kingdom, acting under your authority and that of the veil of Justice.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi avez vous ost&#x00E9; M. le President de Bailleul de la charge de Sur-Intendant pour y mettre M. d'Esmery. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why have you removed Monsieur le President de Bailleul from the post of Sur-Intendent and given it to Monsieur d 'Emery?</hi> 
+               <hi rend="italic">King: My good mother, why have you removed Monsieur le President de Bailleul from the post of Sur-Intendent and given it to Monsieur d 'Emery?</hi> 
                <ref target="fam.008.n10">10</ref>
             </p>
             <p>
 La Reine: Mon fils, parce que M. le President de Bailleul est trop considerant, il falloit un homme comme M. d'emery &#x00E0; M. le C. Mazarin, qui n'eust ni ame, ni foi, afin de faire tout ce qu'il voudroit. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, because Monsieur le President de Bailleul is too considerable; the position needs a man like Monsieur d 'Emery, who belongs to Cardinal Mazarin: a man who has neither soul nor faith so that he may do whatever he wants.</hi>
+               <hi rend="italic">Queen: My son, because Monsieur le President de Bailleul is too considerable; the position needs a man like Monsieur d 'Emery, who belongs to Cardinal Mazarin: a man who has neither soul nor faith so that he may do whatever he wants.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi avez vous donc chass&#x00E9; M. d'Emery puisqu' il faisoit tout ce que M. le C. vouloit. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why then have you driven Monsieur d 'Emery away, since he did everything that Cardinal Mazarin wanted?</hi>
+               <hi rend="italic">King: My good mother, why then have you driven Monsieur d 'Emery away, since he did everything that Cardinal Mazarin wanted?</hi>
             </p>
             <p>
 La Reine: Mon fils, c'est qu'il avoit assez vole &#x0026; m. le C. ne vouloit pas que l'on lescevst.</p>
             <p>
-               <hi rend="ITALIC">Queen: My son, because he had stolen enough and Cardinal Mazarin didn't want anyone to know about it.</hi>
+               <hi rend="italic">Queen: My son, because he had stolen enough and Cardinal Mazarin didn't want anyone to know about it.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi fait-on tant la guerre en Italie, cela est-il necessaire. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why does France fight in Italy so much - is it necessary?</hi>
+               <hi rend="italic">King: My good mother, why does France fight in Italy so much - is it necessary?</hi>
             </p>
             <p>
 La Reine: Mon fils, cela se fait par maxime d'Estat pour contanter M. Ie C. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, that is done for Reasons of Statecraft to please Cardinal Mazarin.</hi>
+               <hi rend="italic">Queen: My son, that is done for Reasons of Statecraft to please Cardinal Mazarin.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi avez vous choisi M. le Grand Maistre pour le faire Sur-Intendant, n'est il pas assez riche. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why have you chosen Monsieur le Grand Master as the Sur-Indentant - isn't he rich enough already?</hi>
+               <hi rend="italic">King: My good mother, why have you chosen Monsieur le Grand Master as the Sur-Indentant - isn't he rich enough already?</hi>
             </p>
             <p>
 La Reine: Mon fils, c'est un homme comme il nous faut, il est des parens de M. le C. de Richelieu, il ne payera personne, il est fort &#x0026; vaillant, voyez combien il en tua aux barricades de Paris.</p>
             <p>
-               <hi rend="ITALIC">Queen: My son, he is the man we need - he is a relation of Cardinal Richelieu; he will pay no one; he is strong and brave - look how many he killed on the barricades of Paris!</hi>
+               <hi rend="italic">Queen: My son, he is the man we need - he is a relation of Cardinal Richelieu; he will pay no one; he is strong and brave - look how many he killed on the barricades of Paris!</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, qu'avez vous fait de 500. millions que vous avez receus, depuis que mon Papa est mort.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, what have you done with the five hundred million livres that you received since the time of my father 's death?</hi>
+               <hi rend="italic">King: My good mother, what have you done with the five hundred million livres that you received since the time of my father 's death?</hi>
             </p>
             <p>
 La Reine: Mon fils, ils ont este distribuez par l'ordre de M. le C, qui les a mis &#x00E0; couvert. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, they have been distributed according to the orders of Cardinal Mazarin, who has hidden them.</hi>
+               <hi rend="italic">Queen: My son, they have been distributed according to the orders of Cardinal Mazarin, who has hidden them.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi puisque vous avez receu tant d'argent, n'a t'on pas paye les gages de mes Officiers &#x0026; de mes soldats depuis trois ans. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why, since you have received so much money, have you not paid the wages of my officials and my soldiers for three years?</hi>
+               <hi rend="italic">King: My good mother, why, since you have received so much money, have you not paid the wages of my officials and my soldiers for three years?</hi>
             </p>
             <p>
 La Reine: Mon fils, M. le Cardinal Mazarin garde tout pour nostre necessit&#x00E9; &#x0026; pour marier ses niepces comme a fait M. le Cardinal de Richelieu. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, Cardinal Mazarin keeps everything for his own needs and in order to marry off his nieces, just like Cardinal Richelieu.  </hi>
+               <hi rend="italic">Queen: My son, Cardinal Mazarin keeps everything for his own needs and in order to marry off his nieces, just like Cardinal Richelieu.  </hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, dites moi donc de queue naissance est M. le Cardinal pour marier ses niepces &#x00E0; des Princes du sang de France. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, tell me, then, of what birthright is Cardinal Mazarin that he can marry his nieces into the highest rank of French nobility?</hi>
+               <hi rend="italic">King: My good mother, tell me, then, of what birthright is Cardinal Mazarin that he can marry his nieces into the highest rank of French nobility?</hi>
             </p>
             <p>
-La Reine: Mon fils, vous m'importunez, car je s&#x00E7;ay bien que M. le C. est fils d'un banqueroutier de Rome a <hi rend="ITALIC">[illegible] </hi>&#x00E9; laquai, postillon de Courier, grand joueur &#x0026; pipeur, mais tout cela n'empsche pas que je ne l'aime, &#x0026; qu'il ne marie ses niepces a qu'il voudra; ayant tout le bien de la France, &#x0026; mon amitie. </p>
+La Reine: Mon fils, vous m'importunez, car je s&#x00E7;ay bien que M. le C. est fils d'un banqueroutier de Rome a <hi rend="italic">[illegible] </hi>&#x00E9; laquai, postillon de Courier, grand joueur &#x0026; pipeur, mais tout cela n'empsche pas que je ne l'aime, &#x0026; qu'il ne marie ses niepces a qu'il voudra; ayant tout le bien de la France, &#x0026; mon amitie. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, you vex me, for I know well that Cardinal Mazarin is the son of a Roman who went bankrupt: a lackey, the coachman of a mail carrier, a great gambler and a piper, but all that will not stop me from loving him and he will marry his nieces only to whom he wishes, for he has all the wealth of France and my friendship behind him.</hi>
+               <hi rend="italic">Queen: My son, you vex me, for I know well that Cardinal Mazarin is the son of a Roman who went bankrupt: a lackey, the coachman of a mail carrier, a great gambler and a piper, but all that will not stop me from loving him and he will marry his nieces only to whom he wishes, for he has all the wealth of France and my friendship behind him.</hi>
                <ref target="fam.008.n11">11</ref>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi n'avez vous pas voulu parler &#x00E0; mon Advocat, &#x0026; mon procureur general du Parlement de Paris quand ils sont venus ici. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, why didn't you want to talk to my chief prosecutors of the Parlement of Paris when they came here?</hi> 
+               <hi rend="italic">King: My good mother, why didn't you want to talk to my chief prosecutors of the Parlement of Paris when they came here?</hi> 
                <ref target="fam.008.n12">12</ref>
             </p>
             <p>
 La Reine: Mon fils, &#x00E7;'a est&#x00E9; M. le C. &#x0026; M. le Prince de Cond&#x00E9;, qui m'ont dit que puis qu'il falloit affamer la ville de Pari, il ne leur falloit pas parler. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, it was Cardinal Mazarin and the Prince of Cond&#x00E9; who told me that since it is necessary to starve the city of Paris, we should not talk with them.</hi>
+               <hi rend="italic">Queen: My son, it was Cardinal Mazarin and the Prince of Cond&#x00E9; who told me that since it is necessary to starve the city of Paris, we should not talk with them.</hi>
             </p>
             <p>Le Reine: Ma bonne maman, dites moi puisque vous voulez affamer ma bonne ville de Paris que deviendront tant de bons Religieux &#x0026; Religieuses qui ne visont que d'aumosnes, les petite enfants &#x00E0; la mamelle, les pauvres dans les hospitauz, &#x0026; par la ville, &#x0026; tant de gens de bien qui sont dans Paris. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, tell me, since you want to starve my good city of Paris, what will become of so many of the good monks and nuns who live only on alms, the little babies at the breast, the poor in the hospitals and about the city and so many of the respectable people who are in Paris?</hi>
+               <hi rend="italic">King: My good mother, tell me, since you want to starve my good city of Paris, what will become of so many of the good monks and nuns who live only on alms, the little babies at the breast, the poor in the hospitals and about the city and so many of the respectable people who are in Paris?</hi>
             </p>
             <p>La Reine: Mon fils, ne vous en mettez pas en peine, car vous ne scavez pas o&#x00FA; peut aller la passion d'une femme Reine Regente quand on heurte ses volentez. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, don't distress yourself for you don't know how far the passion of a female ruler can go when someone thwarts her will.</hi>
+               <hi rend="italic">Queen: My son, don't distress yourself for you don't know how far the passion of a female ruler can go when someone thwarts her will.</hi>
             </p>
             <p>Le Roi: Ma bonne maman, vous ne vous souciez done guere de mon Royaume. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, then you hardly care about my kingdom.</hi>
+               <hi rend="italic">King: My good mother, then you hardly care about my kingdom.</hi>
             </p>
             <p>La Reine: Mon fils, quand vous serez en &#x00E2;ge vous y adviserez, car pour moi je veux vivre &#x0026; mourir avec M. le C.</p>
             <p>
-               <hi rend="ITALIC">Queen: My son, when you are older you will see to it, for l want only to live and die with Cardinal Mazarin.</hi>
+               <hi rend="italic">Queen: My son, when you are older you will see to it, for l want only to live and die with Cardinal Mazarin.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, vous me serez passer pour un Roi Herode, faisant mourir tant d'Innocens.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, you make me look like King Herod, causing the deaths of so many innocents!</hi> 
+               <hi rend="italic">King: My good mother, you make me look like King Herod, causing the deaths of so many innocents!</hi> 
                <ref target="fam.008.n13">13</ref>
             </p>
             <p>
 La Reine: Mon fils, ce ne sera pas vous, c'est mod, qu'&#x00E0; Dieu ne plaise que je voulusse faire tuer les Innocens, comme le Roi Herode: non, non, je me contanterai de les faire mourir de faim &#x0026; seicher, attachez aux tetons de leurs meres. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, that image will not be yours. It 's mine; God forbid that I should have the innocents killed like King Herod! No, no, I will be satisfied to make them die of hunger and thirst, still clasped to their mothers' breasts.</hi>
+               <hi rend="italic">Queen: My son, that image will not be yours. It 's mine; God forbid that I should have the innocents killed like King Herod! No, no, I will be satisfied to make them die of hunger and thirst, still clasped to their mothers' breasts.</hi>
             </p>
             <p/>
             <p>
 Le Roi: Ma bonne maman, le Roi David remercioit Dieu, dequoi assuiettissoit son peuple sous lui, que dirai-je moi puisque vous faites mourir le mien. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, King David thanked God, for that which subjected his people to him, what will l say since you are killing mine?</hi> 
+               <hi rend="italic">King: My good mother, King David thanked God, for that which subjected his people to him, what will l say since you are killing mine?</hi> 
                <ref target="fam.008.n14">14</ref>
             </p>
             <p>
 La Reine: Mon fils, c'est dequoi je ne me soucie pas, puis qu'il ne veut pas obeir a M. le C. Mazarin, qui en viendra pourtant bien &#x00E0; bout. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, I do not bother about these things, because they [the people] don't want to obey Cardinal Mazarin, who will nevertheless overcome in the end.</hi>
+               <hi rend="italic">Queen: My son, I do not bother about these things, because they [the people] don't want to obey Cardinal Mazarin, who will nevertheless overcome in the end.</hi>
             </p>
             <p>Le Roi: Ma bonne mama, vous ne me parlez point de M. d'Orleans mon Oncle. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, you hardly ever speak of my uncle, the Duc of Orleans.</hi>
+               <hi rend="italic">King: My good mother, you hardly ever speak of my uncle, the Duc of Orleans.</hi>
             </p>
             <p>La Reine: Mon fils, M. d'Orleans est &#x00E0; nous pour de l'argent, l 'abb&#x00E9; de la Riviere lui fait faire tout ce qu'il plaist &#x00E0; M. le C. Mazarin. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, the Duke of Orleans is with us for the money; the Abbot de la Riviere makes him do whatever pleases Cardinal Mazarin.</hi>
+               <hi rend="italic">Queen: My son, the Duke of Orleans is with us for the money; the Abbot de la Riviere makes him do whatever pleases Cardinal Mazarin.</hi>
             </p>
             <p>Le Roi: Ma bonne maman, dites moi pourquoi M. le Prince de Conti &#x0026; M. le Duc de Longueville &#x0026; autre grands Seigneurs de mon Royaume m'ont ils quitt&#x00E9; pour aller &#x00E0; Paris. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, tell me why the Prince of Conti and the Duke of Longueville and the other great lords of my kingdom have abandoned me and gone to Paris? </hi>
+               <hi rend="italic">King: My good mother, tell me why the Prince of Conti and the Duke of Longueville and the other great lords of my kingdom have abandoned me and gone to Paris? </hi>
             </p>
             <p>
 La Reine: Mon fils, c'est qu'ils sont bons Fran&#x00E7;ois &#x0026; qu'ils ne sont pas pensionaires de M. le C. Mazarin, ni alliez du. C. de Richelieu. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, this is because they are good Frenchmen and because they are not in Cardinal Mazarin 's pocket and were not in Cardinal Richelieu 's.</hi>
+               <hi rend="italic">Queen: My son, this is because they are good Frenchmen and because they are not in Cardinal Mazarin 's pocket and were not in Cardinal Richelieu 's.</hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, dites moi pourquoi leve t'on tant de gens de guerre &#x00E0; Paris, est-ce que pour mon service.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, tell me why they are levying so many soldiers- is it to serve me?</hi>
+               <hi rend="italic">King: My good mother, tell me why they are levying so many soldiers- is it to serve me?</hi>
             </p>
             <p>
 La Reine: Mon fils, non, c'est pour m'empescher d'affamer Paris &#x0026; pour Messieurs du Parliament, que j'ai en grande aversion. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, it is to hinder the starvation of Paris and to defend the Parlement of Paris, for which I have a great dislike.</hi>
+               <hi rend="italic">Queen: My son, it is to hinder the starvation of Paris and to defend the Parlement of Paris, for which I have a great dislike.</hi>
             </p>
             <p>Le Roi: Ma bonne maman, si ces messieurs du Parlement sont les plus forts, que deviendrai-je.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, if the members of Parlement are stronger than our forces, what will become of me?</hi>
+               <hi rend="italic">King: My good mother, if the members of Parlement are stronger than our forces, what will become of me?</hi>
             </p>
             <p>La Reine: Mon fils, c'est dequoi je ne me soucie guere, parce que M. le C. Mazarin &#x0026; M. le Prince de Cond&#x00E9; m'ont promis de les perdre tous. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, I hardly ever worry about that, for Cardinal Mazarin and the Prince of Cond&#x00E9; have promised me that Parlement will lose everything</hi>
+               <hi rend="italic">Queen: My son, I hardly ever worry about that, for Cardinal Mazarin and the Prince of Cond&#x00E9; have promised me that Parlement will lose everything</hi>
             </p>
             <p>Le Roi: Ma bonne maman, dites moi quand ils auront tout perdu, le Parlement &#x0026; mes peuples, de qui serai-je Roi. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, tell me, when Parlement and my people have lost everything, of whom shall I be king?</hi>
+               <hi rend="italic">King: My good mother, tell me, when Parlement and my people have lost everything, of whom shall I be king?</hi>
             </p>
             <p>La Reine: Mon fils, je ne songe pas &#x00E0; cela, ni de qui vous serez Roi, pourveu que je sois vengee.</p>
             <p>
-               <hi rend="ITALIC">Queen: My son, I don't think of that eventuality nor of whom you will rule, provided that I have my revenge.</hi>
+               <hi rend="italic">Queen: My son, I don't think of that eventuality nor of whom you will rule, provided that I have my revenge.</hi>
             </p>
             <p>Le Roi: Ma bonne maman, dites moi de qui vous voulez vous venger? qu'estce que l'on vous a fait.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, tell me against whom do you revenge yourself? What has been done to you?</hi>
+               <hi rend="italic">King: My good mother, tell me against whom do you revenge yourself? What has been done to you?</hi>
             </p>
             <p>La Reine: Mon fils, je veux faire pendre les messieurs du Parlement de Paris, &#x0026; apres je viendrai bien &#x00E0; bout devos peuples &#x0026; des autres parlemens. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, I want to hang the members of the Parlement of Paris and then, I would like to triumph over your peoples and the other parlements </hi>
+               <hi rend="italic">Queen: My son, I want to hang the members of the Parlement of Paris and then, I would like to triumph over your peoples and the other parlements </hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, dites moi que vous ont fait les messieurs du Parlement. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, tell me what the members of Parliament have done to you.</hi>
+               <hi rend="italic">King: My good mother, tell me what the members of Parliament have done to you.</hi>
             </p>
             <p>La Reine: Mon fils, ne m'importunez pas davantage, n'est-ce pas assez que je suis Reine Regente &#x0026; M. le C. mon conseil pour faire tout ce qu'il me plaist. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, don't vex me anymore, isn't it enough that I am Queen Regent and Cardinal Mazarin is my counselor so that I may do as I please?</hi>
+               <hi rend="italic">Queen: My son, don't vex me anymore, isn't it enough that I am Queen Regent and Cardinal Mazarin is my counselor so that I may do as I please?</hi>
             </p>
             <p>Le Roi: Ma bonne maman, le Roi Henri IIII mon aieul disoit qu'il estoit un grand Roi &#x00E0; cause que son peuple estoit riche &#x0026; moi que dirai-je puisque vous ruinez le mien. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, King Henry IV, my ancestor, said that he was a great king because his people were prosperous. What will I say since you are ruining mine? </hi>
+               <hi rend="italic">King: My good mother, King Henry IV, my ancestor, said that he was a great king because his people were prosperous. What will I say since you are ruining mine? </hi>
                <ref target="fam.008.n15">15</ref>
             </p>
             <p>La Reine: Mon fils, le Roi Henri IIII estoit un homme qui n'avoit pas de savory comme mod, a qui je fads du bien.</p>
             <p>
-               <hi rend="ITALIC">Queen: My son, King Henry IV was a man who did not have a charming [counselor] like me, to whom I do good.</hi>
+               <hi rend="italic">Queen: My son, King Henry IV was a man who did not have a charming [counselor] like me, to whom I do good.</hi>
             </p>
             <p>Le Roi: Ma bonne maman, dites moi ce que je serai quand je n'y aura plus de Parlement, qui rendra justice.</p>
             <p>
-               <hi rend="ITALIC">King: My good mother, tell me what I will be when there is no longer a Parlement to render justice?</hi>
+               <hi rend="italic">King: My good mother, tell me what I will be when there is no longer a Parlement to render justice?</hi>
             </p>
             <p>La Reine: Mon fils, nous avons M. le Chancelier, qui est le chef de la Justice &#x0026; M. le Grand Prevost, qui seront la justice comme nous voudrons. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, we have Monsieur le Chancellor, who is the chief judiciary officer and the Grand Provost, who will render justice as we wish</hi>
+               <hi rend="italic">Queen: My son, we have Monsieur le Chancellor, who is the chief judiciary officer and the Grand Provost, who will render justice as we wish</hi>
             </p>
             <p>Le Roi: Ma bonne maman, je voi bien tout de bon que vous ne vous souciez guere de moi &#x0026; de ma couronne, chacun dit que messieurs du Parlement sont bien sages. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, I see very well that you scarcely bother about me and my crown; everyone says that the members of Parlement are very wise [to oppose you].</hi>
+               <hi rend="italic">King: My good mother, I see very well that you scarcely bother about me and my crown; everyone says that the members of Parlement are very wise [to oppose you].</hi>
             </p>
             <p>La Reine: Mon fils, tout au contraire, c'est pour asseurer vostre Couronne, tout ce que je fais: car M. le C. Mazarin &#x0026; M. le Prince de Cond&#x00E9;, me l'ont assur&#x00E9;, nous avons au Parlement des pensionaires par lesquels nous scarons tout ce qui s'y fait. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, that is not the case. In fact, I do all that I do in order to ensure the strength of your Crown, for Cardinal Mazarin and the Prince of Cond&#x00E9;' have assured me that we have in Parlement some clients from whom we will know of all that they do there.  </hi>
+               <hi rend="italic">Queen: My son, that is not the case. In fact, I do all that I do in order to ensure the strength of your Crown, for Cardinal Mazarin and the Prince of Cond&#x00E9;' have assured me that we have in Parlement some clients from whom we will know of all that they do there.  </hi>
             </p>
             <p>
 Le Roi: Ma bonne maman, pourquoi avez vous chanter le Te Deum &#x00E0; St. Germain, pour la prise de Charenton, estoit- il pas &#x00E0; moi. </p>
             <p/>
             <p>
-               <hi rend="ITALIC">King: My good mother why did you sing the Te Deum at St. Germain for the taking of Charenton, was it not mine [my city]? </hi>
+               <hi rend="italic">King: My good mother why did you sing the Te Deum at St. Germain for the taking of Charenton, was it not mine [my city]? </hi>
                <ref target="fam.008.n16">16</ref>
             </p>
             <p>
 La Reine: Mon fils, &#x00E7;'a este M. le Prince de Cond&#x00E9;, qui m'a dit que la prise estoit de grande importance pour affamer Paris, dont j'ai bien enuie. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, it was the Prince of Cond&#x00E9;, who told me that the conquest was of vital importance for the starvation of Paris,which greatly bores me.</hi>
+               <hi rend="italic">Queen: My son, it was the Prince of Cond&#x00E9;, who told me that the conquest was of vital importance for the starvation of Paris,which greatly bores me.</hi>
             </p>
             <p>Le Roi: Ma bonne maman, quand tout le peuple de Paris sera mort de faim, je perdrai beaucoup de millions que l'on me paye d'entr&#x00E9;e &#x0026; de subside pour ce qui y entre. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, when all the people of Paris have died of hunger, I shall lose many millions of livres that they pay me in tariffs and subsidies on goods that enter the city.</hi>
+               <hi rend="italic">King: My good mother, when all the people of Paris have died of hunger, I shall lose many millions of livres that they pay me in tariffs and subsidies on goods that enter the city.</hi>
             </p>
             <p/>
             <p>La Reine: Mon fils, M. le C. Mazarin a assez dequoi se faire Pape, il nous remettra dans le Royaume de Navarre, que le Pape vous a fait perdre, qui vaut mieux que Paris, &#x0026; nous en irons &#x00E0; Pampelune, le Roi d'Espagne le voudra bien. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, Cardinal Mazarin has all that he needs to make himself Pope and he will give us back the Kingdom of Navarre (which the Pope made you lose) which is worth more than Paris and we will go to Pamplona. The King of Spain would like that very much </hi>
+               <hi rend="italic">Queen: My son, Cardinal Mazarin has all that he needs to make himself Pope and he will give us back the Kingdom of Navarre (which the Pope made you lose) which is worth more than Paris and we will go to Pamplona. The King of Spain would like that very much </hi>
                <ref target="fam.008.n17">17</ref>
             </p>
             <p>Le Roi: Ma bonne maman, j'aimerois bien mieux Paris, que le Royaume de Navarre, mais M. de Beaumont mon Precepteur, dit qu'il faut que je veuille tout ce que vous voulez. </p>
             <p>
-               <hi rend="ITALIC">King: My good mother, I would very much prefer Paris to the Kingdom of Navarre but the Duke of Beaumont, my tutor, said that I must want whatever you want.</hi>
+               <hi rend="italic">King: My good mother, I would very much prefer Paris to the Kingdom of Navarre but the Duke of Beaumont, my tutor, said that I must want whatever you want.</hi>
             </p>
             <p>La Reine: Mon fils, c'est bien fait, Dieu vous benira, finissons, &#x0026; allons au Conseil. </p>
             <p>
-               <hi rend="ITALIC">Queen: My son, that is well done, God will bless you. Let's stop and go to Council.  </hi>
+               <hi rend="italic">Queen: My son, that is well done, God will bless you. Let's stop and go to Council.  </hi>
             </p>
             <p>
-               <hi rend="BOLD">Advis au Roi, par M. le Duc d'Anjou son frere unique.</hi>
-               <hi rend="ITALIC">Advice to the king from the Duke of Anjou, his only brother</hi>Mon petit papa, je vous conseille de vous en retourner dans vostre lit de justice au Parlement, parce que je voi bien que tout s'en va perdu, ma bonne maman n'est pas bien conseill&#x00E9;e, &#x0026; mon Oncle le Duc d'Orleans ne s'en soucie pas pourveu qu'il ait de l'argent, quand a M. le Prince de Cond&#x00E9;, il me ressemble, il est encore bien jeune, M. le Chancelier bien interess&#x00E9; &#x0026; M. le grand Maistre bien hay, laissons m. le C. Mazarin ici, avec tous ceux de sa cabale, &#x0026; nous en allons &#x00E0; paris, je vous asseure mon petit papa, que nous serons crier par toute la France, vive le Roi, vive le Roi, vive le Roi</p>
+               <hi rend="bold">Advis au Roi, par M. le Duc d'Anjou son frere unique.</hi>
+               <hi rend="italic">Advice to the king from the Duke of Anjou, his only brother</hi>Mon petit papa, je vous conseille de vous en retourner dans vostre lit de justice au Parlement, parce que je voi bien que tout s'en va perdu, ma bonne maman n'est pas bien conseill&#x00E9;e, &#x0026; mon Oncle le Duc d'Orleans ne s'en soucie pas pourveu qu'il ait de l'argent, quand a M. le Prince de Cond&#x00E9;, il me ressemble, il est encore bien jeune, M. le Chancelier bien interess&#x00E9; &#x0026; M. le grand Maistre bien hay, laissons m. le C. Mazarin ici, avec tous ceux de sa cabale, &#x0026; nous en allons &#x00E0; paris, je vous asseure mon petit papa, que nous serons crier par toute la France, vive le Roi, vive le Roi, vive le Roi</p>
             <p>
-               <hi rend="ITALIC">My little father, I counsel you to return to your 'lit de justice' in parliament, for I see clearly that all will be lost. My good mother is not well advised: my uncle, the Duke of Orleans doesn't bother about anything -- provided he has money; the Prince of Cond&#x00E9;, it seems to me, is still too young; the Chancellor is too self-interested; and the Grand Master too much hated. Let us leave Cardinal Mazarin here, along with those of his faction, and go to Parts. I assure you, my little father, that they will shout, all over France, for us: Long live the King, Long live the King, Long live the King!</hi>
+               <hi rend="italic">My little father, I counsel you to return to your 'lit de justice' in parliament, for I see clearly that all will be lost. My good mother is not well advised: my uncle, the Duke of Orleans doesn't bother about anything -- provided he has money; the Prince of Cond&#x00E9;, it seems to me, is still too young; the Chancellor is too self-interested; and the Grand Master too much hated. Let us leave Cardinal Mazarin here, along with those of his faction, and go to Parts. I assure you, my little father, that they will shout, all over France, for us: Long live the King, Long live the King, Long live the King!</hi>
             </p>
             <p>
-               <hi rend="BOLD">FIN</hi>
+               <hi rend="bold">FIN</hi>
             </p>
          </div>
          <div id="fam.008" n="Text Notes for A Family Discussion " type="notes">
@@ -859,39 +861,39 @@ La Reine: Mon fils, &#x00E7;'a este M. le Prince de Cond&#x00E9;, qui m'a dit qu
             <head> Text Notes for <title>A Family Discussion</title>
             </head>
             <note id="fam.008.n1" n="1" type="ED" place="END" anchored="yes">
-               <hi rend="BOLD">1</hi> Augustin de Potier, the bishop of Beauvais had been Anne's grand almoner since 1624. He was associated with the &#x0022;devout&#x0022; faction at court, who advocated peace between Catholic France and Catholic Spain. Beauvais deplored the policies and administrative precedents set up by Cardinal Richelieu. In 1643, as a member of the <hi rend="ITALIC">Importants</hi> faction, he called for a return to government as it had existed before Richelieu took office and hoped to serve Anne as prime minister.</note>
+               <hi rend="bold">1</hi> Augustin de Potier, the bishop of Beauvais had been Anne's grand almoner since 1624. He was associated with the &#x0022;devout&#x0022; faction at court, who advocated peace between Catholic France and Catholic Spain. Beauvais deplored the policies and administrative precedents set up by Cardinal Richelieu. In 1643, as a member of the <hi rend="italic">Importants</hi> faction, he called for a return to government as it had existed before Richelieu took office and hoped to serve Anne as prime minister.</note>
             <note id="fam.008.n2" n="2" anchored="yes">
-               <hi rend="BOLD">2</hi> The power struggle between the <hi rend="ITALIC">Importants</hi> and Mazarin climaxed with a failed attempt on Mazarin's life and the arrest of the Duke of Beaufort in Anne's own salon in the Louvre on September 2, 1643. Other members of the faction hurriedly emigrated or went into hiding on the estates of the Duke de Vendome, Beaufort's father.</note>
+               <hi rend="bold">2</hi> The power struggle between the <hi rend="italic">Importants</hi> and Mazarin climaxed with a failed attempt on Mazarin's life and the arrest of the Duke of Beaufort in Anne's own salon in the Louvre on September 2, 1643. Other members of the faction hurriedly emigrated or went into hiding on the estates of the Duke de Vendome, Beaufort's father.</note>
             <note id="fam.008.n3" n="3" anchored="yes">
-               <hi rend="BOLD">3</hi> In October of 1643, Anne moved her household from the Louvre, which was perpetually under construction, to Richelieu's Palace, re-named the Palais-Royal. Months later, Mazarin joined the royal family there. Though Anne's rooms were in the right wing of the palace and his were in the left, nearer to the king, Mazarin's addition to the household was considered scandalous.</note>
+               <hi rend="bold">3</hi> In October of 1643, Anne moved her household from the Louvre, which was perpetually under construction, to Richelieu's Palace, re-named the Palais-Royal. Months later, Mazarin joined the royal family there. Though Anne's rooms were in the right wing of the palace and his were in the left, nearer to the king, Mazarin's addition to the household was considered scandalous.</note>
             <note id="fam.008.n4" n="4" anchored="yes">
-               <hi rend="BOLD">4</hi> Charles de L'aube-spine, Marquis de Chate&#x00E2;uneuf, had been keeper of the seals under Louis XIII, but was relieved of his duties after plotting against Cardinal Richelieu Chate&#x00E2;uneuf's hopes for restored favor were dashed by the failure of the <hi rend="ITALIC">Importants</hi> to control the regency in 1643. Thereafter, he worked against Anne and Mazarin's leadership. Mazarin held him, along with the Duke of Beaubort, responsible for encouraging the parlementary stand against new taxes in 1647 and eventually exiled him in September of 1648.</note>
+               <hi rend="bold">4</hi> Charles de L'aube-spine, Marquis de Chate&#x00E2;uneuf, had been keeper of the seals under Louis XIII, but was relieved of his duties after plotting against Cardinal Richelieu Chate&#x00E2;uneuf's hopes for restored favor were dashed by the failure of the <hi rend="italic">Importants</hi> to control the regency in 1643. Thereafter, he worked against Anne and Mazarin's leadership. Mazarin held him, along with the Duke of Beaubort, responsible for encouraging the parlementary stand against new taxes in 1647 and eventually exiled him in September of 1648.</note>
             <note id="fam.008.n5" n="5" anchored="yes">
-               <hi rend="BOLD">5</hi> Religious innovations involving women and mention of <hi rend="ITALIC">la Chanceliere</hi> suggest a reference to the 'Ladies of Charity,' a community of Catholic laywomen dedicated to good works which was founded in 1633 by reformer Vincent de Paul and Louise de Marillac, a niece of former Chancellor Marillac. The criticisms raised by the author -- that women were becoming increasingly prominent in the church and that they were making innovations in worship and devotional routines -- are characteristic of those leveled at the Ladies of Charity, who endured a precarious position in Catholic society as a non-cloistered group of religious women. The author's reference to the removal of The Book of Hours may be an objection to the secular status of these women, who served God by caring for people rather than by observing the daily ritual of prayers contained in The Book of Hours.</note>
+               <hi rend="bold">5</hi> Religious innovations involving women and mention of <hi rend="italic">la Chanceliere</hi> suggest a reference to the 'Ladies of Charity,' a community of Catholic laywomen dedicated to good works which was founded in 1633 by reformer Vincent de Paul and Louise de Marillac, a niece of former Chancellor Marillac. The criticisms raised by the author -- that women were becoming increasingly prominent in the church and that they were making innovations in worship and devotional routines -- are characteristic of those leveled at the Ladies of Charity, who endured a precarious position in Catholic society as a non-cloistered group of religious women. The author's reference to the removal of The Book of Hours may be an objection to the secular status of these women, who served God by caring for people rather than by observing the daily ritual of prayers contained in The Book of Hours.</note>
             <note id="fam.008.n6" n="6" anchored="yes">
-               <hi rend="BOLD">6</hi> St. Louis of France, born in 1214, reigned from 1226-1270. His reign, which included successful military campaigns in Palestine and Egypt, administrative reform, and the construction of the Sainte-Chapelle in Paris, began with the regency of Louis' mother, Blanche of Castile,who reportedly maintained her position as counselor well into the 1240's. Louis' unification of Christendom in the face of Muslim advances into Palestine resulted in his canonization by the Catholic Church. He was later held up as the ideal of Christian kingship.</note>
+               <hi rend="bold">6</hi> St. Louis of France, born in 1214, reigned from 1226-1270. His reign, which included successful military campaigns in Palestine and Egypt, administrative reform, and the construction of the Sainte-Chapelle in Paris, began with the regency of Louis' mother, Blanche of Castile,who reportedly maintained her position as counselor well into the 1240's. Louis' unification of Christendom in the face of Muslim advances into Palestine resulted in his canonization by the Catholic Church. He was later held up as the ideal of Christian kingship.</note>
             <note id="fam.008.n7" n="7" anchored="yes">
-               <hi rend="BOLD">7</hi> Anne greatly enjoyed the theater and appreciated Mazarin's recruitment of Italian talent, which included Rossi's <hi rend="ITALIC">Orpheus</hi>, the first opera brought to the French stage.</note>
+               <hi rend="bold">7</hi> Anne greatly enjoyed the theater and appreciated Mazarin's recruitment of Italian talent, which included Rossi's <hi rend="italic">Orpheus</hi>, the first opera brought to the French stage.</note>
             <note id="fam.008.n8" n="8" anchored="yes">
-               <hi rend="BOLD">8</hi> The Duke of Longueville, the brother-in-law of Cond&#x00E9; and Conti, had been sent to Munster to negotiate an end to the war with Spain. Parlementary opinion held that his failure to do so was the result of Mazarin's scheming.</note>
+               <hi rend="bold">8</hi> The Duke of Longueville, the brother-in-law of Cond&#x00E9; and Conti, had been sent to Munster to negotiate an end to the war with Spain. Parlementary opinion held that his failure to do so was the result of Mazarin's scheming.</note>
             <note id="fam.008.n9" n="9" anchored="yes">
-               <hi rend="BOLD">9</hi> This idiom refers to Cond&#x00E9;'s approval of Mazarin. Possibly, the intention of the author was to call attention to the impropriety of an alliance between any prince of the royal family and the base-born Mazarin. (That this alliance was responsible for the successful blockade of Paris was a point that would not have been lost on the contemporary audience.)</note>
+               <hi rend="bold">9</hi> This idiom refers to Cond&#x00E9;'s approval of Mazarin. Possibly, the intention of the author was to call attention to the impropriety of an alliance between any prince of the royal family and the base-born Mazarin. (That this alliance was responsible for the successful blockade of Paris was a point that would not have been lost on the contemporary audience.)</note>
             <note id="fam.008.n10" n="10" anchored="yes">
-               <hi rend="BOLD">10</hi> Particelli d'Emery had been an <hi rend="ITALIC">intendant des finances</hi> under Louis Xlll and was promoted to the office of <hi rend="ITALIC">surintendant</hi> in 1647. Given the formidable task of raising the funds to support state and army, d'Emery used any means possible to increase taxes and cut parlementary salaries. This policy and the fact that he, himself, grew rich from taxfarming made d'Emery the target of universal hatred, second only to Mazarin. In July of 1648, in the struggle between the Crown and the Parlement of Paris, d'Emery was dismissed by the Queen Regent. He was succeeded by Marshall de La Meilleraie, the Grand Master and a military commander who was involved in the fighting of the August 'Barricade Days.'</note>
+               <hi rend="bold">10</hi> Particelli d'Emery had been an <hi rend="italic">intendant des finances</hi> under Louis Xlll and was promoted to the office of <hi rend="italic">surintendant</hi> in 1647. Given the formidable task of raising the funds to support state and army, d'Emery used any means possible to increase taxes and cut parlementary salaries. This policy and the fact that he, himself, grew rich from taxfarming made d'Emery the target of universal hatred, second only to Mazarin. In July of 1648, in the struggle between the Crown and the Parlement of Paris, d'Emery was dismissed by the Queen Regent. He was succeeded by Marshall de La Meilleraie, the Grand Master and a military commander who was involved in the fighting of the August 'Barricade Days.'</note>
             <note id="fam.008.n11" n="11" anchored="yes">
-               <hi rend="BOLD">11</hi> Obscene biographies of Mazarin filled the pages of many Mazarinades. His father's low birth was a frequent target for invective.</note>
+               <hi rend="bold">11</hi> Obscene biographies of Mazarin filled the pages of many Mazarinades. His father's low birth was a frequent target for invective.</note>
             <note id="fam.008.n12" n="12" anchored="yes">
-               <hi rend="BOLD">12</hi> 'Here' refers to St. Germain.</note>
+               <hi rend="bold">12</hi> 'Here' refers to St. Germain.</note>
             <note id="fam.008.n13" n="13" anchored="yes">
-               <hi rend="BOLD">13</hi> Herod was the ruler of Judea, a territory in Roman Palestine, at the time of the birth of Jesus Christ. The New Testament scriptures report that, upon hearing that the true 'King of the Jews' was newly-born, Herod ordered the systematic murder of all male children under two years of age in Jerusalem. Jesus' family fled to Egypt to avoid persecution.</note>
+               <hi rend="bold">13</hi> Herod was the ruler of Judea, a territory in Roman Palestine, at the time of the birth of Jesus Christ. The New Testament scriptures report that, upon hearing that the true 'King of the Jews' was newly-born, Herod ordered the systematic murder of all male children under two years of age in Jerusalem. Jesus' family fled to Egypt to avoid persecution.</note>
             <note id="fam.008.n14" n="14" anchored="yes">
-               <hi rend="BOLD">14</hi> The Old Testament scriptures describe the career of King David, who was appointed to rule by God. He unified the scattered tribes of Israel under his dominion.</note>
+               <hi rend="bold">14</hi> The Old Testament scriptures describe the career of King David, who was appointed to rule by God. He unified the scattered tribes of Israel under his dominion.</note>
             <note id="fam.008.n15" n="15" anchored="yes">
-               <hi rend="BOLD">15</hi> Henry IV, Louis XIV's grandfather, was celebrated for promising &#x0022;a chicken in the pot of every peasant for Sunday dinner.&#x0022;</note>
+               <hi rend="bold">15</hi> Henry IV, Louis XIV's grandfather, was celebrated for promising &#x0022;a chicken in the pot of every peasant for Sunday dinner.&#x0022;</note>
             <note id="fam.008.n16" n="16" anchored="yes">
-               <hi rend="BOLD">16</hi> The author points out the irony of civil war, wherein a Thanksgiving mass is offered for the taking of French property.</note>
+               <hi rend="bold">16</hi> The author points out the irony of civil war, wherein a Thanksgiving mass is offered for the taking of French property.</note>
             <note id="fam.008.n17" n="17" anchored="yes">
-               <hi rend="BOLD">17</hi> Pamplona is a city in Northern Spain which is very close to the border of the Southwestern French territory of Navarre.</note>
+               <hi rend="bold">17</hi> Pamplona is a city in Northern Spain which is very close to the border of the Southwestern French territory of Navarre.</note>
          </div>
       </body>
       <back>
