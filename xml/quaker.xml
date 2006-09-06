@@ -1,9 +1,14 @@
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
-         <titleStmt n="  The Oppression of Prophecy: Quaker Women in   Late Seventeenth Century Yorkshire:  Writings by Judith Boulbie  and Mary Waite [a machine readable transcription].  Edited by Amy Enright.">
+         <titleStmt n="The Oppression of Prophecy: Quaker Women in
+		       Late Seventeenth Century Yorkshire:  Writings
+		       by Judith Boulbie  and Mary Waite [a machine
+		       readable transcription].  Edited with an
+		       introduction by Amy Enright.">
             <title>The Oppression of Prophecy: Quaker Women in Late Seventeenth Century Yorkshire:  Writings by Judith Boulbie
-and Mary Waite [a machine readable transcription].  Edited by Amy Enright.</title>
+and Mary Waite [a machine readable transcription].  Edited with an
+		       introduction by Amy Enright.</title>
             <author><name type="person" reg="Boulbie, Judith and Waite, Mary">Judith Boulbie and Mary Waite</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
@@ -82,7 +87,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
       </revisionDesc>
    </teiHeader>
    <text>
-      <front>
+      <body>
+	<div id="quaker.000" type="critical introduction">
          <div id="quaker.001" n=" Introduction to A Testimony for Truth against all Hireling-Priests and Deceivers . . . .   1655;  A Warning to all Friends who Professeth the Everlasting Truth . . . .  " type="Introduction">
             <docAuthor>Enright, Amy. </docAuthor>
             <head> Introduction to <title>A Testimony for Truth against all Hireling-Priests and Deceivers . . . .  
@@ -709,8 +715,8 @@ Line 72: pretious...precious<lb/>Line 108: faln...fallen<lb/>Line 157: pretious.
                   <hi rend="bold">98</hi>  Smith, (volume 1) p. 307.</note>
             </p>
          </div>
-      </front>
-      <body>
+	</div>
+
          <div id="quaker.003" n=" A Testimony for Truth AGAINST  ALL Hireling-Priests and Deceivers: With a Cry to the Inhabitants of this Nation, to turn to the Lord, before his dread-ful Judgements overtake them. Also a Testimony against all Observers of Times and Dayes." type="Text">
             <docAuthor>Boulbie, Judith. </docAuthor>
             <head>

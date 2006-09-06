@@ -2,7 +2,8 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>The Gentlewomans Companion, an electronic edition.</title>
+            <title>The Gentlewomans Companion, an electronic
+	    edition. Edited with an introduction by Katherine Ellison.</title>
             <author><name type="person" reg="Anonymous">Anonymous</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
@@ -82,7 +83,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
       </revisionDesc>
    </teiHeader>
    <text>
-      <front>
+      <body>
+	<div id="gc-complete.000" type="critical introduction">
          <div id="gc-complete.001" n="Introduction to The Gentlewomans Companion" type="Introduction">
             <docAuthor>Ellison, Katherine</docAuthor>
             <head>Introduction to <title>The Gentlewomans Companion</title>
@@ -319,8 +321,7 @@ The next four sections, all concerned with the physical presentation of gentlewo
                </p>
             </div>
          </div>
-      </front>
-      <body>
+	</div>
          <div id="gc-complete.008" n="The Gentlewomans Companion" type="Book">
             <docAuthor>[Unknown]</docAuthor>
             <head>The Gentlewomans Companion</head>

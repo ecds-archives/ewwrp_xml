@@ -73,7 +73,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
       </revisionDesc>
    </teiHeader>
    <text>
-      <front>
+      <body>
+	<div id="clinton.000" type="critical introduction">
          <div id="clinton.001" n="The Countess of Lincolnes Nurserie: A Critical Edition" type="Book">
             <head>
                <title>The Countess of Lincolnes Nurserie</title>: A Critical Edition</head>
@@ -610,8 +611,8 @@ The author, James Wolveridge, like most other writers with Puritan leanings--inc
                </p>
             </div>
          </div>
-      </front>
-      <body>
+	</div>
+
          <div id="clinton.011" n="The Countesse of Lincolnes Nurserie" type="Book">
             <head>The Countesse of Lincolnes Nurserie</head>
             <docAuthor>Clinton, Elizabeth Knevet</docAuthor>
