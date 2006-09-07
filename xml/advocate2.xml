@@ -130,7 +130,7 @@ JULY, 1869....DECEMBER, 1869.</hi>
 1869</hi>
                   </docImprint>
                </titlePage>
-               <div1 id="wa2.102" n="Contents" type="contents">
+               <div id="wa2.102" n="Contents" type="contents">
                   <head>CONTENTS:</head>
                   <p>
                      <table rows="50" cols="3">
@@ -392,15 +392,15 @@ JULY, 1869....DECEMBER, 1869.</hi>
                         </row>
                      </table>
                   </p>
-               </div1>
+               </div>
             </front>
             <body>
-               <div1 id="wa2.103" n="THE WOMAN'S ADVOCATE" type="volume">
+               <div id="wa2.103" n="THE WOMAN'S ADVOCATE" type="volume">
                   <head>THE WOMAN'S ADVOCATE</head>
-                  <div2 id="wa2.104" n="VOL. II" type="issue">
+                  <div id="wa2.104" n="VOL. II" type="issue">
                      <docDate>NO. I JULY, 1869.</docDate>
                      <head>VOL. II</head>
-                     <div3 id="wa2.105" n="Are We Worse Than Our Grandmothers?" type="essay">
+                     <div id="wa2.105" n="Are We Worse Than Our Grandmothers?" type="essay">
                         <head>ARE WE WORSE THAN OUR GRANDMOTHERS?</head>
                         <docAuthor>ISABELLA B. HOOKER</docAuthor>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
@@ -431,8 +431,8 @@ toward moral purity than can be hoped for from the patient labor of many years. 
 ceive the mischief or not; but it is a reason why there should be no indiscriminate denunciation of mothers and daughters who have sometimes attended them, and why they should be persuaded to avoid them in future on the ground of leading others into sin, rather than because their own personal purity has suffered even unconsciously thereby. One must resent a little such implications, and the tendency of human nature, even when somewhat sanctified, is to persevere in a course conscientiously begun, when the argument for a change is an imputation upon one's own modesty and womanly delicacy.</p>
                         <p>The summing up of this matter then, to my mind, is this: Mothers should discriminate carefully as to the dramatic representations, if any, that they and their daughters shall attend; but they should insist that the same rule be applied to fathers and sons; for, in the present condition of the world, women are in far less danger of contamination than men, and the demoralization of the latter is no less harmful to society than that of the former. We are all bound together in the same social life--we stand and fall together--contamination knows no sex--it is the sins of the fathers that are visited upon the children of the third and fourth generation no less than those of the mothers, and he who rejoices in a virtuous wife in whose honor he can securely trust, must see to it that he transmit a virtuous inheritance to both sons and daughters.</p>
                         <byline>ISABELLA B. HOOKER.</byline>
-                     </div3>
-                     <div3 id="wa2.106" n="My Sphere" type="poem">
+                     </div>
+                     <div id="wa2.106" n="My Sphere" type="poem">
                         <docAuthor>Faith Rochester</docAuthor>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
                         <head>MY SPHERE.</head>
@@ -467,8 +467,8 @@ ceive the mischief or not; but it is a reason why there should be no indiscrimin
                            <l>Of love for all the race.</l>
                         </lg>
                         <byline>FAITH ROCHESTER </byline>
-                     </div3>
-                     <div3 id="wa2.107" n="Old Maids" type="story">
+                     </div>
+                     <div id="wa2.107" n="Old Maids" type="story">
                         <head>OLD MAIDS.</head>
                         <docAuthor>Frances Dana Gage</docAuthor>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
@@ -551,9 +551,9 @@ to ask, and she never refused to give, or to go. 'It's but little good, she used
                         <p>"Isabel, you are too rude."</p>
                         <p>"I know it, Aunt. Now let me kiss that half frown from your brow, and I will be good and tell you just what I do think about old maids. I do not believe they are any more particular or fastidious than other people naturally, but having no families nor little engrossing cares like married ladies, they are expected, nay required, to be scrupulously neat and nice. Wives who have no children grow into the same habits. The maiden ladies of my acquaintance (and I know many) are with few exceptions women far above the common lot; their situation in life, free from the cares and duties that must necessarily confine a wife and mother, gives them better opportunities for education and investigation. They seem to have looked more deeply into life and its duties; and they stand before the world calm, dignified and noble--a living rebuke to the thoughtless folly that speaks with sneering of their independent life; and not from me, Aunt Hannah, will the cold, supercilious, misjudging world ever hear a serious sneer upon any one who sees fit to move on through all her years untrammelled by any cares, doing as it seemeth good unto herself all the days of her life.</p>
                         <byline>FRANCES DANA GAGE.</byline>
-                     </div3>
+                     </div>
                      <pb n="22 The Woman's Advocate."/>
-                     <div3 id="wa2.108" n="Breakers" type="story">
+                     <div id="wa2.108" n="Breakers" type="story">
                         <head>BREAKERS!</head>
                         <head>[THIRD PAPER].</head>
                         <epigraph>
@@ -592,9 +592,9 @@ secure the respect of medical men. I sometimes hear individuals talk as if male 
                         <p>When I first entered the pulpit, I was told that I was not a Radical, because I discoursed on Scripture themes and Biblical Interpretation. I was expected to touch Temperance, Anti-Slavery and Woman's Rights;--everything in short except what it was my special object to say. But it seemed to me my first duty to wake the religious nature; my next, to make myself so acceptable in the pulpit, that the propriety of my being there, would never be questioned. Then those who thought my Woman's Rights opinions "short madness," would be willing to listen to them in the Lyceum. This experiment has worked well. I advise others to try it.</p>
                         <p>I cannot see why conventions should not be called in a simple way, to discuss these subjects, Without any advertisements of distinguished names. Let the distinguished people come if they choose, let their possible presence be hinted at, but failures like those at Springfield do the cause great harm, and in the present state of public they are less readily forgiven in women than in men.</p>
                         <byline>CAROLINE H. DALL.</byline>
-                     </div3>
+                     </div>
                      <pb n="27 Lost!"/>
-                     <div3 id="wa2.109" n="Lost!" type="story">
+                     <div id="wa2.109" n="Lost!" type="story">
                         <head>LOST!</head>
                         <docAuthor>Wm. P. Tomlinson</docAuthor>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
@@ -633,8 +633,8 @@ God bless' dear mother, my innocent sister, and all who have been good to me. An
                         <p>"For their sakes God forgive," was wailed out on the night air, and she leaped.</p>
                         <p>All unseen by human eye, the waters closed above that form; another human tragedy was enacted; the boat sped on its way; life went on the same, but she, known to her companions in vice as "Lena Rivers," was seen no more on earth.</p>
                         <byline>WM. P. TOMLINSON.</byline>
-                     </div3>
-                     <div3 id="wa2.110" n="The Mother's Blessing" type="poem">
+                     </div>
+                     <div id="wa2.110" n="The Mother's Blessing" type="poem">
                         <docAuthor>Frances E. W. Harper</docAuthor>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
                         <head>THE MOTHER'S BLESSING.</head>
@@ -688,8 +688,8 @@ God bless' dear mother, my innocent sister, and all who have been good to me. An
                            <l>Spotless, pure and undefiled.</l>
                         </lg>
                         <byline>FRANCES E. W. HARPER.</byline>
-                     </div3>
-                     <div3 id="wa2.111" n="Modern Wars and Warriors." type="essay">
+                     </div>
+                     <div id="wa2.111" n="Modern Wars and Warriors." type="essay">
                         <head>MODERN WARS AND WARRIORS.</head>
                         <docAuthor>Robert W. Hume</docAuthor>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
@@ -706,8 +706,8 @@ inhabitants of the nation or nations interested in the affrays, but the combatan
 <pb n="34 The Woman's Advocate."/>
 to hope for the Blessing. Well will it be for Mankind, when the charity of woman is called upon to guide and temper the sterner and grosser decrees and enjoyments of her helpmate; when, imitating the order instituted in the Temple of Solomon, we place the Seat of Mercy above the Ark of Justice. After such amendments we may hopefully look forward for the speedy arrival of that period of peace decreed in the sacred writings, for which we are commanded to pray, when the desires of mankind shall be merged in and consistent with the will of the Ruler of the Universe.</p>
                         <byline>ROBERT W. HUME.</byline>
-                     </div3>
-                     <div3 id="wa2.112" n="The Fifteenth Amendment" type="essay">
+                     </div>
+                     <div id="wa2.112" n="The Fifteenth Amendment" type="essay">
                         <head>THE FIFTEENTH AMENDMENT</head>
                         <docAuthor>Wendell Phillips</docAuthor>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
@@ -745,8 +745,8 @@ higher. There have been several different tests excluding men from voting in thi
 well intentioned in woman. Just as the lager beer infatuation of the German Republicans out West moves the Republican Temperance men there to accept woman's rights in order to correct that bias in the party so the negro vote will operate in this case. Once carry this reform in half-a-dozen Northern States, and the negro looks so much to us for his example that his vote will be sure to follow ours. If the North once accepts our principles, the time will come when Woman will find her best friend in the Negro, as the Union did. You may be sure he will keep step to the music of any improvement his trusted North initiates. </p>
                         <p>Let ignorance then believe that the only way to improve the world is to do everything at once--"I shall never get to the top of the hill by single steps; the only way is to wait till I can leap the whole way at one bound." Let selfishness cry-"He sball not have his rights till I get mine." The true reformer will say, "Let every class have its rights the very moment the world is ready to recognize them. Thus and thus only will every other class get one step nearer to the recognition of its own. 'First the blade, then the ear, after that the full corn in the ear.'"</p>
                         <byline>WENDELL PHILLIPS.</byline>
-                     </div3>
-                     <div3 id="wa2.113" n="The Fifteenth Versus the Sixteenth Amendment." type="essay">
+                     </div>
+                     <div id="wa2.113" n="The Fifteenth Versus the Sixteenth Amendment." type="essay">
                         <head>THE FIFTEENTH VERSUS THE SIXTEENTH AMENDMENT.</head>
                         <docAuthor>L.B.C.</docAuthor>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
@@ -769,8 +769,8 @@ late, and the judgment upon this one has been written so plainly upon the wall f
 <pb n="42 The Woman's Advocate."/>
 thrown out upon our coasts from Asia's swarming lands? Remember O'Connell, who, when twenty-seven votes were offered him for unhappy Ireland if he would be silent on the slave question, answered, "Gentlemen, God knows that I have the most hapless constituency upon which the sun ever set, but may my right hand forget its cunning and my tongue cleave to the roof of my mouth before, to help Ireland, I keep silent on the Negro question."</p>
                         <byline>L. B. C.</byline>
-                     </div3>
-                     <div3 id="wa2.114" n="Woman in Tunis" type="essay">
+                     </div>
+                     <div id="wa2.114" n="Woman in Tunis" type="essay">
                         <head>WOMAN IN TUNIS.</head>
                         <docAuthor>R.J.H.</docAuthor>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
@@ -779,14 +779,14 @@ thrown out upon our coasts from Asia's swarming lands? Remember O'Connell, who, 
                         <p>That is pretty fair for a Mahommedan country, where women are almost wholly regarded as being without souls. There may be traceable in this some remnant of the Carthagenian or even older civilization which existed in North Africa, many centuries since, and the traces of which are not entirely departed.</p>
                         <p>It appears also that in Tunis there are a number of women to whom popular opinion accords celestial beatitudes, and to whose memory distinguished honors are paid. It is strange that some of our Positivist friends have not called attention thereto, deifying Humanity in the form of woman as they do. There are some of the sex who at Tunis are objects of public veneration on account of their chaste and pure lives. "This homage," Mr. Perry remarks, rendered to abstinence from sensual pleasures, in countries so corrupt, is very remarkable, in showing the * * triumph of the will over passion, and of the spirit over matter."</p>
                         <byline>R. J. H.</byline>
-                     </div3>
+                     </div>
                      <pb n="43 Editorial Department."/>
-                     <div3 id="wa2.115" n="Editorial Department" type="editorials">
+                     <div id="wa2.115" n="Editorial Department" type="editorials">
                         <head>
                            <hi rend="gothic">Editorial Department.</hi>
                         </head>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
-                        <div4 id="wa2.116" n="The Need of a National Organization" type="editorial">
+                        <div id="wa2.116" n="The Need of a National Organization" type="editorial">
                            <docDate>Vol. II, No. 1, July 1869</docDate>
                            <head>THE NEED OF A NATIONAL ORGANIZATION.</head>
                            <p>AT the recent very successful meeting of the New England Woman's Suffrage Association--a synopsis of the proceedings of which we present elsewhere--a Resolution was adopted authorizing its Executive Committee to consult with the friends of the Cause throughout the country for the purpose of forming a Woman's National Suffrage Association.</p>
@@ -796,8 +796,8 @@ the good of the Cause at heart, will seriously question. As indispensable to the
 <pb n="44 The Woman's Advocate."/>
 would invite the cooperation of the age, must breathe the spirit of the age. In demanding a withheld right, it must be careful it deny no right, even to the most hapless or degraded of God's children. In this Reform, pregnant beyond all others in consequences for good or evil, appealing, for the justice of its claim, to the highest sentiments in human nature, there should be the north-star of a principle which all eyes may behold. The standard bearing, free and broad, upon its folds, "UNIVERSAL SUFFRAGE," should never be lowered by one selfish or unworthy consideration. Marching on to triumphant success, its adherents, the pure, the wise, and the noble of the land, should have the proud consciousness that not one fold of that spotless banner has been tarnished by an unworthy act, but that, every victory over hoary wrong and prejudice has been won by the power of Truth, and must endure.</p>
                            <p>Friends of Woman Suffrage! there must be a National Organization. Present unity, future prosperity, the honor of the Cause, alike demand it. No time should be lost. Let the New England Association, through its Executive Committee, issue a Call for a Delegate Convention to assemble, at some central point, at an early date. Let every existing organization unite in the combined movement. Let all parts of the country, and all diversities of opinion, be duly represented. Carry zeal, philanthropy and wisdom into council; let there be a generous emulation of devotion for principle and the results cannot but be conducive to the best interests of humanity.</p>
-                        </div4>
-                        <div4 id="wa2.117" n="The Cause in Massachusetts." type="editorial">
+                        </div>
+                        <div id="wa2.117" n="The Cause in Massachusetts." type="editorial">
                            <head>THE CAUSE IN MASSACHUSETTS.</head>
                            <docDate>Vol. II, No. 1, July 1869</docDate>
                            <p>NOTWITHSTANDING the recent action of the Massachusetts Senate in deciding by a more than two-third vote not to strike out the word "male" from the Constitution of that State as a qualification for voting, we see great cause for hopefulness in surveying the field and reflecting upon what has actually been accomplished.</p>
@@ -805,9 +805,9 @@ would invite the cooperation of the age, must breathe the spirit of the age. In 
 <pb n="45 Editorial Department."/>
 throughout the Commonwealth, a victory has been won which cannot be too highly estimated, And which affords an excellent vantage ground for future efforts. Over-sanguine friends of the Cause may have felt disappointed at the smallness of the vote, but we beg such to remember that a <hi rend="italic">one-third vote</hi> in the Senate of Massachusetts, which represents such diverse elements in population, has a significance beyond a similar vote in any one of the younger States of the West, and that it really indicates a marked revolution of opinion among the masses of that Commonwealth. As confirmation of this, we are assured by one having rare opportunities for knowing, that could the Report have been introduced into the House, ONE HUNDRED votes would have been recorded in its favor, and a verdict for Woman Suffrage have gone forth which would have rendered its enactment into law a necessity not to be delayed.</p>
                            <p>Honor to the Committee who have honored themselves by their noble Report! Honor to the NINE who have risen to the height of clearest statesmanship, sustaining such needed legislation! Honor to the men and women of Massachusetts who have labored so earnestly to secure impartial suffrage and rebaptise their State in its historic fame! So much of the work completed, we are confident the task remaining will find warm hearts and ready hands for the brief period required for its final accomplishment.</p>
-                        </div4>
-                     </div3>
-                     <div3 id="wa2.118" n="Notes." type="notes">
+                        </div>
+                     </div>
+                     <div id="wa2.118" n="Notes." type="notes">
                         <head>NOTES.</head>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
@@ -834,8 +834,8 @@ which will act definitely upon all the varied interests of society. Among the sp
 judge how deserved is the compliment paid the Woman's Typographical Union of this city.</p>
                         <p>The widow Van Cott, who is just now the topic of talk in Ulster and Dutchess Counties, and who is the only woman preacher that has been regularly Licensed in this region by the Methodist Church, is reported to be a person possessing very superior power as a preacher, and that her efforts have been attended with the best results. In person Mrs. Van Cott is considerably above the middle height, and very stout, weighing over 200 pounds. She dresses plainly, in black; her manners in private are quiet and unassuming, revealing little of the power latent in her. Her countenance, when at rest, is heavy, but in the excitement of oratory her kindling eye exercises a magnetic influence over her audience. Like most revivalists she is more declamatory than argumentative, appealing more to the passions than the reason. Her articulation is distinct and easily heard in any part of the church (we lad almost said village), and her style being varied does not fatigue the hearer. At times she amuses the fancy with familiar talk, filled with flowery imagery, fixing the attention and winning the confidence of her hearers, till rising with her theme she rushes on with the excitement of inspiration, breaking down the fortifications of the ungodly and carrying their works by storm. She is not an educated woman in the strict sense, and her influence as a consequence is chiefly felt among her own class. She is gifted with a very remarkable flow of language, her gestures are graceful, and her general style would give rise to the remark that she must have derived her ideas of public speaking from dramatic performers.</p>
                         <p>Her powers of endurance are very remarkable, speaking nearly three hours every evening through the week, and twice on Sundays. She has already been instrumental in converting sixty persons at Madalin, and upward of two thousand in the Prattsville District, and has the promise of a long career of usefulness before her.</p>
-                     </div3>
-                     <div3 id="wa2.119" n="Home Intelligence" type="reports">
+                     </div>
+                     <div id="wa2.119" n="Home Intelligence" type="reports">
                         <head>HOME INTELLIGENCE</head>
                         <head>NEW ENGLAND WOMAN'S SUFFRAGE ASSOCIATION.</head>
                         <p>THE Annual Meeting of this Association was held in Boston on the days of the 25th and 26th ult., commencing at Tremont Temple on the evening of the 25th, and continuing, by morning, afternoon, and evening sessions, at Horticultural Hall, throughout the following day. Large and enthusiastic audiences, to the extent of the inadequate capacities of the halls obtained, were in attendance upon every session, and the
@@ -870,11 +870,11 @@ back; The South is billowy with their graves. During those long years of trial w
 Association during the coming year, in which all parts of the country shall be fully and fairly represented.</p>
                         </q>
                         <p>Letters of encouragement and sympathy were read from John Stuart Mill, George Wm. Curtis, Robert Collyer, Lucretia Mott, Anna E. Dickinson and others. The intervals in the regular proceedings of the Convention were enlivened by excellent music by the Hutchinsons', and the Association finally adjourned, rejoicing in all the omens of the times, and looking forward with hope and courage to the labors of the coming year.</p>
-                     </div3>
-                     <div3 id="wa2.120" n="Literary." type="reviews">
+                     </div>
+                     <div id="wa2.120" n="Literary." type="reviews">
                         <head>LITERARY.</head>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
-                        <div4 id="wa2.121" n="Poems. By Augusta Cooper Bristol" type="book review">
+                        <div id="wa2.121" n="Poems. By Augusta Cooper Bristol" type="book review">
                            <head>POEMS. By Augusta Cooper Bristol. Cloth 190 pp. Boston Adams &#x0026; Co.</head>
                            <p>Many of the readers of the magazines of the day have undoubtedly noticed, here and there amid the multiplicity of verse, occasional contributions far above mediocrity in poetic excellence, and learned to associate the name of the writer with the strains which had left such pleasant echo of melody.</p>
                            <p>Miss Bristol has evidently formed her taste on writers of the Jean Ingelow school, and there is an occasional unpleasantness of a borrowed phrase or figure, of which we doubt not the writer is wholly unconscious; but an imaginative and truly poetic nature has preserved her from any flagrant offence of unwitting plagiarism, as indeed there is no occasion, for assured are we that Miss Bristol has only to draw upon the rich stores of her own fancy--to develop the gifts which she possesses, to make her name one of the most cherished of America's daughters of song.</p>
@@ -901,13 +901,13 @@ Association during the coming year, in which all parts of the country shall be f
                               </q>
                            </p>
                            <p>This volume is issued in beautiful style by the well-known publishers, and should command a wide audience among cultured readers.</p>
-                        </div4>
+                        </div>
                         <pb n="53 Literary."/>
-                        <div4 id="wa2.122" n="Think and Act. By Virginia Penny" type="book review">
+                        <div id="wa2.122" n="Think and Act. By Virginia Penny" type="book review">
                            <head>THINK AND ACT. A series of Articles Pertaining to Men and Women, Work and Wages. By Virginia Penny. Cloth, 372 pp. Philadelphia: Claxton, Remsen &#x0026; Haffelfinger, Publishers.</head>
                            <p>Not one of the least valuable contributions to the growing question of "Woman's Labor and Just Compensation" is the above beautifully issued volume. Miss Penny modestly states in her preface that "It makes no pretension to anything more than it is--a few sober reflections on woman and her business interests," but the careful reader will note much in its pages that betrays a knowledge of contemporary works, a keen observation of existing facts, and a close research into the underlying causes of perpetuated wrong. The author naturally attaches great importance to the need of more varied occupations for women, and a large proportion of the volume is devoted to a consideration of what these should be. Less lo(rical in thou(rht than Mrs. Dall, and less artistic in sentence construction, Miss Penny is yet no unworthy disciple of that able Writer and Thinker; and her volume, pleasant in style and rarely tiresome or unmethodical in arrangement, will well repay perusal. One of the most encouraging signs of the times is the awakened demand for such a class of literature, and we recommend with confidence Miss Penny's book to all who desire information upon the wide range of subjects treated in its pages. The volume is issued in excellent style by the enterprising publishers, Messrs. Claxton, Remen &#x0026; Co., who are fast establishing a reputation for publishing works of a meritorious character.</p>
-                        </div4>
-                        <div4 id="wa2.123" n="Moses: A Story of the Nile. By Mrs. Frances E. W. Harper" type="book review">
+                        </div>
+                        <div id="wa2.123" n="Moses: A Story of the Nile. By Mrs. Frances E. W. Harper" type="book review">
                            <head>MOSES: A STORY OF THE NILE. By Mrs. Frances E. W. Harper. 47 pp. Price, 25 cents. Philadelphia.</head>
                            <p>The publication of this sympathetic and beautiful allegorical poem of <hi rend="italic">Moses,</hi> by Mrs. Harper, agreeably to a widely expressed desire of many audiences throughout the country to whom it has been acceptably read, is a happy thought. It has many beauties, and gives ample evidence of the sweet and poetic nature of its author, one of the most effective and widely known of our colored speakers. We quote a single passage, not only as a foretaste of the enjoyment of the poem, but as evidence of what may be expected from a richly endowed race who are destined to leave an indellible mark on our literature:
 <q direct="unspecified">
@@ -927,13 +927,13 @@ Association during the coming year, in which all parts of the country shall be f
                                  </lg>
                               </q>
                            </p>
-                        </div4>
-                        <div4 id="wa2.124" n="Woman as God Made Her By Rev. J. D. Fulton" type="book review">
+                        </div>
+                        <div id="wa2.124" n="Woman as God Made Her By Rev. J. D. Fulton" type="book review">
                            <head>WOMAN AS GOD MADE HER. THE TRUE WOMAN. By Rev. J. D. Fulton. Paper, 213 pp. Boston: Lee &#x0026; Shepard.</head>
                            <p>This volume, to which is added <hi rend="italic">Woman versus Ballot</hi>, has been so widely discussed it seems scarcely necessary to add a word concerning it. It consists of a series of discourses, narrow and dogmatic in character, by a New England pastor who regards the Woman Question, as <hi rend="italic">Putnam's Monthly</hi> very sensibly observes, "precisely as Slavery was regarded in the discourses of those old-time clergy men, who took 'Cursed be Canaan' for their text." In regard to the reverend gentleman's "scriptural argument," the same writer also says, "this argument is, we say, unmitigated bigotry, and will meet with nothing better than contempt from those who believe that the Bible was made for Man and not Man for the Bible."</p>
-                        </div4>
-                     </div3>
-                     <div3 id="wa2.125" n="Agencies" type="List of Agents">
+                        </div>
+                     </div>
+                     <div id="wa2.125" n="Agencies" type="List of Agents">
                         <head>AGENCIES.</head>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
                         <p>THE Publisher of THE ADVOCATE makes the gratifying announcement that hereafter N. B. Spooner, of Boston, Mass., will act as General Agent for New England, and all subscriptions or advertisements designed for THE ADVOCATE may be entrusted to his care. Mr. Spooner is well known to many of our readers, not only as possessing fine business capacities, but as an active reformer, identified with all liberal movements, and we bespeak for him everywhere the co-operation of all friends of progress.</p>
@@ -943,8 +943,8 @@ Association during the coming year, in which all parts of the country shall be f
                         <p>CANVASSERS for THE ADVOCATE are desired in all parts of the country. Those
 <pb n="55 Premium Offers."/>
 thoroughly responsible can make very desirable arrangements by addressing the Publisher.</p>
-                     </div3>
-                     <div3 id="wa2.126" n="Premium Offers" type="subscriptions">
+                     </div>
+                     <div id="wa2.126" n="Premium Offers" type="subscriptions">
                         <head>SPECIAL OFFER.</head>
                         <docDate>Vol. II, No. 1, July 1869</docDate>
                         <p>IN order to increase as much as possible the circulation of THE ADVOCATE, We offer to our Present subscribers who will send one, or more, subscriptions, <hi rend="italic">Volume II., the six numbers comprised within it</hi>, for FIFTY CENTS. This offer, applying only to those whose names are upon our books, will enable our friends who have paid a full subscription for the year, to furnish, or present, to others a valuable publication making, in the six numbers, over 300 pages of choice reading matter, for the nominal price of FIFTY CENTS. Surely, with such inducement, those who recognize the importance of disseminating correct principles, will assist in spreading broadcast the seed which, wherever it may be sown, cannot but bear fruit compensating for the little of extra effort. Will not each subscriber to THE ADVOCATE resolve to furnish at least one subscription to commence with the July number?</p>
@@ -956,8 +956,8 @@ Twenty     "        .   .   .   .   .   .   .   .   .   22.00</p>
                         <p>We will hereafter send <hi rend="italic">The Nat. Anti-Slavery Standard</hi> ($3.00 a year) and THE WOMAN'S ADVOCATE, each one year to old or new subscribers, the two for $4. 00;--<lb/>
                            <hi rend="italic">The Radical</hi> ($4.00 a year) and THE ADVOCATE, the two for $5.00;<lb/>
                            <hi rend="italic">The Herald of Health</hi>, ($2. 00 a year) and THE ADVOCATE, the two for $3.50.</p>
-                     </div3>
-                     <div3 id="wa2.127" n="The National Anti-Slavery Standard" type="advertisment">
+                     </div>
+                     <div id="wa2.127" n="The National Anti-Slavery Standard" type="advertisment">
                         <docDate>Vol. II, No. 1, July 1869</docDate>
                         <head>THE NATIONAL ANTI-SLAVERY STANDARD</head>
                         <head>VOL XXX. PUBLISHED EVERY SATURDAY.</head>
@@ -986,8 +986,8 @@ A. M. POWELL, <lb/>
 Editor of the <hi rend="italic">National Anti-Slavery Standard,</hi>
                            <lb/>
 39 Nassau street, New York.</p>
-                     </div3>
-                     <div3 id="wa2.128" n="Woman's Medical College of Pennsylvania" type="advertisement">
+                     </div>
+                     <div id="wa2.128" n="Woman's Medical College of Pennsylvania" type="advertisement">
                         <docDate>Vol. II, No. 1, July 1869</docDate>
                         <head>WOMAN'S MEDICAL COLLEGE OF PENNSYLVANIA,</head>
                         <p>NORTH COLLEGE AVENUE &#x0026; 22d STREET, PHILADELPHIA, PA.</p>
@@ -1006,12 +1006,12 @@ Editor of the <hi rend="italic">National Anti-Slavery Standard,</hi>
                            <hi rend="bold">Clinical Advantages</hi> of the most important character are now available, including, besides access to the wards and Clinics of the Woman's Hospital of Philadelphia, admission to the Clinics of the principal Hospitals of the City.</p>
                         <p>Address for Catalogue or further information,<lb/>
 EMELINE CLEVELAND, M. D., Sec'y., 1800 Wt. Vernon St.</p>
-                     </div3>
-                  </div2>
-                    <div2 id="wa2.201" n="The Womans Advocate" type="issue">
+                     </div>
+                  </div>
+                    <div id="wa2.201" n="The Womans Advocate" type="issue">
                      <head>THE WOMANS ADVOCATE</head>
                      <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
-                     <div3 id="wa2.202" n="Breakers! [Fourth Paper]" type="essay">
+                     <div id="wa2.202" n="Breakers! [Fourth Paper]" type="essay">
                         <head>BREAKERS! <lb/>
 [FOURTH PAPER]. </head>
                         <docAuthor>Caroline H. Dall</docAuthor>
@@ -1095,8 +1095,8 @@ receptions. His thoughts are "somewhere else," his mood is unfriendly, his tempe
                            <l>"I am a part of all that I have met."</l>
                         </epigraph>
                         <byline>CAROLINE H. DALL.</byline>
-                     </div3>
-                     <div3 id="wa2.203" n="Voices." type="poem">
+                     </div>
+                     <div id="wa2.203" n="Voices." type="poem">
                         <head>VOICES.</head>
                         <docAuthor>Augusta Cooper Bristol</docAuthor>
                         <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
@@ -1174,19 +1174,19 @@ receptions. His thoughts are "somewhere else," his mood is unfriendly, his tempe
                            <l>I live for the true and the beautiful, for God would have it so.</l>
                         </lg>
                         <byline>AUGUSTA COOPER BRISTOL.</byline>
-                     </div3>
-                     <div3 id="wa2.204" n="untitled" type="filler">
+                     </div>
+                     <div id="wa2.204" n="untitled" type="filler">
                         <p>THOUGH women go to the polls, there will be faithful wives and true mothers still. The marriage bond will be as sacred, and the sanctities of home the very same that they are to-day. We do not desire to subvert any of the institutions which God has ordained. And we believe the right of suffrage--with all it includes--will help to make better mothers and, therefore, better sons, who, though the dear hands that rock the cradle and adorn the coffin shall hold the ballot also, will yet never forget the Apostolic injunction, "Be courteous."<bibl>
                               <hi rend="italic">--Address.--By  Phebe A. Hanaford.</hi>
                            </bibl>
                         </p>
-                     </div3>
+                     </div>
                      <pb n="68 The Woman's Advocate."/>
-                     <div3 id="wa2.205" n="To Warn, to Comfort, and Command." type="story">
+                     <div id="wa2.205" n="To Warn, to Comfort, and Command." type="story">
                         <head>'TO WARN, TO COMFORT, AND COMMAND.'</head>
                         <docAuthor>Kate A. Hausen</docAuthor>
                         <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
-                        <div4 id="wa2.206" n="Part First" type="story part">
+                        <div id="wa2.206" n="Part First" type="story part">
                            <head>IN FOUR PARTS.--PART FIRST.</head>
                            <p>TWO young women crooning in the October twilight, but <hi rend="italic">not</hi> talking over their love affairs! Can the vain masculine reader credit this statement? They had been sitting there half an hour, too, in that dainty hall-chamber, talking earnestly of many things; but until the moment when we interrupt them, the pronoun "he" had not passed their lips. The inevitable subject <hi rend="italic">did</hi> come at last, however as Anne Markham demurely asked her friend: "How many unfortunates have you rejected since I saw you last week?"</p>
                            <p>"O! not a victim!" laughed the clear-voiced Margaret. "I am not quite such a Vanquisher as you always try to prove. There is the doorbell! Now, do you suppose that is any one who will stay and spoil this delicious little t&#x00EA;te-&#x00E0;-t&#x00EA;te? Tom and Alice went off so unexpectedly that the Parish doesn't fully know the fact, and continues to call. So I have some prosy interviews, I assure you."</p>
@@ -1236,8 +1236,8 @@ tistic nature thoroughly relished, and for the charities which her warm, womanly
                            <p>Anne threw her arms around Margaret's neck, with one of her impulsive hugs, saying: "Yes, dear, do It, and go on, loading me with kindnesses! How few people there are, to whom I can endure to be under obligation, and yet how little I mind it, with you! Here you are, constantly ministering to my needs of mind, body and estate, and I letting you do it and only occasionally feeling oppressed. While if other people try to do me favors, I either fling them back in their faces, or if I can't quite do that, I smart and chafe under the burden. It is because I love and trust you so fully, isn't it? and know that we understand each other?"</p>
                            <pb n="74 The Woman's Advocate."/>
                            <p>"And because, you know that if you were in my place, with my leisure, and I in your busy, toiling life, your ready wit would teach you -twice as many ways of serving me, as I ever think of. We won't bandy compliments any farther, my dear little friend, but I will have the last word before I take up Mill, by reminding you that you are a constant help to me. You always understand me. You teach me what it is to work. Well never mind what else you do for me! Be quiet, now, while I read.</p>
-                        </div4>
-                        <div4 id="wa2.207" n="Part Second" type="story part">
+                        </div>
+                        <div id="wa2.207" n="Part Second" type="story part">
                            <head>PART SECOND.</head>
                            <p>Anne Markham in her darkish school-room on a drizzling Monday morning. Sixty-eight little boys and girls, some of them clean, and some of them dirty. Miss Jackson, the sallow-faced assistant, in her yellowish-greenish-brown dress that made Anne shudder, speaking in tones even more weak and plaintive than usual, under the dismal influence of the weather. Out of the windows a view of unlimited ashes, thistles and old hoop-skirts. A picture vividly before Anne's mind of a stormy scene at the breakfast table, where Mrs. Markham had exasperated her stepson Harry by her peevish, senseless fault-finding and the boy, defending himself with hot words, had, at last, in utter desperation at fresh accusations, jumped from the table, dashed his tumbler into atoms, and rushed from the house. An unpaid butcher had dunned her at the last moment, as she was hurrying to school, after washing dishes, dusting rooms, and making beds. "James Malbry, come out, and sit on the edge of the platform !" "Mary, take that pin out of your mouth!" "Third class in Arithmetic." While watching the little troop, as they matched out to their places, she was thinking of Margaret in the cosy back-parlor at the Rectory, with its bright wood-fire on the hearth, sewing for little Madge, perhaps, and "talking things over" with Tom and Alice, before the minister shut himself up in his study. No wrangling there, no disgusts! How happy it all seemed! Then she pulled herself up, suddenly, remembering Margaret's words: "We will fight our dragons bravely and cheerily!" "Margaret has her trials, too--foes within and without. And, after all, her way is not marked out so clearly before her, as mine for me. She has often to find the suffering and sinning, while I am among them, all the time. I <hi rend="italic">will</hi>, so help me God, rise to the level of my trials!" With a clear light in her eyes, and a quiet, strong look about her mouth, she opened the dirty Arithmetic which Mike Falvey offered her, and met her class, as if they were a band of princes. and princesses in disguise. Such thorough attention did she give them; such respect suddenly seized her for their little stunted individualities, such faith in their possibilities, such determination to
 <pb n="75 To Warn, to Comfort, and Command."/>
@@ -1277,10 +1277,10 @@ ence. He studied by day and by night, whenever he could find time. He was twenty
                            <p>"Why no !--though he <hi rend="italic">is</hi> acquainted with Mrs. Vickers, isn't he? Well, perhaps he does, then. Only there isn't much to tell about me !"</p>
                            <p>"I think there is," said her friend quietly.</p>
                            <p>"Here we are at Mrs. Middleton's," said Anne, and shaking the rain from their water-proof cloaks, the Sisters of Charity entered, to soothe and cheer the anxious household.</p>
-                        </div4>
+                        </div>
                         <byline>KATE A. HAUSEN.</byline>
-                     </div3>
-                     <div3 id="wa2.08" n="Thoughts." type="essay">
+                     </div>
+                     <div id="wa2.08" n="Thoughts." type="essay">
                         <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                         <docAuthor>Frances Dana Gage</docAuthor>
                         <head>THOUGHTS.</head>
@@ -1306,8 +1306,8 @@ wise"--backed up by his daily and hourly practice.</p>
 sugar kisses, and as attractive as frizzles, flounces, flowers and fidgets can make her, lives with the "degradation of politics" from babyhood to good old age, first with father and brothers then with husband, sits at the same fireside, eats at the same table, and lays head on the same pillow, breathes in the f&#x0153;tid breath, listens to the profanity, and endures the madness of public life, which is brought home to the "sacred hearth" and retains to the last her softness and "sweet attractive grace." If the contact at home and abroad, with the politicans, (for every man is a politician) three hundred and sixty-three days in a year, Fourth of Julys and New Years' days thrown in, has not spoiled us wholly in the last century, do in mercy let us try the other two days and see for a little, whether <hi rend="italic">we</hi> can <hi rend="italic">be</hi> any worse than we are.</p>
                         <p>But why multiply words, there is, there can be, no argument in the matter. Woman will be woman, and the man that writes it, down that "<hi rend="italic">I</hi> shall not be so polite to her or love her so well if she votes," writes himself down a dunce--that is all.</p>
                         <byline>FRANCES DANA GAGE.</byline>
-                     </div3>
-                     <div3 id="wa2.209" n="Be Just and Fear Not!" type="essay">
+                     </div>
+                     <div id="wa2.209" n="Be Just and Fear Not!" type="essay">
                         <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                         <docAuthor>Samuel C. Blackwell</docAuthor>
                         <head>BE JUST AND FEAR NOT!</head>
@@ -1324,14 +1324,14 @@ wave that surging far inward purged our Republic of legalized felony. And Negro 
 woman suffrage, it probably springs from a natural unwillingness to couple their claim, which has received national assent, with that of women which has not yet been able to command it. Themselves possessed of suffrage, the average <hi rend="italic">sentiment</hi> of the blacks will probably be quite as reliable for the support of a humane and righteous measure, the average <hi rend="italic">sentiment</hi> of the whites. We need not dread the arbitrament of the <hi rend="italic">intellect</hi> of either race. But if it were otherwise, has the school of the New Testament and of our Independence taught us to hinge right upon expediency, or that we may prolong a cruel and unjust disfranchisement because we cannot read the future and we fear lest the franchise may be abused? If this argument holds against the Fifteenth Amendment it is good against all previous steps in the interest of self-government or what is identical with it, universal suffrage.</p>
                         <p>Am I justified in saying, "My neighbor shall not govern himself because in so doing he may incidentally misgovern me: Until my right is recognized, my neighbor's shall not be: Until the nation shall assent to woman's righteous claim which it does not yet admit, that nation shall not do its admitted duty and place in the hands of its "peeled and scattered' freedmen a shield against the horrors of the Ku-Klux-Klan?" I have not so learned duty. As to policy, we shall advocate the cause of woman suffrage before the mixed jury of the future with more confidence and consistency on the ground of simple right, which is its one unanswerable plea, if we can say to all objectors white and black who may doubt the expediency of our claim: "Our Fathers conferred suffrage on all <hi rend="italic">white</hi> men despite that doubt. We conferred suffrage on all <hi rend="italic">men</hi> despite that doubt, now do unto women as we have done to you, 'Be just and fear not.'"</p>
                         <byline>SAMUEL C. BLACKWELL.</byline>
-                     </div3>
-                     <div3 id="wa2.210" n="untitled" type="filler">
+                     </div>
+                     <div id="wa2.210" n="untitled" type="filler">
                         <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                         <docAuthor>Caroline H. Dall</docAuthor>
                         <p>If God intends woman to walk side by side with man wherever he sees fit to go, the movement now beginning must materially develop civilization. Finer elements will be poured into the molten metal of society; and, when the next cast is taken, we shall see sharper edges, bolder reliefs, and a finer lining, than we have been wont. Nor shall we miss the gentler graces.--Caroline H. Dall.</p>
-                     </div3>
+                     </div>
                      <pb n="85 A Woman's Story."/>
-                     <div3 id="wa2.211" n="A Woman's Story." type="poem">
+                     <div id="wa2.211" n="A Woman's Story." type="poem">
                         <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                         <docAuthor>Wm. P. Tomlinson</docAuthor>
                         <head>A WOMAN'S STORY.</head>
@@ -1491,8 +1491,8 @@ woman suffrage, it probably springs from a natural unwillingness to couple their
                            <l>Was outstretched on that day."</l>
                         </lg>
                         <byline>WM. P. TOMLINSON.</byline>
-                     </div3>
-                     <div3 id="wa2.12" n="Justice or Expediency" type="essay">
+                     </div>
+                     <div id="wa2.12" n="Justice or Expediency" type="essay">
                         <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                         <docAuthor>M. W. Campbell</docAuthor>
                         <head>JUSTICE, OR EXPEDIENCY?</head>
@@ -1503,9 +1503,9 @@ woman suffrage, it probably springs from a natural unwillingness to couple their
 purposes? I do not believe in the extreme views which I have heard advanced at some meetings. I do not think that our present system of government converts one sex into tyrants, and the other into slaves. It simply allows them to become such. The man who is a tyrant by nature can thrive under the system, and the woman who is inclined to submit naturally can do so to her heart's content, and find at last, when submission has ceased to be a virtue, that there is no power in the laws to prevent her master from governing her by his own absolute will, no matter how unreasonable or inhuman that will may be. It is absurd to say that <hi rend="italic">all</hi> men are tyrants or all women slaves, for there are men, thank God, who could not become tyrants under any system, but would be wise, loving husbands and fathers, regardless of all laws; and there are women also who could never be slaves, though bound in chains. Who has not seen them in the humblest walks of life, oppressed with sorrow and cares, yet bearing upon their brows the mark of God's nobility, their husbands and children reverencing them next to the Deity? We are not <hi rend="italic">slaves</hi>, nor do we complain of the tyranny of our husbands, but we do complain of injustice, inasmuch as the stronger sex have assumed to control us in any degree. And we ask for simple justice; we want no more, and we will take no less. We make no promises of good behavior; we shall be governed by our own good sense. We ask not favors, but that this Nation shall cease to be governed by Expediency. It has had enough of it in the past. Slavery was tolerated by expediency, and after all the woe it brought upon us, no man can claim that the slaves were emancipated by a simple act of justice. Not till it was found to be expedient to save the life of the Nation, did our government do anything to break their chains, and to-day, the black man holds the ballot through <hi rend="italic">expediency</hi>.</p>
                         <p>The time is fast approaching when it will be <hi rend="italic">expedient</hi> to grant the petition of woman. Would to God this Nation would do this one single act of justice for justice' own sake, rather than wait until it shall seem <hi rend="italic">expedient</hi>.</p>
                         <byline>M. W. CAMPBELL.</byline>
-                     </div3>
+                     </div>
                      <pb n="90 The Woman's Advocate."/>
-                     <div3 id="wa2.213" n="The Law and the Testimony" type="essay">
+                     <div id="wa2.213" n="The Law and the Testimony" type="essay">
                         <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                         <docAuthor>Robert W. Hume</docAuthor>
                         <head>THE LAW AND THE TESTIMONY.</head>
@@ -1528,15 +1528,15 @@ they not only do not forbid, but that in certain instances, by a fair and just i
 <pb n="The Law and the Testimony. 93"/>
 money was held and maintained by them ever since we were a nation, until the necessities of the war compelled the dominant part of the people to assert through their Representatives their Constitutional Right over the currency. Even the Dred Scott Court has moved half way towards the truth in that matter. Mr. R. J. Walker declared that he had noted its illegality for the past twenty years. It would be a nice question for a debating society, whether reticence in a great public officer, under such circumstances, was not criminal? However, regardIess of its long life, the Nation purged itself of the wrong, and freed itself, we trust forever, from such State usurpation. If, as is claimed, the Constitution sanctions the right of women to the suffrage, let us hope that ribaldry, debauchery and brutality, which at present garrison the polls against the advance of modesty, sobriety and piety, will likewise be overthrown; common usage to the contrary notwithstanding. In conclusion, we call upon our opponents to face the music, appealing to the Law and the Testimony, the Declaration of Independence and the Constitution of the United States.</p>
                         <byline>ROBERT W. HUME.</byline>
-                     </div3>
-                     <div3 id="wa2.214" n="untitled" type="filler">
+                     </div>
+                     <div id="wa2.214" n="untitled" type="filler">
                         <p>JUSTIN MCCARTHY, a highly educated, liberal young Englishman now residing in this city, in a thoughtful paper on George Eliot says: "Probably no other novel-writer, since novel-writing became a business, ever possessed one tithe of her scientific knowledge. Indeed, hardly anything is rarer than the union of the scientific and the literary or artistic temperaments. So rare is it that the exceptional, the almost solitary instance of Goethe, comes up at once distinct and striking to the mind. English novelists are even less likely to have anything of a scientific taste than either French or German. Dickens knows nothing of science, and has indeed as little knowledge of any kind, save that derived from observation, as any respectable Englishman could well have. Thackeray was a man of varied reading, versed in the lighter literature of several languages, and strongly imbued with artistic tastes; but he had no careful science. Lord Lytton's science is a mere sham. Charlotte Bronte was all genius and ignorance. Mrs. Lewes is all genius and culture. Had she never written a page of fiction, had she never written a line of poetry, she must have been regarded with wonder and admiration as a woman of vast and varied knowledge."</p>
-                     </div3>
+                     </div>
                      <pb n="94 The Woman's Advocate."/>
-                     <div3 id="wa2.215" n="Editorial Department" type="editorials">
+                     <div id="wa2.215" n="Editorial Department" type="editorials">
                         <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                         <head>EDITORIAL DEPARTMENT</head>
-                        <div4 id="wa2.216" n="The Skies Clearing." type="editorial">
+                        <div id="wa2.216" n="The Skies Clearing." type="editorial">
                            <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                            <head>THE SKIES CLEARING.</head>
                            <p>IF to any friend of the Cause, the tone of THE ADVOCATE has in aught seemed captious, we trust it will be believed that whatever there has been of criticism has been in the spirit of kindness, with only the welfare of the Cause at heart, and with no desire to impugn the motives of those differing in judgment respecting what should constitute a CREED, or be the POLICY of the advocates of Woman Suffrage.</p>
@@ -1572,8 +1572,8 @@ of New England and elsewhere, Mrs. Livermore, the eloquent representative champi
                                  </body>
                               </text>
                            </p>
-                        </div4>
-                        <div4 id="wa2.218" n="True Philanthropy--Mr. Packard" type="editorial">
+                        </div>
+                        <div id="wa2.218" n="True Philanthropy--Mr. Packard" type="editorial">
                            <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                            <head>TRUE PHILANTHROPY.--MR. PACKARD.</head>
                            <p>MR S. S. PACKARD of this city, the proprietor of <hi rend="italic">Packard's Monthly</hi>, has a Business College in which, without distinction of sex, mathematics, book-keeping and other branches of useful knowledge are taught those who desire to enter upon a business life. Mr. Packard, whose College has been a number of years in successful operation, finds the young women who have sought its instruction quite as quick to learn as their fellow students of the opposite sex; and states, as the result of his experience, <hi rend="italic">that equal training and advantages give equal proficiency and expertness</hi>. The commendable course pursued by Mr. Packard receives its crown in the generous proposition recently made by him to gratuitously educate, during the next year, fifty young women in his college, the only requirement being that they should come well recommended, possessing a moral character. At the recent Commencement, after expressing the opinion that every girl should be prepared to take the position she is fitted for, and to support herself with brain or hands, he concluded by saying:</p>
@@ -1581,8 +1581,8 @@ of New England and elsewhere, Mrs. Livermore, the eloquent representative champi
                            <p>This is practical Woman's Rights! Well may the country take hope, with such instances of philanthropy in our midst. While a Stewart digs deep the foundation for the stately pile which is to make fair and inviting a Home within the means of the poorest of our working girls-while a Mrs. Phelps endows a Bureau or Center of Thought, more important perchance than either--fraught with even greater consequences for good--a Vassar or a Packard offer to woman the facilities
 <pb n="97 Editorial Department."/>
 for the acquirement of that business knowledge which will secure to her a profitable, independent position in life, equally with man. May this noble offer of Mr. Packard's be wisely improved.</p>
-                        </div4>
-                        <div4 id="wa2.219" n="The Berlin Convention" type="editorial">
+                        </div>
+                        <div id="wa2.219" n="The Berlin Convention" type="editorial">
                            <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                            <head>THE BERLIN CONVENTION.</head>
                            <p>Among the Conventions destined to make the present year memorable may be assumed: the World's Woman's Convention, called at Berlin for the 5th and 6th of November, 1869. At this Congress of the thinking women of all Nations, measures will be taken looking to the establishment of an official communication between the various woman societies for Education, for Instruction in Science and Art, for Industrial and Domestic Training and their relations to Labor. The objects to be discussed will be as follows:</p>
@@ -1590,10 +1590,10 @@ for the acquirement of that business knowledge which will secure to her a profit
                            <p>2. How to form Industrial, Scientific and Art Schools for women.</p>
                            <p>3. How to form Co-operative Associations for woman's labor, with institutions giving the same advantages to women as has been given to men by their large, and now becoming international, Working Men's Associations.</p>
                            <p>Delegates to the above Convention are invited from all parts of Europe and the United States, and the desire is expressed that-our country in particular may be duly represented. Several of our Societies, following a general movement in England, have already taken steps in the matter, and among those whose possible attendance has been hinted at are Mrs. Julia Ward Howe and Mrs. C. M. Severance, as representatives of the New England Woman's Suffrage Association. We trust that this gratifying intelligence may prove correct, as the presence of these well-known and honored advocates of Woman Suffrage, alone would be a guarantee that the Cause in America would be faithfully and efficiently represented. We learn, through private sources, that Mrs. Ernestine L. Rose and Miss Mary J. Safford, both of whom are now in Europe, will also be present and participate in the very interesting proceedings.</p>
-                        </div4>
-                     </div3>
+                        </div>
+                     </div>
                      <pb n="98 The Woman's Advocate."/>
-                     <div3 id="wa2.220" n="Notes." type="notes">
+                     <div id="wa2.220" n="Notes." type="notes">
                         <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                         <head>NOTES.</head>
                         <p>Miss Sallie R. Banks, for some years a teacher of colored schools in South Carolina, has been appointed Collector of Internal Revenue for the Sumter District of that State.</p>
@@ -1621,11 +1621,11 @@ Of the course to be given by such men as Profs. Bowen, Hedge and Lowell, Ralph W
                         <p>Very pleasant were the exercises that took place at Newport on July 3d, in connection with the presentation of an elegant life-boat to Miss Ida Lewis, as a token of appreciation of her heroism in rescuing two drowning soldiers near her father's light-house in March last. The boat, which is of the finest workmanship, is called the "Rescue;" and the presentation was in Washington square, which was filled with a crowd of enthusiastic people. An appropriate presentation address was made by
 <pb n="101 Notes"/>
 Francis Brinley, formerly President of the Boston Common Council, to which Col. T. W. Higginson responded on behalf of Miss Lewis. He commenced by saying: "I am requested by Miss Lewis to return thanks in her name to the donors and to the citizens of Newport. Miss Lewis desires me to say that she has never made a speech in her life, and does not expect to begin now. She has worked out the problem of woman's rights in a different manner. She has been accustomed to assume the right of helping her fellow-men without asking any question. She receives this boat with pleasure, not only as an earnest of the good feeling of her fellow citizens, but also as a means of doing a little more hereafter if occasion should come." . . . . At the conclusion of Col. Higginson's speech, an elegant rudder-yoke, made of rose-wood, with solid silver mountings, was presented by the Narraganset Boat Club; and two silk flags, a miniature anchor of galvanized iron, with cable, an elegant set of cushions, boat-hook, and a velvet carpet were contributed by Captain Kenny and the officers of the steamboat "Newport." The demeanor of Miss Lewis throughout the exercises was lady-like and composed, alike free from embarassment and affectation. This presentation was in the morning; and itt the afternoon the "Rescue" was launched from Long Wharf in the presence of a vast crowd. At the appointed hour, amid much applause, Miss Lewis seated herself at the oars ; and by her quick and vigorous strokes the beautiful boat was guided rapidly toward its destination, the Lime Rock Light-house.</p>
-                     </div3>
-                     <div3 id="wa2.221" n="Literary." type="reviews">
+                     </div>
+                     <div id="wa2.221" n="Literary." type="reviews">
                         <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                         <head>LITERARY.</head>
-                        <div4 id="wa2.222" n="How Lisa Loved the King. By George Eliot" type="book review">
+                        <div id="wa2.222" n="How Lisa Loved the King. By George Eliot" type="book review">
                            <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                            <head>HOW LISA LOVED THE KING. By George Eliot, author of "Adam Bede." 16 mo. Boston: Fields, Osgood &#x0026; Co. </head>
                            <p>Scarcely has the first flush of pleasure, excited by the perusal of "The Spanish Gypsey" abated, ere the public are offered a similar delight in a fresh production by this gifted author. "How Lisa Loved the King" can add nothing to the reputation of George Eliot. That may be said to have been crowned by the production of "The Spanish Gypsey," which was one of the few poetical works really enriching our modern literature. But it is the sweetest of trifles--a rosebud dropped in her garlanded path, the fragrance of which will linger Iong with every lover of lofty or graceful thought wedded to verse. This being the case, it would be unfair to institute any comparison between it and its immediate and remarkable predecessor. The seven hundred or so lines tell only the simple story
@@ -1676,16 +1676,16 @@ And never wore in field or tournament
 A scarf or emblem, save by Lisa sent."</p>
                            </q>
                            <p>Slender in pages as is this little poem--in the estimation of the author probably not worth making a book of--it is yet so truly poetic in its conception and treatment, that we know not, in the wide range of more pretentious volumes, a better companion for a Summer afternoon than the sweetly touching story, "How Lisa Loved the King."</p>
-                        </div4>
-                     </div3>
-                     <div3 id="wa2.223" n="Special Offer" type="advertisement">
+                        </div>
+                     </div>
+                     <div id="wa2.223" n="Special Offer" type="advertisement">
                         <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                         <head>SPECIAL OFFER.</head>
                         <p>IN order to increase as much as possible the circulation of THE ADVOCATE, we offer to our present subscribers who will send one, or more, subscriptions, <hi rend="italic">Volume II, the six numbers comprised within it,</hi> for FIFTY CENTS. This offer, applying only to those whose names are upon our books, will enable our friends who have paid a full subscription for the year, to furnish, or present, to others a valuable publication making, in the six numbers, over 300 pages of choice reading matter, for the nominal price of FIFTY CENTS. Surely, with such inducement, those who recognize the importance of disseminating correct principles, will assist in spreading broadcast the seed which, wherever It may be sown, cannot but bear fruit compensating for the little of extra effort. Will not each subscriber to THE ADVOCATE resolve to furnish at least one subscription to commence with the July number?</p>
                         <p>NOTICE. AS THE ADVOCATE is stereotyped, back numbers to January can be furnished on application, or subscriptions at any time commence with the beginning of the year.</p>
                         <p>CANVASSERS for THE ADVOCATE are desired in all parts of the country. Those thoroughly responsible can make very desirable arrangements by addressing the Publisher.</p>
-                     </div3>
-                     <div3 id="wa2.224" n="The National Anti-Slavery Standard" type="advertisement">
+                     </div>
+                     <div id="wa2.224" n="The National Anti-Slavery Standard" type="advertisement">
                         <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                         <head>THE NATIONAL ANTI-SLAVERY STANDARD.</head>
                         <head>VOL. XXX. PUBLISHED EVERY SATURDAY.</head>
@@ -1711,8 +1711,8 @@ Twenty Copies, each, 2.00</p>
 A. M. POWELL, <lb/>
 Editor of the <hi rend="italic">&#x003E;National Anti-Slavery Standard</hi>,<lb/>
 39 Nassau street, New York.</p>
-                     </div3>
-                     <div3 id="wa2.225" n="Woman's Medical College of Pennsylvania" type="advertisement">
+                     </div>
+                     <div id="wa2.225" n="Woman's Medical College of Pennsylvania" type="advertisement">
                         <docDate>NO. II. AUGUST, 1869. VOL. II.</docDate>
                         <head>WOMAN'S MEDICAL COLLEGE OF PENNSYLVANIA,</head>
                         <p>NORTH COLLEGE AVENUE &#x0026; 22d STREET, PHILADELPHIA, PA.</p>
@@ -1732,12 +1732,12 @@ Editor of the <hi rend="italic">&#x003E;National Anti-Slavery Standard</hi>,<lb/
                            <hi rend="bold">Clinical Advantages</hi> of the most important character are now available, including, besides access to the wards and Clinics of the Woman's Hospital of Philadelphia, admission to the Clinics of the principal Hospitals of the City.</p>
                         <p>Address for Catalogue or further information,<lb/>
 EMELINE H. CLEVELAND, M. D., Sec'y., 18W Mt. Vernon St.</p>
-                     </div3>
-                  </div2>
-                  <div2 id="wa2.301" n="The Woman's Advocate." type="issue">
+                     </div>
+                  </div>
+                  <div id="wa2.301" n="The Woman's Advocate." type="issue">
                      <head>THE WOMAN'S ADVOCATE.</head>
                      <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
-                     <div3 id="wa2.302" n="To Warn, To Comfort, and Command. Part Third." type="story">
+                     <div id="wa2.302" n="To Warn, To Comfort, and Command. Part Third." type="story">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <docAuthor>Kate A. Hausen</docAuthor>
                         <head>"TO WARN, TO COMFORT, AND COMMAND."<lb/>
@@ -1794,8 +1794,8 @@ with which no stranger, and no friend, even, can intermeddle. They were the prie
                         <p>Happy lovers, and happy Anne! Tears ran down her cheeks as she
 <pb n="112 The Woman's Advocate."/>
 shared the joy which had come to her friends. No envy, no vague longing, even intruded. The fair portion which had fallen to them in this earthly life was very different from hers, but she felt to-night that she could walk alone. Her soul possessed itself, and though she knew it would often falter and faint in the march, it would never quite lose its hold of the heavenly things it had grasped in its highest hours. It had been on the Mount of Vision, and could never again be utterly blinded by the dust or darkness or glare of its daily path.</p>
-                     </div3>
-                     <div3 id="wa2.304" n="To Warn, to Comfort, and Command. Part Fourth." type="story">
+                     </div>
+                     <div id="wa2.304" n="To Warn, to Comfort, and Command. Part Fourth." type="story">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <docAuthor>Kate A. Hausen</docAuthor>
                         <head>"TO WARN, TO COMFORT, AND COMMAND."<lb/>
@@ -1837,8 +1837,8 @@ noon. "I do not feel afraid," he said, "I hardly think she will domineer!"</p>
                         <p>Wooing and wedding are over, now, but the husband and wife feel that life in its maturity has but begun for them.</p>
                         <p>Truly each does "comfort" the other in every time of trial. And when either of them is in any way weak, or false to the truth of life, as even the truest must sometimes be, the other is strong, lovingly to "warn," and by silent example to "command."</p>
                         <byline>KATE A. HAUSEN.</byline>
-                     </div3>
-                     <div3 id="wa2.305" n="Concerning One Objection" type="essay">
+                     </div>
+                     <div id="wa2.305" n="Concerning One Objection" type="essay">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <docAuthor>Jane O. Deforest</docAuthor>
                         <head>CONCERNING ONE OBJECTION.</head>
@@ -1857,8 +1857,8 @@ taxes and make the laws to which she is amenable; but her boy, the pride and del
 <pb n="119 The Deserted."/>
 elm which bows before the passing storm, but losing none of its strength, is soon as erect and beautiful as before. And as the elm needs and receives the same nourishment from the air and soil, the same sunshine and rain, as does the oak, so woman needs and should receive the same rights and privileges as man, in this great field of life.</p>
                         <byline>JANE O. DEFOREST.</byline>
-                     </div3>
-                     <div3 id="wa2.306" n="The Deserted" type="poem">
+                     </div>
+                     <div id="wa2.306" n="The Deserted" type="poem">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <docAuthor>David Plumb</docAuthor>
                         <head>THE DESERTED</head>
@@ -1895,9 +1895,9 @@ elm which bows before the passing storm, but losing none of its strength, is soo
                            </l>
                         </lg>
                         <byline>DAVID PLUMB.</byline>
-                     </div3>
+                     </div>
                      <pb n="120 The Woman's Advocate."/>
-                     <div3 id="wa2.307" n="Thrown Upon the World. Part First" type="story">
+                     <div id="wa2.307" n="Thrown Upon the World. Part First" type="story">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <docAuthor/>
                         <head>THROWN UPON THE WORLD.<lb/>
@@ -1932,8 +1932,8 @@ roof Then Abby Kelley-now the Mrs. Foster <hi rend="italic">The Universe</hi> so
                         <p>Marian ceased, scarcely conscious that she had been drawn into such unwonted length of speech, and the more pressing work of the office prevented further conversation upon the subject. But in more than one mind thought had been awakened, and Marian pursued her task with a
 <pb n="128  The Woman's Advocate."/>
 light heart, more than ever satisfied that the "seed" sown must bring forth precious fruit in the end.</p>
-                     </div3>
-                     <div3 id="wa2.308" n="The Prevailing Fear of Genuine Democracy" type="essay">
+                     </div>
+                     <div id="wa2.308" n="The Prevailing Fear of Genuine Democracy" type="essay">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <docAuthor>R. J. Hinton</docAuthor>
                         <head>THE PREVAILING FEAR OF GENUINE DEMOCRACY.</head>
@@ -1950,8 +1950,8 @@ Ever since, shallow but plausible writers and talkers on history and politics, h
 <pb n="131  Broken in Spirit"/>
 would only stop opposing the inevitable and turn in and educate and prepare the masses for it, they would really show themselves "wise in their day and generation." But there is a radical and irreconcilable difference. They believe only in individual leadership, and fail to see that the truest way to gain that, is to merge oneself in the modern "the word <hi rend="italic">en masse</hi>"--accept Democracy and use all <hi rend="italic">their</hi> energies, to make the units worthy of that all comprehensive idea.</p>
                         <byline>R. J. HINTON.</byline>
-                     </div3>
-                     <div3 id="wa3.309" n="Broken in Spirit" type="poem">
+                     </div>
+                     <div id="wa3.309" n="Broken in Spirit" type="poem">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <docAuthor>Helen Rich</docAuthor>
                         <head>BROKEN IN SPIRIT.</head>
@@ -2042,8 +2042,8 @@ Ah! what wonder they expire,</l>
                            </l>
                         </lg>
                         <byline>HELEN RICH.</byline>
-                     </div3>
-                     <div3 id="wa2.310" n="Filling the Ice-house." type="story">
+                     </div>
+                     <div id="wa2.310" n="Filling the Ice-house." type="story">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <docAuthor>Frances Dana Gage</docAuthor>
                         <head>FILLING THE ICE-HOUSE.</head>
@@ -2097,14 +2097,14 @@ were ready for the ice-gatherers.</p>
                         <p>"Yes, if, when Summer comes, he will agree to skim his own milk, make his own ice-cream, and wash his own dishes and floors while the girls enjoy it!"</p>
                         <p>"Please Ma'am," said Tom, with his finger in his mouth, "I will fill the ice-house--may I go to bed?"</p>
                         <byline>FRANCES DANA GAGE.</byline>
-                     </div3>
-                     <div3 id="wa2.311" n="untitled" type="filler">
+                     </div>
+                     <div id="wa2.311" n="untitled" type="filler">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <p>ALL movements which combine the co-operative energies of many persons, and thus closely bind together the interests of the community, point to a new era of progress. The more varied the talents and functions of these joint workers, the better for the amount and breadth of their accomplishment. Doubtless socialism may have sought too eagerly for an air-line route to the desired goal, for nature approves of but few straight lines! Yet even the mistakes of the past are an earnest of good for the future! When we become nobler as individuals we shall find better modes of co-working for mutual assistance; for the best good of one is the best good of all. Woman must become a broader and more rational worker; more self-forgetfully remembering the well-being of the whole community; while man must equally learn that charity begins with the necessary, unending, small details of home and its inmates; so shall their several talents interweave far more beautiful and perfect results than those which their separate efforts have yet achieved. -<bibl>Studies. -Antoinette Brown Blackwell.</bibl>
                         </p>
-                     </div3>
+                     </div>
                      <pb n="137  Woman's Rights. "/>
-                     <div3 id="wa2.312" n="Woman's Rights." type="letter">
+                     <div id="wa2.312" n="Woman's Rights." type="letter">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <docAuthor/>
                         <head>WOMAN'S RIGHTS.</head>
@@ -2135,22 +2135,22 @@ tage. When we mow our grass in July, and dig our potatoes in September, but put 
                            <dateline>August 10th, 1869.</dateline> 
                         </closer>
                         <byline>WENDELL PHILLIPS.</byline>
-                     </div3>
-                     <div3 id="wa2.313" n="untitled" type="filler">
+                     </div>
+                     <div id="wa2.313" n="untitled" type="filler">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <p>As the details of the internal arrangements of Mr. A. T. Stewart's hotel for working-women become more fully known to the public they seem to promise with great certainty to each occupant the comfort and convenience of a hotel at an exceedingly small cost. Even the eighth story will not seem formidable, as elevators will run on each side of the staircase from the first to the upper story. The sleeping-rooms are to be lofty and well-ventilated. There will be two kinds-the larger ones sixteen by eighteen feet in space, and intended for two sisters or two friends rooming together; the smaller ones, eight feet by nine, for one person only. The dining-room, thirty by ninety-two feet in dimensions, will be conducted on the restaurant plan, and food will be furnished at cost. Each person can therefore regulate her expenses according to her ability and inclination. For the hundreds of working-women who desire such a home this will be found superior to any at present established, and the scheme reflects great credit on the kindly heart of our millionaire merchant, who is rapidly earning the title of a public benefactor.</p>
-                     </div3>
+                     </div>
                      <pb n="141  Editorial Department."/>
-                     <div3 id="wa2.314" n="Editorial Department" type="editorials">
+                     <div id="wa2.314" n="Editorial Department" type="editorials">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <head>Editorial Department</head>
-                        <div4 id="wa2.315" n="The National Organization Movement." type="editorial">
+                        <div id="wa2.315" n="The National Organization Movement." type="editorial">
                            <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                            <head>THE NATIONAL ORGANIZATION MOVEMENT.</head>
                            <p>OUR readers will rejoice to learn that the movement for a National Organization is making satisfactory progress, and that a Call for a Delegate Convention may be expected at an early date. The Committee of the New England Woman's Suffrage Association, appointed by that body to correspond with the friends of the Cause throughout the country relative to such a measure, have received, we understand, many favorable responses to their inquiries and earnest requests that the preliminary steps for a National Organization be at once taken.</p>
                            <p>That what we have so earnestly advocated is about to be realized is especially gratifying. Believing it vital to the welfare of the Cause, we trust that nothing will be permitted to delay the consummation of a work fraught with the hopes of thousands of the earnest advocates of Woman Suffrage. Let no hand be stayed. It cannot come too soon. With a truly representative National Organization; with a policy wooing to its ranks every lover of humanity; with co-operative local associations, it cannot be doubted that the way to victory will be easy, or its full fruition long delayed.</p>
-                        </div4>
-                        <div4 id="wa2.316" n="Western Conventions." type="editorials">
+                        </div>
+                        <div id="wa2.316" n="Western Conventions." type="editorials">
                            <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                            <head>WESTERN CONVENTIONS.</head>
                            <p>THE West is ablaze with Conventions. Calls are issued for State Conventions in Illinois, Ohio, Missouri and Indiana. The Woman Suffrage Association of Missouri, which leads in point of time, holds its Convention in St. Louis on the 6th and 7th instant; Illinois follows on the 9th and 10th ; Ohio on the 15th and 16th ; while the date of the Indiana
@@ -2158,8 +2158,8 @@ tage. When we mow our grass in July, and dig our potatoes in September, but put 
 Convention at our latest advices was not definitely fixed, but presumed would occur within the month.</p>
                            <p>Concerned in all these movements are earnest, indefatigable workers, and the masses of the liberal West never fail to make a generous response to the demands upon their time and means, insuring to each fresh effort for the advancement of the Cause a gratifying success. The Call for the Ohio Convention is signed by scores of the influential, well-known citizens, men, and women of that State; the St. Louis gathering will be a rally of the generous-hearted sons and daughters of Missouri; while that of Chicago will doubtless be one of the largest and most enthusiastic assemblages yet convened in the West for the consideration of the subject.</p>
                            <p>To each of these Councils of the People THE ADVOCATE extends its kindliest wishes for a season of pleasant and profitable discussion, while for the <hi rend="italic">Agitator</hi> and other Western journals so powerfully contributing to the welfare of the Cause, it would desire thrice the share of well-merited prosperity which they are enjoying.</p>
-                        </div4>
-                        <div4 id="wa2.317" n="The Case Stated" type="editorial">
+                        </div>
+                        <div id="wa2.317" n="The Case Stated" type="editorial">
                            <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                            <head>THE CASE STATED.</head>
                            <p>To even the most superficial observer the "Woman Question," at this moment, must appear in the full tide of success. Not only are journals specially devoted to its discussion increasing all throughout the country--not only, at home and abroad, are Conventions of the most gratifying character held with a frequency never before known, but a class of individuals and journals, that hitherto have held studiously aloof, are now coming forward and powerfully contributing to a better understanding and appreciation of the Question. As a proof of this we might cite the able contributions of Mrs. JULIA WARD HOWE to <hi rend="italic">The Galaxy</hi> and the <hi rend="italic">Atlantic Monthly;</hi> those of FRANCES POWER COBBE to <hi rend="italic">Putnam's Magazine;</hi> Mrs. ISABELLA B. HOOKER's articles to the same monthly, and more recently to the <hi rend="italic">Nation;</hi> the scholarly editorials of GEORGE W. CURTIS in the <hi rend="italic">Harper</hi> Publications; the various papers in <hi rend="italic">Packard's;</hi> and other contributions, from writers more or less distinguished, to our leading journals.</p>
@@ -2183,9 +2183,9 @@ potent pen of Mrs. HARRIET BEECHER STOWE, for which we could wish a yet wider ci
 <pb n="144  The Woman's Advocate."/>
 that the conductors of <hi rend="italic">Hearth and Home</hi> have made arrangements for the publication of a series of papers, from week to week, by the best writers on <hi rend="italic">both sides of the question</hi>, which will still deepen the hold of this excellent journal on public favor.</p>
                            <p>Mrs. STOWE has cleared the ground. Her woman gauntlet has been thrown down: let us see the knight hardy enough to pick it up, and measure swords with so powerful a champion of her sex!</p>
-                        </div4>
-                     </div3>
-                     <div3 id="wa2.318" n="Notes." type="notes">
+                        </div>
+                     </div>
+                     <div id="wa2.318" n="Notes." type="notes">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <head>NOTES.</head>
                         <p>MRS. JULIA WARD HOWE preached a sermon on Woman Suffrage in the Unitarian Church in Newport, R. I., on Sunday last, greatly to the horror of the <hi rend="italic">Herald</hi> of that city.</p>
@@ -2212,30 +2212,30 @@ licitor-General, Sir John Coleridge; of Lord Houghton; of Sir Charles Dilke, M.P
                               </body>
                            </text>
                         </p>
-                     </div3>
-                     <div3 id="wa2.319" n="Literary." type="reviews">
+                     </div>
+                     <div id="wa2.319" n="Literary." type="reviews">
                         <head>LITERARY.</head>
-                        <div4 id="wa2.320" n="Oldtown Folks by Harriet Beecher Stowe." type="review">
+                        <div id="wa2.320" n="Oldtown Folks by Harriet Beecher Stowe." type="review">
                            <head>OLDTOWN FOLKS. By Harriet Beecher Stowe. 608 pp. Boston: Fields, Osgood &#x0026; Co.</head>
                            <p>The world-wide reputation won by Mrs. Stowe in her first great work of fiction would have been a greatness sufficiently oppressive to have precluded any mind less powerful from again essaying the path which led to such bewildering fame. But the laurel of being the most widely read and known of living fictionists has not been sufficient to satisfy a mind ever alive to the interests of humanity, and admirers of Mrs. Stowe's genius in two hemispheres have since had numerous opportunities of learning how keenly throbbed that heart, and how tireless was that pen that had written so much and so well.</p>
                            <p>The Crime of the Nation, which produced an "Uncle Tom's Cabin" or a "Dred," having been washed out in blood, Mrs. Stowe, in later fictions, has naturally turned to the delineations of those scenes and characters which her earliest published sketches give such evidence of being the nooks of fancy in which her thoughts most love to dwell. To her, New England is not only the Motherland, but the rich storehouse whose varied treasure she seeks with the love of a Whittier, a Lowell, or a Hawthorne. In this volume her object has been to interpret to the world the New England life and character of its formative period. Marked in early history by strong theological opinions, Mrs. Stowe has been faithful to her purpose in giving searching delineations of the Orthodoxy of that date. Puritanism stern and cold; gentler human nature; minds quaintly common sense, inquisitive, or groping in the night of unbelief, are all depicted; and so life-like are the delineations, in the illusion, the reader deems them the flesh and blood characters of every day life.</p>
                            <p>Space will not permit us to give even a passing notice of any of the character-
 <pb n="148 The Woman's Advocate."/>
 istics of this charming volume, possessing an interest not alone for New England readers, but for every lover of the artistic, the refined and the noble in literature. The whole volume is aglow with sparkles of fancy and passages of deep human tenderness, and will be warmly welcomed to thousands of hearths as the latest fruit of the ripened genius of the author.</p>
-                        </div4>
-                        <div4 id="wa2.321" n="Patty Gray's Journey to the Cotton Islands. by Caroline H. Dall." type="book review">
+                        </div>
+                        <div id="wa2.321" n="Patty Gray's Journey to the Cotton Islands. by Caroline H. Dall." type="book review">
                            <head>PATTY GRAY'S JOURNEY TO THE COTTON ISLANDS. By Caroline H. Dall. First Volume. Boston: Lee &#x0026; Shepard.</head>
                            <p>As a writer upon graver themes Mrs. Dall is well and favorably known to the public; and, in her newer field, the volume before us will go a great way towards winning for her as many warm admirers among young as older readers. Some writer has said that "a good book for children is the most difficult thing to create in literature," and we can easily credit the assertion, for, amid the multiplicity of story books, we can recall but few that we would unqualifiedly recommend to parents for their children.</p>
                            <p>But <hi rend="italic">Patty Gray's Journey</hi> is one of the few truly meritorious contributions to our juvenile literature. The entertaining and instructive are blent together in its pages in a manner that must endear it to every story-loving child, who at the same time possesses the natural desire for the acquisition of knowledge. This volume--the first of a series--takes Patty from her native Boston home to Baltimore, and the new sights and scenes of the journey are recorded with a fidelity to nature as well as with an artistic perception of the beautiful. Her visit is after the close of the late war, and Mrs. Dall renders good service to the cause of freedom by pointing out the cause of the desolation which is everywhere apparent, and laying stress upon the fact of the wrong done to the African race, which brought the terrible war upon the country.</p>
                            <p>It is issued in a neat and attractive style by the publishers, the picture of Patty Gray in the frontispiece, giving a pleasant introduction to this interesting little personage. We trust that the entire series may meet with the circulation which the merits of the initial volume assure us that they should attain.</p>
-                        </div4>
-                        <div4 id="wa2.322" n="untitled" type="filler">
+                        </div>
+                        <div id="wa2.322" n="untitled" type="filler">
                            <p>Newspaper literature has even invaded the Turkish harem. The Zeraki of Stamboul now issues an edition <hi rend="italic">de luxe</hi>, printed on fine tinted paper, for exclusive circulation amongst Turkish ladies.</p>
                            <p>Mr. Mill's "Subjection of Women" has appeared in Paris under the title of L'Assujettissement des Femmes.</p>
-                        </div4>
-                     </div3>
+                        </div>
+                     </div>
                      <pb n="149 Home Intelligence."/>
-                     <div3 id="wa2.323" n="Special Notice.--Our Prize Offers." type="announcement">
+                     <div id="wa2.323" n="Special Notice.--Our Prize Offers." type="announcement">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <head>SPECIAL NOTICE.--OUR PRIZE OFFERS.</head>
                         <p>WE regret to announce that the Committee appointed to decide upon the Stories submitted agreeably to the terms of our PRIZE OFFERS, after a protracted deliberation, have decided that they cannot conscientiously award prizes to any of the MSS. under their consideration. We append their report:
@@ -2253,8 +2253,8 @@ istics of this charming volume, possessing an interest not alone for New England
                            </text>
                         </p>
                         <p>The manuscripts thus reverting to the Publisher will be returned to the various writers, upon their due application for the same. To avoid mistakes our correspondents should give the <hi rend="italic">name of each Story and desired address</hi> in full.</p>
-                     </div3>
-                     <div3 id="wa2.324" n="Home Intelligence" type="reports">
+                     </div>
+                     <div id="wa2.324" n="Home Intelligence" type="reports">
                         <docDate>NO. III. SEPTEMBER, 1869  VOL. II</docDate>
                         <head>HOME INTELLIGENCE.</head>
                         <head>THE NEWBURYPORT WOMAN'S SUFFRAGE CONVENTION.</head>
@@ -2279,8 +2279,8 @@ allowed you to stand. And I would have the world take note, awakened by admirati
                         </q>
                         <p>Forcible addresses, at various stages of the Convention, were also delivered by WILLIAM LLOYD GARRISON, Rev. OLYMPIA, BROWN, Rev. GEORGE H. VIBBERT, Mrs. E. F. BOWLES, Judge AMES, Rev. B. F. BOWLES, Rev. Mr. WRIGHT and others; and the evening session was prolonged until a late hour in the desire of the audience to hear all the promised speakers.</p>
                         <p>Announcing the intention of the Association to hold a series of meetings throughout Essex County during the summer and fall, the Convention adjourned leaving an awakened interest in the community as the result of its labors.</p>
-                     </div3>
-                     <div3 id="wa2.325" n="Special Offer." type="subscriptions">
+                     </div>
+                     <div id="wa2.325" n="Special Offer." type="subscriptions">
                         <head>SPECIAL OFFER.</head>
                         <p>In order to increase as much as possible the circulation of THE ADVOCATE, we offer to our present subscribers who will send one, or more, subscriptions, <hi rend="italic">Volume II, the six numbers comprised within it</hi>, for FIFTY CENTS. This offer, applying only to those whose names are upon our books, will enable our friends who have paid a full subscription for the year, to furnish, or present, to
 <pb n="152 The Woman's Advocate."/>
@@ -2297,12 +2297,12 @@ Twenty   "          . . . . . . . . . 22.00</p>
                         <p>We will hereafter send <hi rend="italic">The Nat. Anti-Slavery Standard</hi> ($3.00 a year) and THE WOMAN'S ADVOCATE, each one year to old or new subscribers, the two for $4.00;--<lb/>
                            <hi rend="italic">The Radical</hi> ($4.00 a year) and THE ADVOCATE, the two for $5.00;--<lb/>
                            <hi rend="italic">The Herald of Health</hi> ($2. 00 a year) and THE ADVOCATE, the two for $3.50.</p>
-                     </div3>
-                  </div2>
-                  <div2 id="wa2.401" n="The Woman's Advocate." type="issue">
+                     </div>
+                  </div>
+                  <div id="wa2.401" n="The Woman's Advocate." type="issue">
                      <head>THE WOMAN'S ADVOCATE.</head>
                      <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
-                     <div3 id="wa2.402" n="Thrown Upon the World. Part Second." type="story">
+                     <div id="wa2.402" n="Thrown Upon the World. Part Second." type="story">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <docAuthor/>
                         <head>THROWN UPON THE WORLD<lb/>
@@ -2335,9 +2335,9 @@ and you can see that her face wears a constrained look, very different from its 
                         <p>"Miss Eveleth," and there was an affection of gayety in his tone to which his heart at the moment illy responded, "have you heard the good news which will relieve the industrious bees of <hi rend="italic">The Universe</hi> of at least one drone in the hive? I have at last my orders. Can you believe that one an idler so long can brush the dust of inaction from his wings and easily resume habits of industry? I need not ask if I may bear with me your good wishes, for the relief you will all experience at my departure would insure that, methinks, even from one who holds me in as light esteem as Miss Eveleth."</p>
                         <p>"Yes, Mr. De L'Estrange," and there was more of feeling in the tone than he had before noted, "I have heard of your departure, and can, truly wish you '<hi rend="italic">bon voyage.</hi>' With your acquirements and your capabilities you should not be idle; you were meant to play no useless part among men, and doubt not that we shall always be glad to hear of your movements, and to know that you are achieving that measure of success to which you may so well aspire. Within yourself lies largely the power to determine your future career, whether it shall be ignoble, or far surpass the past. Can I doubt that you will decide wisely?"</p>
                         <p>Thus speaking Marian frankly extended her hand, which De L'Estrange pressed fervently for a moment, uttered the simple words, "<hi rend="italic">vertraue auf mich,</hi>" (trust in me) and left the apartment.</p>
-                     </div3>
+                     </div>
                      <pb n="162 The Woman's Advocate."/>
-                     <div3 id="wa2.403" n="Work for Woman." type="essay">
+                     <div id="wa2.403" n="Work for Woman." type="essay">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <docAuthor>Jane O. DeForest</docAuthor>
                         <head>WORK FOR WOMAN.</head>
@@ -2362,9 +2362,9 @@ quaintance in the East, who is said by good judges to be perfectly competent for
 <pb n="166  The Woman's Advocate."/>
 ago. How with trembling hands, and tortured but brave hearts, you "buckled on the sword" for those dearer than your own lives. Oh, we know by sad experience your patient watchings and waitings, and your devoted love for the principles of right and justice, even when your hearts were crushed and bleeding, and you were shedding bitter tears for those <hi rend="italic">immortal</hi> ones, who are sleeping beneath the Southern soil. And knowing this, we trust that through your speedy and efficient efforts, the noble cause of Woman Suffrage shall ere long surely triumph. Do not scornfully cast it aside as unworthy of your attention. The dignity of woman can never be lowered by careful investigation. Do not trouble your minds with the idea that you will be subverting the teachings of the Bible, by adhering to these principles. That Holy Book has been used to uphold iniquity too long already. Slaveholders and drunkards have, with as much plausibility as the opponents of Woman's Rights, proved their ways to be righteous and just. If there is anything which should cause woman to love the religion of Jesus with warmest fervor, it is for the fact of its elevating her sex. Where Christianity has greatest freedom, there woman has the most privileges. "Last at the cross, and first at the sepulchre," her Lord will never permit "Peace on earth," till Justice and Equity are extended to all of his creatures. Then arise daughters of this fair land, and declare that "the home of the brave" shall in deed and in truth become "the land of the free." In this time for action, you surely will not sit with hands folded, or do ought to discourage those laboring for your elevation. Rather promote, by pen and tongue, by every means in your power, their sacred cause; and when the smoke of battle shall be cleared away, and we stand beneath the bright heavens a free and happy people, then shall all mankind bless you, and reverently return thanks, that unto woman has been given that crown of honor, the elevation of her race, and the speeding on of that glad day when all the nations shall know and love the Lord our God.</p>
                         <byline>JANE O. DE FOREST.</byline>
-                     </div3>
+                     </div>
                      <pb n="167 A Mother's Thought."/>
-                     <div3 id="wa2.405" n="A Mother's Thought." type="poem">
+                     <div id="wa2.405" n="A Mother's Thought." type="poem">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <docAuthor>Frances Dana Gage</docAuthor>
                         <head>A MOTHER'S THOUGHT.</head>
@@ -2445,9 +2445,9 @@ ago. How with trembling hands, and tortured but brave hearts, you "buckled on th
                            <l>Thy will, O Father! not my will be done!</l>
                         </lg>
                         <byline>FRANCES DANA GAGE.</byline>
-                     </div3>
+                     </div>
                      <pb n="169 Opposition."/>
-                     <div3 id="wa2.406" n="Opposition." type="essay">
+                     <div id="wa2.406" n="Opposition." type="essay">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <docAuthor>Elizabeth A. Kingsbury</docAuthor>
                         <head>OPPOSITION.</head>
@@ -2468,8 +2468,8 @@ politicians. Those who, with an love of power and the emoluments of office, are 
 the land, and this Government be in fact what it is now only in name, a model Republic."</p>
                         <p>Men of this stamp, with other ambitious ones, who yet hope to obtain office, combine to block our path to the ballot-box. Here is a large and powerful class against us; and we can scarcely imagine the bitterness of their 'opposition, and the firmness with which they will resist Woman Suffrage. We have engaged in a conflict which will be no holiday affair. Wise and good men in every Legislature will vote for us, long before the ignorant and depraved masses, controlled by these unprincipled politicians, can be induced to ratify that vote. But having girded on our armor, let us fight valiantly, not with carnal weapons, but with the sword of Truth, the rifle of Argument, and the bayonet of Justice and Equal Rights, till every opponent shall acknowledge his defeat. Then woman will have finished the first chapter of a history, whose every page shall glow with yet more brilliant deeds, till time shall be no longer.</p>
                         <byline>ELIZABETH A. KINGSBURY.</byline>
-                     </div3>
-                     <div3 id="wa2.407" n="Agitation." type="essay">
+                     </div>
+                     <div id="wa2.407" n="Agitation." type="essay">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <docAuthor>M. F. B.</docAuthor>
                         <head>AGITATION.</head>
@@ -2514,8 +2514,8 @@ the derogation of their descendants, but the war proved the women of '61 equal t
                         <p>Only one who has been a slave can fully realize the blessing of liberty ; but a slave, while a slave, cannot comprehend liberty.</p>
                         <p>Let thorough investigation go on, let the <hi rend="italic">pros</hi> and <hi rend="italic">cons</hi> of the question be handled, the more there is said, the more will be heard. Agitation will finally cleanse the waters and throw the <hi rend="italic">debris</hi> ashore. Specious arguments and paltry excuses show, to us, who are working and waiting, that we can exultingly exclaim with the old Philosopher "And yet it moves."</p>
                         <byline>M. F. B.</byline>
-                     </div3>
-                     <div3 id="wa2.408" n="Women as Rulers." type="essay">
+                     </div>
+                     <div id="wa2.408" n="Women as Rulers." type="essay">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <docAuthor>J. S. Mill</docAuthor>
                         <head>WOMEN AS RULERS.</head>
@@ -2530,17 +2530,17 @@ instances, been distinguished by merits the most opposite to the imaginary and c
                               <hi rend="italic">From Mill's "Subjection of Women," published by D. Appleton &#x0026; Co.</hi>
                            </bibl>
                         </p>
-                     </div3>
-                     <div3 id="wa2.410" n="untitled" type="filler">
+                     </div>
+                     <div id="wa2.410" n="untitled" type="filler">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <docAuthor>Wendell Phillips</docAuthor>
                         <p>FULL justice has never been done to the influence of woman on Literature and Society. Neither the classic nor the feudal age had anything deserving to be called Society. What we call by that name was born in modern times, and owes its existence to woman. Society, the natural outgrowth of the New Testament, without which Christianity was only a dogma, a hermit or a monster--was never born till woman was allowed her true place, and men learned that really, under Christ, there was neither male or female--Society, the only field where the sexes have ever met on terms of equality--the arena where character is formed and studied--the crucible of ideas--the cradle and the realm of public opinion--the spur and the crown of ambition--the world's university--the tribunal which unmasks pretension and stamps real merit--at once a school, and a theater-which gives government leave to be, and out-runs the formal church in guiding the moral sense of the age--who shall fitly tell us the power of this marvelous agent over the civil and religious world? What else can as rightfully claim the first place among the controlling elements of the last two centuries? Yet this is the throne of woman; the throne which, like a first conquerer, she founded and then filled.--<bibl>
                               <hi rend="italic">Address by Wendell Phillips.</hi>
                            </bibl>
                         </p>
-                     </div3>
+                     </div>
                      <pb n=" 180 The Woman's Advocate."/>
-                     <div3 id="wa2.411" n="I Hear Thee Again, Mother." type="peom">
+                     <div id="wa2.411" n="I Hear Thee Again, Mother." type="peom">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <docAuthor>David Plumb</docAuthor>
                         <head>I HEAR THEE AGAIN, MOTHER.</head>
@@ -2578,9 +2578,9 @@ instances, been distinguished by merits the most opposite to the imaginary and c
                            <l>That I hear thee again, mother, calling to me.</l>
                         </lg>
                         <byline>DAVID PLUMB.</byline>
-                     </div3>
+                     </div>
                      <pb n="181 Will Suffrage Demoralize Women?"/>
-                     <div3 id="wa2.412" n="Will Suffrage Demoralize Women?" type="essay">
+                     <div id="wa2.412" n="Will Suffrage Demoralize Women?" type="essay">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <docAuthor>M. F. Burlingame</docAuthor>
                         <head>WILL SUFFRAGE DEMORALIZE WOMEN?</head>
@@ -2642,12 +2642,12 @@ afraid to let that angelhood be tested. The world does not need angels, serfs, o
                            </lg>
                         </epigraph>
                         <byline>M. F. BURLINGAME</byline>
-                     </div3>
+                     </div>
                      <pb n="185 Editorial Department."/>
-                     <div3 id="wa2.413" n="Editorial Department." type="editorials">
+                     <div id="wa2.413" n="Editorial Department." type="editorials">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <head rend="gothic">Editorial Department.</head>
-                        <div4 id="wa2.414" n="The 'Tilt' Opened." type="editorial">
+                        <div id="wa2.414" n="The 'Tilt' Opened." type="editorial">
                            <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                            <head>THE "TILT" OPENED.</head>
                            <p>SINCE our last, in which we made a synopsis of Mrs. HARRIET BEECHER STOWE's admirable presentation of the "Woman Question," the <hi rend="italic">Hearth and Home,</hi> in which journal the article appeared, has contained the second of the promised series, from the pen of Hon. HORACE GREELEY, who, picking up the glove of the lady, takes a counter view of the question.</p>
@@ -2661,9 +2661,9 @@ afraid to let that angelhood be tested. The world does not need angels, serfs, o
 National Legislature would gladly second, Mr. GREELEY believes might be expected from such a deliberative assemblage of the "gentler and purer sex;" but to make up a Congress of men and women, and such women as would naturally aspire to and enjoy seats therein, he considers would be fraught with deplorable consequences. Concerning the ballot and the holding of office, he thus writes: "Of my seven children, but two survive, both girls, for whom I would make life as fair and hopeful as may be. I presume them quite as capable as most other girls to do their part in whatever befits their sex and their station. I would have their lives active, useful, beneficent, and respected. If I thought it well for them to be voters, jurywomen, electioneerers, and candidates for office, I have no conceivable motive for seeking to interpose a barrier to their following such a career. But I do not, cannot believe that such is the sphere for which they were designed by an All-wise Father. I believe that their chances of usefulness and of happiness would be seriously diminished by precipitating them on such a course. I greatly prefer that they should be women, such as Milton portrayed in Eve, and Shakespeare in Imogen."</p>
                            <p>We have quoted thus at length from this article of Mr. GREELEY'S, preferring so to do to offering much of comment thereon, leaving its force or weakness to the discernment of the reader. That it is most remarkable for its admissions, we think it will be the judgment of every student of this question now agitating to its center all civilized society. The recommendation of an Advisory Congress, of itself is an admission of Woman's fitness and duty to participate in affairs of State, which surely goes far towards covering the entire ground claimed by the most strenuous advocate of Woman Suffrage. When it is once admitted that Woman can fitly and wisely counsel with Man concerning National affairs, the precise manner in which she can best perform her work will be a matter easily determined, nor need we say that when that hour arrives the <hi rend="italic">ballot</hi> will be placed in her hand.</p>
                            <p>Mr. GREELEY is not yet old. Years of usefulness, we trust, are before him, and, to the mighty changes witnessed in his life, may be added the crowning revolution in politics of the extension of the ballot to Woman, causing, by its elevating influences, a reconsideration of judgment which he now regards as impossible.</p>
-                        </div4>
+                        </div>
                         <pb n="188 The Woman's Advocate."/>
-                        <div4 id="wa2.415" n="The True Policy." type="editorial">
+                        <div id="wa2.415" n="The True Policy." type="editorial">
                            <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                            <head>THE TRUE POLICY.</head>
                            <p>OUR readers will remember that in THE ADVOCATE for August we printed a letter from Mrs. FRANCES D. GAGE, entitled "The Fifteenth Amendment," in which that earnest, large-hearted woman expressed her convictions concerning that pending measure and the duty of every friend of humanity. As certain sentiments therein ascribed to WENDELL PHILLIPS called forth the article entitled "Woman's Rights," from that distinguished pen, to be found in our September number, we cheerfully give place, to the following letter from Mrs. GAGE, In which it will be seen full justice is done to Mr. PHILLIPS, as one of the truest Reformers of the age; while the duty of every well-wisher of humanity is so simply yet clearly defined that we could wish its brief words might penetrate every home and heart in the land:</p>
@@ -2689,8 +2689,8 @@ a three-strand cord, so bound together that to leave either out would weaken the
                                  </body>
                               </text>
                            </p>
-                        </div4>
-                        <div4 id="wa2.418" n="A Distinguished Woman on Suffrage." type="editorial">
+                        </div>
+                        <div id="wa2.418" n="A Distinguished Woman on Suffrage." type="editorial">
                            <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                            <head>A DISTINGUISHED WOMAN ON SUFFRAGE.</head>
                            <p>OF the women identified with our Nation's literature, who, from the retirement of their homes, send out thoughts to instruct and elevate mankind, few are more endeared to the liberal reading public than LYDIA MARIA CHILD. In the wide range of reformatory subjects there are few themes that her pen has not touched to inspire with respect or interest; and, let volumes multiply as they may, thousands of readers throughout the land will yet turn over the pages of those dear, delightful "Letters from New York," or, maybe, some graver philosophical work, to dwell upon passages which have afforded them so oft a pleasure. Less identified than of yore with editorial or public life, later years have witnessed no abatement of zeal, or flagging of her industrious pen; and, in addition to numerous volumes given to the press, the liberal journals
@@ -2712,8 +2712,8 @@ midst of cunning and malignant enemies! I regard it as a shame to womanhood that
                                  </body>
                               </text>
                            </p>
-                        </div4>
-                        <div4 id="wa2.420" n="Consistency, Thou Art a Jewel!" type="editorial">
+                        </div>
+                        <div id="wa2.420" n="Consistency, Thou Art a Jewel!" type="editorial">
                            <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                            <head>"CONSISTENCY, THOU ART A JEWEL!"</head>
                            <p>To the outcry raised by the press at Mrs. Stowe's "Defence of Lady Byron," no one of our metropolitan journals has more contributed than the <hi rend="italic">N. Y. Sun,</hi> edited by Charles A. Dana, formerly of the <hi rend="italic">N. Y. Tribune.</hi> With an affectation of morality--even piety--refreshing to those acquainted with its true character, the <hi rend="italic">Sun</hi> has omitted no opportunity to swell the clamor excited by the appearance of the article in question, pandering to a perverted prejudice, and adding to the obloquy heaped upon an honored woman--one bearing a name identified with what is purest and best in our literature.</p>
@@ -2721,9 +2721,9 @@ midst of cunning and malignant enemies! I regard it as a shame to womanhood that
 <pb n="193 Notes."/>
 dence; and of the judiciousness of such a step, or the purity of her  motives, abler pens than ours have already pronounced an opinion. But whether it all be ill or well done, for a journal which has played the part of the <hi rend="italic">N. Y. Sun</hi>--which has defied decency, torn the veil guarding the most sacred of privacies, and, at one unmerciful blow, would have blighted the prospects of a rising young man, one of the brightest lights in American journalism,--to sit in judgment concerning a moral question is a coolness and obliviousness of its own past record of which we had scarcely believed it capable. Lord Byron is dead. To the grave in which he lies no earthly word may reach to disturb; but a living, breathing being was selected as the <hi rend="italic">Sun's</hi> target, and having aimed his poisoned shaft the archer waited secure to see the victim drop from the shining heights of prosperity which he had reached. Perhaps not in journalism has there been a more wanton, unjustifiable assault upon individual reputation than that of Dana's upon the standing and good name of JOHN RUSSELL YOUNG. Let Mr. Dana, if he aims to be the Mephistopheles of American journalists, at least study <hi rend="italic">Consistency.</hi>
                            </p>
-                        </div4>
-                     </div3>
-                     <div3 id="wa2.421" n="Notes." type="Notes">
+                        </div>
+                     </div>
+                     <div id="wa2.421" n="Notes." type="Notes">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <head>NOTES.</head>
                         <p>MISS MARY PUTNAM, daughter of G. P. Putnam, Publisher, of this city, is studying medicine in Paris.</p>
@@ -2753,12 +2753,12 @@ dence; and of the judiciousness of such a step, or the purity of her  motives, a
 artists. Works for sale can be exhibited in this gallery, and the prices can be ascertained from the attendant in charge."</p>
                         <p>
                            <hi rend="italic">The Woman's</hi>( Dayton, Ohio) <hi rend="italic">Advocate,</hi> speaking of the recent Chicago Convention says: "The Woman's Suffrage Convention held in Chicago on the 9th and 10th instant, was a success, both in point of numbers and in interest. The object of the Convention, as heretofore stated, was to 'bring together the workers and leaders of the Woman Suffrage Cause in the several Western States, to unite on some definite plan of action for the future, to form acquaintance with each other, and to arrange for a more general and complete movement in the West. Hon. C. B. Waite presided temporarily. Among the speakers present were Mrs. Livermore, Mrs. Mott, Mrs. Kate Doggett, Madame D'Harricourt, and others of Chicago; Lucy Stone, Miss Susan B. Anthony, Mrs. Longley, Mrs. Hazard, Miss Lizzie M. Boynton, Mrs. Bishop, Mrs. Hall, Mrs. Ballou, and others from abroad. Many distinguished men, from the East and West, were also present, and took part in the deliberations. Mr. Livermore was called to preside permanently, with Mrs. Longley, of Ohio; Mrs. Willhete, of Indiana; Mrs. Hazard, of St. Louis; Mrs. Adams, of Iowa; Mrs. Bishop, of Minnesota, as Vice-Presidents. Amanda M. Way, of Indianapolis, was appointed Secretary, and Mrs., Kate Doggett, of Chicago, Treasurer. Many important letters from notable workers in the Cause were read, and reports of the progress of the work in the several States presented. One of the most prominent features of the Convention was the address delivered by Mrs. E. 0. G. Willard, author of 'Sexology, the Philosophy of Life,' on the <hi rend="italic">'Sphere of Woman, and the Orbit of Man.'</hi> It is said to have been the most able and lucid address of the Convention, arguing and explaining away the disgraceful <hi rend="italic">'sphere'</hi> doctrine so much referred to by the opponents of the Woman Cause. A series of resolutions were adopted, the several women justly reprimanded the late temperance body, for excluding the woman suffrage plank from its platform, and the Convention adjourned."</p>
-                     </div3>
+                     </div>
                      <pb n="197 Literary."/>
-                     <div3 id="wa2.423" n="Literary." type="reviews">
+                     <div id="wa2.423" n="Literary." type="reviews">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <head>LITERARY.</head>
-                        <div4 id="wa2.424" n="Recollections of the Anti-Slavery Conflict. By Samuel J. May." type="book review">
+                        <div id="wa2.424" n="Recollections of the Anti-Slavery Conflict. By Samuel J. May." type="book review">
                            <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                            <head>RECOLLECTIONS OF THE ANTI-SLAVERY CONFLICT. By Samuel J. May. Cloth, 408 pp. Boston: Fields, Osgood &#x0026; Co.</head>
                            <p>If, as has been remarked by some writer, the selection of a subject is the first pledge of the excellence of a work, Mr. May may be congratulated on the wisdom of <sic corr="choosing">chosing</sic>  a theme which, perhaps, of all others offers the rarest opportunity for a work of absorbing interest. If Slavery was the tragedy played upon the great stage of American history, so, for the last Thirty Years previous to its bloody abolishment, the Abolitionists were the actors around whom clustered the interest which no time will lessen in the recollection of a grateful posterity.</p>
@@ -2770,17 +2770,17 @@ fascinating, it is almost impossible to select any particular article or passage
                               <p>"If I ever boast of anything it is this: that I was a member of the Convention that instituted the American Anti-Slavery Society. That assembly, gathered from eleven different States of our Republic, was composed of devout men of every sect and of no sect in religion, of each political party and of neither; but they were all of one mind. They evidently felt that they had come together for a purpose higher and better than that of any religious sect or political party. Never have I seen men so ready, so anxious to rid themselves of whatsoever was narrow, selfish, or merely denominational. I was all the more affected by the manifestation of this spirit, because I had been living for ten years in Connecticut, where every one who did not profess a faith essentially 'Orthodox' was peremptorily proscribed. In the Philadelphia Convention there were but two or three of my sect, which you know at that time had but few avowed adherents anywhere except in the eastern half of Massachusetts, and was then, much more than now, especially obnoxious to all other religionists in the land. Yet, we were cordially treated as brethren, admitted freely, without reserve or qualification, into that goodly fellowship. They were indeed a company of the Lord's freemen, a truly devout company. And the scrupulous regard for the rights of the human mind, no less than for the other natural rights of man, was shown from the beginning to the end of the Convention."</p>
                            </q>
                            <p>The volume is neatly issued by the well-known publishers, and, we trust, may command an extensive sale.</p>
-                        </div4>
-                        <div4 id="wa2.425" n="George Eliot's Novels." type="book review">
+                        </div>
+                        <div id="wa2.425" n="George Eliot's Novels." type="book review">
                            <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                            <head>GEORGE ELIOT'S NOVELS. <hi rend="italic">Adam Bede, The Mill on the Floss, Romola, and Felix Holt.</hi> Author's Household Edition. Boston: Fields Osgood &#x0026; Co.</head>
                            <p>From our earliest reading of <hi rend="italic">Adam Bede,</hi> the first work which on this side of the Atlantic found an extended audience, we have cherished a profound admiration for the writings of George Eliot. For each of the succeeding creations of her genius, which in the estimation of the public may scarcely have held the place of the first favorite, we know not that there is less of endearing remembrance; for while as fictions they may not possess quite the absorbing interest of the initial romance, which at once stormed the hold of public favor, they bear a rich equivalent in the ripened fertility of invention, in philosophical dissertations, in the elaboration of character, and in the care bestowed upon the descriptive and the most trivial details of her finished works.</p>
                            <pb n="199 Items."/>
                            <p>To those who have with us enjoyed the healthful vigor of her writings, from the first portrayal of the English preacher girl, in the volume the scenes of which were laid on the soil she loved, to the flowering of her creative genius in the person of Romola, the high-bred artistic-natured Italian maiden, breathing, moving amid the classic "spells" of her clime, in the depiction of which the author's skill, severely taxed, was equally manifest,--no word of ours at this late day, is needed to stamp George Eliot as one of the writers the world holds justly dear, and to whom is entitled its warmest gratitude.</p>
                            <p>In obedience to the wide-spread desire of American readers, and with the approval of the author, whose printed autograph letter by its frankness of tone adds value to the edition, the publishers have added to their <hi rend="italic">Household Collection,</hi> in a series uniform with those of Reade and Thackeray, the six volumes of George Eliot, four of which are already on our table. To say that the publishers, Messrs. Fields, Osgood &#x0026; Co., to whom the reading public are so deeply indebted, have well done their part is no over tribute. The dainty green of the morocco cloth binding, the clearness of the type, the excellent quality of the paper, are all of a character to afford pleasure; while the astonishing cheapness of price (<hi rend="italic">one dollar per volume</hi>) should place it, not alone in every library but upon the humble shelf of thousands.</p>
-                        </div4>
-                     </div3>
-                     <div3 id="wa2.426" n="Items." type="items">
+                        </div>
+                     </div>
+                     <div id="wa2.426" n="Items." type="items">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <head>I T E M S.</head>
                         <p>
@@ -2792,8 +2792,8 @@ fascinating, it is almost impossible to select any particular article or passage
 <pb n="200 The Woman's Advocate."/>
 it great ability, while denying that more than human significance should be ascribed to its experiences or the teachings of the writer.</p>
                         <p>A work which is receiving more than ordinary attention abroad, is "The Brook-Miller and his Daughter-in-law," a romance in the Esthonian language, published at Dorpat. The author is Lydia Jansen, a young lady of twenty. The critics who are able to read the book, are enthusiastic in its praise, for power and chasteness of language. The Esthonian is properly a branch of the Finnish tongue, but, unlike the latter, it possesses very little literature.</p>
-                     </div3>
-                     <div3 id="wa2.427" n="Premiums." type="subscriptions">
+                     </div>
+                     <div id="wa2.427" n="Premiums." type="subscriptions">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <p>
                            <hi rend="center">SPECIAL OFFER.</hi>
@@ -2821,9 +2821,9 @@ Twenty    "         .   .   .   .   .   .   .   .   . 22.00</p>
                         <p>We will hereafter send <hi rend="italic">The Nat. Anti-Slavery Standard</hi> ($3. 00 a year) and THE WOMAN'S ADVOCATE, each one year to old or new subscribers, the two for $4.00;--<lb/>
                            <hi rend="italic">The Radical</hi> ($4. 00 a year) and THE ADVOCATE, the two for $5.00;--<lb/>
                            <hi rend="italic">The Herald of Health</hi> ($2. 00 a year) and THE. ADVOCATE, the two for $3.50.</p>
-                     </div3>
+                     </div>
                      <pb/>
-                     <div3 id="wa2.429" n="Ayer's Hair Vigor." type="advertisement">
+                     <div id="wa2.429" n="Ayer's Hair Vigor." type="advertisement">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <head>AYER'S HAIR VIGOR</head>
                         <p>For restoring Gray Hair to its natural Vitality and Color.</p>
@@ -2837,8 +2837,8 @@ Practical and Analytical Chemists,<lb/>
 LOWELL, MASS.<lb/>
 PRICE $1.00.</hi>
                         </p>
-                     </div3>
-                     <div3 id="wa2.4312" n="The National Anti-Slavery Standard" type="advertisement">
+                     </div>
+                     <div id="wa2.4312" n="The National Anti-Slavery Standard" type="advertisement">
                         <docDate>NO. IV.  OCTOBER, 1869.  VOL. II</docDate>
                         <head>THE NATIONAL ANTI-SLAVERY STANDARD.</head>
                         <p>
@@ -2865,16 +2865,16 @@ A. M. POWELL, <lb/>
 Editor of the <hi rend="italic">National Anti-Slavery Standard,</hi>
                            <lb/>
 39 Nassau street, New York.</p>
-                     </div3>
-                  </div2>
-                  <div2 id="wa2.501" n="The Woman's Advocate." type="issue">
+                     </div>
+                  </div>
+                  <div id="wa2.501" n="The Woman's Advocate." type="issue">
                      <head>THE WOMAN'S ADVOCATE.</head>
                      <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
-                     <div3 id="wa2.502" n="The Market Woman" type="story">
+                     <div id="wa2.502" n="The Market Woman" type="story">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>Antoinette Brown Blackwell</docAuthor>
                         <head>THE MARKET WOMAN.</head>
-                        <div4 id="wa2.503" n="Chapter I. A Walk Over the Homestead." type="story chapter">
+                        <div id="wa2.503" n="Chapter I. A Walk Over the Homestead." type="story chapter">
                            <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                            <docAuthor>Antoinette Brown Blackwell</docAuthor>
                            <head>CHAPTER I.<lb/>
@@ -2908,8 +2908,8 @@ each tenderly absorbed in the other. Their four days wedded life had already bud
                            <p>"We'll both help mother. I'll do up the work in the morning before I go, and you can wipe the dishes for me in the evening, as you did last night when we came home and knew that mother was tired enough already. Your mother says you were always the best boy in the world and helped her a great deal in the house. It will be nice to work together. If you are not ashamed of woman's work then I'm not ashamed of man's work;" and Susan looked up bravely. "You'll see!" shaking her head and looking in John's eyes bewitchingly resolute. Then speaking low and with an undertone of deep feeling: "I'm going to do it, John, till we clear off all the debts and the mortgage. It will do us good, both of us."</p>
                            <p>A mist came over John's eyes, a cloud darkened his face. "Dear Susy, if I was only rich or a moneymaker!"</p>
                            <p>"Money grows, John, at least I know it will on this farm. We'll try it and plant the right seed." She spoke in a ringing, singing tone, which he had never heard before, keeping time with her feet as she stood before him. "You know we are bound to leave the dear old homestead without encumbrances to-to-somebody coming all in good time." And with a little, laugh the brave young wife, who knew how to meet debts "face to face," ran forward into a copse beyond to continue a more careful survey of the rather tumble-down fences.</p>
-                        </div4>
-                        <div4 id="wa2.504" n="Chapter II. Home." type="story chapter">
+                        </div>
+                        <div id="wa2.504" n="Chapter II. Home." type="story chapter">
                            <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                            <docAuthor>Antoinette Brown Blackwell</docAuthor>
                            <head>CHAPTER II.<lb/>
@@ -2979,8 +2979,8 @@ much more cheerfully with Susan at his side, and as Susan, like a sunbeam, seeme
                            <p>"Yes, I suppose so," was the cool reply. "It saved poor John many a time from a tumble down the steps, I suppose. He told me about climbing on a chair and trying to swing out over the top."</p>
                            <p>"I don't understand how all that will agree with the marketing;" were the words just rising sharply to the withered lips; but at the mention of this long-ago feat of John's, which came so near terminating in grave disaster, the ice melted from the old motherly heart, and the old lady began at once to relate the deeds and prowess of her child in the years long ago. So a dew drop may extinguish the smouldering embers, or a puff of air fan them into flames.</p>
                            <p>Speaker and listener were alike interested in the narratives which followed, and when the hero himself appeared, both women had resolved anew always to forgive and forget; and to bear and forbear each with the other's cherished wishes, even if need be to her own hurt.</p>
-                        </div4>
-                        <div4 id="wa2.505" n="Chapter III. Setting Out." type="story chapter">
+                        </div>
+                        <div id="wa2.505" n="Chapter III. Setting Out." type="story chapter">
                            <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                            <docAuthor>Antoinette Brown Blackwell</docAuthor>
                            <head>CHAPTER III.<lb/>
@@ -3013,9 +3013,9 @@ working all the morning as he had never worked before, determined afresh, it may
                            <p>Yet those at home were feeling even more keenly than she herself. They had only reluctantly consented, and if she had been aware from the first of the strength of the almost silent opposition, and of all the hot and bitter feelings which it represented, even as she did now, she felt in her soul that she might have been overborne in her purpose. But happily now it was all ended. Her market outfit was a tangible fact. Her stall was already engaged, she and her
 <pb n="217 The Meeting of the Waters."/>
 husband had been together and settled everything, and she was even now drawing near to the new duties of her first market day. The half corduroy roads always rough, were now also muddy; and as she approached the city she was rather glad to be obliged to steer carefully in the midst of deep ruts, and to have a pretty constant demand made upon her attention by her various crocks, baskets and boxes. If her face was flushed, all that might be a reflection of the pink sunbonnet. She thought of the old brown farm-house, whose once fresh paint, white on the road side and red on the back, was now alike dingy; and of the eleven hundred dollar mortage with its terrible arrears of back interest, suspended over their heads like the sword of Damocles, hanging only by a single hair; and she drove herself on, wearing a quiet, staid smile, like one resolute on her way to seek her fortune.</p>
-                        </div4>
-                     </div3>
-                     <div3 id="wa2.506" n="The Meeting of the Waters." type="essay">
+                        </div>
+                     </div>
+                     <div id="wa2.506" n="The Meeting of the Waters." type="essay">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>R. W. Hume</docAuthor>
                         <head>THE MEETING OF THE WATERS.</head>
@@ -3030,9 +3030,9 @@ husband had been together and settled everything, and she was even now drawing n
                         <p>But, in the meantime, these moral storms, so long gathering, are beginning to darken the face of creation. Even those who have followed with awe the shining footprints of the Deity through our last great war, and seen the modern Israelites again led into liberty by the pillars of Smoke and Fire, have reason to tremble lest "Tekel" be written upon their labors for the good of mankind. This will not be, however, if, when they lay their gifts upon the altar, there be found in them no enmity of heart against their brethren, but only abhorrence of the crimes it is a Christian duty to make all efforts to remove.</p>
                         <p>It may be said of our country that here the second grand curse, viz., "that of Confusion of Tongues," is rapidly becoming a myth of the past. Thus here is again exhibited a Pentecostal gathering of the peoples of all nations, who rapidly melt their peculiarities in our Union, and speedily become, if not yet of one accord, of one speech. The international courtesies heralding and advancing the great and good Reforms above specified are simply an extension of such Christian influences, and are destined eventually to obliterate all the woes of humanity. Not only individually, but nationally and universally, will His word be made good, who still cries unto all who are oppressed--whether they be Laborers defrauded of their hire, Women starved into crime in our cities, or Children over-tasked in mines and factories--"Come unto me, all ye that labor and are heavy laden, and I will give you rest." </p>
                         <byline>R. W. HUME.</byline>
-                     </div3>
+                     </div>
                      <pb n="220 The Woman's Advocate."/>
-                     <div3 id="wa2.507" n="My Lesson." type="poem">
+                     <div id="wa2.507" n="My Lesson." type="poem">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>Mary Squires</docAuthor>
                         <head>MY LESSON.</head>
@@ -3089,8 +3089,8 @@ husband had been together and settled everything, and she was even now drawing n
                            <l>My lesson I've written for you.</l>
                         </lg>
                         <byline>MARY SQUIRES.</byline>
-                     </div3>
-                     <div3 id="wa2.508" n="Honor." type="essay">
+                     </div>
+                     <div id="wa2.508" n="Honor." type="essay">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>Samuel C. Blackwell</docAuthor>
                         <head>HONOR.</head>
@@ -3111,8 +3111,8 @@ nized moral duty, how can the relation become ennobled among those who shape the
                         <p>The aggregate dishonor in man and the aggregate suffering in woman, born of this heathen creed, none can know till the secrets of all hearts stand revealed. And who can estimate the injury, largely wrought by this unmanly sentiment, on some erratic intellects, followed by a baser crowd with whom it has brought the dear tie of marriage into disrepute and has even ranged some womanly hearts against that law of inseparable union which gleams with the benison of Christ--the Woman's Friend. It is not for man's convenience mainly that nature sets our race in families. It is for ultimate and universal good that the equal union of one with one glitters in the New Testament, a characteristic star.</p>
                         <p>Honor awakens Honor. Give and it shall be given unto you; good measure pressed down and shaken together and running over will men give into your bosom." So will women! "With what measure we mete withal it shall be measured to you again." And still it is more blessed to give than to receive.</p>
                         <byline>SAMUEL C. BLACKWELL</byline>
-                     </div3>
-                     <div3 id="wa2.510" n="Woman Suffrage, Seen as a Fact." type="essay">
+                     </div>
+                     <div id="wa2.510" n="Woman Suffrage, Seen as a Fact." type="essay">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>M. E. Wright</docAuthor>
                         <head>"WOMAN SUFFRAGE," SEEN AS A FACT.</head>
@@ -3125,8 +3125,8 @@ well filled; and a very noticeable feature of the assembly, was the disposal of 
 <pb n="226 The Woman's Advocate."/>
 sacrifice of no ordinary character. Which is the better qualified? Which the better right to guide the school? Shall we more reverently listen to whiskey-breathing, oath-laden "thunder" than to Purity and Progression though piped in an ear-offending treble? </p>
                         <byline>M. E. WRIGHT.</byline>
-                     </div3>
-                     <div3 id="wa2.511" n="Aspirations." type="poem">
+                     </div>
+                     <div id="wa2.511" n="Aspirations." type="poem">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>William P. Tomlinson</docAuthor>
                         <head>ASPIRATIONS.</head>
@@ -3149,17 +3149,17 @@ sacrifice of no ordinary character. Which is the better qualified? Which the bet
                            <l>Song to the singer solace brings.</l>
                         </lg>
                         <byline>WILLIAM P. TOMLINSON.</byline>
-                     </div3>
-                     <div3 id="wa2.512" n="untitled" type="filler">
+                     </div>
+                     <div id="wa2.512" n="untitled" type="filler">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>J. G. Whittier</docAuthor>
                         <p>* * I frankly confess that I am not able to foresee all the consequences or the great social and political change proposed, but of this I am, at least, sure, it is always safe to do right, and the truest expediency is simple justice. I can understand, without sharing the misgivings of those who fear that, when the vote drops from woman's hand into the ballot box, the beauty and sentiment, the bloom and sweetness of womanhood will go with it. But in this matter it seems to me we can trust Nature. Stronger than statutes or conventions, she will be conservative of all that true men love and honor in woman. * * I have no fear that man will be less manly or woman less womanly when they meet on terms of equality before the law.--<bibl>
                               <hi rend="italic">Extract of a letter from J. G. Whittier.</hi>
                            </bibl>
                         </p>
-                     </div3>
+                     </div>
                      <pb n="227 Thrown Upon the World."/>
-                     <div3 id="wa2.513" n="Thrown Upon the World. Part Third." type="story part">
+                     <div id="wa2.513" n="Thrown Upon the World. Part Third." type="story part">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <docAuthor/>
                         <head>THROWN UPON THE WORLD.<lb/>
@@ -3183,14 +3183,14 @@ fearful happening. Those, men are so vile, so wholly the slaves of drink, that, 
 <pb n="231 Thrown Upon the World."/>
 have grown, at least, into an appreciation of those noble pioneers of progress whose names I then only uttered to ridicule; while their teachings, patterned after His 'who died for Man,' I trust will be my guide throughout life. I wonder if Lucretia Mott will indeed preach next Sabbath in Brooklyn? She is one of the few divinely annointed apostles of this present day whom I have not yet beheld; and all that I have read, and all that you have told me, only intensifies my desire to behold her. Past the three-score-and-ten! and yet able to travel and deliver sermons said to equal in power even those of her earlier life. How wonderful it is that her interest, her zeal, in doing good can be maintained! You promised, also, to tell me something more concerning Lydia Maria Child, whose writings I have so enjoyed latterly, and who you say leads life as beautiful as her own chastest thought, shunning fashion, and almost toiling herself to give yet more largely to the needy.--Ah, Marian, will poor me ever do any good? Will I ever be of any use in the world?</p>
                         <p>To this unwonted outpouring on the part of her companion Marian could only offer a few soothing words; and, as by common consent, the two girls quickened their step to cross the dark, narrow alley stretching across the street which they were traversing, only a few blocks from the "Home." Suddenly a figure, which unperceived had closely followed their movements, brushed up against their persons; a low whistle was given, and, before the terrified girls could give utterance to more than a smothered cry, their assailant was joined by three or four of the gang by whom they were at once overpowered wad dragged several paces into he deep gloom of the alley.</p>
-                     </div3>
-                     <div3 id="wa2.514" n="untitled" type="filler">
+                     </div>
+                     <div id="wa2.514" n="untitled" type="filler">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <p>DURING the last session, the students of the Women's College were admitted to the clinic of the Pennsylvania Hospital. I am told that the young ladies, thinking that the privileges of that great institution had been long enough denied to women, silently walked in, one morning, and took their seats among the other students, and that eminent professor who was about to give the lecture, only recognized their presence by a slight change in the form of his address. Instead of merely saying "Gentlemen," he said "Gentlemen and Ladies." So gracefully did he meet the occasion, so courteously did he yield the long-disputed ground; so quietly and easily did they win an advanced position for woman.--<hi rend="italic">Grace Greenwood.</hi>
                         </p>
-                     </div3>
+                     </div>
                      <pb n="232 The Woman's Advocate."/>
-                     <div3 id="wa2.515" n="A Plea for Daughters. First Paper" type="essay">
+                     <div id="wa2.515" n="A Plea for Daughters. First Paper" type="essay">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>Clara Louise Pendries</docAuthor>
                         <head>A PLEA FOR DAUGHTERS.<lb/>
@@ -3208,8 +3208,8 @@ be," say the parents. "It is really nothing for our daughter to give up a situat
 <pb n="235 John Quincy Adams on the Sphere of Woman."/>
 And be sure it is not the butterfly of the household upon whom these demands are made. It is the most practical and sensible, the clearest-headed of all the sisters. In fact, this thoughtful, unselfish woman, the best daughter and sister, with the will and the courage to be self-reliant, she who would soonest strike out into the new paths now opening to woman were she at all free to do so.</p>
                         <byline>CLARA LOUISE PENDRIES</byline>
-                     </div3>
-                     <div3 id="wa2.516" n="John Quincy Adams on the Sphere of Woman." type="essay">
+                     </div>
+                     <div id="wa2.516" n="John Quincy Adams on the Sphere of Woman." type="essay">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>David Plumb</docAuthor>
                         <head>JOHN QUINCY ADAMS ON THE SPHERE OF WOMAN.</head>
@@ -3220,8 +3220,8 @@ of the highest order when it is done from purity of motive, by appropriate means
                         <p>Were the "Old Man Eloquent" now alive and in Congress and the Sixteenth Amendment before that body, who can doubt that it would receive his eloquent plea and his emphatic <hi rend="italic">Yea?</hi>
                         </p>
                         <byline>DAVID PLUMB.</byline>
-                     </div3>
-                     <div3 id="wa2.517" n="Dare to Stand Alone." type="poem">
+                     </div>
+                     <div id="wa2.517" n="Dare to Stand Alone." type="poem">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <docAuthor/>
                         <head>DARE TO STAND ALONE.</head>
@@ -3257,14 +3257,14 @@ of the highest order when it is done from purity of motive, by appropriate means
                         </lg>
                         <byline>--<hi rend="italic">"Poems" by Frances Dana Gage.</hi>
                         </byline>
-                     </div3>
+                     </div>
                      <pb n="237 Editorial Department."/>
-                     <div3 id="wa2.518" n="Editorial Department." type="editorials">
+                     <div id="wa2.518" n="Editorial Department." type="editorials">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <head>
                            <hi rend="gothic">Editorial Department.</hi>
                         </head>
-                        <div4 id="wa2.519" n="A Commendable Enterprise." type="editorial">
+                        <div id="wa2.519" n="A Commendable Enterprise." type="editorial">
                            <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                            <head>A COMMENDABLE ENTERPRISE.</head>
                            <p>MISS EMMA MARWEDEL, an intelligent, cultivated German woman, to whom we have more than once alluded, is now in this city industriously engaged in promoting the enterprise which has already made such gratifying progress, viz., the establishment of a "Horticultural School for Women."</p>
@@ -3276,8 +3276,8 @@ of the highest order when it is done from purity of motive, by appropriate means
 Cornell University would give Miss MARWEDEL for the purpose-an offer which met with hearty applause from the Club.</p>
                            <p>Capital for the necessary buildings, implements, etc., will be necessary, and this it is proposed to raise by shares, at the low price of five dollar each. Share-holders will be entitled to a dividend of surplus profits. We presume when the arrangements have bee a fully completed those especially interested in the success of the plan, the needed capital can be easily secured.</p>
                            <p>Our heart goes out to Miss MARWEDEL for the success of her enterprise. She is a "stranger in a strange land," but friends have risen up who are kindred in instinct, and her German heart has had cause to glow with the sympathy which has been extended to her undertaking. It is auspicious for the future of the women of our land that an enterprise, promising so much in the way of improved physical health and better compensation for skilled labor, should be so cordially received, and we trust that no untoward circumstance will prevent the speedy establishment of so needed an Institution.</p>
-                        </div4>
-                        <div4 id="wa2.520" n="National Organization Movement." type="editorial">
+                        </div>
+                        <div id="wa2.520" n="National Organization Movement." type="editorial">
                            <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                            <head>NATIONAL ORGANIZATION MOVEMENT.</head>
                            <p>THE following Call, for the accomplishment of what THE ADVOCATE since its establishment has steadily labored, we present with especial pleasure to our readers. It will be seen that not only is the scope and spirit of the paper all that could be desired, but that it is signed by an array of names such as a movement to establish a National Organization rarely secures. Indeed, the names of the signers, for probity and established reputation, are so well known--so much of all that is truly representative in the Cause is pledged to it, that the Movement, in view of the generous support of the press, cannot fail to achieve the success which its importance and the high character of its originators warrant us to believe it will attain:
@@ -3320,8 +3320,8 @@ such organizations to be represented in a Delegate Convention, to be held at Cle
                                  </body>
                               </text>
                            </p>
-                        </div4>
-                        <div4 id="wa2.521" n="The Advocate--1870" type="editorial">
+                        </div>
+                        <div id="wa2.521" n="The Advocate--1870" type="editorial">
                            <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                            <head>THE ADVOCATE.--1870</head>
                            <p>FRIENDS! as the next number of THE ADVOCATE closes the Second Volume, and the year 1869, we desire, at this time, to say a few words to you concerning a new Volume and the year 1870.</p>
@@ -3334,9 +3334,9 @@ to time such selections will be made as best illustrate the progress of the Caus
 <pb n="243 Notes."/>
 articles have elicited numerous inquiries, resides in more distant Indiana. Western Conventions and Western readers know her well. She also, we believe, is in the ranks of the youthful Reformers whose coming tread is already heavy upon New England hills or Western prairies, marching with the assured step of youth and hopefulness, to a speedy victory over Ignorance and Error. There are other contributors, valued by us, also eagerly inquired after, but for the present we must close these imperfect notes. Concerning the well established writers who we rendered us such efficient assistance, Caroline H. Dall, Frances Dana Gage, Wendell Phillips, Lucy Stone, Antoinette Brown Blackwell, Samuel J. May, the Brothers Blackwell, George H. Burleigh, Isabella B. Hooker, and others,--the world knows them too well and justly holds their names too dear, to need any special mention, beyond the tender of our most grateful thanks.</p>
                            <p>WE invite especial attention to our new story, "The Market Woman," the first installment of which we present in the present issue of THE ADVOCATE. To those who deplore the highly seasoned fiction of the period Mrs. Blackwell's story will be found a charming relief by its simplicity, while the happily sketched incidents of the opening chapters awaken a lively interest in the subsequent fortunes of the courageous heroine.</p>
-                        </div4>
-                     </div3>
-                     <div3 id="wa1.5221" n="Notes." type="Brief notes">
+                        </div>
+                     </div>
+                     <div id="wa1.5221" n="Notes." type="Brief notes">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <head>NOTES.</head>
                         <p>MISS MARY HOVEY has been offered the Horticultural Professorship of the Agricultural College of Kansas.</p>
@@ -3369,8 +3369,8 @@ suffer to languish for want of funds, and that she will be enabled to prosecute 
 a conservative middle movement, enlisting the co-operation of many worthy, influential women, we believe that the establishment of such a Parliament as proposed will be the means of effecting much good, and we await further proceedings with interest. From the proceedings of the 21st. ult. men, even to the ubiquitous reporters, were rigorously excluded.</p>
                         <p>It has been noticed in England, and indeed it is a noticeable fact, that almost all the magazine literature of England is monopolized by lady writers. Two of the magazines are edited by ladies--the <hi rend="italic">St. James Magazine,</hi> by Mrs. Roddell; and the <hi rend="italic">Argosy,</hi> by Mrs. Henry Wood; both of these ladies also are writing for <hi rend="italic">Tinsley's Magazine.</hi> There is another monthly, the <hi rend="italic">Packet,</hi> which Miss Yonge edits; and Mrs. S. C. Hall assists her husband in running the <hi rend="italic">Art Journal.</hi> 
                            <hi rend="italic">Macmillan's Magazine</hi> of last month, besides the extraordinary article from the pen of Mrs. Harriet Beecher Stowe, contained articles from Mrs. Muloch-Craik, Miss Olney, and Hon. Mrs. Norton. The leading story in <hi rend="italic">Temple Bar</hi> is by a lady, and Miss Edwards's "Debenham's Vow " is the principal in <hi rend="italic">Good Words.</hi> Even the <hi rend="italic">Contemporary Review</hi> opens its columns to Miss Emily Davies, and a lady has an article on Bells in the <hi rend="italic">Churchman's Shilling Magazine.</hi> There seems also an inclination on the part of gentlemen requiring private secretaries or amanuenses to employ ladies. Sir Charles Lyell, the geologist, employs one ; and Sir Francis Goldsmith's secretary, another lady, has translated "Schleiermacher."</p>
-                     </div3>
-                     <div3 id="wa2.523" n="Special Offer" type="prospectus">
+                     </div>
+                     <div id="wa2.523" n="Special Offer" type="prospectus">
                         <docDate>NO. V. NOVEMBER, 1869. VOL. II.</docDate>
                         <head>SPECIAL OFFER.</head>
                         <p>In order to increase as much as possible the circulation of THE ADVOCATE, we offer to our present subscribers, who will send one, or more, subscriptions, <hi rend="italic">Volume II, the six numbers comprised within it,</hi> for FIFTY CENTS. This offer, applying only to those whose names are upon our books, will enable our friends who have paid a full subscription for the year, to furnish, or present, to others a valuable publication making, in the six numbers, over 300 pages of choice reading matter, for the nominal price of FIFTY CENTS. Surely, with such inducement, those who recognize the importance of disseminating correct principles, will assist in spreading broadcast the seed which, wherever it may be sown, cannot but bear fruit compensating for the little of extra effort. Will not each subscriber to THE ADVOCATE resolve to furnish at least one subscription to commence with the July number?</p>
@@ -3394,12 +3394,12 @@ Twenty    "         . . . . . . . . .16.00</p>
                         <p>We will hereafter send <hi rend="italic">The Nat. Anti-Slavery Standard</hi> ($3.00 a year) and THE WOMAN'S ADVOCATE, each one year to old or new subscribers, the two for $4.00;--<lb/>
                            <hi rend="italic">The Radical</hi> ($4.00 a year) and THE ADVOCATE, the two for $5.00;--<lb/>
                            <hi rend="italic">The Herald of Health</hi> ($2. 00 a year) and THE ADVOCATE, the two for $3.50.</p>
-                     </div3>
-                  </div2>
-                  <div2 id="wa2.601" n="The Woman's Advocate." type="issue">
+                     </div>
+                  </div>
+                  <div id="wa2.601" n="The Woman's Advocate." type="issue">
                      <head>THE WOMAN'S ADVOCATE.</head>
                      <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
-                     <div3 id="wa2.602" n="The Market Woman. Chapter IV." type="story chapter">
+                     <div id="wa2.602" n="The Market Woman. Chapter IV." type="story chapter">
                         <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>Antoinette Brown Blackwell</docAuthor>
                         <head>THE MARKET WOMAN.<lb/>
@@ -3478,8 +3478,8 @@ heart the chime was as musical as the refrain of a pleasant song. These first ea
                         <p>"She will not come here today. I guarantee so much," thought the market woman. "By-and-by I shall have her for a customer. She who Wins may laugh," and she turned to supply the needs of a small boy who was in quest of radishes; but heart and brow were both ablaze, and they went on burning and would not get cool again till the market broke up.</p>
                         <p>Noon came, when the remaining articles were locked away in a box or packed in the market wagon, the patient horse was kindly patted and offered a few refuse green leaves, which he took with manifest thanks and good will; and horse and driver set their faces homewards with lightened hearts, lightened boxes and baskets. Mrs. Reband had a heavy, heavy pocket. Those were days when copper and silver were both in circulation and everywhere abundant. Nearly thirty dollars, chiefly in small coin, she was carrying home as so much clear profit going to liquidate the mortgage.</p>
                         <p>"Better than I ventured to hope," she mused as she drove on at a brisk trot. That will help to reconcile mother. John, too, poor fellow! they felt it more than I did. I shall like it in time; but will they? I can hardly tell."</p>
-                     </div3>
-                     <div3 id="wa2.603" n="A Plea for Daughters. Second Paper." type="essay">
+                     </div>
+                     <div id="wa2.603" n="A Plea for Daughters. Second Paper." type="essay">
                         <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>Clara Louise Pendries</docAuthor>
                         <head>A PLEA FOR DAUGHTERS.<lb/>
@@ -3499,9 +3499,9 @@ absolutely essential to her continued health and happiness. If indeed she aspire
 <pb n="264 The Woman's Advocate"/>
 maturity of thought that will enable her to judge how she is in duty bound afterwards to employ herself. What law of nature requires that the young lady be provided for at home while the young man is away cheerfully, bravely providing for himself? When the Red-breasts reared a family in the old apple tree, and the children birds were fledged, did papa and mamma Robin peck young Cock Robin out of the nest, but suffer Miss Robin to plume her feathers on the mossy bough over above the Redbreast homestead, and receive dainty bits of insect and choice morsels of worm after she was able to fly and provide for herself? Truly any human being, whether Male or female, if possessed of the ordinary powers that distinguish man from the lower orders of life is without excuse if such powers are suffered to rust through idleness or are employed in any way save to the accomplishment of the greatest good in the broadest possible field! And is this at all incompatible with the rendering of any just claim a parent may hold upon his child? Who would question the duty of either son or daughter to guide with tenderest care the faltering steps of age down the hill of life? To recognize with grateful attentions the need of the parent who is sick, overtaken by poverty or crushed beneath some deep affliction? Who would not honor the strong man or, the loving woman that puts resolutely aside the hope of personal gain in order to be quite devoted to the father or mother in actual want of such assistance! But is it not true that the forgetfulness, perhaps sometimes the selfishness, of parents in comparative ease and comfort, is doing much to delay the long looked-for morn of woman's complete enfranchisement? Already the promise is dawning. The eastern sky brightens. There is a glory upon the hill-tops ; but that the sun shine forth in perfect, unsullied radiance, let the strong winds of justice and generous consideration waft afar certain mist clouds, which now slumber heavily upon the horizon.</p>
                         <byline>CLARA LOUISE PENDRIES.</byline>
-                     </div3>
+                     </div>
                      <pb n="265 'Woman is Coming.'"/>
-                     <div3 id="wa2.604" n="Woman is Coming." type="poem">
+                     <div id="wa2.604" n="Woman is Coming." type="poem">
                         <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>Mary R. Whittlesey</docAuthor>
                         <head>"WOMAN IS COMING."</head>
@@ -3556,8 +3556,8 @@ maturity of thought that will enable her to judge how she is in duty bound after
                            <l>"Woman is coming."</l>
                         </lg>
                         <byline>MARY R. WHITTLESEY.</byline>
-                     </div3>
-                     <div3 id="wa2.605" n="Patient Grizzle." type="essay">
+                     </div>
+                     <div id="wa2.605" n="Patient Grizzle." type="essay">
                         <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>W. J. Linton</docAuthor>
                         <head>PATIENT GRIZZLE.</head>
@@ -3571,8 +3571,8 @@ direction. I would like to express my satisfaction pretty strongly, before follo
 woman; and as male theologians had found the male Christ, the more femininely-natured poet naturally followed-with the female.</p>
                         <p>I am not about to argue against our Great Exemplar, nor am I going to expose a sneaking fondness for Griselda. It may be that I think John  Brown as great at Harper's Ferry as when be took that little black child in his arms, as Christ himself might have done, on his way to Calvary. It may be that, in my unregenerated condition thinking force is not always evil, I may esteem the hero as highly as the saint, and find none more saintly than poor fighting Joan of Arc in all the Calendar of the Canonized. Be it so, or not, that is not my present argument. What I would call attention to now is that, whether I like it or not, <hi rend="italic">the Griselda is the type of the Christian woman,</hi> and that (not to speak too seriously, nor too lightly either) on the good common ground of the equality of the sexes--what is good for the gander holds just equally good for the goose.</p>
                         <byline>W. J. LINTON.</byline>
-                     </div3>
-                     <div3 id="wa2.606" n="A Review." type="essay">
+                     </div>
+                     <div id="wa2.606" n="A Review." type="essay">
                         <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>A Woman.</docAuthor>
                         <head>A REVIEW.</head>
@@ -3619,8 +3619,8 @@ victims, or hypocritical flatterers? There are many husband and wives who could 
 <pb n="276 The Woman's Advocate."/>
 he had not wholly waited for a book which renders his own unnecessary.</p>
                         <byline>A WOMAN.</byline>
-                     </div3>
-                     <div3 id="wa2.607" n="The Hereafter." type="poem">
+                     </div>
+                     <div id="wa2.607" n="The Hereafter." type="poem">
                         <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>David Plumb</docAuthor>
                         <head>THE HEREAFTER.</head>
@@ -3690,8 +3690,8 @@ he had not wholly waited for a book which renders his own unnecessary.</p>
                            <l>From the <hi rend="italic">highest flight</hi>--HEREAFTER.</l>
                         </lg>
                         <byline>DAVID PLUMB.</byline>
-                     </div3>
-                     <div3 id="wa2.608" n="Tulliver's Philosophy." type="essay">
+                     </div>
+                     <div id="wa2.608" n="Tulliver's Philosophy." type="essay">
                         <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>Frances Dana Gage</docAuthor>
                         <head>TULLIVER'S PHILOSOPHY.</head>
@@ -3708,8 +3708,8 @@ feel that the present excitement among women, and to them "onpleasantness," is u
                         <p>The arguments against "Suffrage for Women," of the present time, seem to us who desire that right, to be simply puerile. A woman who as to earn her own bread, pay her own taxes; reads the paper and thinks for herself, will fail to see why voting is any more out of <hi rend="italic">her</hi> sphere, than her brother's,--especially if she <hi rend="italic">has</hi> inherited her father's brains, and he has <hi rend="italic">not.</hi>
                         </p>
                         <byline>FRANCES DANA GAGE.</byline>
-                     </div3>
-                     <div3 id="wa2.609" n="Thrown Upon the World. Part Fourth." type="story part">
+                     </div>
+                     <div id="wa2.609" n="Thrown Upon the World. Part Fourth." type="story part">
                         <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                         <docAuthor/>
                         <head>THROWN UPON THE WORLD.<lb/>
@@ -3735,22 +3735,22 @@ volunteered to escort the girls to their home, they having assured him that they
                         <p>But little was said in that homeward walk. There are times, when the heart is too full for words, and as De L'Estrange, his handsome face flushing with the exercise he had undergone, walked between the two friends,--one of whom at least clung closely to his arm,--a forced listener to the thanks which their overflowing hearts could not repress, he blessed the Providence which had led him to the spot, the while inwardly rebuking himself for the selfish thought that in the events of the evening lay another chance to win the favorable regard of Marian Eveleth.</p>
                         <p>"I will not see you again, I suppose, previous to my departure," he said as he lifted his hat in adieu to them at the door of the "Home." "A part of my morning must be devoted to disposing of that petty police case so neither of you need give it further thought, and I must be on board the <hi rend="italic">Baltic</hi> at midday. But I shall hope often to hear from you through our mutual friend, good Mr. Jobson, and, in turn, when yon read my <hi rend="italic">Universe</hi> Letters you can recall our last meeting and my pugilistic prowess."</p>
                         <p>Thus gaily concluding, he stepped lightly to the street, lost in a moment in the gloom but the picture he made standing in the lighted doorway, the wind tossing the long, black hair from the fresh, ruddy cheeks and the questioning look of his yet darker eyes,--was one indellibly daguerreotyped upon Marian's memory, to be pleasurably recalled in many an after-time revery.</p>
-                     </div3>
-                     <div3 id="wa2.610" n="untitled" type="filler">
+                     </div>
+                     <div id="wa2.610" n="untitled" type="filler">
                         <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                         <docAuthor>Miss Mulloch</docAuthor>
                         <p>CAN we not bring up our girls more usefully, less showily, less dependent on luxury and wealth? Can we not teach them from babyhood that to labor is a higher thing than merely to enjoy; that even enjoyment itself is never so sweet as when it is earned? Can we not put into their minds, whatever be their station, principles of truth, simplicity of taste, hopefulness, hatred of waste, and these being firmly rooted, trust to their blossoming up in whatever destiny the young maiden may be called? --<bibl>
                               <hi rend="italic">Miss Muloch.</hi>
                            </bibl>
                         </p>
-                     </div3>
+                     </div>
                      <pb n="284 Editorial Department."/>
-                     <div3 id="wa2.611" n="Editorial Department." type="editorials">
+                     <div id="wa2.611" n="Editorial Department." type="editorials">
                         <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                         <head>
                            <hi rend="gothic">Editorial Department.</hi>
                         </head>
-                        <div4 id="wa2.612" n="A Disgraced Hall of Science." type="editorial">
+                        <div id="wa2.612" n="A Disgraced Hall of Science." type="editorial">
                            <head>A DISGRACED HALL OF SCIENCE.</head>
                            <p>THE recent atrocious conduct of the medical students of Philadelphia, at the clinical lectures of the Pennsylvania Hospital of that city, with the details of which our readers are familiar, has met with justly-deserved censure from almost the entire newspaper press of the country. So disgraceful, indeed, was the outrage perpetrated, that even the most conservative journals have been moved to express their abhorrence of the cowardly act. In this city, no paper has lifted its voice save in condemnation. The <hi rend="italic">Herald</hi> has stigmatized the action in its strongest language, and even the <hi rend="italic">News</hi> cried, Shame.</p>
                            <p>That Philadelphia medical students were ever famed for refinement or true manly sentiment, those who knew the city in the days when its colleges were largely filled with the worst type of Southerners, who gave their peculiar tone to those institutions and carried their ribaldry, indecency, and even violence beyond their halls, to annoy peaceable citizens, will not pretend to say; but until their disgraceful treatment, on November 6th, of the students of the Women's Medical College of that city, who had complied with every formality and had an equal right to the benefit of the course of lectures, we had no idea that they were capable, in this more enlightened day, of downright brutality.</p>
@@ -3758,9 +3758,9 @@ volunteered to escort the girls to their home, they having assured him that they
 <pb n="285 Editorial Department."/>
 best possible argument for women physicians, <hi rend="italic">not only for the benefit of a Profession, but of Society.</hi> We are glad to know that since the disgraceful occurrence of November 6th, the pressure of public opinion has been so strong that the disgraced young men, at a subsequent lecture, were compelled to an outward show of decency,--the students of the Women's Medical College with commendable spirit persevering in their laudable intention to attend the "lectures" and reap the full benefits of thorough Medical education. That, there or elsewhere, they will surely receive. Nothing is more certain than that hereafter both in this country and in Europe, there will be an increasing number of skilled, qualified women physicians. She has conquered her place in the medical fraternity, and no door of science can be so barred as to long exclude her. In the irresistible march of progress, the inevitable must be submitted to. The puny efforts of a few students to throw an obstacle in the way, are of as little avail as were the monarch's command to the tide that approached his feet.</p>
                            <p>But be the conduct of those boorish young men in the future what it may, it will be long before the disgrace, which they have brought upon an honored Institution and a high calling which they have chosen, will be suffered to be forgotten in the minds of all well-disposed members of Society. The chivalrous treatment of women by American gentlemen has frequently won the admiration of foreigners. Hereafter, Philadelphia medical students cannot be held to belong to that class; for by their conduct they have forfeited all claim to the title of American gentlemen. Of the darker stain thrown upon some of the Medical Colleges of Philadelphia by the alleged unscrupulous practice of their faculties in <hi rend="italic">selling</hi> diplomas and other venal acts, grave reports of which reach us through the press, we forbear at present to speak; but we call upon Philadelphians who hold as dear the good name of the city of Rush and Parrish--whose legacy from the Past is so illustrious--to see to it that her once honored institutions become not a hissing and a reproach for their corruption, and that the olden name it bears for sobriety, liberality and public spirit be still maintained.</p>
-                        </div4>
+                        </div>
                         <pb n="286 The Woman's Advocate."/>
-                        <div4 id="wa2.613" n="Wendell Phillops on the Woman Question." type="editorial">
+                        <div id="wa2.613" n="Wendell Phillops on the Woman Question." type="editorial">
                            <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                            <head>WENDELL PHILLIPS ON THE "WOMAN QUESTION."</head>
                            <p>IT was our privilege, a few evenings since, to form one of the large audience which gathered at Steinway Hall, in this city, to listen to WENDELL PHILLIPS in his new lecture, "The Question of Tomorrow."</p>
@@ -3769,8 +3769,8 @@ best possible argument for women physicians, <hi rend="italic">not only for the 
 <pb n="287 Editorial Department."/>
 forth more hearty or seemingly spontaneous applause than the touchingly moving plea for the Rights--Legal, Social and Political--of Woman. In itself the applause bestowed upon a lyceum speaker is of little moment, but it is significant of the advance of a cause until recently odious with the masses, when a fashionable assemblage, from the lips of a speaker banned himself well-nigh a generation from favor, listen rapturously to sentiments hitherto scoffed at in public or by the home-altar. But the world moves. Of earnest, pledged adherents to the cause of Woman Suffrage, the roll of illustrious names already far exceeds the anticipations of its most sanguine advocates; and the impression deepens, with all thoughtful minds, that the hour which sees the extension of the ballot to the Mothers, Wives and Daughters of the land cannot long be deferred.</p>
                            <p>With WENDELL PHILLIPS, as with Abolitionists as a body, Woman's Rights," in all its significance, is no new <hi rend="italic">tenet of faith.</hi> Imbibed simultaneously with his Anti-Slavery convictions, Mr. PHILLIPS has been constant, in season and out of season, in avowing his belief in the necessity of the recognition of the full Legal and Political Equality of Woman, and the cause, so rapidly absorbing the best brain of the Nation, may justly count him as a pioneer worker and one of its chiefest ornaments.</p>
-                        </div4>
-                        <div4 id="wa2.614" n="The Byron Controversy." type="editorial">
+                        </div>
+                        <div id="wa2.614" n="The Byron Controversy." type="editorial">
                            <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                            <head>THE BYRON CONTROVERSY.</head>
                            <p>WHILE our warm sympathies have been with Mrs. STOWE in the condemnation which her "Defence of Lady Byron" has drawn upon her head, we have forborne adding to the angry comment, partly because we deemed the public were not in the proper mood to turn from the hue and cry and form a dispassionate judgment, and partly because we believed that a <hi rend="italic">Beecher</hi> and a woman of Mrs. STOWE's rare endowments might safely be left to make her own defence, in the season that seemed to her best.</p>
@@ -3795,9 +3795,9 @@ Mrs. HANAFORD has in preparation an article of an interesting character, for THE
                                  </body>
                               </text>
                            </p>
-                        </div4>
+                        </div>
                         <pb n="291 Editorial Department."/>
-                        <div4 id="wa2.615" n="The Church Vindicated." type="editorial">
+                        <div id="wa2.615" n="The Church Vindicated." type="editorial">
                            <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                            <head>THE CHURCH VINDICATED.</head>
                            <p>THE following letter from a well-known worker in Reform, vindicating the Methodist Church from the charge preferred against the so-termed Christian denominations, of want of sympathy with all reformatory matters, in justice to a Christian body which we believe, in many respects, to have been an honorable exception to the bygone hostile attitude of the Church, we present to our readers:
@@ -3816,14 +3816,14 @@ SIR:--</salute>
                                  </body>
                               </text>
                            </p>
-                        </div4>
-                        <div4 id="wa2.616" n="untitled" type="filler">
+                        </div>
+                        <div id="wa2.616" n="untitled" type="filler">
                            <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                            <p>WE invite especial attention to the very able review of Dr. Bushnell's book, "Women's Suffrage; the Reform against Nature," in this number of THE ADVOCATE. The article, the production of a fine mind and a practiced pen, will repay careful perusal. According to our contributors all proper latitude of opinion, we deem it proper, in this connection, to state that we do not concur with some of the views of the talented writer, but cheerfully present them for the intelligent consideration of our readers.</p>
-                        </div4>
-                     </div3>
+                        </div>
+                     </div>
                      <pb n="290  The Woman's Advocate."/>
-                     <div3 id="wa2.617" n="Notes." type="notes">
+                     <div id="wa2.617" n="Notes." type="notes">
                         <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                         <head>NOTES.</head>
                         <p>A YOUNG girl, Miss Nelly Mackay Hutchinson, made an excellent report of the recent Hartford Convention for the <hi rend="italic">N. Y. Tribune.</hi>
@@ -3839,27 +3839,27 @@ SIR:--</salute>
                         <p>Mrs. CHARLOTTE LOZIER of this city, the eminent physician and Dean of the Women's Medical College of New York, is entitled to public gratitude for upholding the dignity of the profession and administering a just rebuke to a wealthy Southerner, one Andrew Moran, who, with his victim, a relative, approached her to induce her to engage in malpractice. Although the infamous proposition was accompanied by the proffer of a large sum of money, Mrs. LOZIER unhesitatingly refused to accede to the villainous request, earnestly counselling the unfortunate girl against resorting to such a criminal and dangerous remedy, and lodging complaint against the seducer which, we trust, will result in his trial and punishment to the utmost extent of the law. This act upon the part of Mrs. LOZIER, although in keeping with her high character, is one of great delicacy, involving moral courage of no common order, but which,
 <pb n="292 The Woman's Advocate."/>
 as a duty to society, will be unflinchingly performed. Is it such ornaments as these to the profession those boorish young men at Philadelphia would exclude from medical practice?</p>
-                     </div3>
-                     <div3 id="wa2.618" n="Literary." type="reviews">
+                     </div>
+                     <div id="wa2.618" n="Literary." type="reviews">
                         <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                         <head>LITERARY.</head>
-                        <div4 id="wa2.619" n="The Woman Who Dared. By Epes Sargent." type="review">
+                        <div id="wa2.619" n="The Woman Who Dared. By Epes Sargent." type="review">
                            <docDate>No. VI. DECEMBER, 1869. VOL. II.</docDate>
                            <head>THE WOMAN WHO DARED. By Epes Sargent. 270 pp. Boston: Roberts Brothers.</head>
                            <p>Is there a nook or cranny in literature left uninvaded by the Woman Question?" Learned disquisition, stately history, florid romance, tender verse, all bow to the popular desire, and show alike the deep hold the question has taken on the public mind.</p>
                            <p>One of the latest contributions, of this form of literature, is the unique, fascinating poem, "The Woman who Dared, " from the pen of Epes Sargent, the well known poet, essayist and novelist. This thoughtfully considered story in verse, which has received the close attention of American critics and awakened the deep interest of the public, is one of those indescribable creations of genius of which no brief review can give an adequate idea. The life-history of Linda, the heroine of the pages, a type of the self-reliant, fearless, yet pure-minded American girl, is so charmingly narrated that the attention of even the most conservative reader will be retained and the interest remain concentrated upon the fortunes of the lovely heroine, leading her through a series of acts in which her <hi rend="italic">individualism</hi> is strikingly manifested, until the height of world-regarded glaring impropriety is reached by her unsolicited avowal of love to Charles Lothian, the object of her affection.</p>
                            <p>For those who read poetry merely for that sensuous delight which rests in highly-wrought figure or fanciful expression, this poem of Mr. Sargent's may fail to carry that pleasure which the Swinbourne school of verse ministers to; but the reader who, with the ornaments of rhyme, the sweet nothings that gratify for the moment, desires the more substantial food of healthful, vigorous, practical thought, will find in "The Woman who Dared " as rare a pleasure as any recently issued volume offers. The marriage relation, the intercourse between the sexes, all the vexed problems of the hour, have received Mr. Sargent's sympathetic, attention, and if it may not be said that he has presented a satisfactory solution for them all, he has at least furnished the public with food for close, earnest consideration. </p>
                            <p>The volume is neatly issued by the well-known publishers, Messrs. Roberts Brothers, and we trust will command an extensive sale.</p>
-                        </div4>
+                        </div>
                         <pb n="293 Literary."/>
-                        <div4 id="wa2.620" n="The Uncle Sam Series for American Children." type="review">
+                        <div id="wa2.620" n="The Uncle Sam Series for American Children." type="review">
                            <p>THE UNCLE SAM SERIES FOR AMERICAN CHILDREN. <hi rend="italic">Rip Van Winkle's Nap, Ballad of Abraham Lincoln, Story of Columbus,</hi> and <hi rend="italic">Putnam the Brave.</hi> Illustrated. Boston: Fields, Osgood &#x0026; Co.</p>
                            <p>Perhaps in no respect is the advance in the art of book-making more strikingly illustrated than in the beautifully-colored, tastefully-issued Children's Books, which the approach of the holiday season invariably brings in profusion to the counters and shelves of our large publishing houses. Whenever we glance over any of these richly colored, artistically designed publications we recall the days of childhood, and the few, plain-covered juvenile-books with which, in our country home, we were acquainted; and we wonder whether, after all, the younkers of the present derive any fuller enjoyment from the bewildering feast which the restless enterprise and Croesus-like purse of modern publishers places before them, than we elders from the few well-thumbed story books which rare good fortune threw in our path.</p>
                            <p>The present series are an admirable acting upon the modern theory of <hi rend="italic">placing the best</hi> before that keen critic, the juvenile reader. Each book in the <hi rend="italic">Uncle Sam Series</hi> is the best that pen, brush and handicraft in all detail can make it. <hi rend="italic">Rip Van Winkle's Nap</hi> is told in most charming verse by Edmund Clarence Steadman, and illustrated by S. Eytinge, Jr.; the <hi rend="italic">Story of Columbus</hi> is happily versified by J. S. Trowbridge, the sketching by Alfred Fredericks; <hi rend="italic">Putnam the Brave</hi> is fitly sung by R. H. Stoddard, the coloring by Fredericks, and the closing and most touching ballad of the series, the <hi rend="italic">Ballad of Abraham Lincoln,</hi> is tenderly unfolded by Bayard Taylor, the illustrations by S. Eytinge, Jr.</p>
                            <p>The enterprising publishers, Fields, Osgood &#x0026; Co., add to the weight of public obligation by the issue of this rare and beautiful series, which good Santa Claus should bestow upon the curly-headed inmates of every household in the land.</p>
-                        </div4>
-                     </div3>
-                     <div3 id="wa2.621" n="Special Offer" type="prospectus">
+                        </div>
+                     </div>
+                     <div id="wa2.621" n="Special Offer" type="prospectus">
                         <head>SPECIAL OFFER.</head>
                         <p>IN order to increase as much as possible the circulation of THE ADVOCATE, we offer to our present subscribers, who will send one, or more, subscriptions, <hi rend="italic">Volume II., the six numbers comprised within it,</hi> for FIFTY CENTS. This offer, applying only to those whose names are upon our books, will enable our friends who have paid a full Subscription for the year, to furnish, or present, to others a valuable publication making in the six numbers, over 300 pages of choice reading matter, for the nominal price of FIFTY CENTS. Surely, with such inducement, those who recognize the importance of disseminating correct principles, will assist in spreading broadcast the seed which, wherever it may be sown, cannot but bear fruit compensating for the little of extra effort. Will not each subscriber to THE ADVOCATE resolve to furnish at least one subscription to commence with the July number?</p>
                         <pb n="294 The Woman's Advocate."/>
@@ -3882,9 +3882,9 @@ Twenty    "          . . . . . . . . . 16.00</p>
                         <p>We will hereafter send <hi rend="italic">The Nat. Anti-Slavery Standard</hi> ($3.00 a year) and THE WOMAN'S ADVOCATE, each one year to old or new subscribers, the two for $4.00;--<lb/>
                            <hi rend="italic">The Radical</hi> ($4.00 a year) and THE ADVOCATE, the two for $5.00;--<lb/>
 The Herald of Health ($2.00 a year) and THE ADVOCATE, the two for $3.50.</p>
-                     </div3>
-                  </div2>
-               </div1>
+                     </div>
+                  </div>
+               </div>
             </body>
          </text>
 </TEI.2>
