@@ -3,7 +3,7 @@
 <import file="common-targets.xml"/>
 <import file="image-targets.xml"/>
 
-<target name="all" depends="xml,add-ids,clean,final-info" 
+<target name="all" depends="xml,add-ids,fix-footnotes,clean,final-info" 
  description="* Add ids, convert entities to unicode, validate, and clean up"/>
 
 
