@@ -85,7 +85,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
    </teiHeader>
    <text>
       <body>
-         <div1 id="childstars.001" n="The Stars and Stripes: A Melodrama" type="Drama">
+         <div id="childstars.001" n="The Stars and Stripes: A Melodrama" type="Drama">
             <docAuthor>Lydia Maria Child</docAuthor>
             <head>The Stars and Stripes: A Melodrama</head>
             <docDate>1853</docDate>
@@ -824,7 +824,7 @@ exclaims:]</p>
                <l>Freedom hath triumphed! The slaves are now free!"</l>
             </lg>
             <p>N.B. The scene here described did really occur at Detroit, some years ago, while a vessel, named the Henry Clay, was on the stocks; and the Ferryman made the exclamation here attributed to him.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

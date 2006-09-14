@@ -87,7 +87,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="robbins.001" n=" Freedom" type="article">
+         <div id="robbins.001" n=" Freedom" type="article">
             <docAuthor>Robbins, Mary Eliza. </docAuthor>
             <head>
                <title> Freedom</title>
@@ -102,7 +102,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <p>That man, or that woman, who, by life and by speech, contributes to this end, is a true Ab-
 <pb n="52"/>
 olitionist; since he, or she, adds another <hi rend="ITALIC">stubborn fact</hi>, in confirmation of the doctrine that man was created to be free.  When Man shall be understood, when he shall cease to be afraid of himself, the idea of supremacy among human beings will become as obsolete, as the notion of dividing this harmonious universe between a God and a Devil.  &#x0022;A kingdom divided against itself cannot stand.&#x0022;</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

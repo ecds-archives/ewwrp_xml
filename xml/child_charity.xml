@@ -88,7 +88,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    </teiHeader>
    <text>
       <body>
-         <div1 id="child-charity.001" n=" Charity Bowery" type="article">
+         <div id="child-charity.001" n=" Charity Bowery" type="article">
             <docAuthor>Child, Lydia Maria. </docAuthor>
             <head>
                <title> Charity Bowery</title>
@@ -188,7 +188,7 @@ negroes up in the country going away under large oaks, and in secret places, sit
             </lg>
             <p>With a very arch expression, she looked up, as she concluded, and said, " They wouldn't let us sing that. They wouldn't let us sing that. They thought we was going to rise, because we sung 'better days are coming.'"</p>
             <p>It is now more than a year since poor Charity went where "the wicked cease from troubling, and the weary are at rest."</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>
