@@ -92,7 +92,7 @@ TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="harper.001" n="Our Greatest Want. " type="essay">
+         <div id="harper.001" n="Our Greatest Want. " type="essay">
             <docAuthor>Watkins, Frances Ellen. </docAuthor>
             <docAuthor>[Frances E. W. Harper]. </docAuthor>
             <head>Our Greatest Want. </head>
@@ -182,7 +182,7 @@ lesson we should learn and be able to teach, is how to make every
 gift, whether gold or talent, fortune or genius, subserve the cause of
 crushed humanity and carry out the greatest idea of the present age,
 the glorious idea of human brotherhood.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>

@@ -84,7 +84,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
    </teiHeader>
    <text>
       <body>
-         <div1 id="ratie.001" n="Ratie: A True Story of a Little Hunchback" type="Story">
+         <div id="ratie.001" n="Ratie: A True Story of a Little Hunchback" type="Story">
             <docAuthor>Griffith, Mattie [Martha]</docAuthor>
             <docAuthor>Browne, Mattie Griffith</docAuthor>
             <head>RATIE:  A TRUE STORY OF A LITTLE HUNCHBACK.</head>
@@ -140,7 +140,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <p>"Don't you see, over dar," pointing eastward, "is de old plantation?  How pretty and nice it looks; and dar is all de peoples at work; how busy dey is!  But I is not gwine dar.  I doesn't want to, any more.  Dere up dar is God's plantation, and it is betterer far.  Dere is no slaves dar, but all is free and happy--loving friends; and it is dar dat I wants to go; and I hopes dat all de plantation folks will be dar, or soon come to me."</p>
             <p>So she died!</p>
             <p>When they heard of her death at the old plantation, they were much distressed.  One of the old negroes said that, late in the evening, down at the lower end of the quarter, he distinctly saw, near her mammy's rude grave, the shadow of the little hunchback, Ratie.</p>
-         </div1>
+         </div>
       </body>
    </text>
 </TEI.2>
