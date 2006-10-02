@@ -104,7 +104,7 @@ TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div id="memoir.001" n="Memoir Of Elizabeth Jones" type="Book">
+         <div id="anon_memoir.001" n="Memoir Of Elizabeth Jones" type="Book">
             <docAuthor>Anonymous</docAuthor>
             <head>
                <title>MEMOIR OF ELIZABETH
@@ -116,7 +116,7 @@ UPPER CANADA.</title>
 PUBLISHED BY JOHN MASON, 14, CITY-ROAD:  AND SOLD AT 66,
 PATTERNOSTER-ROW.</bibl>
             <p>Is it well with the child?  It is well!-2 Kings iv, 26.</p>
-            <div id="memoir.002" n="Account of Elizabeth's Family" type="Chapter">
+            <div id="anon_memoir.002" n="Account of Elizabeth's Family" type="Chapter">
                <docAuthor>Anonymous</docAuthor>
                <docDate>1838</docDate>
                <head>Chapter
@@ -132,7 +132,8 @@ I.  <lb/>ACCOUNT OF ELIZABETH'S FAMILY.</head>
 life's short history was rendered peculiarly interesting by
 circumstances of no common occurrence.  Her father, Mr. John Jones,
 whose Indian name is <hi rend="italic">Tyentenegen</hi>, is an Indian
-of the Oojebway* nation, and brother to the Rev. Peter Jones,
+of the Oojebway<ref target="anon_memoir.002n1">*</ref> <note
+place="foot" id="anon_memoir.002n1">*Commonly called Chippeway.</note> nation, and brother to the Rev. Peter Jones,
 otherwise <hi rend="italic">Kahkewaquonaby</hi>, known as a Missionary
 to many in this country as well as amongst his own people.  The mother
 of Elizabeth, whose maiden name was Christiana Brant, was a
@@ -149,9 +150,6 @@ neighbours was truly valuable.  Her advantages having been greater
 than theirs, they looked up to her for advice and instruction; and
 whatever she did or said was sure, if possible, to be imitated and
 remembered by the women in the village.</p>
-               <p>
-                  <note place="foot" anchored="yes">*Commonly called Chippeway.</note>
-               </p>
                <p>Her house was the abode of peace and comfort; the Ministers and
 others who visited the Mission, were not only delighted with the
 hospitality and kindness manifested, but most of all with that
@@ -201,7 +199,14 @@ much-loved Christiana was about to be taken from them.  Being quite
 sensible of her danger, she committed her dear babe to the care of one
 who could nurse it, and seemed comforted by the promise that the
 writer of this little account would watch over her children after her
-happy spirit had returned to God who gave it.* It was truly affecting
+happy spirit had returned to God who gave it.<ref target="anon_memoir.002n2">*</ref><note place="foot" id="anon_memoir.002n2">*The babe died a fortnight after its mother; and
+from that time it has been esteemed a privilege by the writer of this
+narrative to supply, as far as the circumstances of the case allowed,
+the part of a guardian friend to the bereaved child; but a voyage to
+England made it necessary to relinquish for a time (as she supposed)
+her interesting charge, as Mr. J. Jones could not consent to allow his
+dear little daughter to accompany her friends to such a distant
+shore.</note> It was truly affecting
 to witness the anxiety and kindness of the Indian women.  Some brought
 her tea made of herbs and roots to quench her burning thirst; others
 rested in an adjoining room, while one or more watched every word and
@@ -210,14 +215,7 @@ of death was taken away; and when we knelt around her bed in prayer,
 her fervent "Amen" was often heard, and she evidently joined in spirit
 while her friends were singing that beautiful and appropriate hymn,</p>
                <p>
-                  <note place="foot" anchored="yes">*The babe died a fortnight after its mother; and
-from that time it has been esteemed a privilege by the writer of this
-narrative to supply, as far as the circumstances of the case allowed,
-the part of a guardian friend to the bereaved child; but a voyage to
-England made it necessary to relinquish for a time (as she supposed)
-her interesting charge, as Mr. J. Jones could not consent to allow his
-dear little daughter to accompany her friends to such a distant
-shore.</note>
+                  
                </p>
                <p>"On Jordan's stormy banks I stand," &#x0026;c</p>
                <p>On the morning of
@@ -249,7 +247,7 @@ prepared to meet her again in that bright world of glory, where are
 gathered from all nations, people, kindred, and tongues, those who
 fear God and love Jesus Christ.</p>
             </div>
-            <div id="memoir.003" n="Description of Elizabeth's Birth-Place and Early Childhood" type="Chapter">
+            <div id="anon_memoir.003" n="Description of Elizabeth's Birth-Place and Early Childhood" type="Chapter">
                <docAuthor>Anonymous</docAuthor>
                <docDate>1838</docDate>
                <head>Chapter
@@ -410,7 +408,7 @@ wisdom's way;</l>
 may trust to all they say."</l>
                </lg>
             </div>
-            <div id="memoir.004" n="Elizabeth's Early Piety" type="Chapter">
+            <div id="anon_memoir.004" n="Elizabeth's Early Piety" type="Chapter">
                <docAuthor>Anonymous</docAuthor>
                <docDate>1838</docDate>
                <head>Chapter
@@ -580,7 +578,7 @@ better care and happier home in heaven.</p>
                   <l>Legions of angels can't confine me there."</l>
                </lg>
             </div>
-            <div id="memoir.005" n="Elizabeth's Premature Death" type="Chapter">
+            <div id="anon_memoir.005" n="Elizabeth's Premature Death" type="Chapter">
                <docAuthor>Anonymous</docAuthor>
                <docDate>1838</docDate>
                <head>Chapter
@@ -770,7 +768,7 @@ grave's repose,</l>
                   <l>And dissipate our woes."</l>
                </lg>
             </div>
-            <div id="memoir.006" n="Lines, Addressed by a Friend to Mr. John Jones" type="Chapter">
+            <div id="anon_memoir.006" n="Lines, Addressed by a Friend to Mr. John Jones" type="Chapter">
                <docAuthor>Anonymous</docAuthor>
                <docDate>1838</docDate>
                <head>LINES.<lb/>

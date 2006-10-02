@@ -93,22 +93,22 @@ St. P. and Ridley, Florida R.">Josephine St. P. Ruffin and Florida R. Ridley, Ed
    </teiHeader>
    <text>
      <body>
-       <div  id="we3" n="The Woman's Era Vol. 3" type="volume">
-            <div id="we3.21" n="The Woman's Era Vol. 3 No. 2" type="issue">
-               <head rend="aligncenter">The Woman's Era.</head>
-               <head rend="aligncenter">Vol. III. No. 2.</head>
+       <div  id="era3" n="3" type="volume">
+            <div id="era3.21" n="2" type="issue">
+               <head rend="center">The Woman's Era.</head>
+               <head rend="center">Vol. III. No. 2.</head>
                <opener>
                   <dateline>BOSTON, MASS., JUNE, 1896.  PRICE 10 CENTS.</dateline>
                </opener>
                <docDate>June 1896</docDate>
-               <div id="we3.21.01" n="Some Features of the Era Souvenir Program Number" type="article">
-                  <head rend="aligncenter">SOME FEATURES OF THE ERA SOUVENIR PROGRAM NUMBER.</head>
+               <div id="era3.21.01" type="article">
+                  <head rend="center">SOME FEATURES OF THE ERA SOUVENIR PROGRAM NUMBER.</head>
                   <docDate>June 1896</docDate>
                   <p>The most important feature of this number, after the programme of the three days' convention, will be the advertisements of men and women of business in the different cities. Many of the agents interested in this Souvenir, are asking for a whole page upon which to show up the successful business people of their section, and all are taking a local pride in the result. As this number is to have handsome covers, and fine cuts, it will be a lasting ornament, as well as a good business Directory for future reference. All our business people failing to be in evidence in this triumphant showing of successful effort, will have cause for regret when too late to remedy. All orders for space <hi rend="italic">must be in the Boston office by July 10th</hi>, to insure insertion ill this great <hi rend="italic">free</hi> edition. Among the cuts promised is one of Harriet Tubman, of the latest statue presented to the city of Boston, that of John Boyle O'Riley, and in reception of which Mayor Quincy said, "it is the fittest piece of sculpture erected in all Boston," of the building where the first convention of women was held in Boston, and the church where the first annual meeting will be held in Washington, in July.</p>
                </div>
                <pb n="2 THE WOMAN'S ERA."/>
-               <div id="we3.21.02" n="Statement to Advertisers" type="article">
-                  <head rend="aligncenter">STATEMENT TO ADVERTISERS.</head>
+               <div id="era3.21.02" type="article">
+                  <head rend="center">STATEMENT TO ADVERTISERS.</head>
                   <docDate>June 1896</docDate>
                   <p>The WOMAN'S ERA, now in its third year, is published monthly in Boston; it is the organ of the N.F. of A-A.W. which organization extends over a dozen states including fifty Clubs, whose united memberships reach far into the thousands.</p>
                   <p>At the first Annual Convention of this national organization to be held in Washington, D. C., July 20, 21, 22, the WOMAN'S ERA SOUVENIR NUMBER, will be distributed free, as it will also at the Christian Endeavor Convention, which immediately precedes this.</p>
@@ -119,13 +119,13 @@ St. P. and Ridley, Florida R.">Josephine St. P. Ruffin and Florida R. Ridley, Ed
                   <p>Cash must accompany orders.</p>
                   <p>For good and sufficient reasons all advertisements are omitted from this issue of the ERA. Because of this omission all our standing yearly ads. will be carried in the Souvenir Program Number <hi rend="italic">free</hi>. The great advantage to our patrons from this arrangement must be obvious.</p>
                </div>
-               <div id="we3.21.03" n="Royal Blue Line" type="filler">
+               <div id="era3.21.03" type="filler">
                   <docDate>June 1896</docDate>
                   <p>
                      <hi rend="italic">The Royal Blue Line</hi> is endeavoring to secure special rates for the meeting and if successful announcement will be made in due course. This line operates the finest system of trains between New York and Washington, and delegates and their friends are assured of a pleasant trip in travelling under their auspices. This line issues a handsomely illustrated "Guide to Washington" which will be of interest to those intending to be present at the Convention. A copy may be secured free by addressing A. J. Simmons, New England Agent, 211 Washington street, Boston.</p>
                </div>
-               <div id="we3.21.04" n="Convention Notes" type="article">
-                  <head rend="aligncenter">CONVENTION NOTES.</head>
+               <div id="era3.21.04" type="article">
+                  <head rend="center">CONVENTION NOTES.</head>
                   <docDate>June 1896</docDate>
                   <p>The Loyal Union of New Bedford has all the health and vigor of youth. We believe it was the fittest to respond financially. Its president, Mrs. Soulis came to Boston to help form the N.E. Federation and together with Miss Scarborough
 will go as a delegate to Washington.</p>
@@ -136,13 +136,13 @@ will go as a delegate to Washington.</p>
                   <p>Mrs. R. Jerome Jeffrey, president of the Woman's Club of Rochester, N. Y., will represent that body at Washington.</p>
                   <p>All business men find women should advertise in the Souvenir number -- there will be a splendid showing by cities. Send your business cards at once. The Souvenir Number will he distributed free.</p>
                </div>
-               <div id="we3.21.05" n="The Woman's Era Literature Department" type="article">
-                  <head rend="aligncenter">THE WOMAN'S ERA LITERATURE DEPARTMENT.</head>
+               <div id="era3.21.05" type="article">
+                  <head rend="center">THE WOMAN'S ERA LITERATURE DEPARTMENT.</head>
                   <docDate>June 1896</docDate>
                   <p>During the past winter, in Boston, there was organized and conducted a class for the study of the novel. A few of the best novels were selected and studied carefully, the aim being not quantity but quality. Each member of the class was given a set of questions on the novel to be taken up, to which answers were to be formed according to one's opinion after careful reading. These questions and answers were afterwards discussed in the class. The chief benefit derived from the study was through this discussion and being able to form and hold one's own opinion . The questions used in this class will be presented to the readers of the "ERA" from time to time as an incentive to pleasant and profitable study. No answers will be given, for many can simply be a matter of personal opinion.</p>
                   <pb n="3 THE WOMAN'S ERA."/>
-                  <div id="we3.21.05.01" n="The Study of the Novel. Ivanhoe." type="article">
-                     <head rend="aligncenter">THE STUDY OF THE NOVEL.<lb/>
+                  <div id="era3.21.05.01" type="article">
+                     <head rend="center">THE STUDY OF THE NOVEL.<lb/>
 IVANHOE.</head>
                      <docDate>June 1896</docDate>
                      <list type="simple">
@@ -163,35 +163,35 @@ IVANHOE.</head>
                      </list>
                   </div>
                </div>
-               <div id="we3.21.06" n="Mrs. Fannie Barrier Williams in Boston" type="article">
-                  <head rend="aligncenter">MRS. FANNIE BARIER WILLIAMS IN BOSTON.</head>
+               <div id="era3.21.06" type="article">
+                  <head rend="center">MRS. FANNIE BARIER WILLIAMS IN BOSTON.</head>
                   <docDate>June 1896</docDate>
                   <p>The long anticipated lecture by Mrs. Williams of Chicago was given at Gilbert Hall, Tremont Temple on June 20. Mrs. Williams lectured on "The Strength and Weakness of the Christian Religion as Believed, Preached and Practised in the United States" and spoke in her usual thoughtful and finished style. Mrs. Ednah D. Cheney presided and the lecture was listened to by a fine sized audience. Unfortunately the afternoon selected was the one upon which the closing exercises of the "Perkins Institute for the Blind" was held; as this is one of the pet institutions of Boston it drew away a large number who would otherwise have attended the lecture, among them Mrs. Julia Ward Howe who personally expressed her disappointment at not being able to hear Mrs. Williams. On this afternoon also, the Cantabrigia Club held open house in Cambridge in celebration of the fiftieth anniversary of that city. All these kept away a large number who met Mrs. Williams and regretted the circumstances which deprived them of the pleasure of hearing her.</p>
                </div>
-               <div id="we3.21.07" n="Anniversary Week and Visitors" type="article">
-                  <head rend="aligncenter">ANNIVERSARY WEEK AND VISITORS.</head>
+               <div id="era3.21.07" type="article">
+                  <head rend="center">ANNIVERSARY WEEK AND VISITORS.</head>
                   <docDate>June 1896</docDate>
                   <p>The last week in May was a full and delightful one to Boston club women; the annual anniversaries which are a distinctive feature of New England life and work were carried on in the same quietly delightful way as usual, the intellectual features, were as ever faultless, the best minds in New England contributing to these occasions and, amid sunshine and flowers, music, wit, and beauty, yes <hi rend="italic">beauty</hi>, too, Anniversary Week of '96 took its place in the long line of anniversaries gone before.</p>
                   <p>The Woman's Era Club was fortunate in having in its midst, as guests of its president, Mrs Mathews of New York, Mrs. F.B. Williams of Chicago and Mrs. Dickerson of Newport. Each of the Iadies took part in one or more of the many intellectual gatherings of the week, Mrs. Williams being heard in a lecture in Tremont Temple, at one of' the suffrage meetings and at the Free Religious Banquet, where she and Mrs. Mathews were the guests of Mrs. Ednah D. Cheney, while Mrs. Mathews was the speaker at a special called meeting in Charles St. Church, and at the Moral Educational Association meeting at Tremont Temple. All the visiting ladies were guests of Mrs. Ruffin at the Suffrage Banquet in Music Hall. Other social features were, the reception tendered the ladies by the Woman's Era Club at the house of the president. This was in every way a delightful success in spite of the throng which filled the house from chamber to basement, and overflowed on to the porch for air. There was some very fine vocal music by Mrs. A.C. Sparrow, musical director of the club, and recitations by Miss Florence Williams of Newton. The committee having the reception in charge took possession of the house early in the day and literally banked the parlors with potted plants, wild flowers and ferns. The following ladies served at the different tables: Mrs. E. Benjamin, ices and cake, Mrs. Bailey, lemonade and Mrs. Foster, frappe; Miss Eva Lewis, Mrs. Lottie Sampson, Mrs. Dandridge and Miss Etta Tolliver acted as ushers. Memorial day was spent in driving around beautiful Mt. Auburn visiting the tombs of distinguished dead. The last day the visitors were guests at the Cantabrigia Club Reception in the "Newtown Club House" and took part in the festivities consequent upon the fiftieth anniversary of the birth of Cambridge as a city.</p>
                </div>
-               <div id="we3.21.08" n="Ladies' Auxiliary" type="filler">
+               <div id="era3.21.08" type="filler">
                   <docDate>June 1896</docDate>
                   <p>The Ladies' Auxiliary, Mrs. B. K. Bruce, chairman, is taking great interest in the Convention and are doing much to make the visit of the delegates a pleasant one; Mrs. Lawson, secretary of the Ladies' Auxiliary has a large committee on hospitality, and has been and is tireless in her efforts to do all that can be done towards assuring a hearty and enthusiastic reception to the women who will be there from all parts of the Union.</p>
                </div>
                <pb n="4 THE WOMAN'S ERA."/>
-               <div id="we3.21.09" n="Editorial" type="editorial">
-                  <head rend="aligncenter">EDITORIAL.</head>
+               <div id="era3.21.09" type="editorial">
+                  <head rend="center">EDITORIAL.</head>
                   <docDate>June 1896</docDate>
                   <p>VOL. III. Boston, Mass., June, 1896. No. 2.</p>
                   <p>Our readers need not be told that the paper has been very irregular, doubtless, many of them have expressed their opinion of this irregularity in a more or less vigorous manner; however, we beg their favor and ask further indulgence. In attempting to do the work of the Federation and to adequately represent that body, the management took upon itself new and great responsibilities, and until the Federation has had its first convention and gets into better running order, everything concerned is necessarily more or less irregular. We know this condition is irritating but it is always one of the necessary <corr sic="concommittants"> concomitants</corr> of young and struggling institutions. With the Federation well started, with the work running smoothly so that workers will not be "run to death" and then criticised because some things have been omitted, we hope to do better things. Until that time we ask that indulgence which we are obliged to exercise in large measure in doing what we can in carrying on this work for our women and our race.</p>
                   <p>Institutions like the Federation, papers like the ERA, not only call for self-sacrifice, devotion and enthusiasm on the part of those who conduct, but also a large charity, patience, and sympathy on the part of those who "stand and wait."</p>
-                  <div id="we3.21.09.01" n="Winning Causes" type="editorial">
-                     <head rend="aligncenter">WINNING CAUSES.</head>
+                  <div id="era3.21.09.01" type="editorial">
+                     <head rend="center">WINNING CAUSES.</head>
                      <docDate>June 1896</docDate>
                      <p>The causes or movements that have the elements of assured success *  *  *  belong to the history of the human race and not to a mere handful of people from a remote corner of the earth, and must be tested by three supreme tests: the test of right principle, the test of endurance, and the test of growth."</p>
                   </div>
-                  <div id="we3.21.09.02" n="The Convention of the N.F.A.-A.W." type="article">
-                     <head rend="aligncenter">THE CONVENTION OF THE N.F.A.-A.W.</head>
+                  <div id="era3.21.09.02" type="article">
+                     <head rend="center">THE CONVENTION OF THE N.F.A.-A.W.</head>
                      <docDate>June 1896</docDate>
                      <p>That the Federation of colored women should have in one year grown to twice its original size, that it should awaken interest in, and receive responses from the women all over the country, speaks well, not only for the future of organized work among us, but also for the energy, intelligence and self-sacrifice of the officers.</p>
                      <p>The convention promises to be a remarkable one, not only for the characters of the women who will assemble and be represented, but also for the scope of the work which has been planned.</p>
@@ -208,8 +208,8 @@ IVANHOE.</head>
                   </div>
                </div>
                <pb n="5 THE WOMAN'S ERA."/>
-               <div id="we3.21.10" n="Club News." type="club notes">
-                  <head rend="aligncenter">CLUB NEWS.</head>
+               <div id="era3.21.10" type="club notes">
+                  <head rend="center">CLUB NEWS.</head>
                   <docDate>June 1896</docDate>
                   <p>"ADA SWEET PIONEER CLUB," MINNEAPOLIS.</p>
                   <p>The officers elected for the coming year are as follows:</p>
@@ -229,8 +229,8 @@ IVANHOE.</head>
                   <p>Mrs. Fannie Barier Williams, of Chicago, lectured under the auspices of the Club on the 10th of the month on "Prudence Crandell, a Modern Canterbury Tale."</p>
                   <p>In the latter part of May the Club held an interesting and successful public meeting. Papers were read by Miss Cora Napier, Mrs. Plummer and Mrs. Hardison; addresses by Mrs. Napier Kemp and Mrs. Russell, and music was furnished by Mrs. Sadie Williams and Miss Rice.</p>
                   <p>The Ada Sweet Club will be represented on the program of the Convention.</p>
-                  <div id="we3.21.10.01" n="The Omaha Woman's Club" type="club notes">
-                     <head rend="aligncenter">THE OMAHA WOMAN'S CLUB.</head>
+                  <div id="era3.21.10.01" type="club notes">
+                     <head rend="center">THE OMAHA WOMAN'S CLUB.</head>
                      <docDate>June 1896</docDate>
                      <p>The officers elected to serve this Club for the year ending June, 1897, are as follows:</p>
                      <list type="simple">
@@ -249,22 +249,22 @@ IVANHOE.</head>
                      <p>*      *      *      *      *      *  </p>
                      <p>The Japanese Tea given by the Ways and Means Committee of the W.E.C. was an unqualified success in every way, but too late to give details in this issue.</p>
                   </div>
-                  <div id="we3.21.10.02" n="A New England Federation" type="club notes">
-                     <head rend="aligncenter">A NEW ENGLAND FEDERATION.</head>
+                  <div id="era3.21.10.02" type="club notes">
+                     <head rend="center">A NEW ENGLAND FEDERATION.</head>
                      <docDate>June 1896</docDate>
                      <p>Mrs. Mary Dickerson, of Newport, Vice President, representing New England, came to Boston the last week of May and was the guest of Mrs. Ruffin. While here, Mrs. Dickerson met the president and officers of New England clubs and
 succeeded in forming a New England Federation. This step is a good one, and is expected to be productive of great results. All the clubs represented are already members of the National Federation, interested and enthusiastic supporters of the National body who hope by this special organization to awaken the women of New England to a keener interest in united work and to organize for harmonious, vigorous and united work for the cause in general. In the fall the work of the New England Federation will be pushed with zeal and watched with interest.</p>
                   </div>
-                  <div id="we3.21.10.03" n="Atlanta Dots" type="club notes">
-                     <head rend="aligncenter">ATLANTA DOTS.</head>
+                  <div id="era3.21.10.03" type="club notes">
+                     <head rend="center">ATLANTA DOTS.</head>
                      <docDate>June 1896</docDate>
                      <p>Once more our city has taken on her summer aspect; the colleges and seminaries have all closed, and teachers and pupils have wended their way home.</p>
                      <p>The commencement exercises of all the schools were exceptionally fine this year.</p>
                      <p>Miss Mamie Mason, one of Spelman's, "Sweet girl Graduates" read a well prepared paper on "The Need of a Reformatory for Georgia." When she had finished there was a most hearty appreciation and approval, not only from the magnificent audience, which filled spacious chapel, but Gov. W.Y. Atkinson rose from his seat on the rostrum, and not only endorsed the sentiments of Miss Mason's paper, but expressed in strong terms, his sympathy for the movement. The next day a reporter from the <hi rend="italic">Atlanta Journal</hi>, (daily) was sent to Spelman Seminary, to secure Miss Mason's paper for publication in its columns; now, this paper, three, yes, two years ago considered it an unpardonable sin, to allow an article from the pen and brain of an educated Afro-American, to appear in its sacred (?) columns. Miss Mason has started the ball, and ere long we hope to have a reformatory for our youthful criminals like the splendid one in Concord, Mass.</p>
                      <pb n="6 THE WOMAN'S ERA."/>
                   </div>
-                  <div id="we3.21.10.04" n="Atlanta Woman's Club" type="club notes">
-                     <head rend="aligncenter">ATLANTA WOMAN'S CLUB.</head>
+                  <div id="era3.21.10.04" type="club notes">
+                     <head rend="center">ATLANTA WOMAN'S CLUB.</head>
                      <docAuthor>Selena S. Butler</docAuthor>
                      <docDate>June 1896</docDate>
                      <p>The regular meetings have been well attended, and full of interest and inspiration. The reports read from the different committees were gratifying. The First Ward sewing circle, with Miss M.F. Pullen as chairman, has been at source of education, to all who have attended. The girls do plain sewing very creditably.</p>
@@ -275,8 +275,8 @@ succeeded in forming a New England Federation. This step is a good one, and is e
                      <byline>Selena S. Butler.</byline>
                   </div>
                </div>
-               <div id="we3.21.11" n="Convention Notes" type="club notes">
-                  <head rend="aligncenter">CONVENTION NOTES.</head>
+               <div id="era3.21.11" type="club notes">
+                  <head rend="center">CONVENTION NOTES.</head>
                   <docDate>June 1896</docDate>
                   <p>The program for the Convention will be in the form of a "Woman's Era Souvenir Edition;" these will be issued the early part of July and will be for free distribution.</p>
                   <p>Many people labor under the mistaken idea that there are differences between the National Federation of Afro-American Women, and other organizations. Distinct lines of work should not be conflicted with causes for antagonism. We fear this has been done unwittingly by many who have not begun to realize the proportions of the Woman's Movement. We are rejoiced over the moral effect thus far of the efforts to arouse our women the country over. Until the movement inaugurated by the women of Boston, which resulted in the formation of the National Federation was pioneered to success, the colored woman as a factor in club life was unknown, except locally. Not so now, and the National Federation feels justifiably encouraged. At the coming Convention efforts will be made to accomplish tangible results by bringing together the women who have founded homes, orphanages and hospitals, that our coming women may gather inspiration and the public be educated as to the actual work our women are striving against odds to do.</p>
@@ -288,16 +288,16 @@ succeeded in forming a New England Federation. This step is a good one, and is e
                   <p>Our faithful friend Mrs. Lyles will carry on her plucky efforts in favor of the Joint Brown Memorial. Her cause is a noble one and should have the <hi rend="italic">undivided support</hi> of our women.</p>
                   <p>Miss Mason of Atlanta, will treat the Georgia Convict System. By an address delivered some time ago, on this subject in her native city this lady won the hearty congratulation of  Gov. Atkinson of Georgia, on the very able and comprehensive way in which she handled the subject.</p>
                </div>
-               <div id="we3.21.12" n="Woman's Loyal Union of New York and Brooklyn" type="article">
-                  <head rend="aligncenter">"WOMAN'S LOYAL UNION OF NEW YORK AND BROOKLYN."</head>
+               <div id="era3.21.12" type="article">
+                  <head rend="center">"WOMAN'S LOYAL UNION OF NEW YORK AND BROOKLYN."</head>
                   <docDate>June 1896</docDate>
                   <p>The Woman's Loyal Union of New York and Brooklyn, will be represented very largely at the Convention. It has been decided to solid two regular delegates; the possibilities are that a large number will attend from that body.</p>
                   <p>The birthday of Harriet Beecher Stowe, was upon motion of Mrs. K.V. Carmand remembered, and a letter written in that lady's most touching and sympathetic vein was voted sent to the famous author of Uncle Tom's Cabin; also an original poem by Miss H. Cordelia Ray, secretary of the W.L.U. There is something eminently fit in selecting these ladies to perform this pleasing task. Mrs. Carmand's mother was a noted woman -- Mrs. Jennings, -- whose best years were spent, far from the great centres of population, educating the Plantation youth of Virginia.</p>
                   <p>Miss H. Cordelia Ray, a poet by nature and cultivation descends from a family noted for talent and integrity. Her father, Dr. Charles Ray, was long known as one of the most zealous workers for the emancipation of his people in the South. He was especially beloved by Wendell Phillips.</p>
                </div>
                <pb n="7 THE WOMAN'S ERA."/>
-               <div id="we3.21.13" n="Open Letter from Chairman of Ex. Com. of N.F.A.-A.W." type="article">
-                  <head rend="aligncenter">OPEN LETTER FROM CHAIRMAN OF EX. COM. OF N.F.A.-A.W.</head>
+               <div id="era3.21.13" type="article">
+                  <head rend="center">OPEN LETTER FROM CHAIRMAN OF EX. COM. OF N.F.A.-A.W.</head>
                   <docAuthor>Victoria Matthews</docAuthor>
                   <docDate>June 1896</docDate>
                   <p>Since the publication of the letters sent by the officers of the National League, many persons have written for information as to "why the National Federation refused to unite with National League?" and other questions implying that the officers of the National Federation were cognizant of the plans of the League to hold a separate convention before the announcement was made in public print. As my correspondence is <corr sic="voluminious">voluminous</corr>, and everything connected with this matter is not private but public concern, I am forced to adopt this means of answering many who have requested information concerning the matter. I beg all included under this head of personal correspondents will consider this explanation a personal reply to their queries: -- </p>
@@ -308,8 +308,8 @@ succeeded in forming a New England Federation. This step is a good one, and is e
                      <title>Chairman Executive Committee National Federation of Afro-American Women.</title>
                   </signed>
                </div>
-               <div id="we3.21.14" n="Louisiana" type="club notes">
-                  <head rend="aligncenter">LOUISANA.</head>
+               <div id="era3.21.14" type="club notes">
+                  <head rend="center">LOUISANA.</head>
                   <docAuthor>Alice Ruth Moore</docAuthor>
                   <docDate>June 1896</docDate>
                   <p>The Phyllis Wheatley Club is doing a lot of work lately. The Sanitarium scheme is taking on what seems to be something of a very definite nature. There was a special meeting to discuss its plans into something like real work.</p>
@@ -323,8 +323,8 @@ succeeded in forming a New England Federation. This step is a good one, and is e
                   <p>The club has appointed its delegate to represent it at Washington in July.</p>
                   <byline>ALICE RUTH MOORE.</byline>
                </div>
-               <div id="we3.21.15" n="Harriet Tubman" type="article">
-                  <head rend="aligncenter">HARRIET TUBMAN.</head>
+               <div id="era3.21.15" type="article">
+                  <head rend="center">HARRIET TUBMAN.</head>
                   <docAuthor>Victoria Earle</docAuthor>
                   <docDate>June 1896</docDate>
                   <p>Efforts are now being put forward to bring before the young generation the last of the grand characters identified with the "uprising of a great people." The woman whom the great-hearted Mrs. Sarah H. Bradford of Geneva, said, is "worthy to be handed down to posterity side and side with the names of Joan of Arc, Grace Darling, and Florence Nightingale."</p>
@@ -335,8 +335,8 @@ succeeded in forming a New England Federation. This step is a good one, and is e
                   <byline>Victoria Earle.</byline>
                </div>
                <pb n="9 THE WOMAN'S ERA."/>
-               <div id="we3.21.16" n="Souvenir Number N.F.A.A.M Convention Program" type="advertisement">
-                  <head rend="aligncenter">The Woman's Era.<lb/>
+               <div id="era3.21.16" type="advertisement">
+                  <head rend="center">The Woman's Era.<lb/>
 Souvenir Number<lb/>
 N.F.A.A.M. Convention Program<lb/>
 Washington Business Calendar</head>
@@ -518,15 +518,15 @@ Where they get everything served first-class including 15 and 24 cent meals. Ice
 VENIE &#x0026; WATKINS, Props.</p>
                </div>
             </div>
-            <div id="we3.02" n="The Woman's Era Vol. 3 No. 2.2" type="issue">
-               <head rend="aligncenter">The Woman's Era.</head>
-               <head rend="aligncenter">Organ of The National Federation of Afro-American Women.</head>
-               <head rend="aligncenter">Vol. III. No. 2.</head>
+            <div id="era3.02" n="2" type="issue">
+               <head rend="center">The Woman's Era.</head>
+               <head rend="center">Organ of The National Federation of Afro-American Women.</head>
+               <head rend="center">Vol. III. No. 2.</head>
                <opener>
                   <dateline>BOSTON, MASS., JULY, 1896.  PRICE 10 CENTS.</dateline>
                </opener>
-               <div id="we3.02.01" n="National Federation of Afro-American Women." type="list">
-                  <head rend="aligncenter">NATIONAL FEDERATION OF AFRO-AMERICAN WOMEN.<lb/>
+               <div id="era3.02.01" type="list">
+                  <head rend="center">NATIONAL FEDERATION OF AFRO-AMERICAN WOMEN.<lb/>
 Membership List.</head>
                   <docDate>July 1896</docDate>
                   <p>
@@ -539,11 +539,11 @@ Cor. Sec., Mrs. U.A. Ridley, Brookline, Mass.<lb/>
 Treas., Mrs. Libbie C. Anthony. Jefferson City, Mo.<lb/>
 Ch. Ex. Com., Mrs. Victoria Matthews, 9 Murray street, New York city.</p>
                </div>
-               <div id="we3.02.02" n="Clubs and Societies." type="list">
-                  <head rend="aligncenter">CLUBS AND SOCIETIES.</head>
+               <div id="era3.02.02" type="list">
+                  <head rend="center">CLUBS AND SOCIETIES.</head>
                   <docDate>July 1896</docDate>
-                  <div id="we3.02.02.01" n="Alabama." type="list">
-                     <head rend="aligncenter">ALABAMA.</head>
+                  <div id="era3.02.02.01" type="list">
+                     <head rend="center">ALABAMA.</head>
                      <docDate>July 1896</docDate>
                      <p>Greensboro Woman's Mutual Benefit Society -- President, Mrs. S. A. Christian.<lb/>
 Montgomery Sojourner Truth Club - President, Miss M. Agnes Jenkins; secretary, Miss Kate V. de Jamette, 617 High St.<lb/>
@@ -553,46 +553,46 @@ Selma Woman's Club - President, Mrs. M.A. Dillard.<lb/>
 Tuskegee Woman's Club - President, Mrs. B.T. Washington; secretary, Miss. E.E. Lane.<lb/>
 Tuskegee Notasalga Woman's Club - President, Miss Anna Davis.</p>
                   </div>
-                  <div id="we3.02.02.02" n="California." type="list">
-                     <head rend="aligncenter">CALIFORNIA.</head>
+                  <div id="era3.02.02.02" type="list">
+                     <head rend="center">CALIFORNIA.</head>
                      <docDate>July 1896</docDate>
                      <p>Los Angeles Woman's Club - President, Mrs. C.I. Clarkson; corresponding secretary, Mrs. Mary Washington, 336 S. Alameda St.Mlb&#x003E;
 Eufaula Woman's Club - President, Mrs. C.L. Wells, P.O. Box, 115.</p>
                   </div>
-                  <div id="we3.02.02.03" n="North Carolina." type="list">
-                     <head rend="aligncenter"> NORTH CAROLINA.</head>
+                  <div id="era3.02.02.03" type="list">
+                     <head rend="center"> NORTH CAROLINA.</head>
                      <docDate>July 1896</docDate>
                      <p>Biddle University Club.</p>
                   </div>
-                  <div id="we3.02.02.04" n="South Carolina." type="list">
-                     <head rend="aligncenter"> SOUTH CAROLINA.</head>
+                  <div id="era3.02.02.04" type="list">
+                     <head rend="center"> SOUTH CAROLINA.</head>
                      <docDate>July 1896</docDate>
                      <p>Charleston Woman's League - President, Mrs. J.P. Dart; corresponding secretary, Miss Hattie Marshall, Bayard St.<lb/>
 Charleston W.C.T.U. - President, Miss Marion R. Birnie; secretary, Miss Ellen E. Sanders, 1 Liberty St.</p>
                   </div>
-                  <div id="we3.02.02.05" n="Georgia." type="list">
-                     <head rend="aligncenter">GEORGIA.</head>
+                  <div id="era3.02.02.05" type="list">
+                     <head rend="center">GEORGIA.</head>
                      <docDate>July 1896</docDate>
                      <p>Atlanta Woman's Club - President, Mrs. D.T. Howard; secretary, Mrs. M.E. Ford, Mitchell St. School.</p>
                   </div>
-                  <div id="we3.02.02.06" n="Illinois." type="list">
-                     <head rend="aligncenter">ILLINOIS.</head>
+                  <div id="era3.02.02.06" type="list">
+                     <head rend="center">ILLINOIS.</head>
                      <docDate>July 1896</docDate>
                      <p>Chicago Ida B. Wells Club - President, Mrs. I. Wells Barnett; secretary, Mrs. Julia L. McDonald, 4537 Chaplain Ave.<lb/>
 Chicago Phyllis Wheatley Club - President, Mrs. W.H. Davis; secretary, Miss. L.M. Carter, 5005 Dearborn St.</p>
                   </div>
-                  <div id="we3.02.02.07" n="Kansas." type="list">
-                     <head rend="aligncenter">KANSAS.</head>
+                  <div id="era3.02.02.07" type="list">
+                     <head rend="center">KANSAS.</head>
                      <docDate>July 1896</docDate>
                      <p>Lawrence Sierre Leone Club - President, Mrs. J.H. Young, 810 Main St.; secretary, Mrs. C.C. James</p>
                   </div>
-                  <div id="we3.02.02.08" n="Louisiana." type="list">
-                     <head rend="aligncenter">LOUISIANA.</head>
+                  <div id="era3.02.02.08" type="list">
+                     <head rend="center">LOUISIANA.</head>
                      <docDate>July 1896</docDate>
                      <p>New Orleans Phyllis Wheatley Club - President, Mrs. Sylvania Williams, 1438 Enterpe St.</p>
                   </div>
-                  <div id="we3.02.02.09" n="Massachusetts." type="list">
-                     <head rend="aligncenter">MASSACHUSETTS.</head>
+                  <div id="era3.02.02.09" type="list">
+                     <head rend="center">MASSACHUSETTS.</head>
                      <docDate>July 1896</docDate>
                      <p>Boston Woman's Era Club - President, Mrs. J. St. P. Ruffin; secretary, Mrs. F.R. Ridley, Brookline, Mass.<lb/>
 Boston Lend-a-Hand Circle - President, Mrs. Hannah Smith, 371 Northampton St.<lb/>
@@ -606,22 +606,22 @@ Salem Woman's Protective Club - President, Mrs. N.R. Freeman, 20 English St.; se
 Cambridge Golden Rule Club - Presidents, Mrs. Nancy Lewis; secretary, Miss Adelaide Grandison, P.O. Box 327, Norwood, Mass.<lb/>
 Chelsea B.F. Tanner Club, President Mrs. M.C. Bond.</p>
                   </div>
-                  <div id="we3.02.02.10" n="Minnesota." type="list">
-                     <head rend="aligncenter">MINNESOTA.</head>
+                  <div id="era3.02.02.10" type="list">
+                     <head rend="center">MINNESOTA.</head>
                      <docDate>July 1896</docDate>
                      <p>Minneapolis Ada Sweet Pioneer Club - President, Mrs. Jasper Gibbs; secretary, Mrs. J. Napier Kemp, address Registry of Deeds, Hennepin County.<lb/>
 Minneapolis and St. Paul Twin City Woman's Era Club - President, Mrs. T. Rodney King; secretary, Mrs. J.N. Kemp.<lb/>
 St. Paul Woman's Loyal Union and John Brown Industrial Club - President, Mrs. T.H. Lyles, 782 Selby Ave.; secretary, M.D. Pattis.</p>
                   </div>
-                  <div id="we3.02.02.11" n="Missouri." type="list">
-                     <head rend="aligncenter">MISSOURI.</head>
+                  <div id="era3.02.02.11" type="list">
+                     <head rend="center">MISSOURI.</head>
                      <docDate>July 1896</docDate>
                      <p>Jefferson City Woman's Club - President, Mrs. L.C. Anthony; secretary, Mrs. Celia Roberts.<lb/>
 St. Louis F.E.W. Harper League - President, Mrs. M.F. Pitts, 215 N. Seventh St., East St. Louis.<lb/>
 St. Joseph F.E.W.H. League - President, Mrs. Lillian M. Jackson, 714 North 24th St.</p>
                   </div>
-                  <div id="we3.02.02.12" n="New York." type="list">
-                     <head rend="aligncenter">NEW YORK.</head>
+                  <div id="era3.02.02.12" type="list">
+                     <head rend="center">NEW YORK.</head>
                      <docDate>July 1896</docDate>
                      <p>New York and Brooklyn Woman's Loyal Union - President, Mrs. Victoria N. Matthews; secretary, Miss. H. Cordelia Ray, 311 East 62d st., N.Y.<lb/>
 New York Cleave Circle - President, Miss J.B. Hunt, 228 West 41st St.; secretary, Mrs. H.A. Hunt, 101 31st St., N.Y.<lb/>
@@ -630,31 +630,31 @@ Harlem Woman's Sympathetic Union - President, Catharine Maxwell, Elmsford, N.Y.;
 Rochester Woman's Club - President, Mrs. R. Jerome Jeffrey, 10 James St.; secretary, Mrs. J.W. Thompson.<lb/>
 New York and Brooklyn W.A.A.U. - President, Mrs. E.E. Williams; secretary, Miss E.D. Spencer, 65 State St., Flushing, L.I.</p>
                   </div>
-                  <div id="we3.02.02.13" n="Nebraska." type="list">
-                     <head rend="aligncenter">NEBRASKA.</head>
+                  <div id="era3.02.02.13" type="list">
+                     <head rend="center">NEBRASKA.</head>
                      <docDate>July 1896</docDate>
                      <p>Omaha Woman's Club - President, Laura M. Craig; secretary, L.Irene Sley, 2824 Douglass St.</p>
                   </div>
-                  <div id="we3.02.02.14" n="Pennsylvania." type="list">
-                     <head rend="aligncenter">PENNSYLVANIA.</head>
+                  <div id="era3.02.02.14" type="list">
+                     <head rend="center">PENNSYLVANIA.</head>
                      <docDate>July 1896</docDate>
                      <p>Pittsburgh and Alleghany F.E.W.H. League - President, Mrs. Rebecca T. Aldridge, secretary, Mrs. Gertrude L. Brooks, 67 Franklin St.</p>
                   </div>
-                  <div id="we3.02.02.15" n="Rhode Island." type="list">
-                     <head rend="aligncenter">RHODE ISLAND.</head>
+                  <div id="era3.02.02.15" type="list">
+                     <head rend="center">RHODE ISLAND.</head>
                      <docDate>July 1896</docDate>
                      <p>Newport Woman's League - President, Mrs. Mary H. Dickerson; secretary, Miss Margaret Kinlock, 89 Levin St.<lb/>
 Providence Working Woman's League - President, Mrs. Hannah Greene, 85 Winter St.</p>
                   </div>
-                  <div id="we3.02.02.16" n="Tennessee." type="list">
-                     <head rend="aligncenter">TENNESSEE.</head>
+                  <div id="era3.02.02.16" type="list">
+                     <head rend="center">TENNESSEE.</head>
                      <docDate>July 1896</docDate>
                      <p>Knoxville Woman's Mutual Improvement Club - President, Mrs. Sylvia M. Maples; secretary, M.L. Floyd, 712 Mabrey St.<lb/>
 Memphis Coterie Migratory Assembly - President, Mrs. F.P. Cooper, 18 Goslee St.; secretary, Mrs. F.L. Williamson, 204 Hernando St.<lb/>
 Memphis Hooks School Association - President, Mrs. Julia Hooks; secretary, Miss Cannon, 462 Lauderdale St.</p>
                   </div>
-                  <div id="we3.02.02.17" n="Virginia." type="list">
-                     <head rend="aligncenter">VIRGINIA.</head>
+                  <div id="era3.02.02.17" type="list">
+                     <head rend="center">VIRGINIA.</head>
                      <docDate>July 1896</docDate>
                      <p>Richmond Woman's League - President, Mrs. Rosa D. Bowser, 1573 North Adam St.; secretary, Miss M.L. Chiles, 114 West Leigh St.<lb/>
 Cappahoosie Gloucester A. and I. School - President, Miss Susie E. Edwards.<lb/>
@@ -663,13 +663,13 @@ Washington, D.C., Ladies' Auxiliary Committee - President, Mrs. B.K. Bruce; secr
 Washington Lucy Thurman W.C.T.U. - President, Mrs. A.G. Gray; secretary, Louise Early Hawkins, 35 Patterson St.</p>
                   </div>
                </div>
-               <div id="we3.02.03" n="Edwin G. Walker." type="filler">
+               <div id="era3.02.03" type="filler">
                   <docDate>July 1896</docDate>
                   <p>The number of prosperous lawyers in Boston is the subject of remark. Edwin G. Walker is distinguished for being the oldest practitioner among the colored lawyers, and for bearing an honored name, his father having started the agitation that ended only in the abolition of slavery, by his "Walker's Appeal," the first published protest against that evil.</p>
                </div>
                <pb n="3 THE WOMAN'S ERA."/>
-               <div id="we3.02.04" n="Harriet Tubman." type="article">
-                  <head rend="aligncenter">Harriet Tubman.<lb/>
+               <div id="era3.02.04" type="article">
+                  <head rend="center">Harriet Tubman.<lb/>
 Woman's Era Eminent Women Series.</head>
                   <docAuthor>Victoria Earle.</docAuthor>
                   <docDate>July 1896</docDate>
@@ -679,8 +679,8 @@ Woman's Era Eminent Women Series.</head>
                   <byline>VICTORIA EARLE.</byline>
                   <pb n="4 THE WOMAN'S ERA."/>
                </div>
-               <div id="we3.02.05" n="Boston Business Calendar." type="advertisements">
-                  <head rend="aligncenter">Boston Business Calendar.</head>
+               <div id="era3.02.05" type="advertisements">
+                  <head rend="center">Boston Business Calendar.</head>
                   <docDate>July 1896</docDate>
                   <p>
                      <figure entity="we321">
@@ -774,8 +774,8 @@ Boston, -  -  -  Mass.<lb/>
 Entire new stock of Goods selected with great care to be sold unadulterated. Prescriptions a specialty. All to be sold at prices within the reach of all. Our motto is: Pure Drugs, fair dealings, punctual and polite clerks at all times in attendance.</p>
                </div>
                <pb n="5 THE WOMAN'S ERA."/>
-               <div id="we3.02.06" n="First Annual Convention National Federation Afro-American Women." type="program">
-                  <head rend="aligncenter">FIRST ANNUAL CONVENTION NATIONAL FEDERATION AFRO-AMERICAN WOMEN, NINETEENTH STREET BAPTIST CHURCH, WASHINGTON, D.C.</head>
+               <div id="era3.02.06" type="program">
+                  <head rend="center">FIRST ANNUAL CONVENTION NATIONAL FEDERATION AFRO-AMERICAN WOMEN, NINETEENTH STREET BAPTIST CHURCH, WASHINGTON, D.C.</head>
                   <docDate>July 1896</docDate>
                   <p>PROGRAM</p>
                   <list type="simple">
@@ -844,8 +844,8 @@ Entire new stock of Goods selected with great care to be sold unadulterated. Pre
                   </list>
                </div>
                <pb n="6 THE WOMAN'S ERA."/>
-               <div id="we3.02.07" n="Boston Business Calendar." type="advertisements">
-                  <head rend="aligncenter">Boston Business Calendar.</head>
+               <div id="era3.02.07" type="advertisements">
+                  <head rend="center">Boston Business Calendar.</head>
                   <docDate>July 1896</docDate>
                   <p>
                      <figure entity="we322">
@@ -910,7 +910,7 @@ Bicycle Sundries.<lb/>
 13 Camden, near Washington Street, Boston, Mass.</p>
                </div>
                <pb n="7 THE WOMAN'S ERA."/>
-               <div id="we3.02.08" n="General Discussion." type="filler">
+               <div id="era3.02.08" type="filler">
                   <docDate>July 1896</docDate>
                   <list type="simple">
                      <item>General discussion open to delegates only.</item>
@@ -920,8 +920,8 @@ Bicycle Sundries.<lb/>
                      <item>Many religious institutions will send greetings and report of work.</item>
                   </list>
                </div>
-               <div id="we3.02.09" n="Notes and Comments." type="club notes">
-                  <head rend="aligncenter">NOTES AND COMMENTS</head>
+               <div id="era3.02.09" type="club notes">
+                  <head rend="center">NOTES AND COMMENTS</head>
                   <docDate>July 1896</docDate>
                   <p>THE WOMAN'S ERA has been kept alive only through courage and self-sacrifice. It is now in its third year and speaks for itself. Every man and woman can judge whether there is need for such a paper and whether that need has been met with any degrees of ability.</p>
                   <p>The N.F.A.A.W. takes especial prid ein the conferring of a degree upon B.T. Washington by Harvard College. Through the president, the wife of Mr. Washington, some of the glory depends upon our organization.</p>
@@ -956,8 +956,8 @@ Bicycle Sundries.<lb/>
                   <p>Wolf &#x0026; Brown is a law combination that has been successful from the start, and the firm is now one of the substantial institutions of Boston.</p>
                </div>
                <pb n="8 Newport, Etc., Business Calendar."/>
-               <div id="we3.02.10" n="Newport, Etc., Business Calendar." type="advertisements">
-                  <head rend="aligncenter">NEWPORT, ETC., BUSINESS CALENDAR.</head>
+               <div id="era3.02.10" type="advertisements">
+                  <head rend="center">NEWPORT, ETC., BUSINESS CALENDAR.</head>
                   <docDate>July 1896</docDate>
                   <p>
                      <figure entity="we323">
@@ -1036,14 +1036,14 @@ GEO.H. REED,<lb/>
 No. 12 Peachtree Street, - - - - - - - Atlanta, Ga.</p>
                   <pb n="9 THE WOMAN'S ERA."/>
                </div>
-               <div id="we3.02.11" n="Miss Beatrice Sumner Thompson." type="article">
-                  <head rend="aligncenter">Miss Beatrice Sumner Thompson.</head>
+               <div id="era3.02.11" type="article">
+                  <head rend="center">Miss Beatrice Sumner Thompson.</head>
                   <docDate>July 1896</docDate>
                   <p>Miss Beatrice Sumner Thompson was born in Boston, Mass. In 1880 her parents moved West and settled in Denver. Miss Thompson graduated from the Denver High School at the age of seventeen, the youngest of a class of 75 members. In January, 1892, after much difficulty and discouragement, she secured a position in the county treasurer's office as general clerk. Since entering the office she has held the positions of filing clerk, corresponding clerk and in 1895 was promoted on merit to the position of assistant bookkeeper, which position she still holds. Notwithstanding changes in administrations, Miss Thompson has been successful in retaining her position with credit.</p>
                   <p>Miss Thompson is also accomplished, being a pianist and the possessor of a rich contralto voice.</p>
                </div>
-               <div id="we3.02.12" n="Clubdom." type="report">
-                  <head rend="aligncenter"> CLUBDOM.</head>
+               <div id="era3.02.12" type="report">
+                  <head rend="center"> CLUBDOM.</head>
                   <docAuthor>E.P. Ensley</docAuthor>
                   <docDate>July 1896</docDate>
                   <p>Among the notable clubs that have entered the Federation recently is the Richmond Club, which is composed of 250 women, with Mrs. Bowser as president.</p>
@@ -1052,8 +1052,8 @@ No. 12 Peachtree Street, - - - - - - - Atlanta, Ga.</p>
                   <p>"I was notified this morning by Mrs. Phelps, president of the Bonita (the woman's mine) that I have been appointed one of the directors in place of one who had moved away from Denver. She also showed me a letter from Mr. Phelps who personally superintends the mine, in which he stated that they are near the contact as it is called, will reach it this week and is sure that they are very near the mineral or ore body. There were two rich strikes in the camp quite near this last week.</p>
                   <byline>E.P. ENSLEY."</byline>
                </div>
-               <div id="we3.02.13" n="Harriet Beecher Stowe." type="poem">
-                  <head rend="aligncenter">HARRIET BEECHER STOWE.</head>
+               <div id="era3.02.13" type="poem">
+                  <head rend="center">HARRIET BEECHER STOWE.</head>
                   <docAuthor>Lewis Howard Latimer</docAuthor>
                   <docDate>July 2, 1896</docDate>
                   <lg type="stanza">
@@ -1084,13 +1084,13 @@ No. 12 Peachtree Street, - - - - - - - Atlanta, Ga.</p>
                      </address>
                   </byline>
                </div>
-               <div id="we3.02.14" n="Mr. George Glover." type="filler">
+               <div id="era3.02.14" type="filler">
                   <docDate>July 1896</docDate>
                   <p>Mr. George Glover is a Boston tailor who is building up a large business and proving there is always room for the best.</p>
                   <pb n="10 Atlanta Business Calendar."/>
                </div>
-               <div id="we3.02.15" n="Atlanta Business Calendar." type="advertisements">
-                  <head rend="aligncenter">ATLANTA BUSINESS CALENDAR.</head>
+               <div id="era3.02.15" type="advertisements">
+                  <head rend="center">ATLANTA BUSINESS CALENDAR.</head>
                   <docDate>July 1896</docDate>
                   <p>
                      <figure entity="we324">
@@ -1195,8 +1195,8 @@ Done By<lb/>
 245 Auburn Avenue, Atlanta, GA.</p>
                </div>
                <pb n="11 THE WOMAN'S ERA."/>
-               <div id="we3.02.16" n="Doctor Teed." type="article">
-                  <head rend="aligncenter">Doctor Teed.</head>
+               <div id="era3.02.16" type="article">
+                  <head rend="center">Doctor Teed.</head>
                   <docAuthor>E.P.E.</docAuthor>
                   <docDate>July 1896</docDate>
                   <p>Dr. Teed, author of "Solution of the Race Problem," whose portrait is herein presented, was born in Delaware County, New York, in 1839.</p>
@@ -1207,13 +1207,13 @@ Done By<lb/>
                   <byline>E.P.E.</byline>
                </div>
                <pb n="12 THE WOMAN'S ERA."/>
-               <div id="we3.02.17" n="Mr. J.H. Lewis." type="article">
-                  <head rend="aligncenter">Mr. J.H. Lewis.</head>
+               <div id="era3.02.17" type="article">
+                  <head rend="center">Mr. J.H. Lewis.</head>
                   <docDate>July 1896</docDate>
                   <p>Mr. J.H. Lewis, whose advertisement appears in this issue of the ERA, hardly needs an introduction to our readers. His splendid tailoring establishment on Washington street, Boston, is one of the finest of its kind in the country, and has opened up business opportunities to numbers of colored boys. Mr. Lewis has the genius of business, and has proved that he can successfully run more than one large establishment at the same time.</p>
                </div>
-               <div id="we3.02.18" n="Solution to the Race Problem." type="article">
-                  <head rend="aligncenter">"Solution to the Race Problem."</head>
+               <div id="era3.02.18" type="article">
+                  <head rend="center">"Solution to the Race Problem."</head>
                   <docAuthor>Dr. Teed</docAuthor>
                   <docDate>July 1896</docDate>
                   <p>The fact that the progressions of racial development depend upon ethnic filtration does not require argument to establish. The only question to the problem is, What are the physiological conditions essential to the amalgamation of the colored with the white races?</p>
@@ -1229,12 +1229,12 @@ race must modify its complexion and ethnic character. This can be done only thro
                   <byline>Dr. Teed.</byline>
                </div>
                <pb n="13 THE WOMAN'S ERA."/>
-               <div id="we3.02.19" n="Samuel E. Courtney." type="article">
-                  <head rend="aligncenter">Samuel E. Courtney.</head>
+               <div id="era3.02.19" type="article">
+                  <head rend="center">Samuel E. Courtney.</head>
                   <docDate>July 1896</docDate>
                   <p>Doctor Courtney, who was brought into much prominence at the Republican convention at St. Louis, has recently graduated in medicine, and in the fair practice he has built up in Boston, is proving that it is possible to build up a successful business in Boston.</p>
                </div>
-               <div id="we3.02.20" n="The name of Harriet Tubman." type="excerpt">
+               <div id="era3.02.20" type="excerpt">
                   <docDate>July 1896</docDate>
                   <p>The name of Harriet Tubman (and we say it advisedly and without exaggeration) deserves to be handed down to posterity side by side with the names of Joan of Arc, Grace Darling, and Florence Nightingale, for not one of these women has shown more courage and power of endurance in facing danger and death to relieve human suffering than has this woman in her heroic and successful endeavors to reach and save all whom she might of her oppressed and suffering race, and to pilot them from the land of bondage to the promised land of liberty. She has been a leader and deliverer unto hundreds of her people.</p>
                   <p>
@@ -1248,12 +1248,12 @@ race must modify its complexion and ethnic character. This can be done only thro
                      </text>
                   </p>
                </div>
-               <div id="we3.02.21" n="Mr. U.A. Ridley." type="filler">
+               <div id="era3.02.21" type="filler">
                   <docDate>July 1896</docDate>
                   <p>Mr. U.A. Ridley is another of the successful merchant tailors of Boston. Mr. Ridley's business is of the quiet order, the patronage being almost entirely confined to a certain exclusive set.</p>
                </div>
-               <div id="we3.02.22" n="The Poet." type="poem">
-                  <head rend="aligncenter">THE POET.</head>
+               <div id="era3.02.22" type="poem">
+                  <head rend="center">THE POET.</head>
                   <docAuthor>Ida Evans Luckie</docAuthor>
                   <docDate>July 1896</docDate>
                   <lg type="stanza">
@@ -1322,14 +1322,14 @@ race must modify its complexion and ethnic character. This can be done only thro
                   </lg>
                   <byline>IDA EVANS LUCKIE.</byline>
                </div>
-               <div id="we3.02.23" n="Notes on Ads." type="advertisement">
-                  <head rend="aligncenter">NOTES ON ADS.</head>
+               <div id="era3.02.23" type="advertisement">
+                  <head rend="center">NOTES ON ADS.</head>
                   <docDate>July 1896</docDate>
                   <p>Among our advertisers the younger business men of Boston make a good showing. Messrs. Baldwin and Dorsey conduct a real estate business that is complete and first class in every particular. The location, the office appointments, the handsome turnout of this establishment are all the subject of remark and speak for themselves.</p>
                   <p>Most of our readers have probably heard of the inventions of Mr. Joseph Lee. Mr. Lee is not only the prosperous proprietor of' one of the finest suburban hotels of' Massachusetts, but has greatly added to his fame and fortune by his bread-mixer and bread-comber. These machines which are not identical are his own inventions, and because of their practical value and adaptability are being called for by the leading hotels of the United States. (See ad.)</p>
                </div>
-               <div id="we3.02.24" n="A Rare Opportunity." type="article">
-                  <head rend="aligncenter">A RARE OPP0RTUNITY.</head>
+               <div id="era3.02.24" type="article">
+                  <head rend="center">A RARE OPP0RTUNITY.</head>
                   <docDate>July 1896</docDate>
                   <p>The best known preventive to consumption is climate, and it is generally conceded that Colorado has the best anti-consumption climate in America.</p>
                   <p>Hundreds come every year to Denver, hoping to prolong life or regain health; many of them do so who would otherwise meet early death.</p>
@@ -1349,7 +1349,7 @@ Denver, Col.</addrLine>
                   </p>
                   <p>Refers by permission to Mr. Nathaniel T. Allen of West Newton English and Classical School.</p>
                </div>
-               <div id="we3.02.25" n="Untitled." type="advertisement">
+               <div id="era3.02.25" type="advertisement">
                   <docDate>July 1896</docDate>
                   <p>
                      <figure entity="we325">
@@ -1615,12 +1615,12 @@ Sole Agent for Connecticut West of Connecticut River.<lb/>
 When you write please mention The Woman's Era.</p>
                </div>
             </div>
-            <div id="we3.03" n="The Woman's Era Vol. 3 No. 3" type="issue">
-               <head rend="aligncenter">The Woman's Era.</head>
-               <head rend="aligncenter">Vol. III. No. 3. BOSTON, MASS., <gap agent="unknown"/>  PRICE 10 CENTS.</head>
+            <div id="era3.03" n="2" type="issue">
+               <head rend="center">The Woman's Era.</head>
+               <head rend="center">Vol. III. No. 3. BOSTON, MASS., <gap agent="unknown"/>  PRICE 10 CENTS.</head>
                <docDate>August 1896</docDate>
-               <div id="we3.03.01" n="Clubs" type="article">
-                  <head rend="aligncenter">CLUBS.<gap agent="unknown"/>
+               <div id="era3.03.01" type="article">
+                  <head rend="center">CLUBS.<gap agent="unknown"/>
                   </head>
                   <docDate>August 1896</docDate>
                   <p>The <unclear reason="unknown">res</unclear> 
@@ -1638,8 +1638,8 @@ When you write please mention The Woman's Era.</p>
                   <p>The Ada Sweet Pioneer Club of Minneapolis will be a delightful surprise to any of our women who may be fortunate enough to visit the beautiful city of Minneapolis. There is a gallantry of spirit about this new organization that is most refreshing. Conscious of their own earnestness, they do not hesitate to dare many things that</p>
                   <pb n="2 THE WOMAN'S ERA."/>
                </div>
-               <div id="we3.03.02" n="National" type="article">
-                  <head rend="aligncenter">NATIONAL<gap agent="tape damage"/>.</head>
+               <div id="era3.03.02" type="article">
+                  <head rend="center">NATIONAL<gap agent="tape damage"/>.</head>
                   <docDate>August 1896</docDate>
                   <p>
                      <date>BOSTON, August, 1896.</date>
@@ -1654,8 +1654,8 @@ When you write please mention The Woman's Era.</p>
                   <p>Presidents of clubs are earnestly requested to use their efforts to circulate the ERA in their associations. The reduced rates are for three months and should bring us in many subscriptions.</p>
                </div>
                <pb n="3 THE WOMAN'S ERA."/>
-               <div id="we3.03.03" n="N.A.C.W. Department" type="article">
-                  <head rend="aligncenter">N.A.C.W. DEPARTMENT.</head>
+               <div id="era3.03.03" type="article">
+                  <head rend="center">N.A.C.W. DEPARTMENT.</head>
                   <docAuthor>Mary Church Terrell</docAuthor>
                   <docDate>August 1896</docDate>
                   <byline>Editors:
@@ -1679,21 +1679,21 @@ Is hanging breathless on our fate.</p>
 <title>President National Association.</title>
                   </byline>
                </div>
-               <div id="we3.03.04" n="Thomas Clarkson's Seal" type="article">
-                  <head rend="aligncenter">THOMAS CLARKSON'S SEAL.</head>
+               <div id="era3.03.04" type="article">
+                  <head rend="center">THOMAS CLARKSON'S SEAL.</head>
                   <docAuthor>Victoria Earle</docAuthor>
                   <docDate>August 1896</docDate>
                   <p>One of the most interesting of the ante-bellum articles written by the late Harriet Beecher Stowe was her account of a day spent at "Playford Hall," home of Thomas Clarkson. After giving a most charming pen-picture of the house, and the gracious hospitality of the venerable widow of the great abolitionist, Mrs. Stowe described some of his sacred mementos, gifts from friends and associates in the cause of freedom, treasured by the family, making special mention of the seal used by Mr. Clarkson. She wrote: "His seal attracted my attention. It was a kneeling figure of the Negro with clasped hands, which was at first adopted as the badge of the cause, when every means was being made use of to arouse the public mind and keep the subject before the attention. Mr. Wedgewood, the celebrated porcelain manufacturer, designed a cameo with this representation, which was much worn as an ornament by ladies. It was engraved on the seal of the Anti-Slavery society, and it was used by its members in sealing all their letters. This of Clarkson's was handsomely engraved on a large, old-fashioned cornelian, and surely if we look with emotion on the sword of a departed hero, which at best we can only consider as a necessary evil, we may look with unmingled pleasure on this memorial of a bloodless victory."</p>
                   <p>The great Clarkson's methods in bringing about the emancipation of the bondmen on English soil possess many sterling lessons for us who would carry on the present day work of emancipation among our struggling people, and should be carefully studied. One of his first steps was the formation of a committee of twelve persons for the collection and dissemination of evidence on the slave traffic. We would do well to follow in his footsteps, by the establishment of such committees to collect and disseminate evidence on the legislative enactments inimical to our interests. This could be done with great propriety in connection with the chain-gang system and the separate car law.</p>
                </div>
-               <div id="we3.03.05" n="Frederick Douglass Memorial and Pilgrimage" type="article">
-                  <head rend="aligncenter">THE FREDERICK DOUGLASS MEMORIAL AND PILGRIMAGE ASSOCIATION.</head>
+               <div id="era3.03.05" type="article">
+                  <head rend="center">THE FREDERICK DOUGLASS MEMORIAL AND PILGRIMAGE ASSOCIATION.</head>
                   <docDate>August 1896</docDate>
                   <p>This is the name adopted by a party of impromptu visitors to Anacostia on the day following the adjournment of the Federation meetings. Perhaps it was from inspiration from the surroundings; certainly it was from no prearrangement that the twenty odd callers suddenly decided to band themselves together to work for the securing of the Douglass homestead for a Mecca to which pilgrimages may be made, and in which an historical collection of anti-slavery literature and other race data may be kept. Mr. Douglass' widow was made president of the new association. A secretary and treasurer were elected, the nucleus of a fund contributed, and each club representative pledged herself to see to it that her own club kept green the memory of Mr. Douglass by fittingly celebrating his birthday on the 22nd of each February. Then the association adjourned to the vine clad porch overlooking the Potomac, and succumbed to the omnipresent and irresistible photographer.</p>
                   <pb n="5 THE WOMAN'S ERA."/>
                </div>
-               <div id="we3.03.06" n="They Entertained the Federation and Promoted the Success of the Convention" type="article">
-                  <head rend="aligncenter">THEY ENTERTAINED THE FEDERATION AND PROMOTED THE SUCCESS OF THE CONVENTION.</head>
+               <div id="era3.03.06" type="article">
+                  <head rend="center">THEY ENTERTAINED THE FEDERATION AND PROMOTED THE SUCCESS OF THE CONVENTION.</head>
                   <docAuthor>Josephine B. Bruce</docAuthor>
                   <docDate>August 1896</docDate>
                   <p>The Ladies' Auxiliary Association of Washington, D. C., while one of the youngest members of the Federation, having joined its ranks only a few weeks prior to the assembling of the convention, was notwithstanding one of the most enthusiastic among the large and highly creditable membership of the Federation. The auxiliary felt, in a large degree, that the Federation was its guest, and the pleasure and pride in having so noble a gathering in our home city was evinced on every hand by the ceaseless and untiring activity of our ladies.</p>
@@ -1718,8 +1718,8 @@ first love and marks a depth of soul that is a gift rather than the result of cu
                      </address>
                   </byline>
                </div>
-               <div id="we3.03.07" n="The Berlin Industrial Exposition" type="article">
-                  <head rend="aligncenter">THE BERLIN INDUSTRIAL EXPOSITION.</head>
+               <div id="era3.03.07" type="article">
+                  <head rend="center">THE BERLIN INDUSTRIAL EXPOSITION.</head>
                   <docAuthor>Helen Elise Villard</docAuthor>
                   <docDate>August 1896</docDate>
                   <p>While Berlin is gradually acquiring the reputation of a European capital well worth seeing, it is nevertheless itself often left out of the traveler's itinerary, despite its manifold attractions.</p>
@@ -1732,8 +1732,8 @@ first love and marks a depth of soul that is a gift rather than the result of cu
                   <p>-- Dresden.</p>
                   <pb n="7 THE WOMAN'S ERA."/>
                </div>
-               <div id="we3.03.08" n="The Conversazzhyony" type="poem">
-                  <head rend="aligncenter">THE CONVERSAZZHYONY.</head>
+               <div id="era3.03.08" type="poem">
+                  <head rend="center">THE CONVERSAZZHYONY.</head>
                   <docAuthor>Eugene Field</docAuthor>
                   <docDate>August 1896</docDate>
                   <lg type="stanza">
@@ -1795,8 +1795,8 @@ first love and marks a depth of soul that is a gift rather than the result of cu
                      <l>How we vindicated all their sex a twenty year ago.</l>
                   </lg>
                </div>
-               <div id="we3.03.09" n="The Forthcoming Minutes of the First Annual Meeting of the N.F.A.A.W." type="minutes">
-                  <head rend="aligncenter">THE FORTHCOMING MINUTES OF THE FIRST ANNUAL MEETING OF THE N.F.A.A.W.</head>
+               <div id="era3.03.09" type="minutes">
+                  <head rend="center">THE FORTHCOMING MINUTES OF THE FIRST ANNUAL MEETING OF THE N.F.A.A.W.</head>
                   <docAuthor>Victoria Matthews</docAuthor>
                   <docDate>August 1896</docDate>
                   <p>All persons holding papers prepared for the first annual convention of the National Federation
@@ -1806,8 +1806,8 @@ of Afro-American Women will please forward them without delay to the secretary, 
 <title>Chair. Com. on Printing.</title>
                   </byline>
                </div>
-               <div id="we3.03.10" n="" type="report">
-                  <head rend="aligncenter">A DESERVED HONOR.</head>
+               <div id="era3.03.10" type="report">
+                  <head rend="center">A DESERVED HONOR.</head>
                   <docDate>August 1896</docDate>
                   <p>An invitation has been extended to Miss Maria L. Baldwin to deliver an address before the Brooklyn Institute of Arts and Sciences upon the "Life and Services of the Late Harriet Beecher Stowe."</p>
                   <p>It is the custom of the Institute to fulfil the wishes of its first benefactor by having an address on each 22nd of February upon some distinguished American, and it was thought most fitting that Mrs. Stowe's services be commemorated on the first Washington anniversary following her decease. Miss Baldwin has accepted the invitation.</p>
@@ -1817,7 +1817,7 @@ of Afro-American Women will please forward them without delay to the secretary, 
                   <p>As usual, Boston has been the Mecca this summer of many southerners, who have found the city to be in some respects almost an ideal summer resort. From Macon, Ga., came Miss Sarah Pitts. Miss Pitts, who is principal of one of the Macon's schools, has been an interesting and interested visitor. Her quick intelligence and ready insight made her visit a pleasure to herself and friends. She is an enthusiastic club woman and one from whom we expect to hear much in the future.</p>
                   <pb n="8 THE WOMAN'S ERA."/>
                </div>
-               <div id="we3.03.11" n="Organ of the National Association of Colored Women" type="masthead">
+               <div id="era3.03.11" type="masthead">
                   <docDate>August 1896</docDate>
                   <p>THE WOMAN'S ERA, PUBLISHED AT 103 CHARLES ST., BOSTON, MASS.</p>
                   <p>ORGAN OF THE NATIONAL ASSOCIATION OF COLORED WOMEN.</p>
@@ -1839,8 +1839,8 @@ of Afro-American Women will please forward them without delay to the secretary, 
                   </list>
                   <p>The joint committee appointed by the League and Federation respectively to consolidate the two bodies with one aim, was considered the one with the most important duty to perform. The ERA desired to give to its readers the portraits of each member of the two committees, but repeated efforts have thus far failed to locate any of the League members, most of them being teachers spending their vacations away from home. Mrs. Butler and Mrs. Hunton, whose pictures are given this month, represented the Federation on the commission with intelligence and gracious zeal. Both are soft voiced and gentle mannered, albeit they are women of affairs in their respective localities, veritable helpmeets to their husbands.</p>
                </div>
-               <div id="we3.03.12" n="A Danger and a Duty" type="article">
-                  <head rend="aligncenter">A DANGER AND A DUTY.</head>
+               <div id="era3.03.12" type="article">
+                  <head rend="center">A DANGER AND A DUTY.</head>
                   <docDate>August 1896</docDate>
                   <p>The issue of sound and stable currency, involved in the present national campaign, is of vital importance to the colored people of this country. The success of Bryan, and the subsequent free coinage of silver, would not only affect the purchasing power of the present wages and salaries of the wage earners, to which class the colored people of this country mainly belong, but would decrease by almost one-half the value of the little stock of money that the thrifty among them have been able to lay aside and entrust to savings or co-operative banks. Those of them who, by incessant industry and much deprivation, have been able to meet their payments in life insurance companies, believing that, if anything should happen, some comfort and even some small luxuries of this life would be assured their widows and orphans, should arouse themselves in opposition to threatening legislation of free silver. Their widows would receive just fifty-three cents for every dollar of their life insurance. Under the authority of the United States, in the even of free silver, the savings banks, for an invested dollar of one hundred cents, would pay back a dollar worth fifty-three cents. Are the colored people of this country so rich or so indifferent to their future welfare that they can see their accumulations for a rainy day cut almost in halves, one portion only to remain theirs, while the other be given to the silver mine owners? Yet this is just what the success of Bryan, Tillman and Altgeld means. It is a solemn duty for every mother, wife and sister to arouse their husbands, sons and brothers to a realizing sense of the terrible results that will surely follow in the wake of the success of the free silver heresy. The woman should take as  active an interest in this question as possible. Only a small number are allowed to show their interest by voting themselves, directly, but they all know their power and should see to it that no voter over whom they have any influence is on the wrong side of this question.</p>
                   <p rend="divider"/>
@@ -1856,13 +1856,13 @@ tumn, take up the study of current politics. Educational work is what the women'
                   <p>The union of the two great national bodies of colored women, which was consummated at Washington in July, was and is still the subject of much talk of a congratulatory nature. It would seem as if there were little left to be said on the
 matter. That union was the general desire, no one can doubt, and that in effecting union many concessions had to be made will also be acknowledged.</p>
                </div>
-               <div id="we3.03.13" n="Hail and Farewell" type="article">
-                  <head rend="aligncenter">HAIL AND FAREWELL - THE NATIONAL FEDERATION AND THE NATIONAL LEAGUE UNITE AND BECOME THE NATIONAL ASSOCIATION OF COLORED WOMEN.</head>
+               <div id="era3.03.13" type="article">
+                  <head rend="center">HAIL AND FAREWELL - THE NATIONAL FEDERATION AND THE NATIONAL LEAGUE UNITE AND BECOME THE NATIONAL ASSOCIATION OF COLORED WOMEN.</head>
                   <docDate>August 1896</docDate>
                   <p>That union was the ardent desire of all interested in the two national organizations which met in Washington in July was very evident; nevertheless, real tears were shed by some of the Federation members when its consummation compelled the giving up of a name that represented so much done in so short a time. Now with the added strength of the 113 clubs contributed to the association by the National League, the power and influence of the united bodies makes possible a report of even greater results this year than last. Let the mourners comfort themselves with the thought that the name will be to them what they make of it - either a diadem upon their brows, or a millstone about their necks.</p>
                </div>
-               <div id="we3.03.14" n="Social Notes" type="social notes">
-                  <head rend="aligncenter">SOCIAL NOTES.</head>
+               <div id="era3.03.14" type="social notes">
+                  <head rend="center">SOCIAL NOTES.</head>
                   <docDate>August 1896</docDate>
                   <p>All Boston went out to Arlington Heights on the afternoon of the 26th to the summer home of Dr. and Mrs. Grant, who were holding a garden fete. The affair was both delightful and unique; the house had been elaborately decorated with sweet ferns and golden rod, and the lawn with lanterns; these, combined with the natural attractions of the place, the fine views, the shady walks, the clear, bracing air, were the foundation for an almost ideal fete champetre.</p>
                   <p>There were the usual features of a garden party - music and red lights, tableaux and dancing, moonlight strolls and flirtation. There were many beautiful light costumes; conspicuous among them were those worn by Miss Param, Mrs. J.H. Lewis and Mrs. McCov. The whole bud contingent was out, augmented by Misses Angelina Grimke, Therese Lee, Mary Lewis and the Misses Baker; and among the visiting gentlemen were Mr. A.H. Grimke from San Domingo, Dr. Wheatland and Mr. Bertram Jamieson from Newport and Prof. George Cook of Washington.</p>
@@ -1870,8 +1870,8 @@ matter. That union was the general desire, no one can doubt, and that in effecti
                   <p>The Newport Woman's League arranged and carried out a most successful lawn party on the afternoon and evening of August 26. Mrs. Mary F. Dickerson is the energetic president of this vigorous club.</p>
                   <pb n="10 THE WOMAN'S ERA."/>
                </div>
-               <div id="we3.03.15" n="Convention Notes" type="club notes">
-                  <head rend="aligncenter">CONVENTION NOTES.</head>
+               <div id="era3.03.15" type="club notes">
+                  <head rend="center">CONVENTION NOTES.</head>
                   <docAuthor>Alice Ruth Moore</docAuthor>
                   <docDate>August 1896</docDate>
                   <p>There was one noticeable feature of the recent convention of the National Federation of Afro-American Women; that was the utter absence of frivolous personalities among the women present. The average cynical man would have expected that in such a large and -- if I may use the term -- varied assemblage of women of all ages and personalities, frivolity and gossip would naturally creep in; but not so. Every woman present seemed to feel that she had gone a long way to discuss matters of gravest importance, and that it behooved her as a representative of other earnest women to stick to her text. The all important question, "Is my bonnet straight?" was never even dreamed of.</p>
@@ -1883,12 +1883,12 @@ matter. That union was the general desire, no one can doubt, and that in effecti
                   <byline>ALICE RUTH MOORE.</byline>
                </div>
                <pb n="11 THE WOMAN'S ERA."/>
-               <div id="we3.03.16" n="First Minutes of the National Association of Colored Women" type="minutes">
-                  <head rend="aligncenter">FIRST MINUTES OF THE NATIONAL ASSOCIATION OF COLORED WOMEN.</head>
+               <div id="era3.03.16" type="minutes">
+                  <head rend="center">FIRST MINUTES OF THE NATIONAL ASSOCIATION OF COLORED WOMEN.</head>
                   <docAuthor>Mary Church Terrell and Frances Jackson</docAuthor>
                   <docDate>August 1896</docDate>
-                  <div id="we3.03.16.01" n="First Minutes of the National Association of Colored Women" type="minutes">
-                     <head rend="aligncenter">Washington D.C., July 21, 1896</head>
+                  <div id="era3.03.16.01" type="minutes">
+                     <head rend="center">Washington D.C., July 21, 1896</head>
                      <docAuthor>Mary Church Terrell and Frances Jackson</docAuthor>
                      <docDate>August 1896</docDate>
                      <p>The joint commission, consisting of seven members of the National League of Colored Women and an equal number from the National Federation of Afro-American Women, assembled in the parlor of the 19th St. Baptist Church to consider the advisability of union. The commission from the Federation retired to receive instructions and be given full power to act, in conjunction with the committee from the League, to whom plenary powers had already been delegated.</p>
@@ -1909,8 +1909,8 @@ matter. That union was the general desire, no one can doubt, and that in effecti
                         </title>
                      </byline>
                   </div>
-                  <div id="we3.03.16.02" n="First Minutes of the National Association of Colored Women" type="minutes">
-                     <head rend="aligncenter">Washington D.C., July 22, 1896</head>
+                  <div id="era3.03.16.02" type="minutes">
+                     <head rend="center">Washington D.C., July 22, 1896</head>
                      <docAuthor>Mary Church Terrell and Frances Jackson</docAuthor>
                      <docDate>August 1896</docDate>
                      <p>The joint commission met in the parlor of thc Second Baptist Church to further complete the business of union. The minutes of the first meeting of the National Association of Colored Women were read and approved. It was moved and carried that we proceed to elect officers. After balloting for several candidates, Mrs. Mary Church Terrell was elected president of the N.A. of C.W.</p>
@@ -1927,8 +1927,8 @@ matter. That union was the general desire, no one can doubt, and that in effecti
                         </title>
                      </byline>
                   </div>
-                  <div id="we3.03.16.03" n="First Minutes of the National Association of Colored Women" type="minutes">
-                     <head rend="aligncenter">List of Names</head>
+                  <div id="era3.03.16.03" type="minutes">
+                     <head rend="center">List of Names</head>
                      <docAuthor>Mary Church Terrell and Frances Jackson</docAuthor>
                      <docDate>August 1896</docDate>
                      <p>List of names of the committee on union appointed by the League: Miss Anna H. Jones, Miss Coralie Franklin, Miss Emma Merritt, Miss A.V. Thompkins, Miss Julia Jones, Mrs. Frances Jackson, Mrs. Florence Barker.</p>
@@ -1937,8 +1937,8 @@ matter. That union was the general desire, no one can doubt, and that in effecti
                   </div>
                </div>
                <pb n="12 THE WOMAN'S ERA."/>
-               <div id="we3.03.17" n="Tennessee Centennial Notes" type="club notes">
-                  <head rend="aligncenter">TENNESSEE CENTENNIAL NOTES.</head>
+               <div id="era3.03.17" type="club notes">
+                  <head rend="center">TENNESSEE CENTENNIAL NOTES.</head>
                   <docDate>August 1896</docDate>
                   <p>Tennessee desires to proclaim to the world in general and to the United States in particular that on the 1st of June, 1896, she celebrated the one hundredth anniversary of her admission as a state of the Union. It was at first proposed to celebrate this occasion by the opening of an Exposition, so far reaching as to even become international in its character. For many excellent reasons this plan was not carried out and the opening of the Exposition was postponed until May 1, 1897; it will continue for six months, closing October 31 of the same year. The anniversary was celebrated by ceremonies extending over two days, June 1 and 2, and consisted of the firing of guns, street parades, composed of state and federal troops, federal, state and city officials, social, benevolent and industrial orders, municipal departments, bicycle brigades, citizens in carriages, on horseback and on foot, and exercises at the centennial grounds, in the auditorium and woman's
 building.</p>
@@ -1947,8 +1947,8 @@ building.</p>
                   <p>The executive committee is made up of the officers of the board and transacts most of the business, but places it before the board for its approval or rejection. A spirit of complete harmony pervades each meeting, and the united desire seems to be the advancement of any aim that will promote the welfare of the Negro building, but more especially make the woman's exhibit the feature of the department. Everything that is skilfully and well made by a female is desired, and the women have no fear as to what they can accomplish. Not only have they the assurance from Nashville and other places in Tennessee, but Mrs. Moore is traveling in the north and east and is never forgetful of the Tennessee Centennial, and Mrs. Napier has received hearty co-operation from many of our leading women all over the country.</p>
                   <p>Many large bodies have been invited and are arranging to hold their meetings here during the Exposition, and among the number will be the second meeting of the Woman's Congress which met for the first time at Atlanta during the holding of its Exposition.</p>
                </div>
-               <div id="we3.03.18" n="Tuskegee Normal and Industrial Institute" type="article">
-                  <head rend="aligncenter">TUSKEGEE NORMAL AND INDUSTRIAL INSTITUTE.</head>
+               <div id="era3.03.18" type="article">
+                  <head rend="center">TUSKEGEE NORMAL AND INDUSTRIAL INSTITUTE.</head>
                   <docAuthor>Isaac Fisher</docAuthor>
                   <docDate>August 1896</docDate>
                   <p>TUSKEGEE, ALA.</p>
@@ -1958,15 +1958,15 @@ building.</p>
                   <p>It was very gratifying to note the endorsement which the work of the National Federation of Afro-American Women, of which organization Mrs. Booker T. Washington was president, received from both press and public.</p>
                   <byline>ISAAC FISHER.</byline>
                </div>
-               <div id="we3.03.19" n="She is a Direct Descendant of 'Advanced' Ancestors" type="article">
-                  <head rend="aligncenter">SHE IS A DIRECT DESCENDANT OF "ADVANCED" ANCESTORS.</head>
+               <div id="era3.03.19" type="article">
+                  <head rend="center">SHE IS A DIRECT DESCENDANT OF "ADVANCED" ANCESTORS.</head>
                   <docDate>August 1896</docDate>
                   <p>It will interest many of our readers to know that the account of the Berlin Exposition, published this month, was written by a grand-daughter of William Lloyd Garrison. Miss Helen Villard is the daughter of Fanny Garrison Villard,
 <pb n="13 THE WOMAN'S ERA."/>
 whom old Bostonians will remember as the handsome and only daughter of the original Garrison family. Miss Villard, as might be expected from heredity and environment such as hers, is public spirited and an enthusiastic reformer. She is a subscriber to the ERA, and intensely interested in the cause it seeks to promote.</p>
                </div>
-               <div id="we3.03.20" n="Additional Convention Notes" type="article">
-                  <head rend="aligncenter">ADDITIONAL CONVENTION NOTES.</head>
+               <div id="era3.03.20" type="article">
+                  <head rend="center">ADDITIONAL CONVENTION NOTES.</head>
                   <docDate>August 1896</docDate>
                   <p>From the platform, the auditorium of the Nineteenth St. Baptist Church was a delight to the eye, on the evening of the first day of the gathering of the late Federation of Afro-American Women for their first annual convention. The audience, which was an immense one, was made up about equally of men and women of all colors and ages. As is customary in that latitude in the summer time, many of the ladies came to the meeting without head covering of any kind, radiant in white and vari-colored costumes, trimmed with ribbons and much lace, which seemed to soften and tone down the almost too eager and anxious look of the matrons and maids gathered to be a part of the great object lesson. At Mrs. Washington's request, Mrs. Matthews presided upon this occasion, and in presenting the speakers she was at her best. Her incidental plea, made just here, for greater interest and sympathy for the women and children of the southern cabins, did credit to both her head and heart. The address of welcome by District Commissioner Ross was impressive from its earnest heartiness. The Era Club president was honored by being selected to reply to this eloquent greeting, and embraced the opportunity to tell something of the inception of the one year old movement that was showing such astonishing results.</p>
                   <p>The resolutions adopted were strong, comprehensive and pathetic in the recount of the many needs of a much hampered people. The pathos was emphasized by the reading of them by Mrs. Ida B. Wells Barnett, in the musical monotone peculiar to that polished reader. The resolutions are to be published in full, with the minutes, in book form. This work was placed in the hands of a competent committee, of which Mrs. Victoria Matthews is chairman, and is now being edited by her.</p>
@@ -1981,8 +1981,8 @@ whom old Bostonians will remember as the handsome and only daughter of the origi
 gether in thy name -" for wherever and whenever two or three of the delegates were found at any given point, the photographer was there, camera, battered derby and all, and in less than two minutes perhaps there was a group posing. Even at the last moment when a crowd of us were gathered at the Pennsylvania railroad depot ready to go the photographer was there with a profane suggestion of a parting group. Long rest his piece of mind for the bad pictures he turned out!</p>
                   <p>Some of the most enjoyable moments of the days spent in Washington were those of the noon lunch in the church basement. It was always a lively scene of kaleidoscopic interest. A shifting of faces, forms and an incessant buzz of voices, hungry voices and eager ones. It was during the noon hour that old acquaintances were renewed and new ones made; engagements and parties made up and plans, convention and otherwise, formulated and decided upon. lt was a pleasant little social oasis in the desert of the day's work.</p>
                </div>
-               <div id="we3.03.21" n="Club Notes" type="club notes">
-                  <head rend="aligncenter">CLUB NOTES.</head>
+               <div id="era3.03.21" type="club notes">
+                  <head rend="center">CLUB NOTES.</head>
                   <docAuthor>Florida R. Ridley</docAuthor>
                   <docDate>August 1896</docDate>
                   <p>The Era Club had the largest number of representatives of any one club outside of the District. Eight members arose and responded to the roll call the first day of the convention.</p>
@@ -2011,8 +2011,8 @@ gether in thy name -" for wherever and whenever two or three of the delegates we
                      </text>
                   </p>
                </div>
-               <div id="we3.03.22" n="Notes and Comments" type="social notes">
-                  <head rend="aligncenter">NOTES AND COMMENTS.</head>
+               <div id="era3.03.22" type="social notes">
+                  <head rend="center">NOTES AND COMMENTS.</head>
                   <docDate>August 1896</docDate>
                   <p>Miss Maud Cuney of Texas came to the city the first of August, and was heartily welcomed by her host of friends. Miss Cuney is dividing her time among many friends, Miss Glover, Miss Hare, Miss Duncan and Mrs. Ridley all claiming a portion of her time before her return to New York, when she will again be the guest of Mr. and Mrs. T. B. Francis.</p>
                   <p>The intense heat has caused people to take their pleasure rather mildly this summer. There have been few gatherings of any size. A basket picnic at Downer's drew out quite a number, and a musicale at Miss Glover's was thoroughly enjoyed by the young set.</p>
@@ -2024,14 +2024,14 @@ friends as yet have had little opportunity to see her. Accompanying Miss Moore i
                   <p>Great preparations are being made for the centennial celebration or Zion's Church. The event calls for wide and general interest; it is one of the evidences of the strength and character of the race, and a record that makes good our claim to be numbered among true Americans.</p>
                   <p>Mr. Archibald II. Grimke, our consul at Santo Domingo, is spending his thirty days' leave in the U.S., and is at present, together with his daughter, the guest of Mr. and Mrs. Joseph Lee of Auburndale. Mr. Grimke evidently carried to his life abroad all the enthusiasm and receptivity of the student of life, and the accounts of his experiences abroad are more than delightful to the friends who hear them.</p>
                </div>
-               <div id="we3.03.23" n="Mrs. B.T. Washington's Illness" type="article">
-                  <head rend="aligncenter">MRS. B.T. WASHINGTON'S ILLNESS.</head>
+               <div id="era3.03.23" type="article">
+                  <head rend="center">MRS. B.T. WASHINGTON'S ILLNESS.</head>
                   <docDate>August 1896</docDate>
                   <p>Friends will be glad to know of Mrs. Washington's improved health. She has passed through a dangerous ordeal, but is now on the sure road to restoration and perfect health. As chairman of the executive committee, Mrs. Washington had hoped to be ready to announce the names of the twenty-one members of her committee, in the association's department of this issue of the ERA. For obvious reasons this announcement must be deferred for another month. Meanwhile, in accordance with power given her by the commission, six ladies have been appointed by Mrs. Washington to draw up temporary rules for the governing of the organization until the next annual meeting, these rules to be submitted for ratification to the whole executive body.</p>
                   <p rend="divider"/>
                   <p>This, the latest news received form the Woman's Mine, will be good news to the many investors in this section of the country. Development work to uncover the ore bodies is now being actively pushed, and there will be no cessation or delay until is an accomplished fact that the Bonita Gold and Silver Mine is a steady producing, dividend paying property. At the suggestion of eastern friends, Mrs. E.P. Ensley has been made one of the directors of the Mining Company, and will faithfully look after the interest of eastern investors.</p>
                </div>
-               <div id="we3.03.24" n="Advertisements" type="advertisement">
+               <div id="era3.03.24" type="advertisement">
                   <docDate>August 1896</docDate>
                   <p>
                      <figure entity="we331">
@@ -2322,16 +2322,16 @@ STOCK 50 CENTS A SHARE SOLD ON INSTALMENT PLAN. Patent Applied for.</p>
                   <p>ADDRESS: POST OFFICE BOX 3, DENVER, COLO.</p>
                </div>
             </div>
-            <div id="we3.04" n="The Woman's Era Vol. 3 No. 4" type="issue">
-               <head rend="aligncenter">The Woman's Era.</head>
-               <head rend="aligncenter">Organ of The National Federation of Afro-American Women.</head>
-               <head rend="aligncenter">Vol. III. No. 4.</head>
+            <div id="era3.04" n="4" type="issue">
+               <head rend="center">The Woman's Era.</head>
+               <head rend="center">Organ of The National Federation of Afro-American Women.</head>
+               <head rend="center">Vol. III. No. 4.</head>
                <opener>
                   <dateline>BOSTON, MASS., OCTOBER AND NOVEMBER, 1896.  PRICE 10 CENTS.</dateline>
                </opener>
                <docDate>October and November 1896</docDate>
-               <div id="we3.04.01" n="Student Days at the New England Hospital" type="article">
-                  <head rend="aligncenter">STUDENT DAYS AT THE NEW ENGLAND HOSPITAL.</head>
+               <div id="era3.04.01" type="article">
+                  <head rend="center">STUDENT DAYS AT THE NEW ENGLAND HOSPITAL.</head>
                   <docAuthor>Anne Dillet</docAuthor>
                   <docDate>October and November 1896</docDate>
                   <p>After the business of the annual meeting was over at the New England Hospital for Women and Children on Tuesday, the 27th Oct., all were invited to the Goddard Home by the president, where light refreshments were served. Many of the graduate nurses were present, and one who could remember when there was no home for the nurses' exclusive use. At that time what is now the nurses' home was used as the maternity. The nurses of that period had no such pleasant evenings as we of '95, '95 and '96 have had in the long hall where the piano now stands. I think they certainly deserved their diplomas, for having the heroic courage to pull through the term without the Goddard Home and the piano, which has added much to our happiness. After a hard day of work and discouragements - which we all have - a whirl around the hall did much to cheer our drooping spirits and tired limbs, giving us new zest for tomorrow's work: and those spreads in the Goddard, when some girl has returned from her vacation bringing the good things from home, such as pickles, jams, cakes, apples, etc., or sometimes brought on half days by the more fortunate ones who have their mothers near by, or from the corner store of "odds and ends." Those delightful summer evening spreads of '95, served on the great table-like boulder west of the maternity wards, with iced lemonade, did much to refresh us for the coming morrow, and to say the least the lively band in the adjacent picnic grounds has done its mission. I try to look back and wonder how the pioneer nurses lived through the term. They surely deserve our admiration and love. I was pleased to have the superintendent of nurses ask me to show the improvements of '95 and '96 to one of our graduates of nineteen or more years' standing - the new heating arrangements for keeping the patients' food hot, new sterilizing room at the maternity, the enlargement of the nursery, new boilers and what not - and tell her of many new methods in our work, such as the "floater," etc.: and our new class pin, which was only ready at the last annual meeting, which is composed of a blue enamel Maltese cross, with a wreath of laurel in gold, "New England Hospital Training School - 1863"; and in the center in gold, the bust of Mrs. Ednah Cheney, the president.</p>
@@ -2340,8 +2340,8 @@ STOCK 50 CENTS A SHARE SOLD ON INSTALMENT PLAN. Patent Applied for.</p>
                   <p>Now that we have our new dispensary building, I hope that time is not far distant when we shall have our new surgical building, with the hope that many of us who love the work and the hospital will be enabled to take a post graduate course.</p>
                   <byline>ANNE DILLET.</byline>
                </div>
-               <div id="we3.04.02" n="Harriet Beecher Stowe Memorial" type="article">
-                  <head rend="aligncenter">HARRIET BEECHER STOWE MEMORIAL.</head>
+               <div id="era3.04.02" type="article">
+                  <head rend="center">HARRIET BEECHER STOWE MEMORIAL.</head>
                   <docDate>October and November 1896</docDate>
                   <p>Those who turned aside from their ordinary line of duty to attend the memorial exercises of Mrs. Harriet Beecher Stowe, given by the Woman's Club of Mutual Improvement at Brown's Chapel, A.M.E. Church, on the 22nd ult., were abundantly rewarded for their labor. The church was handsomely decorated for the occasion. The stage was covered with beautiful plants and flowers. In the center of the platform was a large
 <pb n="2 THE WOMAN'S ERA."/>
@@ -2359,13 +2359,13 @@ portrait of Mrs. Stowe, beautifully draped, and surrounded by pots of green choi
 T.J. Bell and Rev. S. F. Kingston, pastors of the Congregational and Presbyterian churches. Mrs. Dillard also told a story from "Uncle Tom's Cabin" for the benefit of the children in the audience.</p>
                   <p>The whole affair was very enjoyable throughout, and every one went home well pleased with what they had heard.</p>
                </div>
-               <div id="we3.04.03" n="The Golden Rule Club" type="article">
-                  <head rend="aligncenter">GOLDEN RULE CLUB.</head>
+               <div id="era3.04.03" type="article">
+                  <head rend="center">GOLDEN RULE CLUB.</head>
                   <docDate>October and November 1896</docDate>
                   <p>The Golden Rule Club held its regular meeting Wednesday evening, Nov. 4, at the residence of Mrs. Wendell Tucker, 5 Jay St., Cambridge. This organization was formed about thirteen years ago. At that time there were no clubs in Cambridge, and the need was felt of something of the kind to bring about unity and sociability. The Golden Rule, "Do unto others as you would they should do unto you," was taken for a motto. A monthly fee is paid, and a sick fund is maintained from which the members draw during illness. They aim to assist charity's cause whenever possible. Their efforts have been crowned with success from the beginning to the present time. The officers are: President, Mrs. N.E. Lewis; vice president, Mrs. M. James; treasurer, Mrs. H.C. Lewis; chaplain, Mrs. D. Hayes; secretary, Miss Adelaide Grandison; assistant secretary, Mrs. E. Wilson.</p>
                </div>
-               <div id="we3.04.04" n="Tuskegee Normal and Industrial Institute" type="article">
-                  <head rend="aligncenter">TUSKEGEE NORMAL AND INDUSTRIAL INSTITUTE.</head>
+               <div id="era3.04.04" type="article">
+                  <head rend="center">TUSKEGEE NORMAL AND INDUSTRIAL INSTITUTE.</head>
                   <docAuthor>Isaac Fisher</docAuthor>
                   <docDate>October and November 1896</docDate>
                   <p>Tuskegee, Ala.</p>
@@ -2375,21 +2375,21 @@ T.J. Bell and Rev. S. F. Kingston, pastors of the Congregational and Presbyteria
                   <p>The next session of the Tuskegee Negro Conference will be held at Tuskegee, February 21, 1897. The Worker's Conference convenes the next day.</p>
                   <byline>ISAAC FISHER.</byline>
                </div>
-               <div id="we3.04.05" n="N.A.C.W. Department" type="constitution">
-                  <head rend="aligncenter">N.A.C.W. DEPARTMENT </head>
+               <div id="era3.04.05" type="constitution">
+                  <head rend="center">N.A.C.W. DEPARTMENT </head>
                   <docDate>October and November 1896</docDate>
                   <p>EDITORS:</p>
                   <p>MRS. B.T. WASHINGTON, DR. REBECCA COLE, IDA WELLS BARNETT, ROSA D. BOWSER, FRANCES JACKSON.</p>
-                  <div id="we3.04.05.01" n="Temporary Rules" type="constitution">
-                     <head rend="aligncenter">TEMPORARY RULES ISSUED BY THE EXECUTIVE COMMITTEE OF THE N.A. OF C.W.</head>
+                  <div id="era3.04.05.01" type="constitution">
+                     <head rend="center">TEMPORARY RULES ISSUED BY THE EXECUTIVE COMMITTEE OF THE N.A. OF C.W.</head>
                      <docDate>October and November 1896</docDate>
                      <p>In July, 1896, the National Federation of Afro-American Women and the National League of Colored Women met in the city of Washington, and by means of a joint commission, consolidated their forces.</p>
                      <p>Women in both organizations were wise enough to see that more and better work could be done if the two organizations were united. All personal ambitions and petty jealousies were laid aside, thus making the union possible.</p>
                      <p>The new organization is new only in the name it has assumed. It stands as did the two separate halves, as a whole, for the uplifting of womankind.</p>
                      <p>It was decided by the commission that the executive committee draw up rules for the conduct of the association for one year, and so give the committee on constitution ample time to perfect and make that instrument strong.</p>
                   </div>
-                  <div id="we3.04.05.02" n="Work Suggested by the National Association" type="constitution">
-                     <head rend="aligncenter">THE WORK SUGGESTED BY THE NATIONAL ASSOCIATION</head>
+                  <div id="era3.04.05.02" type="constitution">
+                     <head rend="center">THE WORK SUGGESTED BY THE NATIONAL ASSOCIATION</head>
                      <docDate>October and November 1896</docDate>
                      <p>To attack the chain gang system of the South, the separate car law, to do rescue work in the alleys and slums of our great cities, and for the plantation woman and child, the founding of homes for our indigent, and to show greater interest in the fallen and wayward. There are some of the things clubs in the association are pledged to consider this year, and decided improvement along these lines should be shown at the next annual meeting.</p>
                      <p>The National Association asks the local clubs to commemorate the birthday of Frederick Douglass, (February 14th), and to send contributions to the treasurer of the Frederick Douglass Monument Association of Rochester, N.Y.</p>
@@ -2398,57 +2398,57 @@ T.J. Bell and Rev. S. F. Kingston, pastors of the Congregational and Presbyteria
 Association to be used in building a reformatory home for colored boys.</p>
                      <p>The following rules have been adopted by the executive committee for the conduct of the National Association for the present year.</p>
                   </div>
-                  <div id="we3.04.05.03" n="Rules Governing the National Association of Colored Women" type="constitution">
-                     <head rend="aligncenter">RULES GOVERNING THE NATIONAL ASSOCIATION OF COLORED WOMEN.</head>
+                  <div id="era3.04.05.03" type="constitution">
+                     <head rend="center">RULES GOVERNING THE NATIONAL ASSOCIATION OF COLORED WOMEN.</head>
                      <docDate>October and November 1896</docDate>
-                     <div id="we3.04.05.03.01" n="Name" type="constitution">
-                        <head rend="aligncenter">NAME.</head>
+                     <div id="era3.04.05.03.01" type="constitution">
+                        <head rend="center">NAME.</head>
                         <docDate>October and November 1896</docDate>
                         <p>The name shall be known as the National Association of Colored Women.</p>
                      </div>
-                     <div id="we3.04.05.03.02" n="Duties of Officers" type="constitution">
-                        <head rend="aligncenter">DUTIES OF OFFICERS.</head>
+                     <div id="era3.04.05.03.02" type="constitution">
+                        <head rend="center">DUTIES OF OFFICERS.</head>
                         <docDate>October and November 1896</docDate>
                         <p>The duties of officers as defined by "Roberts Rules of Order" will be adhered to.</p>
                      </div>
-                     <div id="we3.04.05.03.03" n="Object" type="constitution">
-                        <head rend="aligncenter">OBJECT.</head>
+                     <div id="era3.04.05.03.03" type="constitution">
+                        <head rend="center">OBJECT.</head>
                         <docDate>October and November 1896</docDate>
                         <p>The elevation of the race, the ennobling of womanhood, and the concentrated effort toward improving the standard of home life among the masses.</p>
                      </div>
-                     <div id="we3.04.05.03.04" n="Eligible" type="constitution">
-                        <head rend="aligncenter">ELIGIBLE.</head>
+                     <div id="era3.04.05.03.04" type="constitution">
+                        <head rend="center">ELIGIBLE.</head>
                         <docDate>October and November 1896</docDate>
                         <p>All women's clubs organized for the development of woman along moral, religious, and intellectual lines, are eligible to membership in this association.</p>
                      </div>
-                     <div id="we3.04.05.03.05" n="Power" type="constitution">
-                        <head rend="aligncenter">POWER.</head>
+                     <div id="era3.04.05.03.05" type="constitution">
+                        <head rend="center">POWER.</head>
                         <docDate>October and November 1896</docDate>
                         <p>The National Association will assume no direct jurisdiction over the local clubs, each club being free to carry out its own plan of work.</p>
                      </div>
-                     <div id="we3.04.05.03.06" n="Tax" type="constitution">
-                        <head rend="aligncenter">TAX.</head>
+                     <div id="era3.04.05.03.06" type="constitution">
+                        <head rend="center">TAX.</head>
                         <docDate>October and November 1896</docDate>
                         <p>All clubs entering the association hereafter will pay to the national treasurer the sum of one dollar ($1.00 as entrance fee; the same to be enclosed with application blank, which may be had from the national president, national secretary, or national organizer. Each club in the association will be taxed $5.00 annually to carry on the business of the association, this to be paid to the national treasurer, Mrs, Mary Frisbie Handy, 1341 No. Carey street, Baltimore, Maryland.</p>
                      </div>
-                     <div id="we3.04.05.03.07" n="Government" type="constitution">
-                        <head rend="aligncenter">GOVERNMENT.</head>
+                     <div id="era3.04.05.03.07" type="constitution">
+                        <head rend="center">GOVERNMENT.</head>
                         <docDate>October and November 1896</docDate>
                         <p>All matters of a business pertaining to the management of the National Association, must be deferred to the executive committee.</p>
                      </div>
-                     <div id="we3.04.05.03.08" n="Official Organ" type="constitution">
-                        <head rend="aligncenter">OFFICIAL ORGAN.</head>
+                     <div id="era3.04.05.03.08" type="constitution">
+                        <head rend="center">OFFICIAL ORGAN.</head>
                         <docDate>October and November 1896</docDate>
                         <p>The paper known as the WOMAN'S ERA, of Boston, shall be the organ of the National Association, and local clubs must look to the official department of it for information, thus lessening the cost of individual correspondence.</p>
                      </div>
-                     <div id="we3.04.05.03.09" n="Committees" type="constitution">
-                        <head rend="aligncenter">COMMITTEES.</head>
+                     <div id="era3.04.05.03.09" type="constitution">
+                        <head rend="center">COMMITTEES.</head>
                         <docDate>October and November 1896</docDate>
                         <p>Standing committees will be appointed by the executive committee.</p>
                         <p>Clubs in the association must look to the Association's Department in the WOMAN'S ERA for all information concerning clubs, thus obviating the expense of direct correspondence for which no provision has been made as yet.</p>
                      </div>
-                     <div id="we3.04.05.03.10" n="Executive Committee" type="constitution">
-                        <head rend="aligncenter">EXECUTIVE COMMITTEE.</head>
+                     <div id="era3.04.05.03.10" type="constitution">
+                        <head rend="center">EXECUTIVE COMMITTEE.</head>
                         <docDate>October and November 1896</docDate>
                         <list type="simple">
                            <item>Mrs. B.K. Bruce, Washington, D.C.</item>
@@ -2476,8 +2476,8 @@ Association to be used in building a reformatory home for colored boys.</p>
                      </div>
                   </div>
                </div>
-               <div id="we3.04.06" n="First Meeting of the Women's Missionary Society of Philadelphia" type="article">
-                  <head rend="aligncenter">FIRST MEETING OF THE WOMEN'S MISSIONARY SOCIETY OF PHILADELPHIA.</head>
+               <div id="era3.04.06" type="article">
+                  <head rend="center">FIRST MEETING OF THE WOMEN'S MISSIONARY SOCIETY OF PHILADELPHIA.</head>
                   <docAuthor>Rebecca J. Cole</docAuthor>
                   <docDate>October and November 1896</docDate>
                   <p>The October meeting of the Women's Missionary Society brought together a large and interested audience. It was the first meeting since the convention, and the long-promised time had come when the delegates would tell about the stirring events of July, 1896.</p>
@@ -2495,8 +2495,8 @@ the Negro's history, is toward the ideal. An important feature of the occasion w
                   <p>These are the things that we can do to attack vice, disease and crime in their strongholds, for they have no complexion and they always yield to such and to no other treatment.</p>
                   <byline>REBECCA J. COLE.</byline>
                </div>
-               <div id="we304.07" n="The Union of Our Forces" type="article">
-                  <head rend="aligncenter">THE UNION OF OUR FORCES.</head>
+               <div id="era304.07" type="article">
+                  <head rend="center">THE UNION OF OUR FORCES.</head>
                   <docAuthor>Frances J. Jackson</docAuthor>
                   <docDate>October and November 1896</docDate>
                   <p>In the latter part of July of this year of our Lord, there assembled in Washington two bodies of women, a few days intervening between the meetings. Both bodies were composed of earnest women, who were working along different lines to accomplish the same result, the betterment of the women of the race, physically, morally and intellectually. It was something new under the sun to see assembled in convention two bodies of intelligent colored women, who had no axes to grind, who were not seeking their own advancement to the utter disregard of the masses that were behind, below or beneath them. It was not only a new, but refreshing sight to see women imbued with higher thoughts, motives and aspirations, than personal aggrandizement. There was only one thing lacking to make the harmony perfect. There were two bodies with the same aims and purposes. Why two bodies and not one was the cry that went up all along the line. Why divide our strength, when the union of our forces will mean the accomplishment of so much more good for the ones we are trying to help? So earnest, so pure of motive were the leading mem-
@@ -2508,8 +2508,8 @@ bers of both organizations, that they were willing to yield to the demand for un
                      <name>FRANCES J. JACKSON</name>
                   </signed>
                </div>
-               <div id="we3.04.08" n="Ways and Means Committee of the National Association of Colored Women" type="list">
-                  <head rend="aligncenter">WAYS AND MEANS COMMITTEE OF THE NATIONAL ASSOCIATION OF COLORED WOMEN.</head>
+               <div id="era3.04.08" type="list">
+                  <head rend="center">WAYS AND MEANS COMMITTEE OF THE NATIONAL ASSOCIATION OF COLORED WOMEN.</head>
                   <docDate>October and November 1896</docDate>
                   <list type="simple">
                      <item>Mrs. J. Napier Kemp, chairman, of Minneapolis, Minn.</item>
@@ -2530,8 +2530,8 @@ bers of both organizations, that they were willing to yield to the demand for un
                      <item>Miss Cora Napier, Minneapolis, Minn.</item>
                   </list>
                </div>
-               <div id="we3.04.09" n="Courtney-Davis" type="announcement">
-                  <head rend="aligncenter">COURTNEY-DAVIS.</head>
+               <div id="era3.04.09" type="announcement">
+                  <head rend="center">COURTNEY-DAVIS.</head>
                   <docDate>October and November 1896</docDate>
                   <p>The marriage of Miss Lilla V. Davis to Dr. Samuel E. Courtney, which took place at Trinity Church on Oct. 21st, was one of the noticeable weddings of the season. The bride has for years been a teacher in the American missionary field, and the high esteem in which she is held was evidenced by the presence of members of the association from all over the state. Many of Dr. Courtney's political associates were also present.</p>
                   <p>The bride was attended by Miss Miriam Woodbury, assistant treasurer of the American Missionary Association, and was given in marriage by Dr. Beard, secretary of the association. Dr. Courtney was attended by his brother, Mr. Henry Courtney.</p>
@@ -2540,15 +2540,15 @@ bers of both organizations, that they were willing to yield to the demand for un
                   <p>The fair for St. Monica's Home, under the auspices of the Woman's Era Sewing Circle, will follow immediately after that of the N.E. Hospital opening on December 8th, in St. Augustine lecture room.</p>
                </div>
                <pb n="7 THE WOMAN'S ERA."/>
-               <div id="we3.04.10" n="Literature Department" type="review">
-                  <head rend="aligncenter">LITERATURE DEPARTMENT.</head>
+               <div id="era3.04.10" type="review">
+                  <head rend="center">LITERATURE DEPARTMENT.</head>
                   <docDate>October and November 1896</docDate>
                   <p>In the Atlantic Monthly for September is a most excellent article by Mr. Booker T. Washington, "The Awakening of the Negro." It is a very graphic picture of the present condition of the race, its weakness, its progress, its ambition, and its great needs. In reading it, one is impressed not only by the broad and practical common sense of the author as the institutor of the great work now being carried on, but also by his deep insight and keen observations. One of' the best thoughts or suggestions in the article is this:</p>
                   <p>"Let us go on for a few more years knitting our business and industrial relations into those of the white man, till a black man gets a mortgage on a white man's house that he can foreclose at will. The white man on whose house the mortgage rests will not try to prevent that negro from voting when he goes to the polls."</p>
                   <p>Dodd, Mead &#x0026; Co. are about to publish a volume of poems by Paul Lawrence Dunbar, with in introduction by William Dean Howells. Mr. Dunbar is a full-blooded American Negro. He has a pleasing, manly and refined face, and until recently was an elevator boy in Dayton, Ohio. His best work is in the dialect of his race. A few of his verses have been appearing occasionally in the magazines, and coming to the attention of Mr. Howells, he discovered in him a poet of undisputed talent. Mr. Howells says of him: "What struck me in reading Mr. Dunbar's poetry was what had already struck his friends in Ohio, Indiana, Kentucky and Illinois. They had felt as I felt, that however gifted his race had proved itself in music, in oratory, in several other arts, here was the first instance of an American Negro who had evinced innate literature . . . . So far as I could remember, Paul Dunbar was th only man of pure African blood and American civilization to feel the Negro life aesthetically and express it lyrically. It seems to me that this had come to its most modern consciousness in him, and that his brilliant and unique achievement was to have studied the American Negro objectively, and to have represented him as he found him to be with humor, with sympathy, and yet with what the reader must feel to be with entire truthfulness. I said that a race which had come to this effect in any member of it, had attained civilization in him; and I permitted myself the imaginative prophecy that the hostilities and the prejudices which had so long constrained his race were destined to vanish in the arts; that these were to be final proof that God had made of one blood all nations of men. I thought his merits positive and not comparative, and held that if his black poems had been written by a white man I should not have found them less admirable. I accepted them as evidence of the essential unity of the human race, which does not think or feel black in one and white in another, but humanity in all."</p>
                   <p>The following is one of Mr. Dunbar's poems:</p>
-                  <div id="we3.04.10.01" n="When De Co'n Pone's Hot" type="poem">
-                     <head rend="aligncenter">WHEN DE CO'N PONE'S HOT</head>
+                  <div id="era3.04.10.01" type="poem">
+                     <head rend="center">WHEN DE CO'N PONE'S HOT</head>
                      <docAuthor>Paul Lawrence Dunbar</docAuthor>
                      <docDate>October and November 1896</docDate>
                      <lg type="stanza">
@@ -2610,7 +2610,7 @@ bers of both organizations, that they were willing to yield to the demand for un
                   </div>
                </div>
                <pb n="8 THE WOMAN'S ERA."/>
-               <div id="we3.04.11" n="Organ of the National Association of Colored Women" type="staff">
+               <div id="era3.04.11" type="staff">
                   <docDate>October and November 1896</docDate>
                   <p>THE WOMAN'S ERA, PUBLISHED AT 103 CHARLES ST., BOSTON, MASS.</p>
                   <p>ORGAN OF THE NATIONAL ASSOCIATION OF COLORED WOMEN.</p>
@@ -2631,16 +2631,16 @@ bers of both organizations, that they were willing to yield to the demand for un
                      <item>Chairman Ex. Com., Mrs, B.T. Washington, Tuskegee, Ala.</item>
                   </list>
                </div>
-               <div id="we3.04.12" n="Sensation of the Hour" type="politics">
+               <div id="era3.04.12" type="politics">
                   <docDate>October and November 1896</docDate>
                   <p>The sensation of the hour in Massachusetts politics is the election (altogether unexpected) of a colored man, Mr. Isaac Allen, to the Governor's Council. If the evidence against Mr. Allen can be trusted, it would seem that his election is not creditable to his race, his party or his state. Yet distressing as is this aspect of the case, public attention will hardly fail to note another view a thousand times more deplorable. It is of far less significance that the councilor-elect may not be fit than that the political management of the state should use her highest offices for such questionable ends. It makes it no better that in this case the nomination was supposed to mean nothing. The motive is as contemptible from this point of view as it is from any other. Whatever the election of Mr. Allen may prove, the political "power that be" must shoulder it.</p>
                   <p>The WOMAN'S ERA club table at the N. E. Hospital for women and children will be a stationary table with photographs and autographs of distinguished women and men. A feature will be a collection of the best books and photographs of colored authors. Notably those of Frederick Douglass, Dr. Wm. E. B. Duboise, Hon. Archibald Grimke, Paul Dunbar, Miss Alice Ruth Moore, Miss Rachel Washington, Mrs. Casneau, Dr. Wm. W. Brown.</p>
                </div>
-               <div id="we3.04.13" n="Reports from the Clubs" type="report">
-                  <head rend="aligncenter">REPORTS FROM THE CLUBS.</head>
+               <div id="era3.04.13" type="report">
+                  <head rend="center">REPORTS FROM THE CLUBS.</head>
                   <docDate>October and November 1896</docDate>
-                  <div id="we3.04.13.01" n="Tuskegee Woman's Club" type="report">
-                     <head rend="aligncenter">TUSKEGEE WOMAN'S CLUB.</head>
+                  <div id="era3.04.13.01" type="report">
+                     <head rend="center">TUSKEGEE WOMAN'S CLUB.</head>
                      <docAuthor>Elizabeth E. Lane</docAuthor>
                      <docDate>October and November 1896</docDate>
                      <p>At the last meeting of the year, ending May 15, 1896, all the old officers of the club were reelected for the year ending May, 1897. For president, Mrs. Booker T. Washington; vice president, Miss S. Helene Porter; secretary, Miss Elizabeth E. Lane; treasurer, Miss Sarah Hunt; librarian, Miss Mattie Childs; executive committee, Mrs. Josephine Turpin-Washington, Mrs. Adella Hunt-Logan, Mrs. Emma Garret-Young.</p>
@@ -2655,8 +2655,8 @@ American Negro." There are doubtless some prejudices existing in the mind of the
                      <p>Mrs M. F. Melvin will devote her spare moments in the interest of the ERA this year. Plans for the year's work for the club are in abeyance until the president, Mrs. Booker T. Washington, has returned "to her own again." In the meantime the executive committee will be planning a literary program for the current quarter.</p>
                      <byline>ELIZABETH E. LANE.</byline>
                   </div>
-                  <div id="we3.04.13.02" n="The Ladies Auxiliary" type="report">
-                     <head rend="aligncenter">THE LADIES AUXILIARY.</head>
+                  <div id="era3.04.13.02" type="report">
+                     <head rend="center">THE LADIES AUXILIARY.</head>
                      <docDate>October and November 1896</docDate>
                      <p>WASHINGTON, D.C.</p>
                      <p>One beneficent result of the July conventions is the general awakening created. Human nature will always be human nature, and it needs a little prodding now and then. The spirit of emulation has been thoroughly aroused, and the desire to do something worth while is in many quarters, plainly evident.</p>
@@ -2666,8 +2666,8 @@ American Negro." There are doubtless some prejudices existing in the mind of the
                      <p> This lack of knowledge of our own distinguished people was forcibly impressed upon me on one occasion when in a company of highly intelligent women the name of Amanda Smith was mentioned, and of them all only the one who mentioned the name had ever heard of Amanda Smith.</p>
                      <p>In addition to the two sections named there is a Social Purity Section and a Culture Section, the work of which will at some future time be outlined.</p>
                   </div>
-                  <div id="we3.04.13.03" n="And Still Another Club" type="report">
-                     <head rend="aligncenter">AND STILL ANOTHER CLUB.</head>
+                  <div id="era3.04.13.03" type="report">
+                     <head rend="center">AND STILL ANOTHER CLUB.</head>
                      <docAuthor>Mamie L. McMechen</docAuthor>
                      <docDate>October and November 1896</docDate>
                      <p>Wheeling, W. Va.</p>
@@ -2681,8 +2681,8 @@ American Negro." There are doubtless some prejudices existing in the mind of the
                      </signed>
                   </div>
                   <pb n="10 THE WOMAN'S ERA."/>
-                  <div id="we3.04.13.04" n="Opportunity and Privileges of Club Life" type="report">
-                     <head rend="aligncenter">0PPORTUNITY AND PRIVILEGES OF CLUB LIFE.</head>
+                  <div id="era3.04.13.04" type="report">
+                     <head rend="center">0PPORTUNITY AND PRIVILEGES OF CLUB LIFE.</head>
                      <docDate>October and November 1896</docDate>
                      <p>[Extract from a paper read at the first Sunday afternoon meeting of W. E. C. by Mrs. F. R. Ridley, Secretary.]</p>
                      <p>The woman's club, that broad institution devoted to general advancement and cultivation, has made itself so much a part of the life of today that the time will soon come when we will accept it as it necessary adjunct of our civilization, and forget that there was ever a time when we were clubless. And yet the movement is almost <hi rend="italic">fin de siecle</hi>. Fifty years ago the average woman knew nothing of life save as she saw it from her own fireside, and her participation in public affairs was extremely limited. Today the average woman is studying the currency question, and has an active interest in at least one home or hospital. A movement so comprehensive, so spontaneous and so general must necessarily be grounded upon deep and vital principles and have grown out of actual needs and necessities. As much as the club movement means in the way of new opportunities and privileges for women, it has a deeper meaning and a higher significance: it is in its way a recognition and realization of the oneness of the race and of our common brotherhood. In this respect it is a worthy movement of the time and of the country, founded upon the principles of the democracy; it is in line with the great movements and one of the steps toward the time when man shall love his neighbor as himself.</p>
@@ -2695,8 +2695,8 @@ and the worth of others. It is one of the longest steps toward our salvation.</p
                      <p>There is no factor in modern times so active in bringing about a universal brotherhood or sisterhood. It is supplementing the work of the public school and the church, for the clubs have opened the doors of the homes and found a common meeting ground based on worth and a common humanity.</p>
                      <p>There are still those who consider exclusiveness a virtue and are proud of a limited acquaintanceship. Women's clubs are helping to bring us to a recognition of the truth that true dignity does not need barriers in order to preserve itself; that snobbishness is a vice, and that while friendship should be bound by congeniality, neighborliness should know no bounds. The club means the spirit of neighborliness with the world, the recognition of our duty toward our neighbor, and not only of our common humanity but our common divinity; the club helps us not only to make the best of that within us, but to see the best of that in others. In this aspect it is the embodiment of a great principle; a principle which may not be always worked out in this form, but which nevertheless will never die; a principle with which we are to enter in and partake of everlasting life.</p>
                   </div>
-                  <div id="we3.04.13.05" n="Nebraska Club Notes" type="report">
-                     <head rend="aligncenter">NEBRASKA CLUB NOTES.</head>
+                  <div id="era3.04.13.05" type="report">
+                     <head rend="center">NEBRASKA CLUB NOTES.</head>
                      <docAuthor>S. Lillian Coleman</docAuthor>
                      <docDate>October and November 1896</docDate>
                      <p>The club continues to grow in interest, work and numbers. At every meeting for the last two months there has been from one to three applications for membership.</p>
@@ -2715,8 +2715,8 @@ and the worth of others. It is one of the longest steps toward our salvation.</p
                      <p>The guests numbered about a hundred, but time and space prevent mention of the rest of the names and costumes.</p>
                      <byline>S. LILLIAN COLEMAN.</byline>
                   </div>
-                  <div id="we3.04.13.06" n="A New Kentucky Club." type="report">
-                     <head rend="aligncenter">A NEW KENTUCKY CLUB.</head>
+                  <div id="era3.04.13.06" type="report">
+                     <head rend="center">A NEW KENTUCKY CLUB.</head>
                      <docAuthor>Beulah Thompson Davis</docAuthor>
                      <docDate>October and November 1896</docDate>
                      <p>It is with pleasure I renew my subscription to the ERA, also send you a few new subscribers, hoping in the near future to send more new ones. Glad to take advantage of the club rates.</p>
@@ -2726,16 +2726,16 @@ and the worth of others. It is one of the longest steps toward our salvation.</p
                         <name>BEULAH THOMPSON DAVIS.</name>
                      </signed>
                   </div>
-                  <div id="we3.04.13.07" n="An Up-To-Date Club" type="report">
-                     <head rend="aligncenter">AN UP-TO-DATE CLUB.</head>
+                  <div id="era3.04.13.07" type="report">
+                     <head rend="center">AN UP-TO-DATE CLUB.</head>
                      <docDate>October and November 1896</docDate>
                      <p>On the evening of October 13th the latest woman's club of New Bedford, the namesake of the president of the Woman's Era Club of Boston, held a political reception and flag rising at the residence of Miss Mary A. Jackson. A McKinley
 <pb n="12 THE WOMAN'S ERA."/>
 &#x0026; Hobart flag was thrown to the breeze by the president, Mrs. John Freedom. Then followed many good speeches and some fine instrumental and vocal music. Finally a delicious supper was served.</p>
                      <p>In early December Mrs. Ruffin goes down to New Bedford to address the club that has honored her by taking her name.</p>
                   </div>
-                  <div id="we3.04.13.08" n="Club Subscriptions to Woman's Era Received During October" type="report">
-                     <head rend="aligncenter">CLUB SUBSCRIPTIONS TO WOMAN'S ERA RECEIVED DURING OCTOBER.
+                  <div id="era3.04.13.08" type="report">
+                     <head rend="center">CLUB SUBSCRIPTIONS TO WOMAN'S ERA RECEIVED DURING OCTOBER.
 </head>
                      <docDate>October and November 1896</docDate>
                      <list type="simple">
@@ -2757,7 +2757,7 @@ and the worth of others. It is one of the longest steps toward our salvation.</p
                      <p>Reports of club subscriptions will be made from time to time.</p>
                   </div>
                </div>
-               <div id="we3.04.14" n="Letter to Mrs. Ruffin" type="letter to editor">
+               <div id="era3.04.14" type="letter to editor">
                   <docAuthor>Mrs. M.A. Dillard</docAuthor>
                   <docDate>October and November 1896</docDate>
                   <opener>
@@ -2775,10 +2775,10 @@ and the worth of others. It is one of the longest steps toward our salvation.</p
                      <name>Mrs. M.A. DILLARD.</name>
                   </signed>
                </div>
-               <div id="we3.04.15" n="Club Notes" type="club notes">
-                  <head rend="aligncenter">CLUB NOTES.</head>
+               <div id="era3.04.15" type="club notes">
+                  <head rend="center">CLUB NOTES.</head>
                   <docDate>October and November 1896</docDate>
-                  <div id="we3.04.15.01" n="Inauguration" type="club notes">
+                  <div id="era3.04.15.01" type="club notes">
                      <docAuthor>Alice Ruth Moore</docAuthor>
                      <docDate>October and November 1896</docDate>
                      <p>The inauguration of a new feature in the work of the Woman's Era Club was a complete success. The first of a series of public Sunday afternoon meetings was held on the 17th of October at the Twelfth Baptist Church. It was a novel feature in its way, and drew a large crowd of women interested in the work, and men, curious to know just what the work meant. The latter were skeptical and quite prepared to smile with superior indifference, but changed their minds before the afternoon was over.</p>
@@ -2790,15 +2790,15 @@ sang gloriously. A generous collection was given Miss Dean.</p>
                      <p>The Phyllis Wheatley Club of New Orleans, after laboring earnestly during all the heated summer term, have succeeded in opening their sanitarium and training school for nurses in connection with the medical department of New Orleans University. The opening exercises were largely attended and quite interesting. The members of the P.W.C. deserve great credit for having, in so short a time, succeeded in establishing a work that must eventually grow and prosper.</p>
                      <byline>ALICE RUTH MOORE.</byline>
                   </div>
-                  <div id="we3.04.15.02" n="New Public Sunday Meeting" type="announcement">
+                  <div id="era3.04.15.02" type="announcement">
                      <docDate>October and November 1896</docDate>
                      <p>The next public Sunday meeting of the Woman's Era Club will be a mothers' meeting. Miss M.L. Baldwin will read a paper on "A
 <pb n="13 THE WOMAN'S ERA."/>
 Mother's Duty," from a teacher's standpoint. Time will be allowed for a short discussion of the paper.</p>
                      <p>The young ladies of Morris Brown College, Atlanta, Georgia, have an excellent literary society named in honor of the wife of Bishop Abraham Grant. It is a rival of the young men's fraternity for literary honor.</p>
                   </div>
-                  <div id="we3.04.15.03" n="Constitution of the National John Brown Memorial Association of Women" type="constitution">
-                     <head rend="aligncenter">CONSTITUTION OF THE NATIONAL JOHN BROWN MEMORIAL ASSOCIATION OF WOMEN.</head>
+                  <div id="era3.04.15.03" type="constitution">
+                     <head rend="center">CONSTITUTION OF THE NATIONAL JOHN BROWN MEMORIAL ASSOCIATION OF WOMEN.</head>
                      <docDate>October and November 1896</docDate>
                      <p>
                         <address>
@@ -2810,8 +2810,8 @@ Mother's Duty," from a teacher's standpoint. Time will be allowed for a short di
                      <p>It is earnestly requested that all monies coming from churches, lodges, societies, etc., be sent to the national treasurer, Bishop B.W. Arnett, Wilberforce, Ohio.</p>
                   </div>
                </div>
-               <div id="we3.04.16" n="Chicago's Provident Hospital and Training School" type="article">
-                  <head rend="aligncenter">CHICAGO'S PROVIDENT HOSPITAL AND TRAINING SCHOOL. - SOCIAL MATTERS.</head>
+               <div id="era3.04.16" type="article">
+                  <head rend="center">CHICAGO'S PROVIDENT HOSPITAL AND TRAINING SCHOOL. - SOCIAL MATTERS.</head>
                   <docAuthor>Fannie Barrier Williams</docAuthor>
                   <docDate>October and November 1896</docDate>
                   <p>One of the most notable events in local affairs is the completion of the new and beautiful building for Provident Hospital and Training School for Nurses. The existence and noble purposes of this institution have been mentioned more than once in the ERA, but people not living in Chicago can scarcely appreciate how much it means to the progressive spirit of the colored people of this great city.</p>
@@ -2829,15 +2829,15 @@ efficiency of the management of the institution that they were able to win the i
                   <p>Her many friends throughout the country will feel like extending greetings to Mrs. Theodore Lee Purnell of Washington, but formerly our own Theodora. Interest in her as a proud young mother will be no less cordial than was the interest in her as the most charming and popular young woman in the western Metropolis.</p>
                   <byline>FANNIE BARRIER WILLIAMS.</byline>
                </div>
-               <div id="we3.04.17" n="Where is John Brown's Daughter" type="article">
-                  <head rend="aligncenter">WHERE IS JOHN BROWN'S DAUGHTER.</head>
+               <div id="era3.04.17" type="article">
+                  <head rend="center">WHERE IS JOHN BROWN'S DAUGHTER.</head>
                   <docDate>October and November 1896</docDate>
                   <p>The committee appointed by the W.E.C. to investigate and report upon the reliability of a 
 <pb n="15 THE WOMAN'S ERA."/>
 story, published in many papers, concerning the reputed destitution of the daughter of John Brown, in order that the clubs might take immediate steps to help relieve that distress, reported that they had been unable to learn anything further about the matter, although they had sent letters of inquiry (with stamp for reply enclosed) to three different papers that had contained the story, and one of which <hi rend="italic">The Colored American</hi> of Washington had at the time a standing appeal for money to be sent in to be applied to the relief of Mrs. Anna Brown Adams and her children. No reply had been received, even the agent of the Associated Press being unable to say where or from whom the widely circulated report had come. The whole matter was therefore reported back to the club.</p>
                </div>
-               <div id="we3.04.18" n="Social Notes" type="social notes">
-                  <head rend="aligncenter">SOCIAL NOTES.</head>
+               <div id="era3.04.18" type="social notes">
+                  <head rend="center">SOCIAL NOTES.</head>
                   <docDate>October and November 1896</docDate>
                   <p>Mrs. F.P. Clary of Cambridge was agreeably surprised by her many friends at her home, Baldwin street, Oct. 27, 1896, the occasion being her 80th birthday.</p>
                   <p>Miss Ethel Lewis, recent graduate of the Cambridge Latin School, is attending Bryant &#x0026; Stratton Commercial School.</p>
@@ -2847,15 +2847,15 @@ story, published in many papers, concerning the reputed destitution of the daugh
                   <p>Mr. and Mrs. B.R. Wilson are receiving congratulations on the birth of a son.</p>
                   <p>"Noah's Ark," the coming entertainment by the Charity Club, is expected to be a brave social function as well as to put lots of money into the treasury for the Charity Hospital. Jos. Lee, of Woodland Park Hotel, who catered for the Food Fair just closed at Mechanic's Building, will also serve the more select host of charity workers in the same place.</p>
                </div>
-               <div id="we3.04.19" n="Woman's Era and American Kitchen Magazine One Year for One Dollar" type="filler">
-                  <head rend="aligncenter">THE WOMAN'S ERA AND AMERICAN KITCHEN MAGAZINE ONE YEAR FOR ONE DOLLAR.</head>
+               <div id="era3.04.19" type="filler">
+                  <head rend="center">THE WOMAN'S ERA AND AMERICAN KITCHEN MAGAZINE ONE YEAR FOR ONE DOLLAR.</head>
                   <docDate>October and November 1896</docDate>
                   <p>The publishers of the WOMAN'S ERA offer that paper and the <hi rend="italic">American Kitchen Magazine</hi>, both for one year at the price of each, one (1) dollar</p>
                   <p>This is an opportunity for our readers. The American Kitchen Magazine is well known as the best magazine in the country, dealing with household and domestic economy: its managers and staff of writers include those who are authority on these subjects: Mrs. Ellen Richardson, Mrs. Sarah Rover, Mrs. Lincoln.</p>
                   <p>Send in subscriptions at once.</p>
                </div>
-               <div id="we3.04.20" n="Woman's Era Eminent Women Series" type="information">
-                  <head rend="aligncenter">WOMAN'S ERA EMINENT WOMEN SERIES.</head>
+               <div id="era3.04.20" type="information">
+                  <head rend="center">WOMAN'S ERA EMINENT WOMEN SERIES.</head>
                   <docDate>October and November 1896</docDate>
                   <p>Subscription Premiums.</p>
                   <p>From time to time this paper has published portraits of well known women; these portraits, because of the interest of the subjects and the excellence of workmanship, have given general satisfaction. They are now to be collected in souvenir form, tied with art ribbons and issued as premiums to subscribers.</p>
@@ -2863,7 +2863,7 @@ story, published in many papers, concerning the reputed destitution of the daugh
                   <p>Every paid up subscriber sending in the name of one yearly subscriber and $1 will receive one of theses souvenirs. Subscriptions <hi rend="italic">must</hi> be received through a <hi rend="italic">paid up subscriber</hi>, and must be paid <hi rend="italic">in advance</hi>.</p>
                   <p>This series of portraits includes many of our women now before the people as authors, lecturers and public workers: the collection is valuable as well as beautiful, and this opportunity to secure it, placed as it is within the reach of all our readers, should be eagerly grasped.</p>
                </div>
-               <div id="we3.04.21" n="Advertisements" type="advertisement">
+               <div id="era3.04.21" type="advertisement">
                   <docDate>October and November 1896</docDate>
                   <p>
                      <figure entity="we341">
@@ -3074,29 +3074,29 @@ STOCK 50 CENTS A SHARE SOLD ON INSTALMENT PLAN. Patent Applied for.</p>
                   <p>ADDRESS: POST OFFICE BOX 3, DENVER, COLO.</p>
                </div>
             </div>
-            <div id="we3.05" n="The Woman's Era Vol. 3 No. 5" type="issue">
-               <head rend="aligncenter">The Woman's Era.</head>
-               <head rend="aligncenter">Vol. III. No. 5.</head>
+            <div id="era3.05" n="5" type="issue">
+               <head rend="center">The Woman's Era.</head>
+               <head rend="center">Vol. III. No. 5.</head>
                <opener>
                   <dateline>BOSTON, MASS.,  JANUARY, 1897.  PRICE 10 CENTS.</dateline>
                </opener>
                <docDate>January 1897</docDate>
-               <div id="we3.05.01" n="A Public Calamity" type="review">
-                  <head rend="aligncenter">A PUBLIC CALAMITY.</head>
+               <div id="era3.05.01" type="review">
+                  <head rend="center">A PUBLIC CALAMITY.</head>
                   <docDate>January 1897</docDate>
                   <p>The failure of Mr. Joseph Lee, the proprietor of Woodland Park Hotel, Auburndale, Mass., has carried consternation all over the country.  This failure is one to be particularly deplored, and it is in the nature of a public calamity.  For twenty-one years Mr. Lee and his wife have put money, brains and industry into their work, and this hotel had become one of the famous ones of this neighborhood.  In every respect it was first class and entertained many distinguished people.  In its way it was unique, for it is seldom that a suburban hotel, with all the accompaniments of parks, tennis grounds, stables, etc., can find a large winter patronage, but so attractive was the table and inner appointments that rooms were in demand here throughout the entire year.</p>
                   <p>The Woodland Park Hotel was a source of pride to the whole race, and the large number who have been entertained there cannot but feel a personal loss in this failure.</p>
                   <p>However, Mr. Lee has a couple of lucrative patents upon the market, and these together with his name and fame as a caterer must offer opportunities for the future.</p>
                   <p>In the restaurants conducted by Mr. Lee in several large fairs recently, it was decided novelty to see the help mixed, colored and white waitresses, clerks, cooks, etc.  The work that was being done by him was so valuable that we feel, to repeat, that his failure is a great public calamity.</p>
                </div>
-               <div id="we3.05.02" n="Fairs and Rumors of Fairs" type="article">
-                  <head rend="aligncenter"> FAIRS AND RUMORS OF FAIRS.</head>
+               <div id="era3.05.02" type="article">
+                  <head rend="center"> FAIRS AND RUMORS OF FAIRS.</head>
                   <docDate>January 1897</docDate>
                   <p>Three fairs have engaged the attention of the Woman's Era Club throughout the past autumn.  To the "Noah's Ark," for the benefit of the Charity Club Hospital, as a club they contributed only the president as one of the reception committee, although many members showed their individual interest by frequent visits to that gorgeous show.</p>
                   <p>At the fair for the New England Hospital for Women and Children, a Woman's Era Table helped in a modest way to make up that grand total of $13,000, which has gone into the treasury of the hospital as the financial result of many weeks of preparation by enthusiastic charity workers all over New England, and one delightful week of barter, sale and social intercourse in Tremont Temple, where the fair was held. The Rhode Island was the banner table, turning in to the treasurer of the fair about $1,700 net.</p>
                   <p>Following immediately upon the heels of the Hospital fair came the Woman's Era's special effort for St. Monica's Home, for sick and destitute colored women and children, tht was held in the lecture room of St. Augustine Church for three days only.  Nevertheless and despite adverse happenings (for the fair), in the shape of big weddings and other parties coming upon each evening the fair was running, the receipts were more than sufficient to supply the Home with all of its fuel for the year.  An Ednah D. Cheney Table was a feature of this fair.  This table was named in recognition of the large interest taken in and contributions given to it by Mrs. Cheney.  The articles from this table still unsold are to e used as a nucleus for still another effort for St. Monica's benefit.  Some time during the winter a supplementary sale will be held in the parlors of the Home, when it is expected that a good sum will be added to that already standing to the credit of the W.E. sewing circle.</p>
-                  <div id="we3.05.02.01" n="Nash letter" type="letter">
-                     <head rend="aligncenter">Boston, Dec. 24, 1896.</head>
+                  <div id="era3.05.02.01" type="letter">
+                     <head rend="center">Boston, Dec. 24, 1896.</head>
                      <docAuthor>Martha W. Nash</docAuthor>
                      <docDate>January 1897</docDate>
                      <p>At a meeting of the executive committee and heads of tables of the fair in aid of the New England Hospital for Women and Children, a vote of sincere thanks was passed in appreciation of the valuable service rendered the fair by the president of the Woman's Era Table and those associated with her.  Will you please convey to these ladies the sentiment expressed in this vote?</p>
@@ -3110,8 +3110,8 @@ STOCK 50 CENTS A SHARE SOLD ON INSTALMENT PLAN. Patent Applied for.</p>
                   </div>
                </div>
                <pb n="2 THE WOMAN'S ERA."/>
-               <div id="we3.05.03" n="N.A.C.W. Department" type="masthead">
-                  <head rend="aligncenter"> N.A.C.W. DEPARTMENT.</head>
+               <div id="era3.05.03" type="masthead">
+                  <head rend="center"> N.A.C.W. DEPARTMENT.</head>
                   <docDate>January 1897</docDate>
                   <p>EDITORS:</p>
                   <p>MRS. B. T. WASHINGTON, DR. REBECCA COLE, IDA WELLS BARNETT, ROSA D. BOWSER, FRANCES JACKSON.</p>
@@ -3132,8 +3132,8 @@ STOCK 50 CENTS A SHARE SOLD ON INSTALMENT PLAN. Patent Applied for.</p>
                      <item>Chairman Ex. Com., Mrs. B. T. Washington, Tuskegee, Ala.</item>
                   </list>
                </div>
-               <div id="we3.05.04" n="An Open Appeal to Our Women for Organization" type="appeal">
-                  <head rend="aligncenter">AN OPEN APPEAL TO OUR WOMEN FOR ORGANIZATION.</head>
+               <div id="era3.05.04" type="appeal">
+                  <head rend="center">AN OPEN APPEAL TO OUR WOMEN FOR ORGANIZATION.</head>
                   <docAuthor>Victoria Earle Matthews</docAuthor>
                   <docDate>January 1897</docDate>
                   <p>
@@ -3154,15 +3154,15 @@ names, officers' names and addresses, with object, should be mailed to national 
                      <title>National Organizer, N. A. C. W.</title>
                   </signed>
                </div>
-               <div id="we3.05.05" n="Christmas in Boston" type="filler">
+               <div id="era3.05.05" type="filler">
                   <docDate>January 1897</docDate>
                   <p>The Christmas holidays have, on the whole, been quietly observed in Boston, there being little of any general interest, save the party at Arcade hall, under the management of Mrs. J. H. Lewis, and a children's party at the same hall under the same manager, assisted by Mrs. Geo. Glover.</p>
                </div>
-               <div id="we3.05.06" n="Reports from the Clubs" type="report">
-                  <head rend="aligncenter">REPORTS FR0M THE CLUBS.</head>
+               <div id="era3.05.06" type="report">
+                  <head rend="center">REPORTS FR0M THE CLUBS.</head>
                   <docDate>January 1897</docDate>
-                  <div id="we3.05.06.01" n="The Woman's Improvement Club." type="report">
-                     <head rend="aligncenter">THE WOMAN'S IMPROVEMENT CLUB.</head>
+                  <div id="era3.05.06.01" type="report">
+                     <head rend="center">THE WOMAN'S IMPROVEMENT CLUB.</head>
                      <docAuthor>S.E. Bell</docAuthor>
                      <docDate>January 1897</docDate>
                      <p>
@@ -3182,8 +3182,8 @@ names, officers' names and addresses, with object, should be mailed to national 
                         </title>
                      </signed>
                   </div>
-                  <div id="we3.05.06.02" n="Tuskegee Woman's Club." type="report">
-                     <head rend="aligncenter">TUSKEGEE WOMAN'S CLUB.</head>
+                  <div id="era3.05.06.02" type="report">
+                     <head rend="center">TUSKEGEE WOMAN'S CLUB.</head>
                      <docAuthor>Elizabeth E. Lane</docAuthor>
                      <docDate>January 1897</docDate>
                      <p>The questions on the literary program for discussion for the past. quarter have been: "Mrs. Harriet B. Stowe. Sketch of Her Life," Miss Caroline Williams.  "Influence of Uncle Tom's Cabin," Mrs. J. D. McCall.  "Child Study," by Misses Hunt, Porter and Mrs. Estelle Penney.  "Strength and Weakness of Public Schools of Alabama," by Mrs. Louise Jenkins and Adele Hunt-Logan.</p>
@@ -3201,7 +3201,7 @@ and "tabled," "passed," etc., by strictly parliamentary usages that gave credenc
                      <p>The Margaret Murray Washington Club, under Miss E. E. Lane, is composed of thirty young women to meet the obligations that they have willingly undertaken for the year. The Current History Club, under the direction of Mrs. Adele Hunt-Logan, was not reported because of' her absence.</p>
                      <byline>ELIZABETH E. LANE.</byline>
                   </div>
-                  <div id="we3.05.06.03" n="Letter from Mrs. N. Johnson." type="report">
+                  <div id="era3.05.06.03" type="report">
                      <docAuthor>Mrs. N. Johnson</docAuthor>
                      <docDate>January 1897</docDate>
                      <p>
@@ -3223,29 +3223,29 @@ and "tabled," "passed," etc., by strictly parliamentary usages that gave credenc
                         </text>
                      </p>
                   </div>
-                  <div id="we3.05.06.04" n="The Woman's Newport League." type="report">
-                     <head rend="aligncenter">THE WOMAN'S NEWPORT LEAGUE.</head>
+                  <div id="era3.05.06.04" type="report">
+                     <head rend="center">THE WOMAN'S NEWPORT LEAGUE.</head>
                      <docDate>January 1897</docDate>
                      <p>In a staid and respectable old burg like Newport there is little or no reformatory or charitable work demanding the attention of that much overworked party in other and more frisky communities -- the woman with a mission - consequently the Woman's Newport League, after doing all its hands find to do for the public weal, has still time to devote to cultivating and encouraging more social life among all classes in that community. To that winter "sleepy hollow," the League is a most beneficent institution in more ways than one.  The next effort of the League is to be a social one
 <pb n="5 THE WOMAN'S ERA."/>
 of roseate color, "a leap year pink tea."  Mrs. Dickerson, the organizer of the League, is also general promoter of all the good efforts made by it.</p>
                   </div>
-                  <div id="we3.05.06.05" n="Woman's Fortnightly Club" type="report">
-                     <head rend="aligncenter"> WOMAN'S FORTNIGHTLY CLUB.</head>
+                  <div id="era3.05.06.05" type="report">
+                     <head rend="center"> WOMAN'S FORTNIGHTLY CLUB.</head>
                      <docDate>January 1897</docDate>
                      <p>Wheeling, W. VA.</p>
                      <p>The club is anticipating a very pleasant and interesting evening at its next meeting, discussing the poems of our poet, Paul Lawrence Dunbar.</p>
                      <p>The club continues to grow in interest; each member does her duty with all earnestness. We very recently prepared a box of clothing and sent it to the indigent students of Gammon Theological and Clark Universities. An interesting and encouraging letter was received from Mr. J. W. E. Bowen, wishing us great success with our work.</p>
                   </div>
-                  <div id="we3.05.06.06" n="The Apron Party and Mystery Tea" type="report">
-                     <head rend="aligncenter">THE APRON PARTY AND MYSTERY TEA.</head>
+                  <div id="era3.05.06.06" type="report">
+                     <head rend="center">THE APRON PARTY AND MYSTERY TEA.</head>
                      <docDate>January 1897</docDate>
                      <p>The first mystery which the young men had to solve was to find where the entertainment was to be given, as the invitations read, "Guess where and come there." Two prizes were given, one for the best or neatly hemmed apron, the other for the worst looking one. These were both given to gentlemen.</p>
                      <p>Some of our girls have been smiling sweetly since December 27th, when the gentleman from Altoona, Pa., paid us a short visit.</p>
                      <p>There were several visitors in the city during the holidays, all of whom, we trust, had a Merry Xmas, and we wish all a happy New Year.</p>
                   </div>
-                  <div id="we3.05.06.07" n="St. Louis Woman's Club" type="report">
-                     <head rend="aligncenter">ST. LOUIS WOMAN'S CLUB.</head>
+                  <div id="era3.05.06.07" type="report">
+                     <head rend="center">ST. LOUIS WOMAN'S CLUB.</head>
                      <docAuthor>Haydee Campbell and Alice Brown Thompson</docAuthor>
                      <docDate>January 1897</docDate>
                      <p>
@@ -3264,8 +3264,8 @@ from the five sections into which the club bas been divided, viz: the industrial
                         </title>
                      </signed>
                   </div>
-                  <div id="we3.05.06.08" n="Omaha Woman's Club" type="report">
-                     <head rend="aligncenter">OMAHA WOMAN'S CLUB.</head>
+                  <div id="era3.05.06.08" type="report">
+                     <head rend="center">OMAHA WOMAN'S CLUB.</head>
                      <docAuthor>S. Lillian Coleman</docAuthor>
                      <docDate>January 1897</docDate>
                      <p>
@@ -3294,8 +3294,8 @@ Later the good old customs languished, and in Ben Johnson's "Mask of Xmas" is fo
                      </list>
                      <byline>S. LILLIAN COLEMAN.</byline>
                   </div>
-                  <div id="we3.05.06.09" n="Woman's Club" type="report">
-                     <head rend="aligncenter">WOMAN'S CLUB.</head>
+                  <div id="era3.05.06.09" type="report">
+                     <head rend="center">WOMAN'S CLUB.</head>
                      <docAuthor>Christine S. Smith</docAuthor>
                      <docDate>January 1897</docDate>
                      <p>
@@ -3310,7 +3310,7 @@ Later the good old customs languished, and in Ben Johnson's "Mask of Xmas" is fo
                         <name>CHRISTINE S. SMITH.</name>
                      </signed>
                   </div>
-                  <div id="we3.05.06.10" n="Editor of Woman's Era" type="report">
+                  <div id="era3.05.06.10" type="report">
                      <docAuthor>Mrs. A.W.Thomas and I.A. Terry</docAuthor>
                      <docDate>January 1897</docDate>
                      <p>
@@ -3334,7 +3334,7 @@ Later the good old customs languished, and in Ben Johnson's "Mask of Xmas" is fo
                         </title>
                      </signed>
                   </div>
-                  <div id="we3.05.06.11" n="Letter on St. Louis Club Work" type="report">
+                  <div id="era3.05.06.11" type="report">
                      <docDate>January 1897</docDate>
                      <p>
                         <date>St. Louis, Mo., December 30, 1896.</date>
@@ -3348,8 +3348,8 @@ the columns of your paper. And by helping us, we will also help you by subscribi
                      <p>A consecrated meeting is held at the residence of Mrs. Carter, 2843 Montgomery street, every Thursday afternoon. The Lord has wonderfully used us as his missionaries. The work is carried on by Maggie Still, Sister Shavous, Sister Comb, Sister Robinson, for visiting the jail, workhouse, hospital, and anywhere duty calls us.</p>
                   </div>
                </div>
-               <div id="we3.05.07" n="Paul Dunbar's New Book" type="review">
-                  <head rend="aligncenter">PAUL DUNBAR'S NEW BOOK.</head>
+               <div id="era3.05.07" type="review">
+                  <head rend="center">PAUL DUNBAR'S NEW BOOK.</head>
                   <docAuthor>Chicago Conservator</docAuthor>
                   <docDate>January 1897</docDate>
                   <p>In good time for the holiday season has come the issue of Paul Dunbar's new volume of' poems entitled "Lyrics of Lowly Life." The work is issued by Dodd, Mead &#x0026; Co., of New York, and contains an introduction by W. D. Howells. It is to be regretted that notice was not made in our race journals of its expected appearance, for a host of colored people who love their race and who believe in encouraging aspiring manhood would have been most glad to include this book
@@ -3361,15 +3361,15 @@ in their holiday purchase.</p>
                   <byline>-- <hi rend="italic">Chicago Conservator.</hi>
                   </byline>
                </div>
-               <div id="we3.05.08" n="Queen Lilioukulani Now Lives in Brookline, Mass" type="social notes">
-                  <head rend="aligncenter">QUEEN LlLIOUKULANI NOW LIVES IN BROOKLINE, MASS.</head>
+               <div id="era3.05.08" type="social notes">
+                  <head rend="center">QUEEN LlLIOUKULANI NOW LIVES IN BROOKLINE, MASS.</head>
                   <docAuthor>Chicago Conservator</docAuthor>
                   <docDate>January 1897</docDate>
                   <p>Brookline is honored by the presence of royalty in the person of the ex-queen of the Sandwich Islands. Queen Lil is stopping on Sewall avenue, to be near her husband's relatives, Mr. and Mrs. Lee. Considerable social attention has been paid to the queen in the way of dinners, sleighrides, etc.</p>
                   <p>The queen is reported to be a woman of education and talent. She brings a number of followers with her, and will undoubtedly be able to hold her own in this, the most aristocratic of Massachusetts town.</p>
                </div>
                <pb n="8  THE WOMAN'S ERA."/>
-               <div id="we3.05.09" n="Subscriptions" type="masthead">
+               <div id="era3.05.09" type="masthead">
                   <docDate>January 1897</docDate>
                   <p>The Woman's Era, the organ of the National Federation of Afro-American Women, and devoted to the interests of the Women's Clubs, Leagues and Societies throughout the country. Published monthly, in Boston, by JOSEPHINE ST. P. RUFFIN, FLORIDA R. RIDLEY, 103 Charles Street. </p>
                   <p>SUBSCRIPTIONS.</p>
@@ -3380,14 +3380,14 @@ in their holiday purchase.</p>
                      <item>Subscription Payable in Advance.</item>
                   </list>
                </div>
-               <div id="we3.05.10" n="Mrs. Rachel Smith" type="obituary">
-                  <head rend="aligncenter"> MRS. RACHEL SMITH </head>
+               <div id="era3.05.10" type="obituary">
+                  <head rend="center"> MRS. RACHEL SMITH </head>
                   <docDate>January 1897</docDate>
                   <p>In the passing away of Mrs. Rachel Smith, who for twenty-five years was the matron of the Home for Aged Colored Women, the Woman's Era Club has lost a loved co-worker, the Home an intelligent, devoted Christian head, and the community a useful and ornamental member. At the regular meeting of the club immediately following the death of Mrs. Smith, the tributes of respect were paid her memory by the president and other members of the club, followed by five minutes of silent prayer and contemplation of' the virtues of  the deceased. The club's floral offering was a
 large bunch of white chrisanthemums and English violets, tied with violet satin ribbon, which was laid upon the bier by a committee from the club in attendance upon the funeral ceremonies.</p>
                </div>
-               <div id="we3.05.11" n="No 'Race Issue' In This" type="article">
-                  <head rend="aligncenter"> NO "RACE ISSUE" IN THIS.</head>
+               <div id="era3.05.11" type="article">
+                  <head rend="center"> NO "RACE ISSUE" IN THIS.</head>
                   <docDate>January 1897</docDate>
                   <p>Councilor-elect Isaac B. Allen continues to vindicate the judgment of those who regret that he was ever put forward as a representative of his race for a high station.</p>
                   <p>
@@ -3399,12 +3399,12 @@ large bunch of white chrisanthemums and English violets, tied with violet satin 
                   <p>"Work before Our Women" is the title of a circular issued by the national organizer of' the N. A. C. W., Mrs. Victoria E. Mathews. In it an eloquent appeal is made for activity among all the clubs in the union along all the lines  of work projected and recommended by the two national conferences, the one held in Boston in July, 1895,  and in Washington in July, 1896.  Clubs in the union, and those desiring to become part of it, not having received the circulars, should  send at once to Mrs. Mathews, 9 Murray St., New York, for copies.</p>
                </div>
                <pb n="9 THE WOMAN'S ERA."/>
-               <div id="we3.05.12" n="John Brown's Daughter Located" type="article">
-                  <head rend="aligncenter">JOHN BROWN'S DAUGHTER LOCATED.</head>
+               <div id="era3.05.12" type="article">
+                  <head rend="center">JOHN BROWN'S DAUGHTER LOCATED.</head>
                   <docDate>January 1897</docDate>
                   <p>By letters recently received and printed elsewhere, it will be seen that at last, direct and correct information of the whereabouts and condition of the only daughter of old John Brown has been obtained. An article in the last issue of the ERA brought out letters supplying the desired information in time for the Woman's Era Club of Boston to do its share in the pleasant duty of assisting the daughter of the one modern martyr, but not in time to carry out the plan devised by them upon first hearing of Mrs. Adams' needs. Of the letters and their writers, Mrs. Adams tells the whole, pathetic story. Mr. Allen's but emphasizes the well-known, long-continued interest taken by him and all his family in all anti-slavery, anti-justice, humane measures. Mrs. Lyles is the energetic president and founder of the John Brown Memorial Association, and it is suggested that each club in the National Association of Colored Women send to her five dollars, to be forwarded by her to Mrs. Adams. The Woman's Era Club of Boston will immediately forward their contributions  to the fund.</p>
                   <p>Miss Lyles will return receipts to club secretaries for the monies received from them.</p>
-                  <div id="we3.05.12.01" n="Letter from T.H. Lyles" type="letter">
+                  <div id="era3.05.12.01" type="letter">
                      <docAuthor>T.H. Lyles</docAuthor>
                      <docDate>January 1897</docDate>
                      <p>
@@ -3419,7 +3419,7 @@ large bunch of white chrisanthemums and English violets, tied with violet satin 
                         <name>Mrs. T. H. Lyles.</name>
                      </signed>
                   </div>
-                  <div id="we3.05.12.02" n="Letter to T.H. Lyles" type="letter">
+                  <div id="era3.05.12.02" type="letter">
                      <docAuthor>Annie Brown Adams</docAuthor>
                      <docDate>January 1897</docDate>
                      <salute>MY DEAR MRS. LYLES:</salute>
@@ -3435,7 +3435,7 @@ it to the post office. Please pardon the delay. Nothing can now reach me, except
                      <signed>Sincerely yours, <name>ANNIE BROWN ADAMS.</name>
                      </signed>
                   </div>
-                  <div id="we3.05.12.03" n="Letter from Nathaniel T. Allen" type="letter">
+                  <div id="era3.05.12.03" type="letter">
                      <docAuthor>Nathaniel T. Allen</docAuthor>
                      <docDate>January 1897</docDate>
                      <salute>MY DEAR MRS. RUFFIN: </salute>
@@ -3448,8 +3448,8 @@ it to the post office. Please pardon the delay. Nothing can now reach me, except
                      </signed>
                   </div>
                </div>
-               <div id="we3.05.13" n="Social Notes" type="social notes">
-                  <head rend="aligncenter">SOCIAL NOTES.</head>
+               <div id="era3.05.13" type="social notes">
+                  <head rend="center">SOCIAL NOTES.</head>
                   <docDate>January 1897</docDate>
                   <p>One of the most delightful receptions of New Year's day was that held at the home of Mr. and Mrs.  William Lee, Beacon street, Brookline, where ex-Queen Lilioukulani was the guest of honor. The old colonial mansion house was bright with flowers and full of guests during the reception hours from 3 to 5. The receiving party formed a pretty picture, as, grouped in the bay window, they greeted with charming cordiality the many friends who expressed so much pleasure at the opportunity offered to meet a charming woman, who was most womanly and cordial in her greetings in this lovely home.</p>
                   <p>In the receiving party were ex-Queen Lilioukulani, with Mrs. Lee on her right, Mrs. Kia Nahsolelin  on the left, with Mr. Lee, Miss Lee, J. Haleluke and Capt. Julius Palmer in the line. The ushers were Misses Flora and Donalena MacDonald and F.M. Goss. Most delightful music was rendered during the afternoon by Miss Sarah MacDonald, harpist. </p>
@@ -3464,16 +3464,16 @@ Club is distinguished for the recognition given it by the husbands, sons and bro
                   <p>Miss Azale Thomas of New Orleans, a recent graduate of Hampton, Va., will be in Boston two years for the purpose of taking a course at the Posee gymnasium. Miss Thomas is a fine gymnast, and is junior centre rush in the basket ball team. After finishing her studies here Miss Thomas will return south and have charge of a gymnasium for women. She is boarding at the Y.M.C.A. on Berkeley Street.</p>
                   <p>Mrs. Luther Dandridge has returned from her extended trip through the south, made for recuperation from a long siege of physical prostration. Miss Dandridge, among other places, visited Hampton and Livingstone College in Salisbury, N.C., and is loud in her praise of the systematic way in which work is carried on in both institutions. Mrs. Dandridge, being an active Era Club woman, gave a little talk and a solo to the Phyllis Wheatley Club.</p>
                </div>
-               <div id="we3.05.14" n="Some 'Off-Color' Happenings at the Hub" type="article">
-                  <head rend="aligncenter">SOME "OFF-COLOR" HAPPENINGS AT THE HUB.</head>
+               <div id="era3.05.14" type="article">
+                  <head rend="center">SOME "OFF-COLOR" HAPPENINGS AT THE HUB.</head>
                   <docDate>January 1897</docDate>
                   <p>All of the central figures in most of the month's excitements in and around Boston have been a little  off color, and the interests involved varied enough to embrace all classes of her citizens.</p>
                   <p>The patriotic sympathizers  with the Cuban cause have been shocked by the dethroned queen of the Sandwich Islands, with a retinue of attendants of mixed colors. </p>
                   <p>Religious circles, aroused by the preaching of the child Clarissa Avery. Educational and philanthropic circles have been responding to the annual pleas of Miss Jennie Dean for her school at Mannassa, Va., and of B.T. Washington and ex-Senator B.A. Bruce, in behalf of the Tuskegee Institute.</p>
                   <p>The legal fraternity and general public have been kept excited and anxious by the trial and conviction of Mate Bram, the accused perpetrator of the Herbert Fuller horrors, while candidate Allen has kept political circles at fever heat.</p>
                </div>
-               <div id="we3.05.15" n="Tom - An Incident" type="fiction">
-                  <head rend="aligncenter">TOM. - AN INCIDENT</head>
+               <div id="era3.05.15" type="fiction">
+                  <head rend="center">TOM. - AN INCIDENT</head>
                   <docAuthor>Alice Ruth Moore</docAuthor>
                   <docDate>January 1897</docDate>
                   <p>Tom stuck his toes into the warm mud and laughed for very joy. The sun beat down upon the brown earth and baked it hard in wagon furrows that could cut small toes and cause <sic corr="woeful">woful</sic> stumbles. But Tom didn't care for that; he blinked up at the yellow orb in the cloudless skies and hummed a ditty carelessly, the while he swung his small body to and fro on the fence.</p>
@@ -3500,15 +3500,15 @@ veiled the uncovered heads of the overseer and the hunters.</p>
                   <p>"Poor Tom," sobbed Nellie.</p>
                   <p>And who knows but what it was best?</p>
                </div>
-               <div id="we3.05.16" n="Woman's Era and American Kitchen Magazine One Year for One Dollar" type="filler">
-                  <head rend="aligncenter">THE WOMAN'S ERA AND AMERICAN KITCHEN MAGAZINE ONE YEAR FOR ONE DOLLAR.
+               <div id="era3.05.16" type="filler">
+                  <head rend="center">THE WOMAN'S ERA AND AMERICAN KITCHEN MAGAZINE ONE YEAR FOR ONE DOLLAR.
 </head>
                   <docDate>January 1897</docDate>
                   <p>The publishers of the W0MAN'S ERA offer that paper and the <hi rend="italic">American Kitchen Magazine</hi>, both for one year at the price of each, one (1) dollar.</p>
                   <p>This is an opportunity for our readers. <hi rend="italic">The American Kitchen Magazine</hi> is well known as the best magazine in the country, dealing with household and domestic economy; its managers and staff of writers include those who are authority on these subjects: Mrs . Ellen Richardson, Mrs. Sarah Rorer, Mrs. Lincoln.</p>
                   <p>Send in subscriptions at once.</p>
                </div>
-               <div id="we3.05.17" n="Advertisements" type="advertisements">
+               <div id="era3.05.17" type="advertisements">
                   <docDate>January 1897</docDate>
                   <p>
                      <figure entity="we351">

@@ -90,10 +90,12 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    </teiHeader>
    <text>
       <body>
-         <div id="child-anecdote.001" n=" Anecdote of Elias Hicks" type="article">
+
+         <div id="child_anecdote.001" type="article">
+
             <docAuthor>Child, Lydia Maria. </docAuthor>
             <head>
-               <title> Anecdote of Elias Hicks</title>
+               <title>Anecdote of Elias Hicks</title>
             </head>
             <docDate> 1839</docDate>
             <argument>

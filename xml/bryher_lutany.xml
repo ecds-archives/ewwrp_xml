@@ -85,7 +85,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    </teiHeader>
    <text>
       <body>
-         <div id="bryher-lutany.001" n="Region of Lutany" type="book">
+         <div id="bryher-lutany.001" type="Book">
             <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
             <head>REGION OF LUTANY<lb/>By WINIFRED ELLERMAN</head>
             <argument>
@@ -114,11 +114,11 @@ Song			    29<lb/>
 Tristfulness		     31<pb n="5"/>
 5<lb/>
             </p>
-            <div id="bryher-lutany.002" n="Region of Lutany" type="book">
+            <div id="bryher-lutany.002" type="Book">
                <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>Region of Lutany</head>
                <docDate>1912</docDate>
-               <div id="bryher-lutany.003" n="REGION OF LUTANY" type="poem">
+               <div id="bryher-lutany.003" type="Poem">
                   <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>REGION OF LUTANY</head>
                   <docDate>1912</docDate>
@@ -152,7 +152,7 @@ Tristfulness		     31<pb n="5"/>
                   <p>1912.</p>
                   <pb n="7"/>
                </div>
-               <div id="bryher-lutany.004" n="CORFU" type="poem">
+               <div id="bryher-lutany.004" type="Poem">
                   <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>CORFU</head>
                   <docDate>1913</docDate>
@@ -181,7 +181,7 @@ Tristfulness		     31<pb n="5"/>
                   <p>1913</p>
                   <pb n="8"/>
                </div>
-               <div id="bryher-lutany.005" n="LEADERLESS" type="poem">
+               <div id="bryher-lutany.005" type="Poem">
                   <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>LEADERLESS</head>
                   <docDate>1913</docDate>
@@ -312,9 +312,9 @@ Tristfulness		     31<pb n="5"/>
                   <p>1913. </p>
                   <pb n="13"/>
                </div>
-               <div id="bryher-lutany.006" n="PALAElig;OKASTRIZZA" type="poem">
+               <div id="bryher-lutany.006" type="Poem">
                   <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
-                  <head>PALAElig;OKASTRIZZA</head>
+                  <head>PAL&#x00C6;OKASTRIZZA</head>
                   <docDate>1913</docDate>
                   <lg type="stanza">
                      <l n="1">Beyond the olive slopes, a sun-crowned peak</l>
@@ -340,7 +340,7 @@ Tristfulness		     31<pb n="5"/>
                   <p>1913. </p>
                   <pb n="14"/>
                </div>
-               <div id="bryher-lutany.007" n="TO FRANCIS THOMPSON" type="poem">
+               <div id="bryher-lutany.007" type="Poem">
                   <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>TO FRANCIS THOMPSON</head>
                   <docDate>June, 1913</docDate>
@@ -382,7 +382,7 @@ Tristfulness		     31<pb n="5"/>
                   <p>June, 1913. </p>
                   <pb n="16"/>
                </div>
-               <div id="bryher-lutany.008" n="PANSIES" type="poem">
+               <div id="bryher-lutany.008" type="Poem">
                   <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>PANSIES</head>
                   <docDate>1913</docDate>
@@ -416,7 +416,7 @@ Tristfulness		     31<pb n="5"/>
                   <p>1913. </p>
                   <pb n="18"/>
                </div>
-               <div id="bryher-lutany.009" n="DWELT A MAID IN LUTANY" type="poem">
+               <div id="bryher-lutany.009" type="Poem">
                   <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>DWELT A MAID IN LUTANY</head>
                   <docDate>[unknown]</docDate>
@@ -471,7 +471,7 @@ Tristfulness		     31<pb n="5"/>
                   </lg>
                   <pb n="20"/>
                </div>
-               <div id="bryher-lutany.010" n="SICILY" type="poem">
+               <div id="bryher-lutany.010" type="Poem">
                   <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>SICILY</head>
                   <docDate>[unknown]</docDate>
@@ -508,7 +508,7 @@ Tristfulness		     31<pb n="5"/>
                   </lg>
                   <pb n="22"/>
                </div>
-               <div id="bryher-lutany.012" n="ODE TO THE SEA" type="poem">
+               <div id="bryher-lutany.012" type="Poem">
                   <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>ODE TO THE SEA</head>
                   <docDate>1913</docDate>
@@ -582,7 +582,7 @@ Tristfulness		     31<pb n="5"/>
                   <p>1913. </p>
                   <pb n="25"/>
                </div>
-               <div id="bryher-lutany.013" n="PONTIKONISI" type="poem">
+               <div id="bryher-lutany.013" type="Poem">
                   <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>PONTIKONISI</head>
                   <docDate>1913</docDate>
@@ -602,7 +602,7 @@ Tristfulness		     31<pb n="5"/>
                   <p>CORFU, 1913. </p>
                   <pb n="26"/>
                </div>
-               <div id="bryher-lutany.014" n="BLUEBELLS" type="poem">
+               <div id="bryher-lutany.014" type="Poem">
                   <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>BLUEBELLS</head>
                   <docDate>1911</docDate>
@@ -626,7 +626,7 @@ Tristfulness		     31<pb n="5"/>
                   <p>1911. </p>
                   <pb n="27"/>
                </div>
-               <div id="bryher-lutany.015" n="THE PAGES OF THE FLOWERS" type="poem">
+               <div id="bryher-lutany.015" type="Poem">
                   <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>THE PAGES OF THE FLOWERS</head>
                   <docDate>191[3]</docDate>
@@ -668,7 +668,7 @@ Tristfulness		     31<pb n="5"/>
                   <p>191[3]</p>
                   <pb n="29"/>
                </div>
-               <div id="bryher-lutany.016" n="SONG" type="poem">
+               <div id="bryher-lutany.016" type="Poem">
                   <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>SONG</head>
                   <docDate>1912</docDate>
@@ -703,7 +703,7 @@ Tristfulness		     31<pb n="5"/>
                   <p>1912. </p>
                   <pb n="31"/>
                </div>
-               <div id="bryher-lutany.017" n="TRISTFULNESS" type="poem">
+               <div id="bryher-lutany.017" type="Poem">
                   <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>TRISTFULNESS</head>
                   <docDate>1913</docDate>

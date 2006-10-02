@@ -85,7 +85,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    </teiHeader>
    <text>
       <body>
-         <div id="danvers.001" n=" A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia." type="poem">
+         <div id="danvers.001" type="Poem">
             <docAuthor>D'anvers, Alicia. </docAuthor>
             <head>
                <title> A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia.</title>
@@ -118,8 +118,8 @@ Queen of Great Britain, *c. <lb/>
 ALICIA D'ANVERS<lb/>
 Humbly Dedicates this POEM. <lb/>
             </head>
-            <lg type="STANZA">
-               <head rend="BOLD">BRITANNIA.</head>
+            <lg type="stanza">
+               <head rend="bold">BRITANNIA.</head>
                <l>Wretched Britannia! Hapless and undone!</l>
                <l>How have my Follies call'd this Vengeance down,</l>
                <l>And anger'd Heav'n to so severe a Frown? </l>
@@ -139,12 +139,12 @@ Humbly Dedicates this POEM. <lb/>
                <l>Ah me! Why was he born a conquerour?</l>
             </lg>
             <lg type="stanza">
-               <head rend="BOLD">BELGIA.</head>
+               <head rend="bold">BELGIA.</head>
                <l>What Damon fills thy boding Soul with Fears</l>
                <l>Nymph, What has rais'd the Storm of Sighs and Tears?</l>
             </lg>
             <lg type="stanza">
-               <head rend="BOLD">BRITANNIA.</head>
+               <head rend="bold">BRITANNIA.</head>
                <l>Oh you demand. 'Tis a Discourteous part,</l>
                <l>To give the Wound, and Wonder at the Smart.</l>
                <l>Have you not rent my Heart, and stab'd my Soul,</l>
@@ -155,7 +155,7 @@ Humbly Dedicates this POEM. <lb/>
                <l>And check the Ecchoes of my loud Complaint.</l>
             </lg>
             <lg type="stanza">
-               <head rend="BOLD">BELGIA.</head>
+               <head rend="bold">BELGIA.</head>
                <l>Thou Rav it, Fond Maid, such Idle Dreams as these</l>
                <l>Assist thy Impatience to o'erthrow thy Peace;</l>
                <l>Gave I not first thy Albion to thy Arms,</l>
@@ -198,7 +198,7 @@ Humbly Dedicates this POEM. <lb/>
                <l>Blush at the foolish Fondness of a Bride--</l>
             </lg>
             <lg type="stanza">
-               <head rend="BOLD">BRITANNIA.</head>
+               <head rend="bold">BRITANNIA.</head>
                <l>Blush at the wild excursion of your pride.</l>
                <l>My Albion! Could my Albion come from you,</l>
                <l>Be my kind Lord, and not ungentle too.</l>
@@ -235,7 +235,7 @@ Humbly Dedicates this POEM. <lb/>
                <l>Like the soft Mournings of my tender Crys?</l>
             </lg>
             <lg type="stanza">
-               <head rend="BOLD">BELGIA.</head>
+               <head rend="bold">BELGIA.</head>
                <l>Then my harsh Voice offends your curious Ear,</l>
                <l>In your fair Eyes, I'm Ridicul'd, I fear,</l>
                <l>But since you've been pleas'd to affront me so,</l>
@@ -245,12 +245,12 @@ Humbly Dedicates this POEM. <lb/>
                <l>From your Brave Ancestors degenerate.</l>
             </lg>
             <lg type="stanza">
-               <head rend="BOLD">BRITANNIA.</head>
+               <head rend="bold">BRITANNIA.</head>
                <l>Hold Angry Matron, hold, What have I done?</l>
                <l>Pardon the hasty Errors of my Tongue,</l>
             </lg>
             <lg type="stanza">
-               <head rend="BOLD">BELGIA.</head>
+               <head rend="bold">BELGIA.</head>
                <l>'Tis your Erroneous Zeal for Albion,</l>
                <l>Which, I believe has offer'd me the wrong;</l>
                <l>But your Blind Love for him shall never be</l>
@@ -299,7 +299,7 @@ Humbly Dedicates this POEM. <lb/>
                <l>What can the Lovely change pretend to say?</l>
             </lg>
             <lg type="stanza">
-               <head rend="BOLD">BRITANNIA.</head>
+               <head rend="bold">BRITANNIA.</head>
                <l>That I no more can for his Absence mourn,</l>
                <l>Who leaves so dear a Pledge of his return,</l>
                <l>Belgia 'twas cruel, and your fault indeed,</l>
