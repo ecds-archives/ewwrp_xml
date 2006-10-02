@@ -95,7 +95,7 @@
    </teiHeader>
    <text>
       <body>
-         <div id="adair.001" n="Tahlequah" type="poem">
+         <div id="adair.001" type="poem">
             <docAuthor>Adair, Lena Harnage</docAuthor>
             <head>Tahlequah</head>
             <docDate>1916</docDate>
@@ -191,7 +191,7 @@
                <l>Like Athens of old, she is of learning the seat,</l>
                <l>So peaceful and quiet, a sylvan retreat.</l>
             </lg>
-            <note anchored="yes">
+            <note>
                <p> Kihegas-Leading men </p>
             </note>
          </div>

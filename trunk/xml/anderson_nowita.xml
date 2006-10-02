@@ -89,7 +89,7 @@ Emory Women Writers Resource Project.</p>
    </teiHeader>
    <text>
       <body>
-         <div id="nowita.001" n="Nowita, the Sweet Singer" type="Text">
+         <div id="anderson_nowita.001" type="Text">
             <docAuthor>Anderson, Mabel Washbourne</docAuthor>
             <head>Nowita, the Sweet Singer. A Romantic Tradition of Spavinaw, Indian Territory.</head>
             <docDate>1906</docDate>
@@ -163,7 +163,7 @@ Indian girl, and noted, too, that her dark eyes, usually so serene and melanchol
                <l>All the wild birds of the forest,</l>
                <l>All the singing brooks and rivers,</l>
                <l>All the breath of bursting blossoms</l>
-               <l>From the sweet wild honey suckle<ref target="nowita.002.ma6">6</ref>
+               <l>From the sweet wild honey suckle<ref target="anderson_nowita.002.ma6">6</ref>
                </l>
                <l>And the calling of the pine trees</l>
                <l>From her home among the mountains,</l>
@@ -227,23 +227,23 @@ Indian girl, and noted, too, that her dark eyes, usually so serene and melanchol
                <l>Soon it would be taken from them.</l>
             </lg>
             <lg type="stanza">
-               <l>She must pour him con-noh-ha-neh.<ref target="nowita.002.ma1">1</ref>
+               <l>She must pour him con-noh-ha-neh.<ref target="anderson_nowita.002.ma1">1</ref>
                </l>
-               <l>She must make him sweet con-nutch-chee, <ref target="nowita.002.ma2">2</ref>
+               <l>She must make him sweet con-nutch-chee, <ref target="anderson_nowita.002.ma2">2</ref>
                </l>
-               <l>He must smoke the pipe ta-lo-neh;<ref target="nowita.002.ma3">3</ref>
+               <l>He must smoke the pipe ta-lo-neh;<ref target="anderson_nowita.002.ma3">3</ref>
                </l>
-               <l>And a magic chain of wampum<ref target="nowita.002.ma4">4</ref>
+               <l>And a magic chain of wampum<ref target="anderson_nowita.002.ma4">4</ref>
                </l>
                <l>From her ancient beads she gave him;</l>
-               <l>He must dive with Ooch-a-latah<ref target="nowita.002.ma5">5</ref>
+               <l>He must dive with Ooch-a-latah<ref target="anderson_nowita.002.ma5">5</ref>
                </l>
                <l>He must friendly be among them,</l>
                <l>So they might begin to trust him,</l>
                <l>And her people be his people.</l>
                <l>So she made him buckskin slippers--</l>
                <l>"Moccasins all brightly beaded,"</l>
-               <l>And a hunting shirt of homespun<ref target="nowita.002.ma8">8</ref>
+               <l>And a hunting shirt of homespun<ref target="anderson_nowita.002.ma8">8</ref>
                </l>
                <l>From her mother's loom she made him;</l>
                <l>"Taught him to flint and feather arrows"</l>
@@ -359,7 +359,7 @@ Indian girl, and noted, too, that her dark eyes, usually so serene and melanchol
                <l>And her home among the mountains</l>
                <l>To this day is sought by strangers.</l>
                <l>If you go alone at twilight</l>
-               <l>To the caves beside the river<ref target="nowita.002.ma7">7</ref>
+               <l>To the caves beside the river<ref target="anderson_nowita.002.ma7">7</ref>
                </l>
                <l>Where the lovers in the evening</l>
                <l>Rowed together in the gloaming,</l>
@@ -369,39 +369,39 @@ Indian girl, and noted, too, that her dark eyes, usually so serene and melanchol
                <l>By Nowita, the sweet singer.</l>
             </lg>
          </div>
-         <div id="nowita.002" n="Notes" type="Notes">
+         <div id="anderson_nowita.002" n="Notes" type="Notes">
             <p>EXPLANATORY NOTES.</p>
             <p>The figures below correspond with the figures in the poem, explaining the meaning of the Cherokee words used:</p>
             <p>
-               <note id="nowita.002.ma1" n="1" anchored="yes">
+               <note id="anderson_nowita.002.ma1" n="1">
                   <hi rend="bold">1.</hi> "Connoh-ha-neh," the national drink of the Cherokees, made from the pounded grits of the new Indian corn. An old adage says, Drink Connoh-ha-neh with a Cherokee, and you will ever be among them.</note>
             </p>
             <p>
-               <note id="nowita.002.ma2" n="2" anchored="yes">
+               <note id="anderson_nowita.002.ma2" n="2">
                   <hi rend="bold">2.</hi>"Con-nutch-chee," a Cherokee dish prepared from the beaten meat of the hickory nut, including both the kernel and the shell.</note>
             </p>
             <p>
-               <note id="nowita.002.ma3" n="3" anchored="yes">
+               <note id="anderson_nowita.002.ma3" n="3">
                   <hi rend="bold">3.</hi>"Ta-lo-neh," a mixture of tobacco and dried leaves of the red sumach. Another old adage, current among the Cherokees says, Smoke Ta-lo-neh from the same pipe with a Cherokee and you will be friends forever.</note>
             </p>
             <p>
-               <note id="nowita.002.ma4" n="4" anchored="yes">
+               <note id="anderson_nowita.002.ma4" n="4">
                   <hi rend="bold">4.</hi>"Wampum Beads," beads made by the Cherokees many years ago from the bones of the squirrel and colored different shades. They were supposed to possess the magic power of preserving the wearer from the evil one and of keeping him in health.</note>
             </p>
             <p>
-               <note id="nowita.002.ma5" n="5" anchored="yes">
+               <note id="anderson_nowita.002.ma5" n="5">
                   <hi rend="bold">5.</hi>"Ooch-a-la-tah," the last full blood Chief of the Cherokee Nation.</note>
             </p>
             <p>
-               <note id="nowita.002.ma6" n="6" anchored="yes">
+               <note id="anderson_nowita.002.ma6" n="6">
                   <hi rend="bold">6.</hi>"Wild Honeysuckle," a lovely species of the honeysuckle found in the Cherokee's Nation only among the rocks of Spavinaw.</note>
             </p>
             <p>
-               <note id="nowita.002.ma7" n="7" anchored="yes">
+               <note id="anderson_nowita.002.ma7" n="7">
                   <hi rend="bold">7.</hi>A cave on the shores of Spavinaw, where a low sound as of singing may be heard, borne on the waters of the interior of the cave, called by the natives De-cu-na-gus-ky-skilly, or, Singing Spirit.</note>
             </p>
             <p>
-               <note id="nowita.002.ma8" n="8" anchored="yes">
+               <note id="anderson_nowita.002.ma8" n="8">
                   <hi rend="bold">8.</hi>"Hunting Shirt," an ornamemtal article of apparel used in olden times by the Cherokees, which took the place of a coat. Now in disuse.</note>
             </p>
          </div>
