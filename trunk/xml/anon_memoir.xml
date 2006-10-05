@@ -104,7 +104,7 @@ TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div id="anon_memoir.001" n="Memoir Of Elizabeth Jones" type="Book">
+         <div id="anon_memoir.001" type="Book">
             <docAuthor>Anonymous</docAuthor>
             <head>
                <title>MEMOIR OF ELIZABETH
@@ -116,7 +116,7 @@ UPPER CANADA.</title>
 PUBLISHED BY JOHN MASON, 14, CITY-ROAD:  AND SOLD AT 66,
 PATTERNOSTER-ROW.</bibl>
             <p>Is it well with the child?  It is well!-2 Kings iv, 26.</p>
-            <div id="anon_memoir.002" n="Account of Elizabeth's Family" type="Chapter">
+            <div id="anon_memoir.002" type="Chapter">
                <docAuthor>Anonymous</docAuthor>
                <docDate>1838</docDate>
                <head>Chapter
@@ -247,7 +247,7 @@ prepared to meet her again in that bright world of glory, where are
 gathered from all nations, people, kindred, and tongues, those who
 fear God and love Jesus Christ.</p>
             </div>
-            <div id="anon_memoir.003" n="Description of Elizabeth's Birth-Place and Early Childhood" type="Chapter">
+            <div id="anon_memoir.003" type="Chapter">
                <docAuthor>Anonymous</docAuthor>
                <docDate>1838</docDate>
                <head>Chapter
@@ -408,7 +408,7 @@ wisdom's way;</l>
 may trust to all they say."</l>
                </lg>
             </div>
-            <div id="anon_memoir.004" n="Elizabeth's Early Piety" type="Chapter">
+            <div id="anon_memoir.004" type="Chapter">
                <docAuthor>Anonymous</docAuthor>
                <docDate>1838</docDate>
                <head>Chapter
@@ -578,7 +578,7 @@ better care and happier home in heaven.</p>
                   <l>Legions of angels can't confine me there."</l>
                </lg>
             </div>
-            <div id="anon_memoir.005" n="Elizabeth's Premature Death" type="Chapter">
+            <div id="anon_memoir.005" type="Chapter">
                <docAuthor>Anonymous</docAuthor>
                <docDate>1838</docDate>
                <head>Chapter
@@ -768,7 +768,7 @@ grave's repose,</l>
                   <l>And dissipate our woes."</l>
                </lg>
             </div>
-            <div id="anon_memoir.006" n="Lines, Addressed by a Friend to Mr. John Jones" type="Chapter">
+            <div id="anon_memoir.006" type="Chapter">
                <docAuthor>Anonymous</docAuthor>
                <docDate>1838</docDate>
                <head>LINES.<lb/>

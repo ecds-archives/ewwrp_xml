@@ -87,7 +87,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
    </teiHeader>
    <text>
       <body>
-         <div1 id="child_kentucky.001" type="essay">
+         <div id="child_kentucky.001" type="Essay">
             <docAuthor>Lydia Maria Child</docAuthor>
             <head>How a Kentucky Girl Emancipated Her Slaves</head>
             <docDate>March 27, 1862</docDate>

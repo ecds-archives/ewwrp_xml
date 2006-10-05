@@ -87,6 +87,7 @@ Printing press in <name rend="italic">Cornhill</name>,
 </titlePage>
 </front>
 <body>
+<div id="advice.001" type="essay">
 <head>ADVICE To the WOMEN and MAIDENS OF LONDON.</head>
 <salute>Ladies and Gentlewomen,</salute>
 <p>Permit one of your sex to give you, as far as <hi rend="italic">her</hi> small knowledge will reach some hints to the right understanding of Accounts: an Art so useful for all sorts, sexes and degrees of persons, especially for such as ever think to have to do in the world in any sort of Trade or Commerce, that next to a stock of Mony, Wares and Credit, this is the most necessary thing.</p>
@@ -1216,6 +1217,7 @@ Accounts of House Expences, or other petty Charges besides; the
 satisfaction they will have to see how, and which way their Money
 goes.) They will alto train up their Children to be regular and handy
 in Accounts of greater Moment.</p>
+</div>
 </body>
 </text>
 </TEI.2>
