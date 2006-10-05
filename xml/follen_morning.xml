@@ -87,7 +87,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    </teiHeader>
    <text>
       <body>
-         <div id="follen-morning.001" n=" A Morning Walk" type="article">
+
+         <div id="follen-morning.001" type="article">
             <docAuthor>Follen, Eliza Lee. </docAuthor>
             <head>
                <title> A Morning Walk</title>
