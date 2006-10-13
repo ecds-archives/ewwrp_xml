@@ -89,7 +89,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
    <text>
       <body>
 	<div id="quaker.000" type="critical introduction">
-         <div id="quaker.001" n="Introduction to A Testimony for Truth" type="Introduction">
+         <div id="quaker.001" type="Introduction">
             <docAuthor>Enright, Amy. </docAuthor>
             <head> Introduction to <title>A Testimony for Truth against all Hireling-Priests and Deceivers . . . .  
 1655;  A Warning to all Friends who Professeth the Everlasting Truth . . . .  </title>
@@ -142,7 +142,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <p>The community of women which produced this letter lived on the cusp of the transition from prophet to carer. Their lives and their writings illuminate the change in women's social role during the Restoration. Unfortunately, the candle of history has shed little light on these women and in most cases, only their names testify to their participation in the meeting.
 <table rows="19" cols="2">
                   <row role="data">
-                     <cell role="LABEL" rows="1" cols="1">
+                     <cell role="label" rows="1" cols="1">
                         <hi rend="bold">1686:</hi>
                      </cell>
                   </row>
@@ -173,7 +173,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
                      <cell role="data" rows="1" cols="1"/>
                   </row>
                   <row role="data">
-                     <cell role="LABEL" rows="1" cols="1">
+                     <cell role="label" rows="1" cols="1">
                         <hi rend="bold">1688:</hi>
                      </cell>
                   </row>
@@ -197,7 +197,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
                      <cell role="data" rows="1" cols="1"/>
                   </row>
                   <row role="data">
-                     <cell role="LABEL" rows="1" cols="1">
+                     <cell role="label" rows="1" cols="1">
                         <hi rend="bold">1692:</hi>
                      </cell>
                   </row>
@@ -421,7 +421,7 @@ Line 72: pretious...precious<lb/>Line 108: faln...fallen<lb/>Line 157: pretious.
          </div>
 	</div>
 
-         <div id="quaker.003" n=" A Testimony for Truth AGAINST  ALL Hireling-Priests and Deceivers: With a Cry to the Inhabitants of this Nation, to turn to the Lord, before his dread-ful Judgements overtake them. Also a Testimony against all Observers of Times and Dayes." type="Text">
+         <div id="quaker.003" type="Text">
             <docAuthor>Boulbie, Judith. </docAuthor>
             <head>
                <title>A Testimony for Truth . . .</title>
@@ -456,7 +456,7 @@ Divination of their own Brains,  but not one word from the Mouth of the Lord; th
             </lg>
             <pb/>
          </div>
-         <div id="quaker.004" n=" A Testimony for Truth against all Ob-servers of Times and Dayes." type="Text">
+         <div id="quaker.004" type="Text">
             <docAuthor>Boulbie, Judith. </docAuthor>
             <head>
                <title> A Testimony for Truth against all Ob-servers of Times and Dayes.</title>
@@ -470,7 +470,7 @@ Generations, comes to be revealed, even by him who was found worthy to open the 
                <hi rend="bold">T H E   E N D.</hi>
             </p>
          </div>
-         <div id="quaker.005" n=" Text Glossary for Judith Boulbie." type="Glossary">
+         <div id="quaker.005" type="Glossary">
             <docAuthor>Enright, Amy. </docAuthor>
             <head> Text Glossary for Judith Boulbie.</head>
             <docDate>1997</docDate>
@@ -601,7 +601,7 @@ Generations, comes to be revealed, even by him who was found worthy to open the 
             <head>
                <title> Bibliography for Judith Boulbie and Mary Waite. </title>
             </head>
-            <div id="quaker.009" n="Primary Sources: " type="Bibliography">
+            <div id="quaker.009" type="Bibliography">
                <head>Primary Sources: </head>
                <p>
                   <bibl>
@@ -630,7 +630,7 @@ Generations, comes to be revealed, even by him who was found worthy to open the 
                   </bibl>
                </p>
             </div>
-            <div id="quaker.010" n="Secondary Sources:" type="Bibliography">
+            <div id="quaker.010" type="Bibliography">
                <head>Secondary Sources:</head>
                <p>
                   <bibl>
