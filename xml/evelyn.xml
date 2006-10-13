@@ -90,7 +90,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    </teiHeader>
    <text>
       <body>
-         <div id="evelyn.001" n=" THE LADIES DRESSING-ROOM UNLOCK'D, And Her TOILETTE Spread, TOGETHER, With a Fop-Dictionary, and a Rare and Incomparable Receipt to make Pig, or Puppidog-Water for the Face." type="poem">
+         <div id="evelyn.001" type="Poem">
             <docAuthor>Evelyn, Mary. </docAuthor>
             <head>
                <title> THE LADIES DRESSING-ROOM UNLOCK'D, And Her TOILETTE Spread, TOGETHER, With a Fop-Dictionary, and a Rare and Incomparable Receipt to make Pig, or Puppidog-Water for the Face.</title>
@@ -117,7 +117,7 @@ Asif their Life and Honour were at Stake.</p>
 Printed for Joseph Wild, at the Elephant at Charingcross, 1700.</p>
             <p>Where Gentlemen and Ladies may pick Novels at 6 s. per Doz.<lb/>
 And be furnish'd with most Sorts of Plays.</p>
-            <div id="evelyn.002" n="Preface" type="preface">
+            <div id="evelyn.002" type="Preface">
                <head>Preface</head>
                <p>This Paper was not to come abroad without a Preface, as well as Comment,
 for Instruction of our young master, who newly launch'd from the University
@@ -238,7 +238,7 @@ has been thought good by some Charitable hands, that have contributed to
 his Catalogue, to present him with an Enumeration of particulars, and
 Computation of the Charges of the Adventurer, as follows.</p>
             </div>
-            <div id="evelyn.003" n="THE LADIES DRESSING-ROOM UNLOCK'D, And Her TOILETTE Spread, TOGETHER, With a Fop-Dictionary, and a Rare and Incomparable Receipt to make Pig, or Puppidog-Water for the Face." type="part">
+            <div id="evelyn.003" type="Part">
                <head>THE LADIES DRESSING-ROOM UNLOCK'D, And Her TOILETTE Spread, TOGETHER, With a Fop-Dictionary, and a Rare and Incomparable Receipt to make Pig, or Puppidog-Water for the Face.</head>
                <p>(1)</p>
                <p>A<lb/>
@@ -528,7 +528,7 @@ Or satisfy'd, that you have done enough to set them forth.<lb/>
                   <pb n="15"/>
                </lg>
             </div>
-            <div id="evelyn.004" n="Evelyn: THE FOP-DICTIONARY. OR, An Alphabetical Catalogue of the hard and foreign Names, and Terms of the Art COSMETICK, c. together with their interpretations, for Instruction of the Unlearned." type="part">
+            <div id="evelyn.004"  type="Part">
                <head>Evelyn: <hi rend="BOLD">THE FOP-DICTIONARY. OR, An Alphabetical Catalogue of the hard and foreign Names, and Terms of the Art COSMETICK, &#x0026;c. together with their interpretations, for Instruction of the Unlearned.</hi>
                </head>
                <p>THE<lb/>
