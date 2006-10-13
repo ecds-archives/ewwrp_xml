@@ -88,19 +88,19 @@
    <text>
       <body>
 	<div id="fam.000" type="critical introduction">
-         <div id="fam.001" n=" Introduction to A Family Discussion" type="Introduction">
+         <div id="fam.001" type="Introduction">
             <docAuthor>Enright, Amy. </docAuthor>
             <head> Introduction to <title>A Family Discussion</title>
             </head>
             <docDate>1997</docDate>
-            <div id="fam.002" n="A Family Discussion:  The Process of Edition and Translation  " type="Section">
+            <div id="fam.002" type="Section">
                <head>A Family Discussion:  The Process of Edition and Translation  </head>
                <p> The hermeneutical disadvantage inherent in the edition and particularly in the translation of historical texts is the inevitable camouflaging of the differences between the culture of the author and that of the reader. The opening pages of this edition seek to redress that disadvantage by means of visual metaphor. On the cover page, the image of the original title page, creased and blurred, exhibits the age of this document. Moreover, the image fades into the blackness of the border, just as its context and contents are fading into the darkness of lost history. This is the true state of this document: aged, discarded, fading. The following page demonstrates the artificial transformation achieved by the processes of translation and edition. Suddenly, the text is in English, the fonts regular, and the borders straight. Here, the encroaching blackness of history is absent; the text is, to all appearances, accessible to the modern reader. Nevertheless, the cultural leap between early modern Paris and twentieth century America remains immense.</p>
                <p> It is of vital importance to keep in mind that this document, now presented in the context of things academic and abstract, was written, printed, sold, and read by people gripped with the urgency of their situation. The aim of this translation is to acknowledge the disparity between the culture of the reader and that of the author and, paradoxically, to attempt to bridge that gap which is larger than years or miles can measure. It seeks to investigate the opinions and assumptions of the author, examining them as a means by which early modem views of female rulership can be better understood.</p>
                <p> The camouflaging of cultural difference can be partially remedied by editorial manipulation. To this end, the seventeenth century French text has been included with the English translation. Its presence will afford francophone readers the opportunity to explore the original style of the prose while reminding readers of English that they are handling a foreign text. In an additional effort to create a translation faithful to the spirit of the original, the historical and literary notes have been placed on the pages opposing the terms they describe. It is hoped that this placement will facilitate their accessibility without interrupting the fluid banter of the pamphlet, as footnotes doubtlessly would have done. Finally, as few alterations as possible have been made to the French text, though u/i/y have been modernized to v/j/i in most cases. The English translation closely follows the literary style and grammatical construction of the French; antecedents and direct objects have been added in brackets only in those cases where their absence might cause confusion.</p>
                <p> In a fnal note, the author is pleased to acknowledge her debt to Professor William Beik of Emory University. His kind offer to review the translated portion of the text and his subsequent suggestions did much to bring the project to fruition.</p>
             </div>
-            <div id="fam.003" n="A Family Discussion:  'My good mother...': Regency and Revolt in mid- seventeenth-century France" type="Section">
+            <div id="fam.003" type="Section">
                <head>A Family Discussion:  'My good mother...': Regency and Revolt in mid- seventeenth-century France  </head>
                <p>History records her as Anne 'of Austria,' but, in fact, Anne's life was shaped by the erratic relationship between the kingdoms of Spain and France during the seventeenth century. She was raised as a Spanish princess, the first child of Philip III of Spain and Margaret of Austria, and married at age fourteen to Louis XIII of France with the hopes that under her influence Louis would prove more of a friend to the powerful Spanish monarchy than his father, the bellicose Henry IV, had been. Henry IV had feared that an alliance with the powerful Hapsburg empire which surrounded France -- to the north in the Netherlands and to the South in Spain and Italy -- would reduce his newly-won kingdom to the level of a client-state. After Henry's assassination in 1610, his widow, Marie de Medici, reversed French foreign policy by pursuing a marriage alliance between her eldest son and Princess Anne, an act of union which would wed the two most powerful Catholic nations in Europe.</p>
                <p> Hopes that Anne would grow so close to Louis as to sway him towards pro-Spanish policy grew quickly dim. Louis was not an overly intimate person and those few favorites he did have did not include his wife. Married as adolescents, the couple led separate lives punctuated by formal meetings and unpleasant quarrels prompted by Louis' periodic dismissal of the Spanish members of Anne's household. When pressed to explain his neglect of his wife, Louis claimed that though Anne might begin to look French as she acclimated to Gallic styles of dress and comportment, she remained Spanish at heart. For this reason, he distrusted and avoided her. <ref target="fam.006.in1">1</ref>  Even after 1620, when their marriage improved to the point where Louis lived with her as husband, Anne's status with him remained low, for she did not conceive often nor was she able to bring a child to term and thus fulfill her role as queen. Rather than playing the dutiful wife, Anne's interests centered on her religious life, especially on Val-de-Gr&#x00E2;ce, the convent she founded, and on her friendships, friendships that often allied her with those of whom Louis disapproved.</p>
@@ -140,12 +140,12 @@
                <p> The composite nature of her literary characterization makes it difficult to ascertain to what degree the author wished to implicate Anne in the creation of specific grievances; but it is clear that, as a <hi rend="Italic">reigning </hi>Queen Regent, she is considered capable of bringing about the ruin of France. As a failed mother she is dangerous to her sons and to the kingdom that she rules in their stead. This theme is echoed in another Mazarinade which argues that, because of Anne's disloyalty to France, she is an unnatural mother to Louis -who no longer belongs under her tutelage. Instead, the French people should serve as the parent and protector of the King. <ref target="fam.006.in19">19</ref> It is ironic that the critics of Anne of Austria would declare her, who suffered so much to preserve a strong France for Louis XIV, to be an unfit mother to her son and his people.</p>
             </div>
          </div>
-         <div id="fam.004" n="Timeline for A Family Discussion" type="Timeline">
+         <div id="fam.004" type="Timeline">
             <docAuthor>Enright, Amy. </docAuthor>
             <head> Timeline for <title>A Family Discussion</title>
             </head>
             <docDate>1997</docDate>
-            <div id="fam.005" n=" Timeline for A Family Discussion" type="Timeline">
+            <div id="fam.005" type="Timeline">
                <head>A Family Discussion:  Anne of Austria  </head>
                <list type="ORDERED">
                   <item>
@@ -191,53 +191,33 @@
                </list>
             </div>
          </div>
-         <div id="fam.006" n="Notes to the Introduction for A Family Discussion" type="Notes">
+         <div id="fam.006" type="Notes">
             <docAuthor>Enright, Amy. </docAuthor>
             <head>Notes to the Introduction for <title>A Family Discussion</title>
             </head>
             <docDate>1997</docDate>
-            <note id="fam.006.in1" n="1" anchored="yes">
-               <hi rend="bold">1</hi> Ruth Kleinman. <title>Anne of Austria</title> (Columbus, OH, 1985), p.39.</note>
-            <note id="fam.006.in2" n="2" anchored="yes">
-               <hi rend="bold">2</hi> Sarah Hanley. <title>The Lit de Justice of the Kings of France</title>. (Princeton, 1983), p.246.</note>
-            <note id="fam.006.in3" n="3" anchored="yes">
-               <hi rend="bold">3</hi> See Appendix A.</note>
-            <note id="fam.006.in4" n="4" anchored="yes">
-               <hi rend="bold">4</hi> See Appendix A.</note>
-            <note id="fam.006.in5" n="5" anchored="yes">
-               <hi rend="bold">5</hi> See Appendix A.</note>
-            <note id="fam.006.in6" n="6" anchored="yes">
-               <hi rend="bold">6</hi> Tax-farmers were wealthy men who bought the right from the monarchy to collect the taxes owed to the king in a specific region of France. The system allowed the government to raise large amounts of money quickly and resulted in huge private fortunes for the tax-farmers who generally managed to make a profit by collecting more than the amount due.</note>
-            <note id="fam.006.in7" n="7" anchored="yes">
-               <hi rend="bold">7</hi> 
-               <hi rend="italic">Lettres de Cachet</hi> were royal warrants of arrest which allowed the king to arrest and imprison an individual indefinitely, without recourse to trial.</note>
-            <note id="fam.006.in8" n="8" anchored="yes">
-               <hi rend="bold">8</hi> Hanley, p.317</note>
-            <note id="fam.006.in9" n="9" anchored="yes">
-               <hi rend="bold">9</hi> Kleinman, p. 208.</note>
-            <note id="fam.006.in10" n="10" anchored="yes">
-               <hi rend="bold">10</hi> In late 1648, the rebellion of the Parliament against the policies and powers of the regency began to be referred to as the <hi rend="italic">fronde</hi>, a term denoting the slingshot used by insubordinate street urchins.</note>
-            <note id="fam.006.in11" n="11" anchored="yes">
-               <hi rend="bold">11</hi> See Appendix A.</note>
-            <note id="fam.006.in12" n="12" anchored="yes">
-               <hi rend="bold">12</hi> See Appendix A. </note>
-            <note id="fam.006.in13" n="13" anchored="yes">
-               <hi rend="bold">13</hi> Jeffrey K. Sawyer. <title>Printed Poison: Pamphlet Propaganda, Faction politics, and the Public Sphere in Early Seventeenth Century France</title>. (Berkeley, 1990), see introduction.</note>
-            <note id="fam.006.in14" n="14" anchored="yes">
-               <hi rend="bold">14</hi> Orest Ranum. <title>The Fronde: A French Revolution 1648-1652</title>. (New York, 1993), pp. 177-176.</note>
-            <note id="fam.006.in15" n="15" anchored="yes">
-               <hi rend="bold">15</hi> Ranum, p. 201.</note>
-            <note id="fam.006.in16" n="16" anchored="yes">
-               <hi rend="bold">16</hi> Robert Darnton. <title>The Forbidden Best-Sellers of Pre-Revolutionary France</title>. (New York, 1995), p. 206 offers the statistic that ten pamphlets were produced per day in paris during January-March of 1649.</note>
-            <note id="fam.006.in17" n="17" anchored="yes">
-               <hi rend="bold">17</hi> Jeffrey Merrick. "The Cardinal and the Queen: Sexual and Political Disorders in the Mazarinades," in <title>French historical Studies</title> vol. 18, no. 3 (Spring 1994), p. 687.</note>
-            <note id="fam.006.in18" n="18" anchored="yes">
-               <hi rend="bold">18</hi> Ranum, p. 202.</note>
-            <note id="fam.006.in19" n="19" anchored="yes">
-               <hi rend="bold">19</hi> Merrick, p. 689.</note>
+            <note id="fam.006.in1" n="1">Ruth Kleinman. <title>Anne of Austria</title> (Columbus, OH, 1985), p.39.</note>
+            <note id="fam.006.in2" n="2">Sarah Hanley. <title>The Lit de Justice of the Kings of France</title>. (Princeton, 1983), p.246.</note>
+            <note id="fam.006.in3" n="3">See Appendix A.</note>
+            <note id="fam.006.in4" n="4">See Appendix A.</note>
+            <note id="fam.006.in5" n="5">See Appendix A.</note>
+            <note id="fam.006.in6" n="6">Tax-farmers were wealthy men who bought the right from the monarchy to collect the taxes owed to the king in a specific region of France. The system allowed the government to raise large amounts of money quickly and resulted in huge private fortunes for the tax-farmers who generally managed to make a profit by collecting more than the amount due.</note>
+            <note id="fam.006.in7" n="7"><hi rend="italic">Lettres de Cachet</hi> were royal warrants of arrest which allowed the king to arrest and imprison an individual indefinitely, without recourse to trial.</note>
+            <note id="fam.006.in8" n="8">Hanley, p.317</note>
+            <note id="fam.006.in9" n="9">Kleinman, p. 208.</note>
+            <note id="fam.006.in10" n="10">In late 1648, the rebellion of the Parliament against the policies and powers of the regency began to be referred to as the <hi rend="italic">fronde</hi>, a term denoting the slingshot used by insubordinate street urchins.</note>
+            <note id="fam.006.in11" n="11">See Appendix A.</note>
+            <note id="fam.006.in12" n="12">See Appendix A. </note>
+            <note id="fam.006.in13" n="13">Jeffrey K. Sawyer. <title>Printed Poison: Pamphlet Propaganda, Faction politics, and the Public Sphere in Early Seventeenth Century France</title>. (Berkeley, 1990), see introduction.</note>
+            <note id="fam.006.in14" n="14">Orest Ranum. <title>The Fronde: A French Revolution 1648-1652</title>. (New York, 1993), pp. 177-176.</note>
+            <note id="fam.006.in15" n="15">Ranum, p. 201.</note>
+            <note id="fam.006.in16" n="16">Robert Darnton. <title>The Forbidden Best-Sellers of Pre-Revolutionary France</title>. (New York, 1995), p. 206 offers the statistic that ten pamphlets were produced per day in paris during January-March of 1649.</note>
+            <note id="fam.006.in17" n="17">Jeffrey Merrick. "The Cardinal and the Queen: Sexual and Political Disorders in the Mazarinades," in <title>French historical Studies</title> vol. 18, no. 3 (Spring 1994), p. 687.</note>
+            <note id="fam.006.in18" n="18">Ranum, p. 202.</note>
+            <note id="fam.006.in19" n="19">Merrick, p. 689.</note>
          </div>
 	</div>
-         <div id="fam.007" n="A Family Discussion" type="Text">
+         <div id="fam.007" type="Text">
             <docAuthor>[Unknown]. </docAuthor>
             <head>
                <title> A Family Discussion:  A FAMILY DISCUSSION between the King and the Queen Regent, his mother, concerning current affairs including advice from the Duke of Anjou to the King presented to her Majesty by a faithful Official of her Household at St. Germain-en-Laye on Ash Wednesday, 1649.
@@ -856,52 +836,36 @@ La Reine: Mon fils, &#x00E7;'a este M. le Prince de Cond&#x00E9;, qui m'a dit qu
                <hi rend="bold">FIN</hi>
             </p>
          </div>
-         <div id="fam.008" n="Text Notes for A Family Discussion " type="notes">
+         <div id="fam.008" type="notes">
             <docAuthor>Enright, Amy. </docAuthor>
             <head> Text Notes for <title>A Family Discussion</title>
             </head>
             <note id="fam.008.n1" n="1" type="ED" place="END" anchored="yes">
                <hi rend="bold">1</hi> Augustin de Potier, the bishop of Beauvais had been Anne's grand almoner since 1624. He was associated with the &#x0022;devout&#x0022; faction at court, who advocated peace between Catholic France and Catholic Spain. Beauvais deplored the policies and administrative precedents set up by Cardinal Richelieu. In 1643, as a member of the <hi rend="italic">Importants</hi> faction, he called for a return to government as it had existed before Richelieu took office and hoped to serve Anne as prime minister.</note>
-            <note id="fam.008.n2" n="2" anchored="yes">
-               <hi rend="bold">2</hi> The power struggle between the <hi rend="italic">Importants</hi> and Mazarin climaxed with a failed attempt on Mazarin's life and the arrest of the Duke of Beaufort in Anne's own salon in the Louvre on September 2, 1643. Other members of the faction hurriedly emigrated or went into hiding on the estates of the Duke de Vendome, Beaufort's father.</note>
-            <note id="fam.008.n3" n="3" anchored="yes">
-               <hi rend="bold">3</hi> In October of 1643, Anne moved her household from the Louvre, which was perpetually under construction, to Richelieu's Palace, re-named the Palais-Royal. Months later, Mazarin joined the royal family there. Though Anne's rooms were in the right wing of the palace and his were in the left, nearer to the king, Mazarin's addition to the household was considered scandalous.</note>
-            <note id="fam.008.n4" n="4" anchored="yes">
-               <hi rend="bold">4</hi> Charles de L'aube-spine, Marquis de Chate&#x00E2;uneuf, had been keeper of the seals under Louis XIII, but was relieved of his duties after plotting against Cardinal Richelieu Chate&#x00E2;uneuf's hopes for restored favor were dashed by the failure of the <hi rend="italic">Importants</hi> to control the regency in 1643. Thereafter, he worked against Anne and Mazarin's leadership. Mazarin held him, along with the Duke of Beaubort, responsible for encouraging the parlementary stand against new taxes in 1647 and eventually exiled him in September of 1648.</note>
-            <note id="fam.008.n5" n="5" anchored="yes">
-               <hi rend="bold">5</hi> Religious innovations involving women and mention of <hi rend="italic">la Chanceliere</hi> suggest a reference to the 'Ladies of Charity,' a community of Catholic laywomen dedicated to good works which was founded in 1633 by reformer Vincent de Paul and Louise de Marillac, a niece of former Chancellor Marillac. The criticisms raised by the author -- that women were becoming increasingly prominent in the church and that they were making innovations in worship and devotional routines -- are characteristic of those leveled at the Ladies of Charity, who endured a precarious position in Catholic society as a non-cloistered group of religious women. The author's reference to the removal of The Book of Hours may be an objection to the secular status of these women, who served God by caring for people rather than by observing the daily ritual of prayers contained in The Book of Hours.</note>
-            <note id="fam.008.n6" n="6" anchored="yes">
-               <hi rend="bold">6</hi> St. Louis of France, born in 1214, reigned from 1226-1270. His reign, which included successful military campaigns in Palestine and Egypt, administrative reform, and the construction of the Sainte-Chapelle in Paris, began with the regency of Louis' mother, Blanche of Castile,who reportedly maintained her position as counselor well into the 1240's. Louis' unification of Christendom in the face of Muslim advances into Palestine resulted in his canonization by the Catholic Church. He was later held up as the ideal of Christian kingship.</note>
-            <note id="fam.008.n7" n="7" anchored="yes">
-               <hi rend="bold">7</hi> Anne greatly enjoyed the theater and appreciated Mazarin's recruitment of Italian talent, which included Rossi's <hi rend="italic">Orpheus</hi>, the first opera brought to the French stage.</note>
-            <note id="fam.008.n8" n="8" anchored="yes">
-               <hi rend="bold">8</hi> The Duke of Longueville, the brother-in-law of Cond&#x00E9; and Conti, had been sent to Munster to negotiate an end to the war with Spain. Parlementary opinion held that his failure to do so was the result of Mazarin's scheming.</note>
-            <note id="fam.008.n9" n="9" anchored="yes">
-               <hi rend="bold">9</hi> This idiom refers to Cond&#x00E9;'s approval of Mazarin. Possibly, the intention of the author was to call attention to the impropriety of an alliance between any prince of the royal family and the base-born Mazarin. (That this alliance was responsible for the successful blockade of Paris was a point that would not have been lost on the contemporary audience.)</note>
-            <note id="fam.008.n10" n="10" anchored="yes">
-               <hi rend="bold">10</hi> Particelli d'Emery had been an <hi rend="italic">intendant des finances</hi> under Louis Xlll and was promoted to the office of <hi rend="italic">surintendant</hi> in 1647. Given the formidable task of raising the funds to support state and army, d'Emery used any means possible to increase taxes and cut parlementary salaries. This policy and the fact that he, himself, grew rich from taxfarming made d'Emery the target of universal hatred, second only to Mazarin. In July of 1648, in the struggle between the Crown and the Parlement of Paris, d'Emery was dismissed by the Queen Regent. He was succeeded by Marshall de La Meilleraie, the Grand Master and a military commander who was involved in the fighting of the August 'Barricade Days.'</note>
-            <note id="fam.008.n11" n="11" anchored="yes">
-               <hi rend="bold">11</hi> Obscene biographies of Mazarin filled the pages of many Mazarinades. His father's low birth was a frequent target for invective.</note>
-            <note id="fam.008.n12" n="12" anchored="yes">
-               <hi rend="bold">12</hi> 'Here' refers to St. Germain.</note>
-            <note id="fam.008.n13" n="13" anchored="yes">
-               <hi rend="bold">13</hi> Herod was the ruler of Judea, a territory in Roman Palestine, at the time of the birth of Jesus Christ. The New Testament scriptures report that, upon hearing that the true 'King of the Jews' was newly-born, Herod ordered the systematic murder of all male children under two years of age in Jerusalem. Jesus' family fled to Egypt to avoid persecution.</note>
-            <note id="fam.008.n14" n="14" anchored="yes">
-               <hi rend="bold">14</hi> The Old Testament scriptures describe the career of King David, who was appointed to rule by God. He unified the scattered tribes of Israel under his dominion.</note>
-            <note id="fam.008.n15" n="15" anchored="yes">
-               <hi rend="bold">15</hi> Henry IV, Louis XIV's grandfather, was celebrated for promising &#x0022;a chicken in the pot of every peasant for Sunday dinner.&#x0022;</note>
-            <note id="fam.008.n16" n="16" anchored="yes">
-               <hi rend="bold">16</hi> The author points out the irony of civil war, wherein a Thanksgiving mass is offered for the taking of French property.</note>
-            <note id="fam.008.n17" n="17" anchored="yes">
-               <hi rend="bold">17</hi> Pamplona is a city in Northern Spain which is very close to the border of the Southwestern French territory of Navarre.</note>
+            <note id="fam.008.n2" n="2">The power struggle between the <hi rend="italic">Importants</hi> and Mazarin climaxed with a failed attempt on Mazarin's life and the arrest of the Duke of Beaufort in Anne's own salon in the Louvre on September 2, 1643. Other members of the faction hurriedly emigrated or went into hiding on the estates of the Duke de Vendome, Beaufort's father.</note>
+            <note id="fam.008.n3" n="3">In October of 1643, Anne moved her household from the Louvre, which was perpetually under construction, to Richelieu's Palace, re-named the Palais-Royal. Months later, Mazarin joined the royal family there. Though Anne's rooms were in the right wing of the palace and his were in the left, nearer to the king, Mazarin's addition to the household was considered scandalous.</note>
+            <note id="fam.008.n4" n="4">Charles de L'aube-spine, Marquis de Chate&#x00E2;uneuf, had been keeper of the seals under Louis XIII, but was relieved of his duties after plotting against Cardinal Richelieu Chate&#x00E2;uneuf's hopes for restored favor were dashed by the failure of the <hi rend="italic">Importants</hi> to control the regency in 1643. Thereafter, he worked against Anne and Mazarin's leadership. Mazarin held him, along with the Duke of Beaubort, responsible for encouraging the parlementary stand against new taxes in 1647 and eventually exiled him in September of 1648.</note>
+            <note id="fam.008.n5" n="5">Religious innovations involving women and mention of <hi rend="italic">la Chanceliere</hi> suggest a reference to the 'Ladies of Charity,' a community of Catholic laywomen dedicated to good works which was founded in 1633 by reformer Vincent de Paul and Louise de Marillac, a niece of former Chancellor Marillac. The criticisms raised by the author -- that women were becoming increasingly prominent in the church and that they were making innovations in worship and devotional routines -- are characteristic of those leveled at the Ladies of Charity, who endured a precarious position in Catholic society as a non-cloistered group of religious women. The author's reference to the removal of The Book of Hours may be an objection to the secular status of these women, who served God by caring for people rather than by observing the daily ritual of prayers contained in The Book of Hours.</note>
+            <note id="fam.008.n6" n="6">St. Louis of France, born in 1214, reigned from 1226-1270. His reign, which included successful military campaigns in Palestine and Egypt, administrative reform, and the construction of the Sainte-Chapelle in Paris, began with the regency of Louis' mother, Blanche of Castile,who reportedly maintained her position as counselor well into the 1240's. Louis' unification of Christendom in the face of Muslim advances into Palestine resulted in his canonization by the Catholic Church. He was later held up as the ideal of Christian kingship.</note>
+            <note id="fam.008.n7" n="7">Anne greatly enjoyed the theater and appreciated Mazarin's recruitment of Italian talent, which included Rossi's <hi rend="italic">Orpheus</hi>, the first opera brought to the French stage.</note>
+            <note id="fam.008.n8" n="8">The Duke of Longueville, the brother-in-law of Cond&#x00E9; and Conti, had been sent to Munster to negotiate an end to the war with Spain. Parlementary opinion held that his failure to do so was the result of Mazarin's scheming.</note>
+            <note id="fam.008.n9" n="9">This idiom refers to Cond&#x00E9;'s approval of Mazarin. Possibly, the intention of the author was to call attention to the impropriety of an alliance between any prince of the royal family and the base-born Mazarin. (That this alliance was responsible for the successful blockade of Paris was a point that would not have been lost on the contemporary audience.)</note>
+            <note id="fam.008.n10" n="10">Particelli d'Emery had been an <hi rend="italic">intendant des finances</hi> under Louis Xlll and was promoted to the office of <hi rend="italic">surintendant</hi> in 1647. Given the formidable task of raising the funds to support state and army, d'Emery used any means possible to increase taxes and cut parlementary salaries. This policy and the fact that he, himself, grew rich from taxfarming made d'Emery the target of universal hatred, second only to Mazarin. In July of 1648, in the struggle between the Crown and the Parlement of Paris, d'Emery was dismissed by the Queen Regent. He was succeeded by Marshall de La Meilleraie, the Grand Master and a military commander who was involved in the fighting of the August 'Barricade Days.'</note>
+            <note id="fam.008.n11" n="11">Obscene biographies of Mazarin filled the pages of many Mazarinades. His father's low birth was a frequent target for invective.</note>
+            <note id="fam.008.n12" n="12">'Here' refers to St. Germain.</note>
+            <note id="fam.008.n13" n="13">Herod was the ruler of Judea, a territory in Roman Palestine, at the time of the birth of Jesus Christ. The New Testament scriptures report that, upon hearing that the true 'King of the Jews' was newly-born, Herod ordered the systematic murder of all male children under two years of age in Jerusalem. Jesus' family fled to Egypt to avoid persecution.</note>
+            <note id="fam.008.n14" n="14">The Old Testament scriptures describe the career of King David, who was appointed to rule by God. He unified the scattered tribes of Israel under his dominion.</note>
+            <note id="fam.008.n15" n="15">Henry IV, Louis XIV's grandfather, was celebrated for promising &#x0022;a chicken in the pot of every peasant for Sunday dinner.&#x0022;</note>
+            <note id="fam.008.n16" n="16">The author points out the irony of civil war, wherein a Thanksgiving mass is offered for the taking of French property.</note>
+            <note id="fam.008.n17" n="17">Pamplona is a city in Northern Spain which is very close to the border of the Southwestern French territory of Navarre.</note>
          </div>
       </body>
       <back>
-         <div id="fam.009" n="Bibliography and Related Readings for A Family Discussion" type="Bibliography">
+         <div id="fam.009" type="Bibliography">
             <docAuthor>Enright, Amy. </docAuthor>
             <head>Bibliography and Related Readings for <title>A Family Discussion</title>
             </head>
-            <div id="fam.010" n="A Family Discussion:  ANNE OF AUSTRIA / FEMALE RULERSHIP IN FRANCE" type="Section">
+            <div id="fam.010" type="Section">
                <head>A Family Discussion:  ANNE OF AUSTRIA / FEMALE RULERSHIP IN FRANCE  </head>
                <bibl>
                   <author>Kleinman, Ruth</author> 
@@ -952,7 +916,7 @@ La Reine: Mon fils, &#x00E7;'a este M. le Prince de Cond&#x00E9;, qui m'a dit qu
                   <date>1977</date> 
                   <biblScope>37-55</biblScope>
                </bibl>
-               <note anchored="yes">In her work on Anne of Austria cited above, Kleinman includes many nineteenth and early twentieth century biographies of Anne in her bibliography. In her introduction she discusses their historiographical biases. Despite their limitations, these biographies would be of interest to any reader investigating an early modern female ruler's treatment at the hands of historians.</note>
+               <note type="inline">In her work on Anne of Austria cited above, Kleinman includes many nineteenth and early twentieth century biographies of Anne in her bibliography. In her introduction she discusses their historiographical biases. Despite their limitations, these biographies would be of interest to any reader investigating an early modern female ruler's treatment at the hands of historians.</note>
                <bibl>
                   <author>Lightman, Harriet</author>
                   <title level="a">Queens and Minor Kings in French Constitutional Law</title>
@@ -987,7 +951,7 @@ La Reine: Mon fils, &#x00E7;'a este M. le Prince de Cond&#x00E9;, qui m'a dit qu
                   </imprint>
                </bibl>
             </div>
-            <div id="fam.011" n="A Family Discussion:  ANNE OF AUSTRIA / FEMALE RULERSHlP IN FRANCE  " type="Section">
+            <div id="fam.011" type="Section">
                <head>A Family Discussion:  THE FRONDE  </head>
                <bibl>
                   <author>Doolin, Paul Rice</author> 
@@ -1030,7 +994,7 @@ La Reine: Mon fils, &#x00E7;'a este M. le Prince de Cond&#x00E9;, qui m'a dit qu
                   </imprint>
                </bibl>
             </div>
-            <div id="fam.012" n="A Family Discussion:  THE FRONDE  " type="Section">
+            <div id="fam.012" type="Section">
                <head>A Family Discussion:  POLITICAL PROPAGANDA IN EARLY MODERN FRANCE:  </head>
                <bibl>
                   <author>Darnton, Robert</author> 
