@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n=" Katherine Pettus, plaintiffe, Margaret Bancroft, Defendant in Chancery. ">
+         <titleStmt>
             <title>Katherine Pettus, plaintiffe, Margaret Bancroft, Defendant in Chancery, an electronic edition.</title>
             <author><name type="person" reg="Pettus, Katherine">Katherine Pettus</name></author>
             <respStmt>
@@ -86,12 +86,10 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    </teiHeader>
    <text>
       <body>
-         <div id="pettus.001" n=" Katherine Pettus, Plaintiffe Margaret Bancroft, Defendant In Chancery " type="broadside">
-            <docAuthor>Katherine, Pettus. </docAuthor>
+         <div id="pettus.001" type="Broadside">
             <head>
                <title> Katherine Pettus, Plaintiffe Margaret Bancroft, Defendant In Chancery </title>
             </head>
-            <docDate> 1654</docDate>
             <argument>
                <p>Pettus tried to sue Bancroft for 23 years for an orphan's portion left by her father, Thomas Bancroft. Bancroft was jailed for denying Pettus her portion. Petters asks for relief fram debts since she cannot procure her inheritance. She filed a bill for the Relief of Creditors and Poor Prisoners.</p>
             </argument>
