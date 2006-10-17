@@ -1,6 +1,6 @@
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tahlequah, an electronic edition.</title>
@@ -96,17 +96,9 @@
    <text>
       <body>
          <div id="adair.001" type="poem">
-            <docAuthor>Adair, Lena Harnage</docAuthor>
             <head>Tahlequah</head>
-            <docDate>1916</docDate>
-            <argument>
-               <p>This Cherokee writer describes the town of Tahlequah, Oklahoma, as well as commenting on white-Cherokee relations</p>
-            </argument>
-            <bibl>
-               <title>Tahlequah Arrow</title>Feb. 19, 1916: 1-4.</bibl>
-            <p>
                <pb n="1"/>
-            </p>
+
             <lg type="stanza">
                <l n="1">Here's to Tahlequah with her wooded hills,</l>
                <l>Her sparkling springs and tinkling rills,</l>

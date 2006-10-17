@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n="Two Selves">
+         <titleStmt>
             <title>Two Selves, an electronic edition.</title>
             <author><name type="person" reg="Bryher, Annie Winifred Ellerman">W. Bryher</name></author>
             <respStmt>
@@ -91,20 +91,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    <text>
       <front>
          <div id="bryher_twoselves.001" type="front matter">
-            <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
             <head>Two Selves</head>
-            <docDate>1923?</docDate>
-            <argument>
-               <p>"This is a continuation of "Development" published some three years ago."</p>
-            </argument>
             <bibl>Copyrighted by the author <lb/>
 Published by Contact Publishing Co. <lb/>
 12, rue de l'Odéon <lb/>
 Paris-France</bibl>
             <pb/>
-            <lb/>
-            <pb/>
-            <lb/>
+
             <p>TABLE OF CONTENTS
 <lb/>
 Chapter I. Two Selves. . . .5<lb/>
@@ -122,14 +115,10 @@ Chapter XI. Meeting. . . .117 </p>
       </front>
       <body>
          <div id="bryher_twoselves.002" type="Book">
-            <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
             <head>Two Selves</head>
-            <docDate>1923?</docDate>
             <pb n="5"/>
             <div id="bryher_twoselves.003" n="1" type="Chapter">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER I <lb/> TWO SELVES</head>
-               <docDate>1923?</docDate>
                <p>Two selves. Jammed against each other, disjointed and ill-fitting. An obedient Nancy with heavy plaits tied over two ears that answered "yes, no, yes, no," according as the wind blew. A boy, a brain, that planned adventures and sought wisdom. Two personalities uneasy by their juxtaposition. As happy together as if a sharp sword were thrust into a golf bag for a sheath.</p>
                <p>It had happened eighteen months before, this division. Just as she had left Downwood. A queer feeling across the head. As if something had hit her very hard. . . so hard one felt no pain. . . only a numbness. As if the active section of her mind had been smashed by a heavy fist.</p>
                <p>She wanted to go away and forget everyone she had known. Get to a cottage in Cornwall and live there by herself. Make a new world in a book. Start<pb n="6"/>
@@ -174,9 +163,7 @@ afresh. She had asked for this. But people scolded her at such a request. "We ha
                <pb n="13"/>
             </div>
             <div id="bryher_twoselves.004" n="2" type="Chapter">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER II <lb/> LEOPARD GOLD</head>
-               <docDate>1923?</docDate>
                <p>"Beholding Joseph's beauty, her knife cut the hand that held the pomegranate." Professor Foster's even voice read out the unfamiliar words, translating as he went from Arabic to English.</p>
                <p>"How very stupid of her", commented Miss Leyton, the Egyptologist, leaning back against the arm of her chair. "Let us hope she was not unduly affected by the sequel."</p>
                <p>"It is, of course, a later exaggeration." Professor Foster could not miss the opportunity to compare, co-relate. "You do not find it in the Jewish version. And. . . by the way. . . I think we had better omit the next two lines. Mark on your copies please, two lines passed over. The licence of the East is well enough in its place but really there is no need to drag it into a lesson."</p>
@@ -213,9 +200,7 @@ afresh. She had asked for this. But people scolded her at such a request. "We ha
                <pb n="23"/>
             </div>
             <div id="bryher_twoselves.005" n="3" type="Chapter">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER III <lb/> PATCHWORK</head>
-               <docDate>1923?</docDate>
                <p>"You're too early", Miss Cape said as Nancy took down her fencing mask. "It will be another ten minutes before they finish."</p>
                <p>The room shook with the stamp of feet overhead. Occasionally a word in French rang out above the clatter of the foils Nancy shifted into her padded jacket. Her legs were free for once. It gave her an incomparable sensation of boldness.</p>
                <p>"I know I'm too soon. But it doesn't matter. I don't mind waiting to-day." She enjoyed the chance to sit there; to question Miss Cape, wonder of what world she came and why she seemed more interesting than the Downwood girls or Millicent or Mrs. Lodge. Perhaps it was because she had a job; she taught dancing in the big room beyond the fencing hall and helped the secretary in her spare time. Or was it the quiet decision of her eyes?</p>
@@ -336,9 +321,7 @@ Beyond the cream curtains that fell into shell-blue shadows, the street sounds b
                <pb n="45"/>
             </div>
             <div id="bryher_twoselves.006" n="4" type="Chapter">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head> CHAPTER IV <lb/> CHERRY PIE</head>
-               <docDate>1923?</docDate>
                <p>"To win freedom I must write a book". Easy enough to say but words were brittle playthings. And worse than words were thoughts.</p>
                <lb/>
                <lg type="stanza">
@@ -549,9 +532,7 @@ Beyond the cream curtains that fell into shell-blue shadows, the street sounds b
                <pb n="59"/>
             </div>
             <div id="bryher_twoselves.008" n="6" type="Chapter">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER VI <lb/> PEACH JAM</head>
-               <docDate>1923?</docDate>
                <p>The Scillies were a saga come to life; tangle of sea thrift and ice plant floating on the current. Gulls flew up from the white flecked tide; drifters were anchored in the Sound. The water under the quay was dark as basalt or where the stones curved, serpentine. Far away, far as eyesight stretched, waves drifted water lilies over thin white sand.</p>
                <p>Eastward it was tropical. Palms grew and bracken shoulder high. Black rabbits scurried in and out of the heavy fronds. Those were the daffodil islands, with chance white upturned bulbs lying out amongst summer daisies.</p>
                <p>But westward it was ship-like, wrested from the sea. It was the home of gulls and seals, a breeding place for fish. Waves smashed on rock edges and turned up wrack and beads and queer shaped foreign shells.</p>
@@ -638,9 +619,7 @@ Outside lavender bushes in the tiny gardens washed <pb n="71"/>their scent in wi
                <pb n="73"/>
             </div>
             <div id="bryher_twoselves.009" n="7" type="Chapter">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER VII <lb/> ELEANOR</head>
-               <docDate>1923?</docDate>
                <p>"Hullo, Eleanor, what do you make of the war? Its months since I've seen you." Nancy flung over a rug (there was not enough coal to have a fire upstairs) and settled back in her chair under an eiderdown.</p>
                <p>"It's smashing us out right enough," Eleanor grumbled. "The men I know are killed or so broken that they are simply lethargic. And as for the women. The old cats have got power into their hands at last. It has put progress back generations."</p>
                <p>"Oh, it's awful. What one sees and hears. Patriotism was never one of my vices but I'm through with what they call morality after this. Killing souls with their red tape stupidity and calling it discipline. Gloating over destruction. When all the wreaths and fame in the world won't give back flowers and friends and the taste of food to the dead. Makes me sick."</p>
@@ -682,9 +661,7 @@ Outside lavender bushes in the tiny gardens washed <pb n="71"/>their scent in wi
                <pb n="81"/>
             </div>
             <div id="bryher_twoselves.010" n="8" type="Chapter">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head> CHAPTER VIII <lb/> SCARLET AND SILVER</head>
-               <docDate>1923?</docDate>
                <p>Seven years. Seven chapters for seven years. Strands of Elizabethan, French and American woven into a rope together. Cherry pie and Bellario, leather and rose leaves, tumble of canyon words, bluring and merging into a background of rain and scarlet as the oyster sky swallowed up bus and pillar box and London night drooped sadly over them all. Hers was the mad terror of a shell washed under the sand. Not out of earshot of the surf. Not out of scent of the sun. Prisoned. . . able to breathe but not free. The soul slowly dying, slowly turning into grey powderous dusk. Seven years of guns booming, stars falling. Seven years waiting for something to happen. Seven years waiting for achievement or for death.</p>
                <p>Everything was wrong. The whole scheme of the world seemed disjointed. Why did early impressions cling so? In babyhood one was taught it was wrong <pb n="82"/>to lie. Afterwards this law was reversed. One was punished for thinking the truth. One was forced to be hypocritical. Yet one had an uneasy sensation all the time that a gate would open and something that was beyond the consciousness of the world would catch one lying and reproach one.</p>
                <p>Looking back it seemed to Nancy that her life had been rolled up like a flower in her brain at birth. It had simply to unfold itself. She had wanted to be a boy and write a book. To have liberty and adventures. She still wanted the same things in more intense a way. Probably it was the same with all children. All that one needed was to get hold of minds before they were warped by school.</p>
@@ -826,9 +803,7 @@ If you hated war, hated it from the beginning, you could stand a year of it. You
                <pb n="95"/>
             </div>
             <div id="bryher_twoselves.011" n="9" type="Chapter">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER IX <lb/> REBELLION</head>
-               <docDate>1923?</docDate>
                <p>It was queer, the stillness. It crept over the room like a fog. The tension of waiting for a word to burst it, made it hard to bear. It soughed in waves and beyond them, thin, electric, came the rumble of wheels that linked hope up to life. When the wheels ceased the silence pricked needle points into bare flesh.</p>
                <p>"I'm falling. Falling into an abyss." But that was just speech because the shock of the fall never happened. There was never the unconsciousness that must wait at the bottom of the cliff.</p>
                <p>"When I'm grown up I shall be free." But there was no freedom. Only an invisible but actual clutch of circumstance that wove grey chains back and forth across her limbs and mind, a chain. . . no being a cabin boy, no mirade of release happening, no great book, no liberty, no friend, no hope.</p>
@@ -867,9 +842,7 @@ If you hated war, hated it from the beginning, you could stand a year of it. You
                <pb n="101"/>
             </div>
             <div id="bryher_twoselves.012" n="10" type="Chapter">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER X <lb/> SNOW AND APPLE FLOWERS</head>
-               <docDate>1923?</docDate>
                <p>It burst like a flame, the South. In the midst of the snow with a pale primrose moon shivering over the crackling trees. Snowflakes pushed like buds out of the twigs. Branches bent like birds, shook themselves, sprang up free.</p>
                <p>She had to do something or die. Die mentally. Which meant gradual disintegration of all forces, intellectual, physical. Something that everyone disapproved of, something that linked the present to that early continuous development, before school, war and a thousand tiny barriers had divided her spirit into a dozen diverse strands.</p>
                <p>It burst like a flame, the South. A chariot that swept her from the world into the real world.</p>
@@ -997,9 +970,7 @@ If you hated war, hated it from the beginning, you could stand a year of it. You
                <pb n="117"/>
             </div>
             <div id="bryher_twoselves.013" n="11" type="Chapter">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>CHAPTER XI <lb/> MEETING</head>
-               <docDate>1923?</docDate>
                <p>"If you're cold there's a spare blanket at the bottom of the bed."</p>
                <p>"Thanks but I'll be all right. I've got on woolly pyjamas."</p>
                <p>Nancy lay watching the stars set overhead like thousand stamens in some purple daisy. The tall silver leaves of a eucalyptus tree fell over the parapet about the flat roof. She had always wanted to sleep out of doors. And this was like being on the deck of a ship with the Newlyn lights, tiny flashes of gold, cutting between the branches. If one raised one's self, one saw the black masts of boats.</p>

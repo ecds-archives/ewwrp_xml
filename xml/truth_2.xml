@@ -1,5 +1,5 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Sojourner Truth, an electronic edition.</title>
@@ -82,7 +82,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
    </teiHeader>
    <text>
       <body>
-         <div id="truth2.001" n="Sojourner Truth" type="Essay">
+         <div id="truth_2.001" n="Sojourner Truth" type="Essay">
             <docAuthor>Staff</docAuthor>
             <head>Sojourner Truth</head>
             <docDate>July 20, 1871</docDate>

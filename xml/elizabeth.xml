@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n=" Queene Elizabeth's Speech to Her Last Parliament.">
+         <titleStmt>
             <title>Queene Elizabeth's Speech to Her Last Parliament, an electronic edition.</title>
             <author><name type="person" reg="Elizabeth I, Queen">Elizabeth [Queen]</name></author>
             <respStmt>
@@ -89,19 +89,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    <text>
       <body>
          <div id="elizabeth.001" type="Speech">
-            <docAuthor>Elizabeth, Queen of England. </docAuthor>
-            <head>
-               <title> Queene Elizabeth's Speech to Her Last Parliament.</title>
-            </head>
-            <docDate> 1642</docDate>
-            <argument>
-               <p>Praises both her subjects and herself.  While she commends her subjects for being "thankful" for her rule, she also congratulates herself on having saved her people from foreign oppression.</p>
-            </argument>
-            <p>QUEENE<lb/>
+            <head>QUEENE<lb/>
 ELIZABETHS<lb/>
 SPEECH<lb/>
 TO HER LAST<lb/>
-PARLIAMENT.</p>
+PARLIAMENT.</head>
             <p>The 30 of November 1601, her Maiestie being set ronder State in the
 Councell Chamber at Whitehall, the Speaker, accompanied with Privy
 Councellours, besides Knights and Burgesses of the lower House to the

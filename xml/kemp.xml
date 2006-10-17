@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n=" A Contemplation on Bassets-down-Hill">
+         <titleStmt>
             <title>A Contemplation on Bassets-down-Hill, an electronic edition.</title>
             <author><name type="person" reg="Kemp, Anne">Anne Kemp</name></author>
             <respStmt>
@@ -85,16 +85,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    <text>
       <body>
          <div id="kemp.001" type="Poem">
-            <docAuthor>Kemp, Anne. </docAuthor>
-            <head>
-               <title> A Contemplation on Bassets-down-Hill</title>
-            </head>
-            <docDate> 1658</docDate>
-            <argument>
-               <p>Poem describing a rural setting, perhaps in Gloucester.</p>
-            </argument>
-            <p>A Contemplation on Bassets-down-Hill by the most Sacred adorer of the Muses<lb/>
-Mrs A. K.</p>
+            <head>A Contemplation on Bassets-down-Hill by the most Sacred adorer of the Muses<lb/>
+Mrs A. K.</head>
             <lg type="stanza">
                <l>If that exact Appelles now did live.</l>
                <l>And would a picture of Elizium give;</l>

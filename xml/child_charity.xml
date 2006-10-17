@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n=" Charity Bowery">
+         <titleStmt>
             <title>Charity Bowery, an electronic edition.</title>
             <author><name type="person" reg="Child, Lydia Maria Francis, 1802-1880">Lydia Maria Child</name></author>
             <respStmt>
@@ -89,17 +89,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    <text>
       <body>
          <div id="child_charity.001" type="Article">
-            <docAuthor>Child, Lydia Maria. </docAuthor>
-            <head>
-               <title> Charity Bowery</title>
-            </head>
-            <docDate> 1839</docDate>
-            <argument>
-               <p>As-told-to autobiography of a slave woman who eventually is granted her freedom, but who is allowed to take only one daughter with her.  The woman relates the sale of her other children, her dealings with a corrupt and selfish mistress, and her reaction to the Nat Turner uprising.</p>
-            </argument>
-            <p>CHARITY  BOWERY.
-<lb/>
-By LYDIA MARIA CHILD.</p>
+             <head>CHARITY  BOWERY.</head>
+	     <byline>By LYDIA MARIA CHILD.</byline>
             <p>THE following story was told me by an aged colored woman in New Nork. I shall endeavor to relate it precisely in her own words, so often repeated that they are tolerably well impressed on my memory. Some confusion of names, dates, and incidents, I may very naturally make. I profess only to give "the pith and marrow" of Charity's story, deprived of the highly dramatic effect it received from her swelling emotions, earnest looks, and changing tones.</p>
             <p>"I am about sixty-five years old. I was born on an estate called Pembroke, about three miles from Edenton, North Carolina. My master was very kind to his slaves. If an overseer whipped them, he turned him away. He used to whip
 <pb n="27"/>
@@ -121,11 +112,12 @@ hand slowly rose and fell upon her lap, as if her thoughts were mournfully busy.
 ing till night. 'Charity, do this,' and 'Charity, do that.'</p>
             <p>"I used to do the washings of the family and large washings they were. The public road run right by my little hut, and I thought to myself, while I stood there at the wash-tub, I might just as well as not be earning something to buy my children. So I set up a little oyster board; and when anybody come along that wanted a few oysters and a cracker, I left my wash-tub and waited upon him. When I got a little money laid up, I went to my mistress and tried to buy one of my children. She knew how long my heart had been set upon it, and how hard I had worked for it.  But she wouldn't let me have one! --She wouldn't let me have one! So, I went to work again; and I set up late o' nights, in hopes I could earn enough to tempt her. When I had two hundred dollars, I went to her again; but she thought she could find a better market, and she wouldn't
 <pb n="32"/>
-let me have one. At last, what do you think that woman did? She sold me and five of my children to the speculators! Oh, how I did feel when I heard my children was sold to the speculators!"*</p>
+let me have one. At last, what do you think that woman did? She sold
+me and five of my children to the speculators! Oh, how I did feel when
+I heard my children was sold to the speculators!"<ref target="child_charityn1">*</ref></p>
             <p>After a short pause, her face brightened up, and her voice suddenly changed to a gay and sprightly tone.</p>
             <p>"Surely, ma'am, there's always some good comes of being kind to folks. While I kept my oyster-board, there was a thin, peaked-looking man used to come and buy of me. Sometimes he would say, 'Aunt Charity, (he always called me Aunt Charity,) you must fix me up n nice little mess, for I feel poorly to-day. I always made something good for him; and if he didn't happen to have any change, I always
-<lb/>
-* Men who make a trade of buying up coffles[?] of slaves for sale, as speculators buy up droves of cattle for the Brighton market.
+<note id="child_charityn1 n="*">Men who make a trade of buying up coffles[?] of slaves for sale, as speculators buy up droves of cattle for the Brighton market.</note>
 <pb n="33"/>
 trusted him. He liked my messes mighty well. Now, who do you think that should turn out to be, but the very speculator that bought me!  He come to me, and says he, 'Aunt Charity, (be always called me Aunt Charity,) you've been very good to me, and fixed me up many a nice little mess when I've been poorly; and now you shall have your freedom for it; and I'll give you your youngest child.'"</p>
             <p>"That was very kind, ' said I; " but I wish be had given you all of them."</p>
@@ -165,7 +157,7 @@ something about here, (laying her hand on her heart,) that made her feel strange
             <p>About a year after this conversation, I again visited New York, and called to see Charity Bowery. I asked her if she had heard any further tidings of her scattered children. The tears came to her eyes. "You know I told you," said she, "that I found out my poor Richard was sold to a Mr. Mitchell, of Alabama. A white gentleman, who has been very kind to me, went to them parts lately, and brought me back news of Richard. His master ordered him to be flogged, and he wouldn't come up to be tied. 'If you don't come up, you black rascal, I'll shoot you,' said his master. 'Shoot away,' said Richard; 'I won't come to be flogged.' His master pointed a pistol at him,-- and,-- in two hours my poor boy was dead!
 <pb n="41"/>
 Richard was a spirity lad. I always knew it was hard for him to be a slave. Well, he's free now. God be praised, he's free now; and I shall soon be with him."</p>
-            <p>  *     *     *     *     * </p>
+            <milestone unit="section" rend="stars"/>
             <p>In the course of my conversations with this interesting woman, she told me much about the patrols, who, armed with arbitrary power, and frequently intoxicated, break into the houses of the colored people, and subject them to all manner of outrages. But nothing seemed to have excited her imagination so much as the insurrection of Nat Turner. The panic that prevailed throughout the Slave States on that occasion of course reached her ear in repeated echoes, and the reasons are obvious why it should have awakened intense interest. It was in fact a sort of Hegira to her mind; from which she was prone to date all important events in the history of her limited world.</p>
             <p>"On Sundays," said she, "I have seen the
 <pb n="42"/>

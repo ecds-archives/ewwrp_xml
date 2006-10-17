@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n=" A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia.">
+         <titleStmt>
             <title>A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia, an electronic edition.</title>
             <author><name type="person" reg="D'anvers, Alicia">Alicia D'anvers</name></author>
             <respStmt>
@@ -86,16 +86,6 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    <text>
       <body>
          <div id="danvers.001" type="Poem">
-            <docAuthor>D'anvers, Alicia. </docAuthor>
-            <head>
-               <title> A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia.</title>
-            </head>
-            <docDate> 1690</docDate>
-            <argument>
-               <p>Poetic dialogue between "Belgia" and "Britannia" dedicated to Queen Mary.
-D'anvers expresses her opposition to war and criticizes the French-Belgian
-alliance, claiming the two countries have made England bleed.</p>
-            </argument>
             <head>A<lb/>
 POEM<lb/>
 UPON<lb/>
@@ -107,17 +97,17 @@ BETWEEN<lb/>
 Belgia and Britannia. <lb/>
                <lb/>
             </head>
-            <head>By Mrs. D'ANVERS. 
+            <byline>By Mrs. D'ANVERS. 
 LICENS'D, December 23. 1690. J. F. LONDON, Printed for Tho. Bever, at the
-Hand and Star, near Temple Barr, in Fleet-Street, MDCXCI.</head>
-            <head>TO THE<lb/>
+Hand and Star, near Temple Barr, in Fleet-Street, MDCXCI.</byline>
+            <p>TO THE<lb/>
 High and Mighty PRINCESS<lb/>
 MARY<lb/>
 Queen of Great Britain, *c. <lb/>
                <lb/>
 ALICIA D'ANVERS<lb/>
 Humbly Dedicates this POEM. <lb/>
-            </head>
+            </p>
             <lg type="stanza">
                <head rend="bold">BRITANNIA.</head>
                <l>Wretched Britannia! Hapless and undone!</l>

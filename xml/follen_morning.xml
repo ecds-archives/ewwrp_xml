@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n=" A Morning Walk">
+         <titleStmt>
             <title>A Morning Walk, an electronic edition.</title>
             <author><name type="person" reg="Follen, Eliza Lee Cabot,
 1787-1860">Eliza Lee Follen</name></author>
@@ -89,16 +89,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
       <body>
 
          <div id="follen_morning.001" type="Article">
-            <docAuthor>Follen, Eliza Lee. </docAuthor>
-            <head>
-               <title> A Morning Walk</title>
-            </head>
-            <docDate> 1841</docDate>
-            <argument>
-               <p>While meditating about the lot of the poor, the narrator witnesses an impoverished African American man giving money to an even poorer African American woman.  She uses this anecdote to argue for greater benevolence toward the poor and against slavery.</p>
-            </argument>
-            <p>A MORNING WALK.<lb/>
-BY ELIZA LEE FOLLEN</p>
+            <head>A MORNING WALK.<lb/>
+BY ELIZA LEE FOLLEN</head>
             <p>WE are apt to suppose that solitude is necessary for contemplation, that she cannot plume her wings except in the green shade; that the murmuring of brooks, and the melody of birds are her only proper accompaniment, or else that in the privacy of our chambers or the retirement of our studies, we must court her heavenly presence; but it is not so. The most active and unprepared scenes of life, the busy crowded street, is often the place for the deepest and the highest contemplation. There almost every variety of human life is moving before you, all its intense interests, its unbounded desires, its strong passions, all its faults and its excellencies, its glory and its meanness are pre-
 <pb n="102"/>
 sented to you; individuals at our bidding form themselves into classes, passing occurrences become histories, and the story of the passing moment is the true chronicle of the times. Almost every one's experience has brought him to these conclusions.</p>

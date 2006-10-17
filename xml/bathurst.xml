@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n=" An Expostulatory Appeal to the Professors of Christianity, Joyned in Community with Samuel Ansley">
+         <titleStmt>
             <title>An Expostulatory Appeal to the Professors of Christianity, Joyned in Community with Samuel Ansley, an electronic edition.</title>
             <author><name type="person" reg="Bathurst, Elizabeth, d. 1691">Elizabeth Bathurst</name></author>
             <respStmt>
@@ -92,15 +92,9 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div id="bathurst.001" type="Text">
-            <docAuthor>Bathurst, Elizabeth. </docAuthor>
             <head>An Expostulatory appeal to
 the Professors of Christianity, Joyned in Community with 
 Samuel Ansley.</head>
-            <docDate> 1680</docDate>
-            <argument>
-               <p>Ostensibly a Quaker entreaty to unite with God, it is primarily a defense of
-Bathurst's right to present her view of God's message.</p>
-            </argument>
             <p>It having pleased the Lord (whose I am, and whom I serve) to call
 me by his Grace, even in my tender Years; by which Grace he put me
 upon early seekings after himself, that so I might know him the only

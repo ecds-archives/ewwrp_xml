@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="TEXT">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n="A Family Discussion Between the King and the Queen Regent, His Mother, Concerning Current Affairs">
+         <titleStmt>
             <title>A Family Discussion Between the King and the Queen
 	    Regent, His Mother, Concerning Current Affairs, an
 	    electronic edition. Edited with an introduction by Amy Enright.</title>
@@ -89,10 +89,8 @@
       <body>
 	<div id="fam.000" type="critical introduction">
          <div id="fam.001" type="Introduction">
-            <docAuthor>Enright, Amy. </docAuthor>
             <head> Introduction to <title>A Family Discussion</title>
             </head>
-            <docDate>1997</docDate>
             <div id="fam.002" type="Section">
                <head>A Family Discussion:  The Process of Edition and Translation  </head>
                <p> The hermeneutical disadvantage inherent in the edition and particularly in the translation of historical texts is the inevitable camouflaging of the differences between the culture of the author and that of the reader. The opening pages of this edition seek to redress that disadvantage by means of visual metaphor. On the cover page, the image of the original title page, creased and blurred, exhibits the age of this document. Moreover, the image fades into the blackness of the border, just as its context and contents are fading into the darkness of lost history. This is the true state of this document: aged, discarded, fading. The following page demonstrates the artificial transformation achieved by the processes of translation and edition. Suddenly, the text is in English, the fonts regular, and the borders straight. Here, the encroaching blackness of history is absent; the text is, to all appearances, accessible to the modern reader. Nevertheless, the cultural leap between early modern Paris and twentieth century America remains immense.</p>
@@ -141,61 +139,57 @@
             </div>
          </div>
          <div id="fam.004" type="Timeline">
-            <docAuthor>Enright, Amy. </docAuthor>
             <head> Timeline for <title>A Family Discussion</title>
             </head>
-            <docDate>1997</docDate>
             <div id="fam.005" type="Timeline">
                <head>A Family Discussion:  Anne of Austria  </head>
-               <list type="ORDERED">
+               <list type="ordered">
                   <item>
-                     <hi rend="Bold">1601:</hi> September 22: Anne born to Philip III of Spain and Margaret of Austria</item>
+                     <hi rend="bold">1601:</hi> September 22: Anne born to Philip III of Spain and Margaret of Austria</item>
                   <item>September 27: Louis XIII born to Henry IV and Marie de Medici</item>
                   <item>
-                     <hi rend="Bold">1610:</hi> May: Henry IV of France asassinated. Regency of Marie de Medici begins.</item>
+                     <hi rend="bold">1610:</hi> May: Henry IV of France asassinated. Regency of Marie de Medici begins.</item>
                   <item>
-                     <hi rend="Bold">1615:</hi> November: Anne goes to France to marry Louis XIII. Elizabeth of France marries Anne's brother, Philip, heir to Spanish empire.</item>
+                     <hi rend="bold">1615:</hi> November: Anne goes to France to marry Louis XIII. Elizabeth of France marries Anne's brother, Philip, heir to Spanish empire.</item>
                   <item>
-                     <hi rend="Bold">1625:</hi> Buckingham scandal.</item>
+                     <hi rend="bold">1625:</hi> Buckingham scandal.</item>
                   <item>
-                     <hi rend="Bold">1638:</hi> September 5: miracle child, Louis XIV born.</item>
+                     <hi rend="bold">1638:</hi> September 5: miracle child, Louis XIV born.</item>
                   <item>
-                     <hi rend="Bold">1640:</hi> September. 21: second son, Philip of Anjou born.</item>
+                     <hi rend="bold">1640:</hi> September. 21: second son, Philip of Anjou born.</item>
                   <item>
-                     <hi rend="Bold">1642:</hi> December 4: Richelieu dies</item>
+                     <hi rend="bold">1642:</hi> December 4: Richelieu dies</item>
                   <item>
-                     <hi rend="Bold">1643:</hi> May 14: Louis XIII dies, after establishing regency council which is soon disbanded. Anne becomes regent. The war with Spain, begun under Richelieu in 1635, continues.</item>
+                     <hi rend="bold">1643:</hi> May 14: Louis XIII dies, after establishing regency council which is soon disbanded. Anne becomes regent. The war with Spain, begun under Richelieu in 1635, continues.</item>
                   <item>
-                     <hi rend="Bold">1648:</hi> June: <hi rend="Bold">Parlementary Fronde </hi>begins with meeting of Chamber of St. Louis. August: Crown arrests Broussel and Blancmesnil; Days of the Barricades follow (26-28) September: Royals leave Paris for St. Germain. October: Anne signs Declaration of Parlement. Royals return to Paris.</item>
+                     <hi rend="bold">1648:</hi> June: <hi rend="bold">Parlementary Fronde </hi>begins with meeting of Chamber of St. Louis. August: Crown arrests Broussel and Blancmesnil; Days of the Barricades follow (26-28) September: Royals leave Paris for St. Germain. October: Anne signs Declaration of Parlement. Royals return to Paris.</item>
                   <item>
-                     <hi rend="Bold">1649:</hi> January 6: Royals leave Paris in the night. Royal army, under Conde surrounds city Revolt spreads to provinces.</item>
+                     <hi rend="bold">1649:</hi> January 6: Royals leave Paris in the night. Royal army, under Conde surrounds city Revolt spreads to provinces.</item>
                   <item>February: Royal forces fail to take Paris, though Charenton falls to Conde. Settlement talks begin.</item>
                   <item>March 12: Treaty of Rueil.</item>
                   <item>August: Royals return to Paris.</item>
                   <item>
-                     <hi rend="Bold">1650:</hi> January: <hi rend="Bold">Fronde des Princes</hi> continues. Conde and allies are arrested. Continued rebellions in the provinces. Princes demand Mazarin's dismissal.</item>
+                     <hi rend="bold">1650:</hi> January: <hi rend="bold">Fronde des Princes</hi> continues. Conde and allies are arrested. Continued rebellions in the provinces. Princes demand Mazarin's dismissal.</item>
                   <item>January: Coalition of all rebellious factions join to oust Mazarin. February: Mazarin leaves France for Rhinehnd. Anne and Louis XIV are guarded in Paris. </item>
                   <item>September: Louis XIV attains his majority. Regency ends. Mazarin recalled by king.Conde continues rebellion, Mazarin goes into exile a second time, Conde takes Paris, establishes government which falls by autumn. October: Louis XIV enters Paris in triumph.</item>
                   <item>
-                     <hi rend="Bold">1653:</hi> February: Mazarin returns to France.</item>
+                     <hi rend="bold">1653:</hi> February: Mazarin returns to France.</item>
                   <item>
-                     <hi rend="Bold">1654:</hi> June: coronation of Louis XIV.</item>
+                     <hi rend="bold">1654:</hi> June: coronation of Louis XIV.</item>
                   <item>
-                     <hi rend="Bold">1660:</hi> June: Louis XIV marries Maria Theresa of Spain. Peace established with Spain</item>
+                     <hi rend="bold">1660:</hi> June: Louis XIV marries Maria Theresa of Spain. Peace established with Spain</item>
                   <item>
-                     <hi rend="Bold">1661:</hi> March: Mazarin dies.</item>
+                     <hi rend="bold">1661:</hi> March: Mazarin dies.</item>
                   <item>
-                     <hi rend="Bold">1664:</hi> Anne diagnosed with cancer. </item>
+                     <hi rend="bold">1664:</hi> Anne diagnosed with cancer. </item>
                   <item>
-                     <hi rend="Bold">1666:</hi> January 20: Anne dies.</item>
+                     <hi rend="bold">1666:</hi> January 20: Anne dies.</item>
                </list>
             </div>
          </div>
          <div id="fam.006" type="Notes">
-            <docAuthor>Enright, Amy. </docAuthor>
             <head>Notes to the Introduction for <title>A Family Discussion</title>
             </head>
-            <docDate>1997</docDate>
             <note id="fam.006.in1" n="1">Ruth Kleinman. <title>Anne of Austria</title> (Columbus, OH, 1985), p.39.</note>
             <note id="fam.006.in2" n="2">Sarah Hanley. <title>The Lit de Justice of the Kings of France</title>. (Princeton, 1983), p.246.</note>
             <note id="fam.006.in3" n="3">See Appendix A.</note>
@@ -218,13 +212,10 @@
          </div>
 	</div>
          <div id="fam.007" type="Text">
-            <docAuthor>[Unknown]. </docAuthor>
             <head>
-               <title> A Family Discussion:  A FAMILY DISCUSSION between the King and the Queen Regent, his mother, concerning current affairs including advice from the Duke of Anjou to the King presented to her Majesty by a faithful Official of her Household at St. Germain-en-Laye on Ash Wednesday, 1649.
-<hi rend="bold">The King begins:</hi>  
-               </title>
-            </head>
-            <docDate> 1649</docDate>
+               <title>A FAMILY DISCUSSION between the King and the Queen Regent, his mother, concerning current affairs including advice from the Duke of Anjou to the King presented to her Majesty by a faithful Official of her Household at St. Germain-en-Laye on Ash Wednesday, 1649.</title></head>
+<p rend="bold">The King begins:</p>
+
             <p>Ma bonne maman, pourquoi avez vous pris la Regence puisque mon Papa l'avoit defendu &#x00E0; sa mort.</p>
             <p>
                <hi rend="italic">King: My good mother, why have you taken over the Regency when my father prohibited this at the time of his death?</hi>
@@ -836,12 +827,10 @@ La Reine: Mon fils, &#x00E7;'a este M. le Prince de Cond&#x00E9;, qui m'a dit qu
                <hi rend="bold">FIN</hi>
             </p>
          </div>
-         <div id="fam.008" type="notes">
-            <docAuthor>Enright, Amy. </docAuthor>
+         <div id="fam.008" type="Notes">
             <head> Text Notes for <title>A Family Discussion</title>
             </head>
-            <note id="fam.008.n1" n="1" type="ED" place="END" anchored="yes">
-               <hi rend="bold">1</hi> Augustin de Potier, the bishop of Beauvais had been Anne's grand almoner since 1624. He was associated with the &#x0022;devout&#x0022; faction at court, who advocated peace between Catholic France and Catholic Spain. Beauvais deplored the policies and administrative precedents set up by Cardinal Richelieu. In 1643, as a member of the <hi rend="italic">Importants</hi> faction, he called for a return to government as it had existed before Richelieu took office and hoped to serve Anne as prime minister.</note>
+            <note id="fam.008.n1" n="1" type="ED" place="END">Augustin de Potier, the bishop of Beauvais had been Anne's grand almoner since 1624. He was associated with the &#x0022;devout&#x0022; faction at court, who advocated peace between Catholic France and Catholic Spain. Beauvais deplored the policies and administrative precedents set up by Cardinal Richelieu. In 1643, as a member of the <hi rend="italic">Importants</hi> faction, he called for a return to government as it had existed before Richelieu took office and hoped to serve Anne as prime minister.</note>
             <note id="fam.008.n2" n="2">The power struggle between the <hi rend="italic">Importants</hi> and Mazarin climaxed with a failed attempt on Mazarin's life and the arrest of the Duke of Beaufort in Anne's own salon in the Louvre on September 2, 1643. Other members of the faction hurriedly emigrated or went into hiding on the estates of the Duke de Vendome, Beaufort's father.</note>
             <note id="fam.008.n3" n="3">In October of 1643, Anne moved her household from the Louvre, which was perpetually under construction, to Richelieu's Palace, re-named the Palais-Royal. Months later, Mazarin joined the royal family there. Though Anne's rooms were in the right wing of the palace and his were in the left, nearer to the king, Mazarin's addition to the household was considered scandalous.</note>
             <note id="fam.008.n4" n="4">Charles de L'aube-spine, Marquis de Chate&#x00E2;uneuf, had been keeper of the seals under Louis XIII, but was relieved of his duties after plotting against Cardinal Richelieu Chate&#x00E2;uneuf's hopes for restored favor were dashed by the failure of the <hi rend="italic">Importants</hi> to control the regency in 1643. Thereafter, he worked against Anne and Mazarin's leadership. Mazarin held him, along with the Duke of Beaubort, responsible for encouraging the parlementary stand against new taxes in 1647 and eventually exiled him in September of 1648.</note>
@@ -862,7 +851,6 @@ La Reine: Mon fils, &#x00E7;'a este M. le Prince de Cond&#x00E9;, qui m'a dit qu
       </body>
       <back>
          <div id="fam.009" type="Bibliography">
-            <docAuthor>Enright, Amy. </docAuthor>
             <head>Bibliography and Related Readings for <title>A Family Discussion</title>
             </head>
             <div id="fam.010" type="Section">

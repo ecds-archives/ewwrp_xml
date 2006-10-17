@@ -1,5 +1,5 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>The Countess of Lincolnes Nurserie, an electronic edition.</title>
@@ -78,15 +78,9 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
          <div id="clinton.001" type="Book">
             <head>
                <title>The Countess of Lincolnes Nurserie</title>: A Critical Edition</head>
-            <docAuthor>McPherson, Kate</docAuthor>
-            <docDate>1999</docDate>
-            <argument>
-               <p>An early, in-depth account and analysis of breastfeeding.</p>
-            </argument>
             <div id="clinton.002" type="Contents">
-               <docAuthor>McPherson, Kate</docAuthor>
+
                <head>Contents for <title>The Countess of Lincolnes Nurserie</title>: A Critical Edition</head>
-               <docDate>1999</docDate>
                <p>
                   <hi rend="bold">Introduction</hi>:</p>
                <p>I. "What a racket do Authors make about this": The Debate Over Maternal Breastfeeding in Early Modern England . . . I</p>

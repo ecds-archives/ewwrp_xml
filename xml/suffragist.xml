@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n="Nineteenth-Century American Suffragists in the News">
+         <titleStmt>
             <title>Nineteenth-Century American Suffragists in the News, an electronic edition.</title>
             <author><name type="person" reg="Various">[Various]</name></author>
             <editor role="editor">Anna Engle</editor>

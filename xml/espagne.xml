@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n="Relation du Voyage d'Espagne">
+         <titleStmt>
             <title>Relation du Voyage d'Espagne, an electronic edition.</title>
             <author><name type="person" reg="Aulnoy, Madame d' (Marie-Catherine), 1650 or 51-1705">Madame d'Aulnoy</name></author>
             <respStmt>

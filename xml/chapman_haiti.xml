@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n=" Haiti">
+         <titleStmt>
             <title>Haiti, an electronic edition.</title>
             <author><name type="person" reg="Chapman, Maria Weston,1806-1885">Maria Weston Chapman</name></author>
             <respStmt>
@@ -88,19 +88,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    <text>
       <body>
          <div id="chapman_haiti.001" type="Article">
-            <docAuthor>Chapman, Maria Weston. </docAuthor>
-            <head>
-               <title> HAITI</title>
-            </head>
-            <docDate> 1842</docDate>
-            <argument>
-               <p>Describes the morals and mores of Haitian society.</p>
-            </argument>
             <pb n="164"/>
-            <p>The Liberty Bell<lb/>
-HA&#x00CF;TI</p>
-            <p>BY MARIA WESTON CHAPMAN.</p>
-            <p>"Je renaitrai de mes cendres"</p>
+            <head>The Liberty Bell<lb/>
+HA&#x00CF;TI</head>
+            <byline>BY MARIA WESTON CHAPMAN.</byline>
+            <epigraph><p>"Je renaitrai de mes cendres"</p></epigraph>
             <p>THIS second American Republic has a history that would fill 
 volumes; and, as the past is the parent of the present, some 
 knowledge of that history is necessary to a just estimate of 
@@ -116,8 +108,7 @@ must in fairness do as we have done in estimating our own national character. We
             <p>So we must do in considering the Ha&#x00EF;tians, if we would be wise and just. The frugal, industrious, exact, and moral descendant of the free puritans must not approach the mingled blood of southern Europe and central Africa, expecting to find its flow as measured as that of his own. For the effects of climate there must be great allowance. Divine Providence has not laid upon the Ha&#x00EF;tian that inevitable ne-
 <pb n="166"/>
 cessity to labor, which, in the process of ages, makes the character of a people so enterprising and so strong. <hi rend="italic">His</hi> pilgrim fathers were the Buccaneers. Of course no scions of courtly and refined nobility accompanied them in deep devotion to religious freedom to the new clime, to be the mothers of the future race. For many years there were no women at all to help onward that settlement on the northern coast of the then island of St. Domingo, which was the terror of Spanish America. When at length, the freebooters were assured of a foothold, women of the most despicable Parisian class were sent out, and, " to encourage industry and prevent <hi rend="italic">quarrels</hi>," as the first historians say, they were <hi rend="italic">sold</hi> to the colonists,<ref target="chapman_haiti.001.n1">1</ref> for a term of years.</p>
-            <note id="chapman_haiti.001.n1" n="1" anchored="yes">
-               <hi rend="bold">1</hi>Maria Weston Chapman<title>Haiti</title>p.166.The <hi rend="italic">Banns</hi> of this sort of marriage were made by the Buccaneers as follows: "I take thee without knowing or caring whence. thou art. If any body from whence thou comest would have had thee, thou wouldst not have come in quest of me. But that does not signify. I do not ask account of thee for thy past conduct, because I have no right to be offended at it, at the time when thou wast at liberty to behave well or ill at thine own pleasure. I need not be ashamed of anything thou wast guilty of, when thou didst not belong to me. Give me only thy word for the future-I acquit thee of the past" Then striking his musket he added, "this will revenge me of thy breach of faith. Though <hi rend="italic">thou</hi> shouldst prove false, <hi rend="italic">this</hi> will certainly be true to my aim."</note>
+            <note id="chapman_haiti.001.n1" n="1">The <hi rend="italic">Banns</hi> of this sort of marriage were made by the Buccaneers as follows: "I take thee without knowing or caring whence. thou art. If any body from whence thou comest would have had thee, thou wouldst not have come in quest of me. But that does not signify. I do not ask account of thee for thy past conduct, because I have no right to be offended at it, at the time when thou wast at liberty to behave well or ill at thine own pleasure. I need not be ashamed of anything thou wast guilty of, when thou didst not belong to me. Give me only thy word for the future-I acquit thee of the past" Then striking his musket he added, "this will revenge me of thy breach of faith. Though <hi rend="italic">thou</hi> shouldst prove false, <hi rend="italic">this</hi> will certainly be true to my aim."</note>
             <p>
                <pb n="167"/>
 A century after, when the plunderers had become planters, and had found their way to the coast of Africa for laborers, another motive strengthened the hereditary prejudice against marriage. The Parisian, who had been tempted hither as to a miser's and to a sensualist's paradise at once, left his wife and family in France, and supplied their place by some beautiful slave, despising her caste and color, yet dreading that she might not share his feeling of contempt. Thus originated the jealous fierceness which edged the scorn of the white colonist, and thus freedom and slavery have both contributed to the licentiousness which is the grand sin of
@@ -185,8 +176,7 @@ We must live out our lives under that military yoke, which we took up to help us
 <pb n="190"/>
 arts of life and in the path of civilization, she can open wide her gates to the artisan and the philosopher, without the fear of finding that the guests are enemies. She can send her sons abroad to study stupendous public works and national improvements, without exposing them to ignominy or danger. No deadly prejudice prevents the interchange of benefits. But we must close our doors against the knowledge, that can only enter with those, who think habitually of the man of color as a slave, and not as a pupil.</p>
             <p>'Aucun blanc, quelle que soit sa nation, ne pourra mettre les pieds sur ce territoire &#x00E0; titre de m&#x00E2;itre ou de proprietaire.'<ref target="chapman_haiti.001.n2">2</ref> This is what will make our progress as a nation as slow as that of France or England during those earlier times, when <hi rend="italic">they</hi> took no lessons from without. Until the white man's heart changes towards our
-<note id="chapman_haiti.001.n2" n="2" anchored="yes">
-                  <hi rend="bold">2</hi>Maria Weston Chapman<title>Haiti</title>p.190.*Constitution d'Haiti. tit. ler, art. 38cme</note>
+<note id="chapman_haiti.001.n2" n="2">*Constitution d'Haiti. tit. ler, art. 38cme</note>
                <pb n="191"/>
 race, attrition with his hard and tyrannous nature will but crush and rend,-not polish us. Until that time his presence among us is not improvement but destruction."</p>
             <p>Eastward from the Cape as one penetrates into the island, the stronger grows the united charm of beauty in the clime, and of hospitality in the people. How many of its charming landscapes and family-pieces I shall always remember! the good peasants at quartier Morin and Limonade who so kindly entertained us with their steaming coffee and na&#x00EF;ve conversation, telling us all we wanted to know about their habits of mind and of life;-how carefully they slung our hammocks, and spread a rush-mat over our saddles on the earth-floor, if we should prefer a steadier pillow;-with what interest they inquired if we had left children behind us " au continent;"  how softly they stepped through the apartment to gratify their curiosity with a look at the white people
@@ -230,10 +220,8 @@ uphold her in it "It <hi rend="italic">is</hi> well done, and fitting for a prin
             <p>The three millions of the harmless red people have entirely disappeared in the march of ages. Only a trace of them remains on a few countenances in the interior. They are superseded by that mixture of Norman, Gothic, Arabic, and Moresque, which calls itself French and Spanish, with the blood of Central Africa. The chivalric manners of one, and the gentle ones of the other line of progenitors have descended uncharged amid slavery and war. Although deprived of collision with more advanced peo-
 <pb n="204"/>
 ple, which operates so unfavorably upon their prospects for the future, they have, in the most complete, majestic, and philosophic of the European languages, a key to the riches of the past.<ref target="chapman_haiti.001.n3">3</ref>  With their schools, and their newspapers, their amateur dramatic representations, their increasing civil, and their decreasing military reliance, their growing industry, and enterprise,<ref target="chapman_haiti.001.n4">4</ref> their orderly cities, and their safe and quiet country, they are showing, what a magic is "LIBERTY AND EQUALITY " for the creation of nations.</p>
-            <note id="chapman_haiti.001.n3" n="3" anchored="yes">
-               <hi rend="bold">3</hi>Maria Weston Chapman<title> Haiti </title>p.204 The French spoken among the peasantry, the Creole, as it is called, is a corrupted Patois; but the Spanish is far purer: while, by the cultivated portion of the people, both are well spoken.</note>
-            <note id="chapman_haiti.001.n4" n="4" anchored="yes">
-               <hi rend="bold">4</hi>Maria Weston Chapman<title> Haiti </title>  Proposals for the formation of a Steamboat Company have just been issued.</note>
+            <note id="chapman_haiti.001.n3" n="3">The French spoken among the peasantry, the Creole, as it is called, is a corrupted Patois; but the Spanish is far purer: while, by the cultivated portion of the people, both are well spoken.</note>
+            <note id="chapman_haiti.001.n4" n="4">Proposals for the formation of a Steamboat Company have just been issued.</note>
          </div>
       </body>
    </text>

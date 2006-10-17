@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n=" Mundus Muliebris: Or, The Ladies Dressing-Room Unlock'd, and her Toilette Spread. ">
+         <titleStmt>
             <title>Mundus Muliebris: Or, The Ladies Dressing-Room Unlock'd, and her Toilette
 Spread. </title>
             <author><name type="person" reg="Evelyn, Mary, 1665-1685">Mary Evelyn</name></author>
@@ -91,15 +91,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    <text>
       <body>
          <div id="evelyn.001" type="Poem">
-            <docAuthor>Evelyn, Mary. </docAuthor>
-            <head>
-               <title> THE LADIES DRESSING-ROOM UNLOCK'D, And Her TOILETTE Spread, TOGETHER, With a Fop-Dictionary, and a Rare and Incomparable Receipt to make Pig, or Puppidog-Water for the Face.</title>
-            </head>
-            <docDate> 1690</docDate>
-            <argument>
-               <p>Lengthy poetic burlesque satirizes women's vanity and criticizes them for reading romances, seeing plays and farces, and otherwise entertaining themselves. She nostalgically regards the age of chivalry and includes a "fop-dictionary." It is intended as a guide for young gentlemen preparing to depart for university. Evelyn was the daughter of royal diarist John Evelyn.</p>
-            </argument>
-            <p>THE<lb/>
+            <head>THE<lb/>
 LADIES<lb/>
 DRESSING-ROOM<lb/>
 UNLOCK'D,<lb/>
@@ -107,10 +99,10 @@ And Her TOILETTE Spread,<lb/>
 TOGETHER,<lb/>
 With a Fop-Dictionary, and a Rare and<lb/>
 Incomparable Receipt to make Pig,<lb/>
-or Puppidog-Water for the Face.-</p>
-            <p>Tanquam fama discrimen agatur,<lb/>
+or Puppidog-Water for the Face.-</head>
+            <epigraph><p>Tanquam fama discrimen agatur,<lb/>
 Aut Anima: Tanta est quarendi cura decoris.<lb/>
-Juvenal. Sat. 6.</p>
+Juvenal. Sat. 6.</p></epigraph>
             <p>Such care for a becoming Dress they take,<lb/>
 Asif their Life and Honour were at Stake.</p>
             <p>London:<lb/>
@@ -529,9 +521,7 @@ Or satisfy'd, that you have done enough to set them forth.<lb/>
                </lg>
             </div>
             <div id="evelyn.004"  type="Part">
-               <head>Evelyn: <hi rend="BOLD">THE FOP-DICTIONARY. OR, An Alphabetical Catalogue of the hard and foreign Names, and Terms of the Art COSMETICK, &#x0026;c. together with their interpretations, for Instruction of the Unlearned.</hi>
-               </head>
-               <p>THE<lb/>
+                  <head>THE<lb/>
 FOP-DICTIONARY.<lb/>
 OR,<lb/>
 An Alphabetical Catalogue of<lb/>
@@ -540,7 +530,7 @@ and Terms of the Art COS-<lb/>
 METICK, &#x0026;c. together with<lb/>
 their Interpretations, for In-<lb/>
 struction of the Unlearned.<lb/>
-               </p>
+		  </head>
                <p>Attache.<lb/>
 Any thing which fastens to another, &#x0026;c.<lb/>
 Bas de soye shot through. <lb/>

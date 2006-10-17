@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n=" The Daughter of Sion Awakened, and Putting on Strength; She is Arising, and Shaking herself out of the Dust and Putting on Her Beautiful Garments. ">
+         <titleStmt>
             <title>The Daughter of Sion Awakened, and Putting on Strength; She is Arising,
 and Shaking herself out of the Dust and Putting on Her Beautiful Garments, an electronic edition.</title>
             <author><name type="person" reg="Fox, Margaret Askew Fell, 1614-1702">Margaret Askew Fell Fox</name></author>
@@ -87,21 +87,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    <text>
       <body>
          <div id="fellfox_daughter.001" type="Text">
-            <docAuthor>Fell Fox, Mary Askew. </docAuthor>
-            <head>
-               <title> The Daughter of Sion Awakened, and Putting on Strength; She is Arising, and Shaking herself out of the Dust and Putting on Her Beautiful Garments </title>
-            </head>
-            <docDate>1677</docDate>
-            <argument>
-               <p>Retells the Biblical story of human fall and salvation and  predicts the Second Coming.</p>
-            </argument>
-            <p>THE<lb/>
+            <head>THE<lb/>
 Daughter of Sion<lb/>
 AWAKENED,<lb/>
 And putting on Strength:<lb/>
 She is Arising, and shaking her self out of the Dust,<lb/>
 and putting on her Beautiful Garments.<lb/>
-            </p>
+            </head>
             <p>M. F.</p>
             <p>And thou, O Tower of the Flock, the Strong Hold of the Daughter of Sion,
 unto thee shall it come, even the first Dominion; the Kingdom shall come to
@@ -125,11 +117,8 @@ believeth on him, shall not be ashamed, Pet. 2. 6.</p>
             <p>Printed in the Year 1677.<pb n="3"/>
             </p>
             <div id="fellfox_daughter.002" type="Part">
-               <head>Fell Fox: <hi rend="bold">The Daughter of Sion Awakened; and putting on Strength.</hi>
-               </head>
-               <p>
-                  <hi rend="bold">The Daughter of Sion Awakened; and putting on Strength.</hi>
-               </p>
+               <head>The Daughter of Sion Awakened; and putting on Strength.</head>
+
                <p>OUT of Sion, the Perfection of Beauty, hath God shined, in the Light of his
 glorious Son, to recover, and to bring back, and to redeem his whole Body,
 which is his Church, out of all Nations, Kindreds, Peoples, Tongues and
@@ -742,11 +731,7 @@ unto himself (not having Spot or Wrinkle, or anysuch thing) which is his
 Body, the fulness of him that filleth all in all, Eph. 1. 22, 23.</p>
             </div>
             <div id="fellfox_daughter.003" type="Part">
-               <head>Fell Fox: <hi rend="bold">The Daughter of Sion Awakened: Postscript</hi>
-               </head>
-               <p>
-                  <hi rend="bold">THE POSTSCRIPT.</hi>
-               </p>
+               <head>THE POSTSCRIPT.</head>
                <p>And blessed and happy are all the Faithful, that are constant. true and
 obedient to the Lord's eternal Light, Spirit and Truth; <pb n="19"/>
 that so the holy 
