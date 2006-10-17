@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n="Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, c. of Woman. Written by a Lady in Vindication of her Sex.">
+         <titleStmt>
             <title>Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, &#x0026;c. of Woman.
 Written by a Lady in Vindication of her Sex, an electronic edition.</title>
             <author><name type="person" reg="Egerton, Sarah Fyge">Sarah Fyge Egerton</name></author>
@@ -96,26 +96,17 @@ London:
    <text>
       <body>
          <div id="egerton.001" type="Introduction">
-            <docAuthor>Egerton, Sarah Fyge. </docAuthor>
-            <head>
-               <title> Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, &#x0026;c. of Woman. Written by a Lady in Vindication of her Sex.</title>
-            </head>
-            <docDate> 1686</docDate>
-            <argument>
-               <p>Early feminist vase apparently written by fourteen-year-old Sarah Fyge. Defends women's rational powers because they are not earthly like Adam or ambitious. Cites examples of heroic women or women who have sacrificed for their husbands.</p>
-            </argument>
-            <p>Female Advocate or, an Answer to a Late Satyr Against 
+            <head>Female Advocate or, an Answer to a Late Satyr Against 
 the Pride, Lust and<lb/>
 Inconstancy, &#x0026;c. of Woman.<lb/>
-Written by a Lady in Vindication of her Sex.<lb/>
-Licens'd, June 2. 1686. R. P.<lb/>
+Written by a Lady in Vindication of her Sex.</head>
+<p>Licens'd, June 2. 1686. R. P.<lb/>
 London:<lb/>
 Printed by H. C. for John Taylor, at the Globe in St. Pauls-Church_Yard.<lb/>
 1686.<lb/>
             </p>
             <div id="egerton.002" type="Part">
-               <head>Egerton: To the Reader</head>
-               <p>To the Reader.</p>
+               <head>To the Reader.</head>
                <p>That which makes many Books come abroad into the World without Prefaces,
 is, the only Reason that incites me to one, VIZ. the Smalness of them;
 being willing to let my reader know why this is so: For as one great
@@ -155,10 +146,8 @@ one of its Votaires, S. F.</p>
             </div>
          </div>
          <div id="egerton.003" type="Poem">
-            <docAuthor>Egerton, Sarah Fyge</docAuthor>
-            <head>Female Advocate or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, &#x0026;c. of Woman. Written by a Lady in Vindication of her Sex.</head>
-            <p>The Female Advocate, or An Answer to a late Satyr against the Pride, Lust
-and Inconstancy, &#x0026;c. of woman.</p>
+            <head>The Female Advocate, or An Answer to a late Satyr against the Pride, Lust
+and Inconstancy, &#x0026;c. of woman.</head>
             <lg type="stanza">
                <l>Blasphemous Wretch, thou who canst think or say</l>
                <l>Some Curst or Banisht Fiend usurp't the way</l>

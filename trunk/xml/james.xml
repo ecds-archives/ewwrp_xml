@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n=" Mrs. James's vindication of the Church of England, in an Answer to a Pamphlet entitled a New Test of the Church of England's Loyalty">
+         <titleStmt>
             <title>Mrs. James's vindication of the Church of England, in an Answer to a
 Pamphlet entitled a New Test of the Church of England's Loyalty, an electronic edition.</title>
             <author><name type="person" reg="James, Elinor, ca. 1645-1719">Elinor James</name></author>
@@ -90,16 +90,7 @@ London: <publisher>Printed for me, Elinor James</publisher>, <date>1687</date>. 
    <text>
       <body>
          <div id="james.001" type="Text">
-            <docAuthor>James, Elinor. </docAuthor>
-            <head>
-               <title> Mrs. James's vindication of the Church of England, in an Answer to a Pamphlet entitled a New Test of the Church of England's Loyalty </title>
-            </head>
-            <docDate> 1687</docDate>
-            <argument>
-               <p>Defends James II, the Book of Common Prayer and the Church of England.
-Argues against a pamphlet written by John Dryden. Author says she realizes the king will question a woman's involvement but claims she is concerned about her country.</p>
-            </argument>
-            <p>Mrs. James's<lb/>
+            <head>Mrs. James's<lb/>
 VINDICATION<lb/>
 OF THE<lb/>
 Church of England,<lb/>
@@ -112,7 +103,7 @@ A New Test<lb/>
 OF THE<lb/>
 Church of England's<lb/>
 LOYALTY.<lb/>
-            </p>
+            </head>
             <p>It is not Interest that moves me to this, for I never made Gain of anything
 that ever I did, nor none I do desire; for it was nothing but the Fear of
 Gods Judgments that hath been the sole Cause of all my Actions for above

@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n="DEVELOPMENT.  A NOVEL BY W. BRYHER WITH A PREFACE BY AMY LOWELL.">
+         <titleStmt>
             <title>DEVELOPMENT.  A NOVEL BY W. BRYHER
 WITH A PREFACE BY AMY LOWELL, an electronic edition.</title>
             <author><name type="person" reg="Bryher, Annie Winifred Ellerman">W. Bryher</name></author>
@@ -96,10 +96,6 @@ WITH A PREFACE BY AMY LOWELL.  NEW YORK: <publisher>THE MACMILLAN COMPANY</publi
                <title>DEVELOPMENT</title>
 A NOVEL BY W. BRYHER
 WITH A PREFACE BY AMY LOWELL</head>
-            <docDate>1920</docDate>
-            <argument>
-               <p>According to Amy Lowell, "This is the record of the growth--not yet of a soul, that may come--but of a mind."</p>
-            </argument>
             <bibl>NEW YORK
 THE MACMILLAN COMPANY</bibl>
             <p>
@@ -148,10 +144,9 @@ VISUAL IMAGINATION. . .180</p>
                <pb n="ix"/>
             </p>
             <div id="bryher_develop.002" type="Preface">
-               <docAuthor>Lowell, Amy. </docAuthor>
-               <head>PREFACE [to Bryher's Development]
+               <head>PREFACE<lb/>
 BY AMY LOWELL</head>
-               <docDate>1920</docDate>
+
                <p>THIS is a singular book; in many ways, a remarkable book. To any one interested in the reasons why of personality (as I confess myself to be), it cannot fail to provoke attention. The autobiographic novel has an illustrious ancestry, the autobiography masquerading as novel is almost as numerous a clan. Is <title>Development</title> the granddaughter of <title>Jane Eyre</title> or of <title>Obermann</title>? If the former, Nancy is a finely conceived character - study; if the latter, we are face to face with a young lady the least to be said of whom is that she is unlike anybody else.</p>
                <p>This is the record of the growth--not yet of a soul, that may come--but of a mind. Through a series of deft touches, we see a small, lonely, imaginative child gradually evolving into an artist. From the first page in which the little girl of four is sitting in a box <pb n="x"/>which "was really a boat," to the last chapter of aphorisms--chippings of the artistic egg--slowly, very slowly, the character is built up for us. A strange, contradictory character, supersensitive to a certain set of impressions, quite cold to others; a character overweighted on one side, leaning heavily to a bias, and yet always with the desire to stand upright, to fill the empty places, to tread clearly and evenly, to see the world as a whole. Little by little the girl realizes her 1imitations, strains against them--pitifully inadequate struggle for so gifted a being in an environment where her subtle psychological needs are evidently but vaguely understood. And yet, is that true, after all? For the result has certainly been the creation in Nancy of all sorts of intuitions and understandings, of a delicate colour sense, of a rare perception of the possibilities in words. I think I have never met or read of any one with a keener or more conscious realization of the various beauty of words. They are to her what pigment is to the painter, what tone is to the musician. To most people, even to most authors, words are chiefly symbols; to Nancy, they have an essence of their own, a vibration in themselves quite apart from their connotations. </p>
                <p>
@@ -174,9 +169,7 @@ BY AMY LOWELL</head>
                </p>
             </div>
             <div id="bryher_develop.003" n="1" type="Book">
-               <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-               <head>Development:  BOOK I <lb/> EPIC CHILDHOOD</head>
-               <docDate>1920</docDate>
+               <head>BOOK I <lb/> EPIC CHILDHOOD</head>
                <epigraph>
                   <lg type="stanza">
                      <l n="1">"The world is yet unspoiled for you."</l>
@@ -188,10 +181,7 @@ BY AMY LOWELL</head>
                   <pb n="3"/>
                </p>
                <div id="bryher_develop.004" n="1" type="Chapter">
-                  <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-                  <head>DEVELOPMENT:  BOOK I <lb/> EPIC CHILDHOOD<lb/>
-                  CHAPTER I<lb/>THE AGE OF DISCOVERY</head>
-                  <docDate>1920</docDate>
+                  <head>CHAPTER I<lb/>THE AGE OF DISCOVERY</head>
                   <div id="bryher_develop.005" n="1" type="Section">
                      <head>I</head>
                      <p>ADVENTURE and the salt edges of the sea beat against the window clamorous through the rain.</p>
@@ -250,10 +240,7 @@ BY AMY LOWELL</head>
                   </div>
                </div>
                <div id="bryher_develop.010" n="2" type="Chapter">
-                  <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-                  <head>DEVELOPMENT:  BOOK I <lb/> EPIC CHILDHOOD<lb/>
-                  CHAPTER II<lb/>HISTORY</head>
-                  <docDate>1920</docDate>
+                  <head>CHAPTER II<lb/>HISTORY</head>
                   <p>"I HATE Michel Angelo." The custodian looked shocked, a passing visitor smiled. Nancy stared at the head of the faun with more than a little fear she would surrender to some compelling power in the rough marble, gazing up at her with such inscrutable eyes, but she was tired of Michel Angelo, the name followed them everywhere, besides nobody could explain to her what a faun was. Outside in the sunshine there was a puppy playing, a brown puppy chasing its tail, and though she was aware it must long ago have strayed into one of the dark Florentine streets, an unconquerable hope that it lingered on the steps prompted her to be impatient of each delay. A live puppy held a vastly greater interest for her than a cold statue. "I hate him," she repeated, looking for sympathy to her mother who had delivered her from the tyranny <pb n="17"/>of museums on more than one memorable occasion.</p>
                   <p>"We shall only be another half-hour now, and if you are good you shall have a new book this afternoon."</p>
                   <p>Contented with the promise, Nancy was silent. A book was far more exciting than a puppy she could not touch.</p>
@@ -276,10 +263,7 @@ BY AMY LOWELL</head>
                   </p>
                </div>
                <div id="bryher_develop.011" n="3" type="Chapter">
-                  <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-                  <head>DEVELOPMENT:  BOOK I <lb/> EPIC CHILDHOOD<lb/>
-                  CHAPTER III<lb/>HIEROGLYPHICS</head>
-                  <docDate>1920</docDate>
+                  <head>CHAPTER III<lb/>HIEROGLYPHICS</head>
                   <p>HURRIED days in Naples, a sudden decision, watching for the ship in the rifts of sea between the crimson roses, going on board, coming up the first morning to see Stromboli volcanic blue within the distance; storm, leaning on the rail to watch an Arab in scarlet fez spring on deck, first hint of Egypt, these and a confused impression of hieroglyphics, Bedouins, Thotmes, and the desert merged in a vague expectancy as the train left Alexandria. Nancy was bitterly ashamed of herself. She had disgraced her first voyage by seasickness; part of the journey, in fact, she had not enjoyed at all. Her most tolerable hours had been those spent lying on deck, wrapt in a rug, dreaming, with shut eyes, of the adventure and the mystery enshrined for a child in the story of the early Egyptian vessels that rowed tropic seas to Punt.</p>
                   <p>They had wandered out to Italy in early <pb n="27"/>December with the possibility of further voyage before them, Egypt or Sicily. Nancy had hoped for Egypt; Italy was wonderful, but Naples was still Europe, and Egypt meant Africa, crowded, if rumours could be trusted, with camels, vultures, scorpions, and even jackals, up the Nile. To a child the mere word desert was full of fascination. To-day she had landed in this new continent for the first time.</p>
                   <p>Annoyingly oblivious of the importance of the moment, every one brought out papers, went to sleep. The train, reeking of Europe, rattled on. Nancy was thinking of the Zoo, the solemn keeper leading a dromedary with a look of infinite dreariness in its eyes. The guide-book spoke of pelicans--it was hardly to be believed these birds existed wild and uncaged where she, Nancy, might see them. Was it possible the whole country was a myth?</p>
@@ -321,10 +305,7 @@ BY AMY LOWELL</head>
                   </p>
                </div>
                <div id="bryher_develop.012" n="4" type="Chapter">
-                  <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-                  <head>DEVELOPMENT:  BOOK I <lb/> EPIC CHILDHOOD<lb/>
-		  CHAPTER IV<lb/>TRUANT WITH ADVENTURE</head>
-                  <docDate>1920</docDate>
+		  <head>CHAPTER IV<lb/>TRUANT WITH ADVENTURE</head>
                   <div id="bryher_develop.013" n="1" type="Section">
                      <head>I</head>
                      <p>THE brown ears of Nancy's mule twitched in a slow rhythm. She was jolted upwards at an aggravatingly even pace, ahead, as usual, by some hundred yards. Light was regal about the fretted ridges, the luminous air lived; morning, jocund and defiant, leapt on the snowy points of Monte Rosa. The mountains sloped in vivid line against a gentian sky. It was no hour to waste upon a saddle; sun caught her to a hot rebellion: it was a day of movement--wild, imperious.</p>
@@ -412,11 +393,8 @@ BY AMY LOWELL</head>
                   </div>
                </div>
                <div id="bryher_develop.019" n="5" type="Chapter">
-                  <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-                  <head>DEVELOPMENT:  BOOK I <lb/> EPIC CHILDHOOD<lb/>
-                  CHAPTER V<lb/>
+                  <head>CHAPTER V<lb/>
 		  ALMOND-BLOSSOM</head>
-                  <docDate>1920</docDate>
                   <p>A DELICATE foam of almond-blossom shimmered the naked earth, fell lightly on Nancy's hair, was blown, with what wind there was, to make of ruined Naxos a newer city of living petals. A herd of brown and shaggy goats passed under a geranium hedge, a spear's length high. A sea of lazuli beat in from Greece below the arching boughs.</p>
                   <p>Nancy watched the water, watched the almond trees, wishing she might wait, here in Sicily, for Spring. The influence of the past Italy and Egypt had embedded so deeply in her nature, had grown with these months spent in Palermo, Akragas, Syracuse. Here was antiquity; here was also the Middle Age. It was not only the fantastic carts, gaudy with saint or armoured knight, that held an air about the rude drawing as of a land emerging from the ages of barbarism, nor the peasant, brigand-<pb n="56"/>eyed, his rough sheepskin trousers shaggier than the Sardinian donkey he crouched on; but the whole atmosphere, under the outer skin of railway and tramcar' was vivid with the days of both Dionysius and Roger, the cultivation of olive tree or almond that had proceeded undisturbed amid the clashing of aliens, Greek and Carthaginian, Saracen and Norman, fighting for the dominion of a land yielding alone to the Greek islands in richness or in beauty. The place slept. At Solunto, at Syracuse, antiquity could claim pre-eminence, but at Monreale the spirit of the Middle Age was enshrined in blurred line and magnificence of mosaic. Here, in this land of wild geranium and growth of fennel, of temples fashioned of the spirit that led Agathokles to Carthage, palace of moulded pillar, lazuli and marble, she could swing at will from a confused mediaevalism to the clearer beauty of an earlier but not so primitive age.</p>
                   <p>Her companion had been Freeman's own abridged version of his larger history, and much of the magical enthusiasm poetry was afterwards to kindle lived for her now in mere words, with association of loveliness or heroic deed, the Carthaginian war, Agathokles and the burning of the ships, the quarries of Syra-<pb n="57"/>cuse; or the name alone of a place, Concha del Oro, shell of gold, that brought the sea to mingle with almond and with lemon blossom, Palermo or Euryalus, now vivid with anemones.</p>
@@ -433,10 +411,7 @@ BY AMY LOWELL</head>
                   </p>
                </div>
                <div id="bryher_develop.020" n="6" type="Chapter">
-                  <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-                  <head>DEVELOPMENT:  BOOK I <lb/> EPIC CHILDHOOD<lb/>
-                  CHAPTER VI<lb/>APRIL</head>
-                  <docDate>1920</docDate>
+                  <head>CHAPTER VI<lb/>APRIL</head>
                   <p>"WHAT is a pterodactyl?" The family sighed. Unexpected questions in an imperious voice were ever an ominous sign. Nancy's habit of reading anything from a time-table to a dictionary was responsible for a great deal of miscellaneous knowledge, but nobody knew where her interest would lead her next. A visitor, unwitting of the consequences, had left on the table a magazine containing some account of a recent discovery of prehistoric animals. This Nancy had found and read.</p>
                   <p>A mere explanation that a pterodactyl was a kind of flying reptile belonging to the Jurassic and Cretaceous periods was insufficient. Nancy wanted to know what it ate, what it looked like, when the Jurassic period was. The article presupposed a certain knowledge, could only be a hint to her of an unexpected world, made more delightful by its very diffi-<pb n="63"/>culties, possible of reach but through some volume of research. Admitting no impossibilities, the undaunted enthusiasm of thirteen spoke firmly: "There must be something written on the subject, and I am going to read it."</p>
                   <p>A couple of elementary text-books appeared within a few days and were rapidly learnt by heart; the real authorities followed. For almost a year and a half she pored over skeletons, ranging from dinosaur to man, from the gigantic tree ferns to the chipped and polished flints of the Neolithic Age. That the volumes she desired were so expensive it took months of waiting and persistent appeal before they were given her, merely quickened her enthusiasm. Hitherto, the beginnings of history had been dulled by obscurity; Carthage, Phoenicia, had risen from a myth. Palaeontology offered her a firm foundation; it completed history. Besides, were not the stories of many of the discoveries a romance in themselves? She wrote a tale, nine pages long, of a boy of the Palaeolithic period; she copied drawings of mastodon and dinosaur; she wished, secretly, she could have had an iguanodon as a pet.</p>
@@ -472,9 +447,7 @@ BY AMY LOWELL</head>
                </div>
             </div>
             <div id="bryher_develop.021" n="2" type="Book">
-               <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
                <head>BOOK II <lb/> BONDAGE</head>
-               <docDate>1920</docDate>
                <epigraph>
                   <lg type="stanza">
                      <l n="1">"Young? why do you</l>
@@ -486,10 +459,7 @@ BY AMY LOWELL</head>
                   <pb n="76"/>
                </p>
                <div id="bryher_develop.022" n="1" type="Chapter">
-                  <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-                  <head>DEVELOPMENT: BOOK II<lb/> BONDAGE<lb/>
-                  CHAPTER I<lb/> TRAGIC REALITY</head>
-                  <docDate>1920</docDate>
+                  <head>CHAPTER I<lb/> TRAGIC REALITY</head>
                   <p>SATURDAY morning.</p>
                   <p>May, in mockery, painted the skies her most radiant blue, the sun set the bees humming in the ivy, and all along the garden path golden-hearted tulips lifted their exultant scarlet heads--but nothing might comfort her. She walked out silently, though inwardly she raged like a caged animal, shaken with that wild anger which only children feel, suddenly deprived of their freedom for some reason they cannot understand. At nine o'clock she was left at Downwood. It was one of the coldest, bleakest places she had seen, with open windows, worn-out carpets, and a mass of white paint inside, and outside a long weedy lawn and a few flower-pots. Her first impression was the incessant noise. Girls seemed everywhere, all in white blouses and blue skirts, their hair tied back with an enormous bow. Miss Sampson <pb n="78"/>met her, took her into the library, and told her to wait. Books with torn covers lined the room, and Miss Sampson's little black dog lay in the only arm-chair. Nancy walked over to it and waited, instinctively feeling that a dog was better than being alone with a lot of noisy girls. Never, never would she speak to any one of them, for she knew that was the reason she was snatched from her dreams and freedom and sent to school. Dreams! At the bare thought of them blind impotent rage swept over her, the rage that only children feel, utterly helpless, dragged down by gigantic forces they cannot understand. Vaguely she wondered if this was what loneliness meant. Through the window the hills shone in the sun, and all the happy afternoons she had spent up there among the bee orchids came back to her. Why had she never realised her happiness then?</p>
                   <p>Miss Sampson came in and called her; whatever she had to face she would meet as Hannibal would have wished, so, flinging her head back, she followed her into the school hall.</p>
@@ -547,10 +517,7 @@ at school apparently never to mention it. All the girls questioned Nancy at once
                   </p>
                </div>
                <div id="bryher_develop.023" n="2" type="Chapter">
-                  <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-                  <head>DEVELOPMENT: BOOK II<lb/>BONDAGE<lb/>
-                  CHAPTER II<lb/>A CAPTIVE YEAR</head>
-                  <docDate>1920</docDate>
+                  <head>CHAPTER II<lb/>A CAPTIVE YEAR</head>
                   <div id="bryher_develop.024" n="1" type="Section">
                      <head>I</head>
                      <p>WASTE. The dreary voice of a mistress made the French she read a mockery. Eyes, dulled and unquestioning, followed unnecessary explanations on the blackboard; scribbled notes, copied rules, to which they would never refer. Not a girl was idle, joyfully idle; not a mind was interested; not a thought was alert. The class was heavy with an air that numbed all eagerness. Outside the sun shone. No one cared.</p>
@@ -679,9 +646,7 @@ through the summer weather, ride with hands roughened by a sword hilt, actually 
                </div>
             </div>
             <div id="bryher_develop.032" n="3" type="Book">
-               <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
                <head>BOOK III <lb/> TRANSITION</head>
-               <docDate>1920</docDate>
                <epigraph>
                   <lg type="stanza">
                      <l n="1">But beauty is set apart, </l>
@@ -700,10 +665,7 @@ through the summer weather, ride with hands roughened by a sword hilt, actually 
                   <pb n="123"/>
                </p>
                <div id="bryher_develop.033" n="1" type="Chapter">
-                  <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-                  <head>DEVELOPMENT: BOOK III <lb/>TRANSITION<lb/>
-                  CHAPTER 1<lb/>MIRAGE</head>
-                  <docDate>1920</docDate>
+                  <head>CHAPTER 1<lb/>MIRAGE</head>
                   <div id="bryher_develop.034" n="1" type="Section">
                      <head>I</head>
                      <p>NANCY leaned on the rail, watching the horizon, eager for Syracuse. It was too late for almond-blossom, but there was snow on Etna and the South itself to welcome her--the South, after six years.</p>
@@ -796,10 +758,8 @@ through the summer weather, ride with hands roughened by a sword hilt, actually 
                   </div>
                </div>
                <div id="bryher_develop.039" n="2" type="Chapter">
-                  <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-                  <head>DEVELOPMENT: BOOK III <lb/>TRANSITION<lb/>
-                  CHAPTER II<lb/>"VERS LIBRE"</head>
-                  <docDate>1920</docDate>
+                  <head>CHAPTER II<lb/>"VERS LIBRE"</head>
+
                   <p>"I WANT to read Verhaeren." Nancy was finishing a French lesson in a vain attempt to recapture the accent lost at school. To an enthusiastic admirer of the Elizabethans with their richness and their freedom, the perpetual Alexandrine was wearying in its monotony. Quite by chance she had just read an article hinting at some new form, at "vers libre," with vague mention of Verhaeren, de R&#x00E9;gnier and others. "Vers libre!" The very words seemed full of possibilities.</p>
                   <p>Madame exhaled horror, petrified and rigid with it--no dragon could have turned her more successfully to stone. "Young girls cannot read Verhaeren." She shivered as though something secret and terrifying had been revealed to her.</p>
                   <p>"Why not?" inquired Nancy, unabashed. She had not known Madame so careful of her morals before.</p>
@@ -834,10 +794,7 @@ through the summer weather, ride with hands roughened by a sword hilt, actually 
                   </p>
                </div>
                <div id="bryher_develop.040" n="3" type="Chapter">
-                  <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-                  <head>DEVELOPMENT: BOOK III <lb/>TRANSITION<lb/>
-                  CHAPTER III<lb/>BARRIERS</head>
-                  <docDate>1920</docDate>
+                  <head>CHAPTER III<lb/>BARRIERS</head>
                   <p>HER book had come. Nancy turned the pages without excitement, almost without interest. Weary of having her ambitions treated as a passing whim, weary for friendship; she had arranged for the best of her verses to be published at her own expense. They had seemed so beautiful when she sent the manuscript away, but in the months that had elapsed before it returned to her, a bound and printed volume, the vital impulses of "vers libre " had discovered and cut away much of the stagnation, due to Downwood, from her mind. She saw now that her rhythms were but echoes, that her thoughts had no strength. And here was a newspaper praising some of the verses; how dull it was and false.</p>
                   <p>Was this all that life meant? A veritable wresting of expression from a soul not yet articulate; even with printing the conscious-<pb n="144"/>ness of failure. Were the years to fill only with fresh hopes, the making of one book to be succeeded by another book, each inevitable with disillusion? Was it true what people told her, that she sought a reality that had never known existence?</p>
                   <p>She closed the volume. Another hope had gone.</p>
@@ -899,10 +856,8 @@ through the summer weather, ride with hands roughened by a sword hilt, actually 
                   </p>
                </div>
                <div id="bryher_develop.041" n="4" type="Chapter">
-                  <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-                  <head>DEVELOPMENT: BOOK III <lb/>TRANSITION<lb/>
-                  CHAPTER IV<lb/>SALT WATER</head>
-                  <docDate>1920</docDate>
+                  <head>CHAPTER IV<lb/>SALT WATER</head>
+
                   <p>POEMS, breathed by the sun into material form, the Scillies rose from the summer depths of blue and iridescent marble. There was little of earth about the islands; even the hills had the curve of a wave; on the western rocks white sand rifted through the grass. The sleepiest July, stirring amid the clover, could never rid the air of a strong and pleasant saltness; while the ice-plants, breaking in flames of rose between the colder stones, had much about them of the sea anemones. A miniature continent, many-regioned, set, circle-wise, about a space of water ever an intimate reflection of the outer tide, each island was so separate, so individual in atmosphere, that an ocean might have divided one from another rather than an iris pool.</p>
                   <p>Untouched by any spirit of historical antiquity they breathed freshness; as though,<pb n="156"/> a bubble on the lips of the sea, each had been blown to reality that morning; so new in colour it was strange they neither drifted nor took flight, seagull-wise, beyond the horizon, yet full of a primaeval oldness as if, with no intervening dream, Phoenician merchants might return to trade and fill the harbour with their anchored ships.</p>
                   <p>Nancy plunged her shrimping net into the sedge, swayed back and forth by the tide as grass is moved with a windy day. Fern-fringed seaweed, glistening with pods, trailed amber about the edges of the rocks. Water whirled past her, stilled into pools; weed and sea flower, strange in shape and colour, hid the shelving sand floor with their roots. In the slow heavy push of the net she came near to the heart of the sea, glad with the very stinging of its salt. Now a crab was lifted, tearing at the mesh with tough brown claws; now shrimps and jelly-fish silted into the bottom of the bag. Gulls, whiter than sea-froth, drifted towards a wave with pointed wings. Spray broke about the further islands. All was movement, all was life.</p>
@@ -931,10 +886,7 @@ through the summer weather, ride with hands roughened by a sword hilt, actually 
                   </p>
                </div>
                <div id="bryher_develop.042" n="5" type="Chapter">
-                  <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-                  <head>DEVELOPMENT: BOOK III <lb/>TRANSITION<lb/>
-                  CHAPTER V<lb/>THE COLOUR OF WORDS</head>
-                  <docDate>1920</docDate>
+                  <head>CHAPTER V<lb/>THE COLOUR OF WORDS</head>
                   <p>EVER since Nancy could remember, all words, as she heard or read them, appeared to her as colour. It was as natural as breathing, so thoroughly an element of her mind that it was only by accident she discovered, at fifteen, they were printed symbols to the multitude, and to speak of them as gold or crimson merely provoked derision. It was not until nine years later that she found she was simply a colour hearer and that, while it was not common to every one, as she had at first imagined, it was not confined to the few, but was, in one form or another, fairly prevalent.</p>
                   <p>It was impossible to think of the alphabet as colourless. Often she questioned people, "What do words mean to you; how do you see them?" Yet this was useless; despite proof and reasoning her thought compelled her <pb n="164"/>to credit all minds with this sense of colour audition.</p>
                   <p>Natural objects apart, which kept their actual hue, the initial letter gave the word its colour, but there were exceptions to this rule. Contrary to the French examples in the books she read, vowels were indecisive; it was the consonants that made a page as vivid as a sunset. Seven letters were white, C, G, Q, S, T, O, and U; three of the others were black, D, E, and I. W was crimson; H, M, and Y were various shades of gold and primrose. B changed from raspberry to umber, N was the rich tint of a red squirrel, F and J were a deeper brown. Other letters brought blue, as sharp as a broken wave, as dark as Alpine gentian. R was rose; A and P seemed too weak to be definite and varied with different words, though with names of places or people A was occasionally iris - blue or scarlet.</p>
@@ -996,10 +948,7 @@ through the summer weather, ride with hands roughened by a sword hilt, actually 
                   </p>
                </div>
                <div id="bryher_develop.043" n="6" type="Chapter">
-                  <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-                  <head>DEVELOPMENT: BOOK III <lb/>TRANSITION<lb/>
-                  CHAPTER VI<lb/>VISUAL IMAGINATION</head>
-                  <docDate>1920</docDate>
+                  <head>CHAPTER VI<lb/>VISUAL IMAGINATION</head>
                   <p>THERE is existence. There is life. Existence is transient. Life is eternal. Existence begins with birth and ends with death. Life is immortality touched and tasted--the gift of a rare moment. Existence is earth. Life is the root and leaf--flower of dream opening from the calyx of reality.</p>
                   <p>The aim of the artist is expression. The expression of life is art.</p>
                   <p>But no art is possible without freedom; fear and ignorance are the negation of life. To be free is to choose a world and dwell in it uninfluenced by sentiment or circumstance.</p>

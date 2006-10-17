@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n="    The Revelation of Jesus Christ by Anne Wentworth     [a machine readable transcription].  Edited with an introduction by Vickie Taft.">
+         <titleStmt>
             <title>The Revelation of Jesus Christ by Anne Wentworth [a machine readable transcription].  Edited with an introduction by Vickie Taft, an electronic edition.</title>
             <author><name type="person" reg="Wentworth, Anne">Anne Wentworth</name></author>
             <respStmt>
@@ -188,11 +188,9 @@
             <p>
                <hi rend="italic">Anno 1677.</hi>
                <lb/>Revelation I.  Sept. 6.<hi rend="italic">A Cry to the City of</hi> London <lb/>Prepare, to see that, which never was, nor never will be again;  prepare, to meet the Lord.  Have a care of despising, censuring and false speaking, for no Lyar shall enter into the Kingdom of God<ref target="went.013.n5">5</ref>.    Some are guilty of so much, that they cannot enter, except God give them repentance.  Make Haste<ref target="went.013.n6">6</ref>! fly to the Ark<ref target="went.013.n7">7</ref>!   outside-profession Fig-leaves will not serve<ref target="went.013.n8">8</ref>.    Look well to your selves;  take no thought, nor be concerned for me, but let me alone.  <hi rend="italic">England</hi> had never such cause to weep!  <hi rend="italic">England</hi> is under a great woe!  O <hi rend="italic">England</hi>, the anger of the Lord is turned against thee!  <hi rend="italic">England</hi> is guilty of that, which hath wrought its doom!  A most doleful stroke is a coming, and no way to escape it.  Perillous times are at hand.  Satan is upon his last legs.  Proud Pharisees and Hypocrites cannot stand<ref target="went.013.n9">9</ref>.    Foolish Virgins will appear and be known;  and the door will be shut against them<ref target="went.013.n10">10</ref>.    Hearken to this all you, that are in forms of Religion;  for it is not form, but power, that will secure you from the wrath of God in the evil day.</p>
-            <note id="went.013.n3" n="3" anchored="yes">
-               <hi rend="BOLD">3</hi>
+            <note id="went.013.n3" n="3">
             </note>
-            <note id="went.013.n4" n="4" anchored="yes">
-               <hi rend="BOLD">4</hi>
+            <note id="went.013.n4" n="4">
             </note>
             <note id="went.013.n5" n="5">In <hi rend="italic">Revelation</hi> 21:8, liars are included among those who will be punished in Hell.</note>
             <note id="went.013.n6" n="6">This is a common Biblical phrase.  See, for example, <hi rend="italic">Psalm</hi> 40:13 and <hi rend="italic">Luke</hi> 19:5.</note>
@@ -213,107 +211,83 @@ Woe to <hi rend="italic">England</hi>!  for she will now smart,<lb/>Who wounded 
                <ref target="went.016.n19">19</ref>?<lb/>  Will you not see, how it is now the dead time of the night<ref target="went.016.n20">20</ref> 
                <lb/> Will you not see the Lord come in the Clouds<ref target="went.016.n21">21</ref>[?]<ref target="went.016.n22">22</ref>   you fright? <lb/> If you will neither hear, nor see, how can I help it then?<lb/>What need I say any more unto you, that are wise men?<lb/>If you will not hear the words of the Lord,<lb/>It is sure, my words you will not regard;<lb/>But slight all, as heretofore you have done,<lb/>So now I leave all to God, and let you alone,<lb/>For him and you to fight out the Battel<ref target="went.016.n23">23</ref> begun,<lb/>And he will not give out, or go back until he have done.</p>
             <p>
-               <note id="went.016.n11" n="11" anchored="yes">
-                  <hi rend="BOLD">11</hi> Though "Revelation II" is placed under revelations written in 1677, it is more likely that it was written in 1678 because all of the other revelations except this one appear in chronological order.  The printer may have simply erred in placing "Anno 1678" after, rather than before, "Revelation II."</note>
+               <note id="went.016.n11" n="11">Though "Revelation II" is placed under revelations written in 1677, it is more likely that it was written in 1678 because all of the other revelations except this one appear in chronological order.  The printer may have simply erred in placing "Anno 1678" after, rather than before, "Revelation II."</note>
             </p>
             <p>
-               <note id="went.016.n12" n="12" anchored="yes">
-                  <hi rend="BOLD">12</hi> A handwritten insertion by an unknown source at the end of the introductory prose to "Revelation II" which indicates a missing sentence where the text was cropped at the top of page 2, A3 verso.</note>
+               <note id="went.016.n12" n="12">A handwritten insertion by an unknown source at the end of the introductory prose to "Revelation II" which indicates a missing sentence where the text was cropped at the top of page 2, A3 verso.</note>
             </p>
             <p>
-               <note id="went.016.n13" n="13" anchored="yes">
-                  <hi rend="BOLD">13</hi> Compositor's error.  "England" should be in the possessive case.</note> 
+               <note id="went.016.n13" n="13">Compositor's error.  "England" should be in the possessive case.</note> 
             </p>
             <p>
-               <note id="went.016.n14" n="14" anchored="yes">
-                  <hi rend="BOLD">14</hi> According to the <hi rend="italic">OED</hi>, "passing-bell" has a figurative definition of "that which forebodes or signalizes the death or passing away of anything."  Wentworth uses the phrase "England['s] passing-bell to toll" as a metaphor for England's destruction during the Apocalypse.</note> 
+               <note id="went.016.n14" n="14">According to the <hi rend="italic">OED</hi>, "passing-bell" has a figurative definition of "that which forebodes or signalizes the death or passing away of anything."  Wentworth uses the phrase "England['s] passing-bell to toll" as a metaphor for England's destruction during the Apocalypse.</note> 
             </p>
             <p>
-               <note id="went.016.n15" n="15" anchored="yes">
-                  <hi rend="BOLD">15</hi> This may be a reference to <hi rend="italic">Matthew</hi> 7:23, "And then I will profess unto them, I never knew you:  depart from me, ye that work iniquity," to <hi rend="italic">Matthew</hi> 25:41, "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels," or to <hi rend="italic">Luke</hi> 13:27, "But he shall say, I tell you, I know you not whence ye are; depart from me, all ye workers of iniquity."   Wentworth again emphasizes the fact that many people only practice the outward forms of religion without follow ing the laws of God, and that these people will be damned.</note> 
+               <note id="went.016.n15" n="15">This may be a reference to <hi rend="italic">Matthew</hi> 7:23, "And then I will profess unto them, I never knew you:  depart from me, ye that work iniquity," to <hi rend="italic">Matthew</hi> 25:41, "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels," or to <hi rend="italic">Luke</hi> 13:27, "But he shall say, I tell you, I know you not whence ye are; depart from me, all ye workers of iniquity."   Wentworth again emphasizes the fact that many people only practice the outward forms of religion without follow ing the laws of God, and that these people will be damned.</note> 
             </p>
             <p>
-               <note id="went.016.n16" n="16" anchored="yes">
-                  <hi rend="BOLD">16</hi>  In <hi rend="italic">Revelation</hi> 21:8, liars are included among those who will be punished in Hell.</note> 
+               <note id="went.016.n16" n="16">In <hi rend="italic">Revelation</hi> 21:8, liars are included among those who will be punished in Hell.</note> 
             </p>
             <p>
-               <note id="went.016.n17" n="17" anchored="yes">
-                  <hi rend="BOLD">17</hi> The story of the wise and foolish virgins appears in <hi rend="italic">Matthew</hi> 25.  The wise virgins take oil with which to fill their lamps when they wait to "wed" Christ and the foolish virgins do not.  When Christ calls out to the virgins at midnight to come to Him, the foolish virgins have to go buy oil for their lamps whereas the wise virgins may proceed directly to the marriage feast.  To the foolish virgins who arrive late, Christ says, "I do not know you" and He shuts the doors of the feast against them (<hi rend="italic">Matthew</hi> 25:12).  Wentworth, then, uses the story of wise and foolish virgins to underscore the importance of preparing for the Apocalypse.  A similar allusion to the story of the wise and foolish virgins occurs in Wentworth's <hi rend="italic">A true Account</hi>:  "[do not] deceive your own selves by thinking either moral honesty, or formality, or any thing of our own righteousness, or going as far as the five foolish Virgins, just to Heavens Gate, and yet could not enter into eternal bliss" (14, B4 verso).  The prophet Lady Eleanor Douglas also employs an allusion to this Biblical story to emphasize the importance of preparing for God's coming when she tells the people of England to keep "oyl in their lamps, or watchful."   See Lady Eleanor Douglas, <hi rend="italic">Apocalyps</hi>, Chapter 11 (n.p., 164?) 8, A4.verso.</note> 
+               <note id="went.016.n17" n="17">The story of the wise and foolish virgins appears in <hi rend="italic">Matthew</hi> 25.  The wise virgins take oil with which to fill their lamps when they wait to "wed" Christ and the foolish virgins do not.  When Christ calls out to the virgins at midnight to come to Him, the foolish virgins have to go buy oil for their lamps whereas the wise virgins may proceed directly to the marriage feast.  To the foolish virgins who arrive late, Christ says, "I do not know you" and He shuts the doors of the feast against them (<hi rend="italic">Matthew</hi> 25:12).  Wentworth, then, uses the story of wise and foolish virgins to underscore the importance of preparing for the Apocalypse.  A similar allusion to the story of the wise and foolish virgins occurs in Wentworth's <hi rend="italic">A true Account</hi>:  "[do not] deceive your own selves by thinking either moral honesty, or formality, or any thing of our own righteousness, or going as far as the five foolish Virgins, just to Heavens Gate, and yet could not enter into eternal bliss" (14, B4 verso).  The prophet Lady Eleanor Douglas also employs an allusion to this Biblical story to emphasize the importance of preparing for God's coming when she tells the people of England to keep "oyl in their lamps, or watchful."   See Lady Eleanor Douglas, <hi rend="italic">Apocalyps</hi>, Chapter 11 (n.p., 164?) 8, A4.verso.</note> 
             </p>
             <p>
-               <note id="went.016.n18" n="18" anchored="yes">
-                  <hi rend="BOLD">18</hi> Throughout <hi rend="italic">Revelation</hi>, thunder accompanies the apocalyptic actions of God.  According to the editors of the<hi rend="italic"> Dictionary of the Bible</hi>, thunder "is the expression of His resistless power...and of His inexorable vengeance" throughout the Bible.  See Hastings, ed., <hi rend="italic">The Dictionary of the Bible</hi>, 999.</note> 
+               <note id="went.016.n18" n="18">Throughout <hi rend="italic">Revelation</hi>, thunder accompanies the apocalyptic actions of God.  According to the editors of the<hi rend="italic"> Dictionary of the Bible</hi>, thunder "is the expression of His resistless power...and of His inexorable vengeance" throughout the Bible.  See Hastings, ed., <hi rend="italic">The Dictionary of the Bible</hi>, 999.</note> 
             </p>
             <p>
-               <note id="went.016.n19" n="19" anchored="yes">
-                  <hi rend="BOLD">19</hi> In the Bible, Zion refers both to the fortress of Jerusalem and to Jerusalem as a whole.  Wentworth uses the term to refer to the metaphorical "church" of true believers to which she belongs.  See Hastings,<hi rend="italic"> Dictionary of the Bible</hi>, 1058.</note>
+               <note id="went.016.n19" n="19">In the Bible, Zion refers both to the fortress of Jerusalem and to Jerusalem as a whole.  Wentworth uses the term to refer to the metaphorical "church" of true believers to which she belongs.  See Hastings,<hi rend="italic"> Dictionary of the Bible</hi>, 1058.</note>
             </p>
             <p>
-               <note id="went.016.n20" n="20" anchored="yes">
-                  <hi rend="BOLD">20</hi> This is a likely reference to <hi rend="italic">Mark</hi> 13:35-36:  "Watch ye therefore:  for ye know not when the master of the house cometh [Christ], at even, or at midnight, or at the cockcrowing, or in the morning:  lest coming suddenly he find you sleeping" (brackets added).</note>
+               <note id="went.016.n20" n="20">This is a likely reference to <hi rend="italic">Mark</hi> 13:35-36:  "Watch ye therefore:  for ye know not when the master of the house cometh [Christ], at even, or at midnight, or at the cockcrowing, or in the morning:  lest coming suddenly he find you sleeping" (brackets added).</note>
             </p>
             <p>
-               <note id="went.016.n21" n="21" anchored="yes">
-                  <hi rend="BOLD">21</hi> An anonymous source has inserted a handwritten, inscrutable symbol between "Clouds" and "you."</note>
+               <note id="went.016.n21" n="21">An anonymous source has inserted a handwritten, inscrutable symbol between "Clouds" and "you."</note>
             </p>
             <p>
-               <note id="went.016.n22" n="22" anchored="yes">
-                  <hi rend="BOLD">22</hi> In <hi rend="italic">Revelation</hi> 1:07, John says that God will come with the clouds.  In <hi rend="italic">Revelation</hi> 14:14-16, the Son of Man makes his appearance during the Apocalypse while sitting on a cloud.</note>
+               <note id="went.016.n22" n="22">In <hi rend="italic">Revelation</hi> 1:07, John says that God will come with the clouds.  In <hi rend="italic">Revelation</hi> 14:14-16, the Son of Man makes his appearance during the Apocalypse while sitting on a cloud.</note>
             </p>
             <p>
-               <note id="went.016.n23" n="23" anchored="yes">
-                  <hi rend="BOLD">23</hi> This is a reference to the great battle between God's and Satan's forces during the Apocalypse which John prophesies in <hi rend="italic">Revelation</hi> 19:19.</note>
+               <note id="went.016.n23" n="23">This is a reference to the great battle between God's and Satan's forces during the Apocalypse which John prophesies in <hi rend="italic">Revelation</hi> 19:19.</note>
             </p>
          </div>
          <div id="went.017" type="Section">
             <head>
                <hi rend="italic"> Anno</hi> 1678.</head>
             <p> 
-               <hi rend="BOLD">Revelation III.  April 6.</hi>
+               <hi rend="bold">Revelation III.  April 6.</hi>
                <lb/>  The Lord shewed me how he did hate the abominations of the people, in what they had done, in loving Man, more than God:  And said,<hi rend="italic"> The words and ways of the people are loathsome in my sight, and do wound and pierce me. </hi> And then he spake thus in verse, causing me to write down.<lb/> 
 The <hi rend="italic">English</hi> people they have a God,<lb/>And who is that?  it is but a man,<lb/>They love above God;  so he will whip by his Rod,<lb/>And now to prevent him no one can.<lb/>If any reason would but have satisfied them,<lb/>If they had not gone so long in their shame,<lb/>Then some hopes there would have been,<lb/>That so great Judgment would not been seen,<lb/>As now will come swiftly upon the Land,<lb/>Poured down by the Lords own hand.<lb/>For when a People is given up for destruction,<lb/>They must be blind and hardened in their corruption.<lb/>And when the Lord bids his Angels kill and slay<ref target="went.017.n24">24</ref>,<lb/>Then all the World his hand cannot stay.<lb/>And sinners, they will not hear, until he do come,<lb/>But Saints, do ye hear, for he for you will make room.<lb/>To live, and rejoyce, and praise his most holy Name,<lb/>Who by his own Bloud wrought for you the same.<lb/>But the Hypocrites<ref target="went.017.n25">25</ref> in <hi rend="italic">Zion</hi> they will all mourn,<lb/>All the wicked, proud in heart, that did so scorn,<lb/>When they see the Battel<ref target="went.017.n26">26</ref> of the Lord to be fought, <lb/> And how it was the Lord alone, that me taught,<lb/>And in his strength I was by Grace enabled to stand,<lb/>Against all my Enemies, with his Battel-ax in my hand<ref target="went.017.n27">27</ref>, <lb/>To wound, kill, amaze, put to flight, and cut them down <lb/>And when they are in their Graves, I shall wear a Crown<ref target="went.017.n28">28</ref>. <lb/> O this God!  so great in power!  wonderful is his Name!<lb/>Who will exalt those of low degree, &#x0026; give his Enemies shame,<lb/>When the time, to advance poor <hi rend="italic">Mordecai</hi>, was come,<lb/>Then was the time, for to hang up proud <hi rend="italic">Haman</hi>
                <ref target="went.017.n29">29</ref>. <lb/> Come all Saints, come sing and rejoyce with me,<lb/>At <hi rend="italic">Babylons</hi>
                <ref target="went.017.n30">30</ref> fall, and the glorious days, which ye shall see:<lb/>When the great Battel<ref target="went.017.n31">31</ref> is fought, the day past, and all done,<lb/>Then all Honour, Glory and Praise to God must be sung.<lb/>Rejoyce, ye Heavens and Prophets, for God avengeth your Cause<ref target="went.017.n32">32</ref>, <lb/> That <hi rend="italic">Babylon</hi> would have deprived you of by her unjust Laws.<lb/>This is a great Mysterie, who now can this read?<lb/>And know it rightly, and in so narrow a path doth tread?<lb/>Who is able to bear, to have whole <hi rend="italic">Babylon</hi> come down?<lb/>Who can endure to hear, that they are in <hi rend="italic">Babylon</hi>?<lb/>Who doth think, that in <hi rend="italic">England</hi> is the painted Whore<ref target="went.017.n33">33</ref>?<lb/>  Who did think, they should ever hear of me any more?<lb/>When they sit as Queen, and say, they shall have no sorrow,<lb/>I am raised up again, and freed from all their horror.<lb/>When they thought, to put me in the Grave, &#x0026; have me slain,<lb/>I am raised up more strong, and brought to Life again. </p>
             <p>
-               <note id="went.017.n24" n="24" anchored="yes">
-                  <hi rend="BOLD">24</hi> 
-                  <hi rend="italic">Revelation</hi> 9:15:  "And the four angels were loosed, which were prepared for an hour, and a day, and a month, and a year, for to <hi rend="BOLD">slay</hi> the third part of men."</note>
+               <note id="went.017.n24" n="24"><hi rend="italic">Revelation</hi> 9:15:  "And the four angels were loosed, which were prepared for an hour, and a day, and a month, and a year, for to <hi rend="bold">slay</hi> the third part of men."</note>
             </p>
             <p>
-               <note id="went.017.n25" n="25" anchored="yes">
-                  <hi rend="BOLD">25</hi> Throughout <hi rend="italic">Matthew</hi> 23, Jesus says,"Woe to you, scribes and Pharisees, hypocrites!"  As the editors of the <hi rend="italic">Dictionary of the Bible </hi>indicate, both the Pharisees and the Hypocrites were denounced as being outward followers of religious forms who lacked inner religious faith:  "The Pharisees also drew the antagonism of Jesus and His disciples...they were branded as bigoted formalists, hair-splitting legalists, and crafty hypocrites, devoid of charity and spirituality" (761); "Thus all who play the part of religion, whether consciously or unconsciously, without being religious, are hypocrites" (409).  Wentworth, then, uses the terms "Pharisees" and "hypocrites" as metaphors for Englishmen and Englishwomen who lack faith even as they practice religion.  Thus, this metaphor introduces the theme of the final statement of "Revelation I" that "it is not form, but power, that will secure you from the wrath of God in the evil day."  See James Hastings, ed.,<hi rend="italic"> Dictionary of the Bible </hi>(New York:  Charles Scribner's Sons, 1963) 409 &#x0026; 761.</note>
+               <note id="went.017.n25" n="25">Throughout <hi rend="italic">Matthew</hi> 23, Jesus says,"Woe to you, scribes and Pharisees, hypocrites!"  As the editors of the <hi rend="italic">Dictionary of the Bible </hi>indicate, both the Pharisees and the Hypocrites were denounced as being outward followers of religious forms who lacked inner religious faith:  "The Pharisees also drew the antagonism of Jesus and His disciples...they were branded as bigoted formalists, hair-splitting legalists, and crafty hypocrites, devoid of charity and spirituality" (761); "Thus all who play the part of religion, whether consciously or unconsciously, without being religious, are hypocrites" (409).  Wentworth, then, uses the terms "Pharisees" and "hypocrites" as metaphors for Englishmen and Englishwomen who lack faith even as they practice religion.  Thus, this metaphor introduces the theme of the final statement of "Revelation I" that "it is not form, but power, that will secure you from the wrath of God in the evil day."  See James Hastings, ed.,<hi rend="italic"> Dictionary of the Bible </hi>(New York:  Charles Scribner's Sons, 1963) 409 &#x0026; 761.</note>
             </p>
             <p>
-               <note id="went.017.n26" n="26" anchored="yes">
-                  <hi rend="BOLD">26</hi> This is a reference to the great battle between God's and Satan's forces during the Apocalypse which John prophesies in <hi rend="italic">Revelation</hi> 19:19.</note> 
+               <note id="went.017.n26" n="26">This is a reference to the great battle between God's and Satan's forces during the Apocalypse which John prophesies in <hi rend="italic">Revelation</hi> 19:19.</note> 
             </p>
             <p>
-               <note id="went.017.n27" n="27" anchored="yes">
-                  <hi rend="BOLD">27</hi> In <hi rend="italic">Jeremiah</hi> 51:20, the Lord says:  "Thou art my battle-axe and weapons of war:  for with thee will I break in pieces the nations."   According to <hi rend="italic">The Anchor Bible:  Jeremiah</hi>, "thou" in this passage refers to Babylon, and in verses 24-26 of this chapter, God indicates that Babylon, though previously Yahweh's "agent of judgment," will "herself be judged."   Wentworth envisions the battle-axe falling on England rather than being wielded by England in this passage.  See John Bright, ed., <hi rend="italic">The Anchor Bible:  Jeremiah</hi> (Garden City, NY:  Doubleday &#x0026; Co., Inc., 1965) 356.</note>
+               <note id="went.017.n27" n="27">In <hi rend="italic">Jeremiah</hi> 51:20, the Lord says:  "Thou art my battle-axe and weapons of war:  for with thee will I break in pieces the nations."   According to <hi rend="italic">The Anchor Bible:  Jeremiah</hi>, "thou" in this passage refers to Babylon, and in verses 24-26 of this chapter, God indicates that Babylon, though previously Yahweh's "agent of judgment," will "herself be judged."   Wentworth envisions the battle-axe falling on England rather than being wielded by England in this passage.  See John Bright, ed., <hi rend="italic">The Anchor Bible:  Jeremiah</hi> (Garden City, NY:  Doubleday &#x0026; Co., Inc., 1965) 356.</note>
             </p>
             <p>
-               <note id="went.017.n28" n="28" anchored="yes">
-                  <hi rend="BOLD">28</hi> Elaine Hobby glosses the image of Wentworth wielding a battle ax and destroying her enemies as an "Amazonian" one through which Wentworth envisions herself as empowered by God.  See Hobby, <hi rend="italic">The Virtue of Necessity</hi>, 52.  However, Wentworth not only seems to envision herself as becoming empowered by God here, but describes herself as actually becoming part of the Godhead; after all, Wentworth imagines herself as wielding "his" (God's) battle ax  and wearing "his"   (God's/Christ's) crown (Christ wears a crown in <hi rend="italic">Revelation</hi> 14:14 when he arrives on earth to purge it of evil, which is exactly what Wentworth fantasizes herself as doing).  Wentworth, then, assumes God's tool of vengeance and Christ's crown of victory, thereby merging her own identity with that of the Father and Son.   In effect, Wentworth deifies herself here. </note>
+               <note id="went.017.n28" n="28">Elaine Hobby glosses the image of Wentworth wielding a battle ax and destroying her enemies as an "Amazonian" one through which Wentworth envisions herself as empowered by God.  See Hobby, <hi rend="italic">The Virtue of Necessity</hi>, 52.  However, Wentworth not only seems to envision herself as becoming empowered by God here, but describes herself as actually becoming part of the Godhead; after all, Wentworth imagines herself as wielding "his" (God's) battle ax  and wearing "his"   (God's/Christ's) crown (Christ wears a crown in <hi rend="italic">Revelation</hi> 14:14 when he arrives on earth to purge it of evil, which is exactly what Wentworth fantasizes herself as doing).  Wentworth, then, assumes God's tool of vengeance and Christ's crown of victory, thereby merging her own identity with that of the Father and Son.   In effect, Wentworth deifies herself here. </note>
             </p>
             <p>
-               <note id="went.017.n29" n="29" anchored="yes">
-                  <hi rend="BOLD">29</hi> Wentworth associates herself with Mordecai from the <hi rend="italic">Book of Esther</hi>.  Haman, as "the enemy of the Jews" (<hi rend="italic">Esther</hi> 3:10), attempts to destroy Mordecai and the Jews when Mordecai will not prostrate himself before Haman's power.  Due to Esther's intervention and King Ahasue'rus gratitude to Mordecai for revealing a plot against the King's life, Mordecai is saved and Haman is hanged on the same gallows constructed for Mordecai's execution (<hi rend="italic">Esther</hi> 7:10).  By comparing her own situation with that of Mordecai, Wentworth posits herself as a potential victim whose righteousness is eventually rewarded with salvation and whose enemies are punished.  Wentworth employs the story of Mordecai and Haman similarly in her works <hi rend="italic">A true Account</hi> (12, B3 verso) and <hi rend="italic">A Vindication</hi>  (10, B1 verso). </note>
+               <note id="went.017.n29" n="29">Wentworth associates herself with Mordecai from the <hi rend="italic">Book of Esther</hi>.  Haman, as "the enemy of the Jews" (<hi rend="italic">Esther</hi> 3:10), attempts to destroy Mordecai and the Jews when Mordecai will not prostrate himself before Haman's power.  Due to Esther's intervention and King Ahasue'rus gratitude to Mordecai for revealing a plot against the King's life, Mordecai is saved and Haman is hanged on the same gallows constructed for Mordecai's execution (<hi rend="italic">Esther</hi> 7:10).  By comparing her own situation with that of Mordecai, Wentworth posits herself as a potential victim whose righteousness is eventually rewarded with salvation and whose enemies are punished.  Wentworth employs the story of Mordecai and Haman similarly in her works <hi rend="italic">A true Account</hi> (12, B3 verso) and <hi rend="italic">A Vindication</hi>  (10, B1 verso). </note>
             </p>
             <p>
-               <note id="went.017.n30" n="30" anchored="yes">
-                  <hi rend="BOLD">30</hi> Babylon suffers God's destructive wrath in <hi rend="italic">Revelation</hi>.  Wentworth applies the term to England because it is populated with disbelievers and filled with corruption.</note>
+               <note id="went.017.n30" n="30">Babylon suffers God's destructive wrath in <hi rend="italic">Revelation</hi>.  Wentworth applies the term to England because it is populated with disbelievers and filled with corruption.</note>
             </p>
             <p>
-               <note id="went.017.n31" n="31" anchored="yes">
-                  <hi rend="BOLD">31</hi> This is a reference to the great battle between God's and Satan's forces during the Apocalypse which John prophesies in <hi rend="italic">Revelation</hi> 19:19.</note>
+               <note id="went.017.n31" n="31">This is a reference to the great battle between God's and Satan's forces during the Apocalypse which John prophesies in <hi rend="italic">Revelation</hi> 19:19.</note>
             </p>
             <p>
-               <note id="went.017.n32" n="32" anchored="yes">
-                  <hi rend="BOLD">32</hi> In <hi rend="italic">Revelation</hi> 16:5-6, an angel commends the Lord for punishing those who have persecuted the saints and prophets:   "Thou art righteous, O Lord, which art, and wast, and shalt be, because thou hast judged thus.  For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy."  Wentworth implies that she is a persecuted prophet and her mistreatment will be avenged upon her enemies during the Apocalypse as well.</note>
+               <note id="went.017.n32" n="32">In <hi rend="italic">Revelation</hi> 16:5-6, an angel commends the Lord for punishing those who have persecuted the saints and prophets:   "Thou art righteous, O Lord, which art, and wast, and shalt be, because thou hast judged thus.  For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy."  Wentworth implies that she is a persecuted prophet and her mistreatment will be avenged upon her enemies during the Apocalypse as well.</note>
             </p>
             <p>
-               <note id="went.017.n33" n="33" anchored="yes">
-                  <hi rend="BOLD">33</hi>  This is a reference to the Whore of Babylon from <hi rend="italic">Revelation</hi> 17.</note>
+               <note id="went.017.n33" n="33">This is a reference to the Whore of Babylon from <hi rend="italic">Revelation</hi> 17.</note>
             </p>
          </div>
          <div id="went.018" type="Section">
@@ -333,29 +307,23 @@ When Judgments are come to the door,<lb/>
                <hi rend="italic">England</hi> also shall lose her brave men.<lb/>
                <hi rend="italic">Hol<ref target="went.018.n38">38</ref> and, France, Italy, </hi>and also <hi rend="italic">Spain</hi>,<lb/>By all our loss they will not gain.<lb/>All Nations will suffer round about,<lb/>For the Whore hath spread her self throughout.<lb/>Where shall Gods Children now then hide,<lb/>When God is so very angry, and doth chide?<lb/>No safety upon Earth, but to get within the Ark,<lb/>In the Covenant of Grace, and from God have a mark.<lb/>Make ready, get Oyl to your Lamp<ref target="went.018.n39">39</ref>,  <lb/>That God may hide you in his Camp.Give up to God our all, and wholly in him let us trust;<lb/>Fear not Men, nor Devils, but yield to God we must,</p>
             <p>
-               <note id="went.018.n34" n="34" anchored="yes">
-                  <hi rend="BOLD">34</hi> God sets fire to Babylon in <hi rend="italic">Revelation</hi> 8:7:  "The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth:  and the third part of the trees was <hi rend="BOLD">burnt</hi> up, and all green grass was <hi rend="BOLD">burnt</hi> up."</note>
+               <note id="went.018.n34" n="34">God sets fire to Babylon in <hi rend="italic">Revelation</hi> 8:7:  "The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth:  and the third part of the trees was <hi rend="bold">burnt</hi> up, and all green grass was <hi rend="bold">burnt</hi> up."</note>
             </p>
             <p>
-               <note id="went.018.n35" n="35" anchored="yes">
-                  <hi rend="BOLD">35</hi> This is a reference to the plagues unleashed by God to torment sinners during the Apocalypse (<hi rend="italic">Revelation</hi> 9:20; 11:6).</note>
+               <note id="went.018.n35" n="35">This is a reference to the plagues unleashed by God to torment sinners during the Apocalypse (<hi rend="italic">Revelation</hi> 9:20; 11:6).</note>
             </p>
             <p>
-               <note id="went.018.n36" n="36" anchored="yes">
-                  <hi rend="BOLD">36</hi> 
-                  <hi rend="italic">Malachi</hi> 4:1:  "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble:  and the day that cometh shall burn them up, saith the Lord of hosts, that it shall leave them neither<hi rend="BOLD"> root nor branch</hi>."  For other instances where Wentworth uses this phrase to describe the complete destruction of her enemies, see also "Revelation XVII" in this text and <hi rend="italic">A true Account</hi>, 19, C3.</note>
+               <note id="went.018.n36" n="36">
+                  <hi rend="italic">Malachi</hi> 4:1:  "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble:  and the day that cometh shall burn them up, saith the Lord of hosts, that it shall leave them neither<hi rend="bold"> root nor branch</hi>."  For other instances where Wentworth uses this phrase to describe the complete destruction of her enemies, see also "Revelation XVII" in this text and <hi rend="italic">A true Account</hi>, 19, C3.</note>
             </p>
             <p>
-               <note id="went.018.n37" n="37" anchored="yes">
-                  <hi rend="BOLD">37</hi> It is likely that Wentworth alludes to the 1679 Covenanters Rebellion here.  Those Scottish Presbyterians who refused to worship within the Church of Scotland after Anglican elements were introduced into it openly rebelled against the government in June 1679.  They were defeated at Bothwell Bridge.  See Ian Donnachie and George Hewitt,<hi rend="italic"> A Companion to Scottish History From the Reformation to the Present</hi> (London:  B.T. Batsford, Ltd., 1989) 51-52.</note>
+               <note id="went.018.n37" n="37">It is likely that Wentworth alludes to the 1679 Covenanters Rebellion here.  Those Scottish Presbyterians who refused to worship within the Church of Scotland after Anglican elements were introduced into it openly rebelled against the government in June 1679.  They were defeated at Bothwell Bridge.  See Ian Donnachie and George Hewitt,<hi rend="italic"> A Companion to Scottish History From the Reformation to the Present</hi> (London:  B.T. Batsford, Ltd., 1989) 51-52.</note>
             </p>
             <p>
-               <note id="went.018.n38" n="38" anchored="yes">
-                  <hi rend="BOLD">38</hi> Wentworth's personal abbreviation for "Holland."  "Hol" does not appear in the <hi rend="italic">OED</hi>.</note>
+               <note id="went.018.n38" n="38">Wentworth's personal abbreviation for "Holland."  "Hol" does not appear in the <hi rend="italic">OED</hi>.</note>
             </p>
             <p>
-               <note id="went.018.n39" n="39" anchored="yes">
-                  <hi rend="BOLD">39</hi> The story of the wise and foolish virgins appears in <hi rend="italic">Matthew</hi> 25.  The wise virgins take oil with which to fill their lamps when they wait to "wed" Christ and the foolish virgins do not.  When Christ calls out to the virgins at midnight to come to Him, the foolish virgins have to go buy oil for their lamps whereas the wise virgins may proceed directly to the marriage feast.  To the foolish virgins who arrive late, Christ says, "I do not know you" and He shuts the doors of the feast against them (<hi rend="italic">Matthew</hi> 25:12).  Wentworth, then, uses the story of wise and foolish virgins to underscore the importance of preparing for the Apocalypse.  A similar allusion to the story of the wise and foolish virgins occurs in Wentworth's <hi rend="italic">A true Account</hi>:  "[do not] deceive your own selves by thinking either moral honesty, or formality, or any thing of our own righteousness, or going as far as the five foolish Virgins, just to Heavens Gate, and yet could not enter into eternal bliss" (14, B4 verso).  The prophet Lady Eleanor Douglas also employs an allusion to this Biblical story to emphasize the importance of preparing for God's coming when she tells the people of England to keep "oyl in their lamps, or watchful."   See Lady Eleanor Douglas, <hi rend="italic">Apocalyps</hi>, Chapter 11 (n.p., 164?) 8, A4.verso.</note>
+               <note id="went.018.n39" n="39">The story of the wise and foolish virgins appears in <hi rend="italic">Matthew</hi> 25.  The wise virgins take oil with which to fill their lamps when they wait to "wed" Christ and the foolish virgins do not.  When Christ calls out to the virgins at midnight to come to Him, the foolish virgins have to go buy oil for their lamps whereas the wise virgins may proceed directly to the marriage feast.  To the foolish virgins who arrive late, Christ says, "I do not know you" and He shuts the doors of the feast against them (<hi rend="italic">Matthew</hi> 25:12).  Wentworth, then, uses the story of wise and foolish virgins to underscore the importance of preparing for the Apocalypse.  A similar allusion to the story of the wise and foolish virgins occurs in Wentworth's <hi rend="italic">A true Account</hi>:  "[do not] deceive your own selves by thinking either moral honesty, or formality, or any thing of our own righteousness, or going as far as the five foolish Virgins, just to Heavens Gate, and yet could not enter into eternal bliss" (14, B4 verso).  The prophet Lady Eleanor Douglas also employs an allusion to this Biblical story to emphasize the importance of preparing for God's coming when she tells the people of England to keep "oyl in their lamps, or watchful."   See Lady Eleanor Douglas, <hi rend="italic">Apocalyps</hi>, Chapter 11 (n.p., 164?) 8, A4.verso.</note>
             </p>
          </div>
          <div id="went.019" type="Section">
@@ -365,8 +333,7 @@ When Judgments are come to the door,<lb/>
                <hi rend="italic">When I had writ this, then the Lord said further concerning the King,</hi> 
 Woe to <hi rend="italic">England</hi>, when the Kings Life is gone!All may pray, that no hurt to him may be done. Now the Plot<ref target="went.019.n40">40</ref> is found out, all yet is not past,  For it's well, if that his Life do escape at last. He now warning hath, if he will notice of it take, We may pray hard for his Life, for <hi rend="italic">Englands</hi> sake!</p>
             <p>
-               <note id="went.019.n40" n="40" anchored="yes">
-                  <hi rend="BOLD">40</hi> Wentworth refers to the Popish Plot of 1678-79 which was fabricated by a Catholic named Titus Oates.   Oates falsely claimed that there was a Catholic conspiracy to kill King Charles II, massacre Protestants, and reinstitute Catholicism with the help of a French army.  Oates' claims were believed throughout England, the Protestant populous panicked, and many prominent Catholics were executed.  It wasn't until 1680 that the English courts began to disregard accusations made against Catholics by false informants.  Wentworth illustrates her own anxiety over the existence of this plot in this revelation.  See F.J.C.  Hearnshaw, et.al., eds., <hi rend="italic">The Dictionary of English History</hi> (London:  Cassell and Company, Ltd., 1928) 859-60.</note>
+               <note id="went.019.n40" n="40">Wentworth refers to the Popish Plot of 1678-79 which was fabricated by a Catholic named Titus Oates.   Oates falsely claimed that there was a Catholic conspiracy to kill King Charles II, massacre Protestants, and reinstitute Catholicism with the help of a French army.  Oates' claims were believed throughout England, the Protestant populous panicked, and many prominent Catholics were executed.  It wasn't until 1680 that the English courts began to disregard accusations made against Catholics by false informants.  Wentworth illustrates her own anxiety over the existence of this plot in this revelation.  See F.J.C.  Hearnshaw, et.al., eds., <hi rend="italic">The Dictionary of English History</hi> (London:  Cassell and Company, Ltd., 1928) 859-60.</note>
             </p>
          </div>
          <div id="went.020" type="Section">
@@ -379,16 +346,13 @@ Revelation VI. <hi rend="italic"> March 8.</hi>
                <hi rend="italic">I was not at all deceived about New-years-day<ref target="went.020.n41">41</ref>, </hi>
                <lb/>For all the Lord revealed to me, came to pass in his own way.<lb/>It was their own blindness made them rail like mad,<lb/>To bring such woes on themselves, that will be very sad.<lb/>Those that will divide my Message, and not take it all,<lb/>But an Angel of wrath they will still me call,<lb/>They had better be silent, and speak nothing,<lb/>For over all <hi rend="italic">Europe</hi> will their shame and sin ring.<lb/>For my message is Truth, and in it there is no Lye,<lb/>But Mercy and Judgment, that is still the Cry.<lb/>You may take it or leave it, that is all one to me,<lb/>For Judgments will come, good and bad, you will see:<lb/>For with the Nation God is exceeding wroth,<lb/>That the Vials of his wrath he will pour forth<ref target="went.020.n42">42</ref>.  For it is the will of God, which I now have done,<lb/>And as for my own will, of that I have none:<lb/>For on this message I would not have gone<lb/>,But the Lord sent me forth, and he brought me home.<lb/>To go on such an Errand, it was no pleasing thing,<lb/>And be so much abused, but I must obey my King<ref target="went.020.n43">43</ref>.</p>
             <p>
-               <note id="went.020.n41" n="41" anchored="yes">
-                  <hi rend="BOLD">41</hi>  In 1677, Wentworth predicted that the Apocalypse would begin before New Year's Day, 1678.  She wrote to King Charles II and the Lord Mayor of London informing them directly of His coming, and published her prophecy in <hi rend="italic">A Vindication</hi>.  See F.H. Blackburne Daniell, ed., <hi rend="italic">Calendar of State Papers Domestic Series</hi>  (London:  His Majesty's Stationery Office,1677) 279-80.  See also<hi rend="italic"> A Vindication</hi>, 13, B3 recto.</note>
+               <note id="went.020.n41" n="41"> In 1677, Wentworth predicted that the Apocalypse would begin before New Year's Day, 1678.  She wrote to King Charles II and the Lord Mayor of London informing them directly of His coming, and published her prophecy in <hi rend="italic">A Vindication</hi>.  See F.H. Blackburne Daniell, ed., <hi rend="italic">Calendar of State Papers Domestic Series</hi>  (London:  His Majesty's Stationery Office,1677) 279-80.  See also<hi rend="italic"> A Vindication</hi>, 13, B3 recto.</note>
             </p>
             <p>
-               <note id="went.020.n42" n="42" anchored="yes">
-                  <hi rend="BOLD">42</hi> This is a reference to the "seven golden <hi rend="BOLD">vials</hi> full of the <hi rend="BOLD">wrath</hi> of God" that the seven angels pour on Babylon during the Apocalypse (<hi rend="italic">Revelation</hi> 15:8).</note>
+               <note id="went.020.n42" n="42">This is a reference to the "seven golden <hi rend="bold">vials</hi> full of the <hi rend="bold">wrath</hi> of God" that the seven angels pour on Babylon during the Apocalypse (<hi rend="italic">Revelation</hi> 15:8).</note>
             </p>
             <p>
-               <note id="went.020.n43" n="43" anchored="yes">
-                  <hi rend="BOLD">43</hi> Here, the "King" refers to the Lord, not to King Charles II.</note>
+               <note id="went.020.n43" n="43">Here, the "King" refers to the Lord, not to King Charles II.</note>
             </p>
          </div>
          <div id="went.021" type="Section">
@@ -403,74 +367,60 @@ And he now comes to fight with you all again<ref target="went.021.n48">48</ref>.
                <lb/>That will you fright, and put you in great fear. <lb/>But be still and look up into God above,<lb/>For his Name is written <hi rend="italic">All Mercy and Love</hi>
                <lb/>Unto his chosen Elect, and most precious Seed<ref target="went.021.n55">55</ref>, <lb/>For to help them in their greatest time of need.  <lb/>What means these people?  will they never be content?<lb/>Unless I turn my back on God, and to them repent?<lb/>Who are as dead as Stocks<ref target="went.021.n56">56</ref>, and harder than Stones<ref target="went.021.n57">57</ref>; <lb/> But it is thou, O my God, that hearest all my groans,<lb/>And seest, no flesh and blood such a thing could bear,<lb/>That would rent a Stone, if it could but hear.<lb/>  Quickly arise, O Lord!  and speak aloud for me,<lb/>Behold all my Adversaries that are before thee.</p>
             <p>
-               <note id="went.021.n44" n="44" anchored="yes">
-                  <hi rend="BOLD">44</hi> 
-                  <hi rend="italic">Ephesians</hi> 6:10, 17,18,19:  "Finally, my brethren, be strong in the Lord, and in the power of his might.  Put on the whole armor of God, that ye may be able to stand against the wiles of the devil...And take the helmet of salvation, and the <hi rend="BOLD">sword of Spirit</hi>, which is the word of God:  praying always with all prayer and supplication in the Spirit...and for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel."   It is not surprising that Wentworth alludes to a passage in which the prophet Paul reminds the Ephesians to heed the Word of God and asks them to pray for Paul's ability to deliver that Word to them.  Wentworth thus implies that she, like Paul, is a conduit for the true word of God and that people should pray for her prophetic capabilities and heed her prophecies as well.</note>
+               <note id="went.021.n44" n="44">
+                  <hi rend="italic">Ephesians</hi> 6:10, 17,18,19:  "Finally, my brethren, be strong in the Lord, and in the power of his might.  Put on the whole armor of God, that ye may be able to stand against the wiles of the devil...And take the helmet of salvation, and the <hi rend="bold">sword of Spirit</hi>, which is the word of God:  praying always with all prayer and supplication in the Spirit...and for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel."   It is not surprising that Wentworth alludes to a passage in which the prophet Paul reminds the Ephesians to heed the Word of God and asks them to pray for Paul's ability to deliver that Word to them.  Wentworth thus implies that she, like Paul, is a conduit for the true word of God and that people should pray for her prophetic capabilities and heed her prophecies as well.</note>
             </p>
             <p>
-               <note id="went.021.n45" n="45" anchored="yes">
-                  <hi rend="BOLD">45</hi>  
-                  <hi rend="italic">Matthew</hi> 11:4-5:  "Jesus answered and said unto them, Go and show John again those things which ye do hear and see:  the blind receive their sight, and the lame walk, the lepers are cleansed, and the <hi rend="BOLD">deaf</hi> 
-                  <hi rend="BOLD">hear</hi>, the <hi rend="BOLD">dead</hi> are raised up, and the poor shall have the gospel preached to them."  See also <hi rend="italic">Luke</hi> 7:22:  "Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the<hi rend="BOLD"> deaf hear</hi>, the <hi rend="BOLD">dead</hi> are raised, to the poor the gospel is preached."  Wentworth reappropriates the phraseology of Christ's miracles to emphasize His dreadful power rather than to emphasize His mercy.</note>
+               <note id="went.021.n45" n="45"> 
+                  <hi rend="italic">Matthew</hi> 11:4-5:  "Jesus answered and said unto them, Go and show John again those things which ye do hear and see:  the blind receive their sight, and the lame walk, the lepers are cleansed, and the <hi rend="bold">deaf</hi> 
+                  <hi rend="bold">hear</hi>, the <hi rend="bold">dead</hi> are raised up, and the poor shall have the gospel preached to them."  See also <hi rend="italic">Luke</hi> 7:22:  "Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the<hi rend="bold"> deaf hear</hi>, the <hi rend="bold">dead</hi> are raised, to the poor the gospel is preached."  Wentworth reappropriates the phraseology of Christ's miracles to emphasize His dreadful power rather than to emphasize His mercy.</note>
             </p>
             <p>
-               <note id="went.021.n46" n="46" anchored="yes">
-                  <hi rend="BOLD">46</hi>  God gives  the seven angels in Revelations seven <hi rend="BOLD">trumpets</hi> to blow before releasing the woes upon Babylon (<hi rend="italic">Revelation</hi> 8, 9).  When the sixth angel blows the trumpet in <hi rend="italic">Revelation</hi> 8:13, a "voice from the four <hi rend="BOLD">horns</hi> of the golden altar which is before God"  orders that angel to release the four angels who will slay one-third of mankind.</note>
+               <note id="went.021.n46" n="46"> God gives  the seven angels in Revelations seven <hi rend="bold">trumpets</hi> to blow before releasing the woes upon Babylon (<hi rend="italic">Revelation</hi> 8, 9).  When the sixth angel blows the trumpet in <hi rend="italic">Revelation</hi> 8:13, a "voice from the four <hi rend="bold">horns</hi> of the golden altar which is before God"  orders that angel to release the four angels who will slay one-third of mankind.</note>
             </p>
             <p>
-               <note id="went.021.n47" n="47" anchored="yes">
-                  <hi rend="BOLD">47</hi> Throughout <hi rend="italic">Revelation</hi>, thunder accompanies the apocalyptic actions of God.  According to the editors of the<hi rend="italic"> Dictionary of the Bible</hi>, thunder "is the expression of His resistless power...and of His inexorable vengeance" throughout the Bible.  See Hastings, ed., <hi rend="italic">The Dictionary of the Bible</hi>, 999.</note>
+               <note id="went.021.n47" n="47">Throughout <hi rend="italic">Revelation</hi>, thunder accompanies the apocalyptic actions of God.  According to the editors of the<hi rend="italic"> Dictionary of the Bible</hi>, thunder "is the expression of His resistless power...and of His inexorable vengeance" throughout the Bible.  See Hastings, ed., <hi rend="italic">The Dictionary of the Bible</hi>, 999.</note>
             </p>
             <p>
-               <note id="went.021.n48" n="48" anchored="yes">
-                  <hi rend="BOLD">48</hi> In <hi rend="italic">Revelation</hi> 9:14-19, God sends four angels to slay one-third of mankind.</note>
+               <note id="went.021.n48" n="48">In <hi rend="italic">Revelation</hi> 9:14-19, God sends four angels to slay one-third of mankind.</note>
             </p>
             <p>
-               <note id="went.021.n49" n="49" anchored="yes">
-                  <hi rend="BOLD">49</hi> According to Nigel Smith, when certain seventeenth-century sectarians denigrated formalists, they not only criticized "anyone who stressed external ritual and sacraments," but also "anyone who ignores the indwelling 'divine majesty' for the sake of biblical literalism."  See Nigel Smith, <hi rend="italic">Perfection Proclaimed:  Language and Literature in English Radical Religion 1640-1660</hi> (Oxford:  Clarendon Press, 1989) 326.   In <hi rend="italic">A true Account</hi>, Wentworth says that, before God "healed" her and converted her to a true faith in him, she was once a "formal professor":  "...for I can speak by sad experience, for 20 years being a dark, blind, formal professor, what a dry, barren soul  had" (14, B4 verso).  Thus, Wentworth seems to define Formalists according to the second half of the dual definition Smith explains, that is, as those who behave according to the letter, not the spirit, of God's word.  In other words, Wentworth's "formal professors" are those who say they have faith in God and who seemingly adhere to Christian doctrine and ritual, but who lack a feeling of divine grace within.</note>
+               <note id="went.021.n49" n="49">According to Nigel Smith, when certain seventeenth-century sectarians denigrated formalists, they not only criticized "anyone who stressed external ritual and sacraments," but also "anyone who ignores the indwelling 'divine majesty' for the sake of biblical literalism."  See Nigel Smith, <hi rend="italic">Perfection Proclaimed:  Language and Literature in English Radical Religion 1640-1660</hi> (Oxford:  Clarendon Press, 1989) 326.   In <hi rend="italic">A true Account</hi>, Wentworth says that, before God "healed" her and converted her to a true faith in him, she was once a "formal professor":  "...for I can speak by sad experience, for 20 years being a dark, blind, formal professor, what a dry, barren soul  had" (14, B4 verso).  Thus, Wentworth seems to define Formalists according to the second half of the dual definition Smith explains, that is, as those who behave according to the letter, not the spirit, of God's word.  In other words, Wentworth's "formal professors" are those who say they have faith in God and who seemingly adhere to Christian doctrine and ritual, but who lack a feeling of divine grace within.</note>
             </p>
             <p>
-               <note id="went.021.n50" n="50" anchored="yes">
-                  <hi rend="BOLD">50</hi> This may be a reference to <hi rend="italic">Matthew</hi> 7:23, "And then I will profess unto them, I never knew you:  depart from me, ye that work iniquity," to <hi rend="italic">Matthew</hi> 25:41, "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels," or to <hi rend="italic">Luke</hi> 13:27, "But he shall say, I tell you, I know you not whence ye are; depart from me, all ye workers of iniquity."   Wentworth again emphasizes the fact that many people only practice the outward forms of religion without follow ing the laws of God, and that these people will be damned.</note>
+               <note id="went.021.n50" n="50">This may be a reference to <hi rend="italic">Matthew</hi> 7:23, "And then I will profess unto them, I never knew you:  depart from me, ye that work iniquity," to <hi rend="italic">Matthew</hi> 25:41, "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels," or to <hi rend="italic">Luke</hi> 13:27, "But he shall say, I tell you, I know you not whence ye are; depart from me, all ye workers of iniquity."   Wentworth again emphasizes the fact that many people only practice the outward forms of religion without follow ing the laws of God, and that these people will be damned.</note>
             </p>
             <p>
-               <note id="went.021.n51" n="51" anchored="yes">
-                  <hi rend="BOLD">51</hi> The "judgment seat" is a common Biblical metaphor for both Christ's and secular leaders' power to judge.  See, e.g., <hi rend="italic">Romans</hi> 14:10 and 2 <hi rend="italic">Corinthians</hi> 5:10 respectively.</note>
+               <note id="went.021.n51" n="51">The "judgment seat" is a common Biblical metaphor for both Christ's and secular leaders' power to judge.  See, e.g., <hi rend="italic">Romans</hi> 14:10 and 2 <hi rend="italic">Corinthians</hi> 5:10 respectively.</note>
             </p>
             <p>
-               <note id="went.021.n52" n="52" anchored="yes">
-                  <hi rend="BOLD">52</hi> In <hi rend="italic">Acts</hi> 2:17-19, Peter reminds the men of Judea of Joel's prophecy:  "And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh:  and your sons and your daughters shall prophesy...and on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy: and I will show wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapor of smoke."   Wentworth's allusion to the last part of this passage indicates that she probably has the first part in mind as well; this implies that she considers her own prophesying, as one of God's "daughters" or "handmaidens," to be an apocalyptic sign just like the blood, fire, vapor, and smoke will be.</note>
+               <note id="went.021.n52" n="52">In <hi rend="italic">Acts</hi> 2:17-19, Peter reminds the men of Judea of Joel's prophecy:  "And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh:  and your sons and your daughters shall prophesy...and on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy: and I will show wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapor of smoke."   Wentworth's allusion to the last part of this passage indicates that she probably has the first part in mind as well; this implies that she considers her own prophesying, as one of God's "daughters" or "handmaidens," to be an apocalyptic sign just like the blood, fire, vapor, and smoke will be.</note>
             </p>
             <p>
-               <note id="went.021.n53" n="53" anchored="yes">
-                  <hi rend="BOLD">53</hi> 
-                  <hi rend="italic">Hebrews</hi> 4:16:  "Let us therefore come boldly unto the <hi rend="BOLD">throne of grace</hi>, that we may obtain mercy, and find grace to help in time of need."</note>
+               <note id="went.021.n53" n="53">
+                  <hi rend="italic">Hebrews</hi> 4:16:  "Let us therefore come boldly unto the <hi rend="bold">throne of grace</hi>, that we may obtain mercy, and find grace to help in time of need."</note>
             </p>
             <p>
-               <note id="went.021.n54" n="54" anchored="yes">
-                  <hi rend="BOLD">54</hi> The ten virgins in <hi rend="italic">Matthew</hi> 25:1-13 hear a "midnight cry" announcing the arrival of the bridegroom.  The cry does not instil fear in them, though.  Wentworth implies that the next time this cry is heard, it will announce the Apocalypse and will, indeed, terrify the faithless.</note>
+               <note id="went.021.n54" n="54">The ten virgins in <hi rend="italic">Matthew</hi> 25:1-13 hear a "midnight cry" announcing the arrival of the bridegroom.  The cry does not instil fear in them, though.  Wentworth implies that the next time this cry is heard, it will announce the Apocalypse and will, indeed, terrify the faithless.</note>
             </p>
             <p>
-               <note id="went.021.n55" n="55" anchored="yes">
-                  <hi rend="BOLD">55</hi> 
+               <note id="went.021.n55" n="55">
                   <hi rend="italic">Psalms</hi> 126:5-6:  "They that sow in tears / shall reap in joy.  They that goeth forth and weepeth, / bearing precious seed, / shall doubtless come again with rejoicing, / bringing his sheaves with him."  Wentworth, then, uses the phrase "precious seed" as an epithet for the "Elect" whereas in <hi rend="italic">Psalm</hi> 126 the phrase refers to the metaphorical seeds that the Elect sow.  Nevertheless, Wentworth's allusion to this <hi rend="italic">Psalm</hi> emphasizes the theme that she is God's chosen one who sows the "precious seed" of His Word among the people and, though she suffers for her activities now, He will shortly save her from her current persecution.</note>
             </p>
             <p>
-               <note id="went.021.n56" n="56" anchored="yes">
-                  <hi rend="BOLD">56</hi> According to the <hi rend="italic">OED</hi>, "stocks" had the same definition as "stalks" in the seventeenth-century.  Wentworth refers here to the lifeless portion, or stalks, of plants.</note>
+               <note id="went.021.n56" n="56">According to the <hi rend="italic">OED</hi>, "stocks" had the same definition as "stalks" in the seventeenth-century.  Wentworth refers here to the lifeless portion, or stalks, of plants.</note>
             </p>
             <p>
-               <note id="went.021.n57" n="57" anchored="yes">
-                  <hi rend="BOLD">57</hi> In <hi rend="italic">Zechariah</hi> 7:11-12, the Lord says that the people of Jerusalem hardened their hearts and refused to listen to the words He sent them through the prophets, which aroused His great anger:  "Yea, they made their hearts as an adamant <hi rend="BOLD">stone</hi>, lest they should <hi rend="BOLD">hear</hi> the law, and the words which the Lord of hosts hath sent in his Spirit by the former prophets:  therefore came a great wrath from the Lord of hosts."  It seems probable that Wentworth alludes to this Biblical passage in this sentence, and thus suggests that the people of England have hardened their hearts not only to her prophetic words but to her persecution, and will, subsequently, suffer God's wrath.</note>
+               <note id="went.021.n57" n="57">In <hi rend="italic">Zechariah</hi> 7:11-12, the Lord says that the people of Jerusalem hardened their hearts and refused to listen to the words He sent them through the prophets, which aroused His great anger:  "Yea, they made their hearts as an adamant <hi rend="bold">stone</hi>, lest they should <hi rend="bold">hear</hi> the law, and the words which the Lord of hosts hath sent in his Spirit by the former prophets:  therefore came a great wrath from the Lord of hosts."  It seems probable that Wentworth alludes to this Biblical passage in this sentence, and thus suggests that the people of England have hardened their hearts not only to her prophetic words but to her persecution, and will, subsequently, suffer God's wrath.</note>
             </p>
             <p>
                <note id="went.021.n58" n="58" anchored="yes">
-                  <hi rend="BOLD">58</hi>
+                  <hi rend="bold">58</hi>
                </note>
             </p>
             <p>
                <note id="went.021.n59" n="59" anchored="yes">
-                  <hi rend="BOLD">59</hi>
+                  <hi rend="bold">59</hi>
                </note>
             </p>
          </div>
@@ -483,53 +433,41 @@ And he now comes to fight with you all again<ref target="went.021.n48">48</ref>.
                <lb/> If they repent not, they shall lose their Souls: <lb/> And they are so stout, so proud, and very high, <lb/> They will hardly repent before they die: <lb/> And there is no repentance in the Grave, <lb/> Would they from God no mercy have? <lb/> What have they done now all this while, <lb/> But their own poor Souls cheat and beguile? <lb/> In setting the people all to rage at thee, <lb/> When I the Lord their sin and wickedness see: <lb/> And do not forget, what in this House was done, <lb/> For I did remember it, when I sent thee home. <lb/> Let those four men this thing now hear, <lb/> To try if yet they will regard the Lord, and him fear. <lb/> And thou must not fear none of these four men, <lb/> For if they come to hurt thee, I will help thee then: <lb/> If they any more fright, or with their tongues wound thee, <lb/> Then I the Lord say, sad with them it shall be, <lb/> And he, that is the Ring-leader<ref target="went.022.n61">61</ref> of them all,  <lb/>  He first shall feel my hand, and into the pit<ref target="went.022.n62">62</ref> fall,  <lb/>  Which they have digged very deep for thee, <lb/> But shall fall therein themselves thou shalt see. <lb/> Be thou bold, for to declare this thing, <lb/> How they are Traytors unto <hi rend="italic">Jesus</hi> thy Lord, and King. <lb/> A company of Priests, murther in the way by consent, <lb/> For to kill the Spirit of God in all, is their intent. <lb/> [But bid them now stop, they have done their worst,] <ref target="went.022.n63">63</ref>   
                <lb/> And the day, these four men set on thee, is for ever curs'd; <lb/> Like unto the barren, and unfruitful Fig-tree<ref target="went.022.n64">64</ref>,   <lb/> So shall Idolatry, Hypocrisie, and Formality be: <lb/> Never Fruit to grow in their Garden any more, <lb/> For now they have run themselves all on shore. <lb/> And in their own colours they all now appear, <lb/> How cruelly they oppress my Elect, that is clear: <lb/> And would alway oppress my Children all my own, <lb/> If I the Lord will but alway let them alone. <lb/> As I live, saith the Lord, I will come, for I cannot bear <lb/> No longer, to hear the groans of my Children dear: <lb/> Who am their Rock, and their hiding-place<ref target="went.022.n65">65</ref> too, <lb/> And I the Lord will all their yokes and bonds undo. <lb/> My Love, my Dove<ref target="went.022.n66">66</ref>, my Spouse, make haste and come away, <lb/> Out of <hi rend="italic">Babylon</hi>, and do not thou there stay: <lb/> Shake off thy rotten Rags, and all thy old Attire<ref target="went.022.n67">67</ref>, <lb/> That I may cloath thee anew, and thee admire. <lb/> My Spouse, my Church and I, we both are one, <lb/> And none, but my beloved Church will I own. <lb/> I am their Head and Shepherd, and them will I keep, <lb/> They are my Lambs, my Body, and my Sheep. <lb/> I the Lord of Life am the chief corner-stone<ref target="went.022.n68">68</ref>, <lb/> And for any other Body I the Lord have none: <lb/> Bu[t] <ref target="went.022.n69">69</ref> these, that follow me, and my Commands do keep, <lb/>  I will wipe away their tears<ref target="went.022.n70">70</ref>, that they no more do weep:  <lb/>  But the devouring  Wolves<ref target="went.022.n71">71</ref> I the Lord do not love,  <lb/>  But will cast them away, and build my church above. </p>
             <p>
-               <note id="went.022.n60" n="60" anchored="yes">
-                  <hi rend="BOLD">60</hi> This is a reference to Wentworth's four great enemies:  her husband, two of her husband's church brethren (Thomas Hicks and William Dicks from her "Revelation XVI"), and the Anabaptist preacher Hanserd Knollys.  Wentworth has evidently had an adversarial relationship with Hicks and Dicks at least since 1676 when she wrote <hi rend="italic">A true Account</hi>, and it is in this tract that she identifies them as members of the same congregation to which her husband belongs:  "...and let now Thomas Hicks and William Dix draw up their Bill, and all the rest of my husband's brethren what it is they have to charge me with of all they have against me in misbehaviour in life and conversation, or neglect of my duty to their Brother" (16, C1 verso).</note>
+               <note id="went.022.n60" n="60">This is a reference to Wentworth's four great enemies:  her husband, two of her husband's church brethren (Thomas Hicks and William Dicks from her "Revelation XVI"), and the Anabaptist preacher Hanserd Knollys.  Wentworth has evidently had an adversarial relationship with Hicks and Dicks at least since 1676 when she wrote <hi rend="italic">A true Account</hi>, and it is in this tract that she identifies them as members of the same congregation to which her husband belongs:  "...and let now Thomas Hicks and William Dix draw up their Bill, and all the rest of my husband's brethren what it is they have to charge me with of all they have against me in misbehaviour in life and conversation, or neglect of my duty to their Brother" (16, C1 verso).</note>
             </p>
             <p>
-               <note id="went.022.n61" n="61" anchored="yes">
-                  <hi rend="BOLD">61</hi> Wentworth never states which of her four enemies is the "Ring-leader."</note>
+               <note id="went.022.n61" n="61">Wentworth never states which of her four enemies is the "Ring-leader."</note>
             </p>
             <p>
-               <note id="went.022.n62" n="62" anchored="yes">
-                  <hi rend="BOLD">62</hi> This is a reference to the "bottomless pit" of <hi rend="italic">Revelation</hi> 9.</note>
+               <note id="went.022.n62" n="62">This is a reference to the "bottomless pit" of <hi rend="italic">Revelation</hi> 9.</note>
             </p>
             <p>
-               <note id="went.022.n63" n="63" anchored="yes">
-                  <hi rend="BOLD">63</hi> This line is horizontally cropped in half on the top of page 11, B4 recto.  From the parts of the letters that do appear, combined with the handwritten marginalia, the line appears to read as such.</note>
+               <note id="went.022.n63" n="63">This line is horizontally cropped in half on the top of page 11, B4 recto.  From the parts of the letters that do appear, combined with the handwritten marginalia, the line appears to read as such.</note>
             </p>
             <p>
-               <note id="went.022.n64" n="64" anchored="yes">
-                  <hi rend="BOLD">64</hi> In <hi rend="italic">Mark</hi> 11:12-14, on his way into Jerusalem, Jesus curses a fig-tree.  On his way back out of Jerusalem, the fig-tree has withered (<hi rend="italic">Mark</hi> 11:21-24).  Wentworth indicates that Christ will similarly destroy her four enemies, as well as  Idolatry, Hypocrisie, and Formality.</note>
+               <note id="went.022.n64" n="64">In <hi rend="italic">Mark</hi> 11:12-14, on his way into Jerusalem, Jesus curses a fig-tree.  On his way back out of Jerusalem, the fig-tree has withered (<hi rend="italic">Mark</hi> 11:21-24).  Wentworth indicates that Christ will similarly destroy her four enemies, as well as  Idolatry, Hypocrisie, and Formality.</note>
             </p>
             <p>
-               <note id="went.022.n65" n="65" anchored="yes">
-                  <hi rend="BOLD">65</hi> In <hi rend="italic">Psalm</hi> 32:7, David calls God "my <hi rend="BOLD">hiding</hi> 
-                  <hi rend="BOLD">place</hi>."</note>
+               <note id="went.022.n65" n="65">In <hi rend="italic">Psalm</hi> 32:7, David calls God "my <hi rend="bold">hiding</hi> 
+                  <hi rend="bold">place</hi>."</note>
             </p>
             <p>
-               <note id="went.022.n66" n="66" anchored="yes">
-                  <hi rend="BOLD">66</hi>  In the <hi rend="italic">Song of Solomon</hi> 5:2, the bridegroom comes to the door of the bride and says "Open to me, my sister, my love, /  my dove, my undefiled."  Wentworth imagines God (the bridegroom) delivering her (the bride) from Babylon (England).  In<hi rend="italic"> A Vindication</hi>, she says that she and God "were married" at the time of her "healing" in 1670:  "Then was the full communion between Christ and my Soul, the Love knot, the comly bands of Marriage; then did he espouse me unto himself for ever" (12, B2 verso).  According to Nigel Smith, the leitmotif "my love, my dove" is repeatedly used throughout the texts of Ranters Joseph Salmon and Abiezer Coppe.  See Smith,  <hi rend="italic">Perfection Proclaimed</hi>, 337.</note>
+               <note id="went.022.n66" n="66"> In the <hi rend="italic">Song of Solomon</hi> 5:2, the bridegroom comes to the door of the bride and says "Open to me, my sister, my love, /  my dove, my undefiled."  Wentworth imagines God (the bridegroom) delivering her (the bride) from Babylon (England).  In<hi rend="italic"> A Vindication</hi>, she says that she and God "were married" at the time of her "healing" in 1670:  "Then was the full communion between Christ and my Soul, the Love knot, the comly bands of Marriage; then did he espouse me unto himself for ever" (12, B2 verso).  According to Nigel Smith, the leitmotif "my love, my dove" is repeatedly used throughout the texts of Ranters Joseph Salmon and Abiezer Coppe.  See Smith,  <hi rend="italic">Perfection Proclaimed</hi>, 337.</note>
             </p>
             <p>
-               <note id="went.022.n67" n="67" anchored="yes">
-                  <hi rend="BOLD">67</hi> This is likely a reference to <hi rend="italic">Zechariah</hi> 3:  "Now Joshua was wearing filthy clothes as he stood before the angel; and the angel turned and said to those in attendance on him, 'Take off his filthy clothes.'  Then he turned to him and said, 'See how I have taken away your guilt from you; I will clothe you in fine vestments.'"</note>
+               <note id="went.022.n67" n="67">This is likely a reference to <hi rend="italic">Zechariah</hi> 3:  "Now Joshua was wearing filthy clothes as he stood before the angel; and the angel turned and said to those in attendance on him, 'Take off his filthy clothes.'  Then he turned to him and said, 'See how I have taken away your guilt from you; I will clothe you in fine vestments.'"</note>
             </p>
             <p>
-               <note id="went.022.n68" n="68" anchored="yes">
-                  <hi rend="BOLD">68</hi> In <hi rend="italic">Ephesians</hi> 2:20, Christ is called the "<hi rend="BOLD">chief corner stone</hi>."</note>
+               <note id="went.022.n68" n="68">In <hi rend="italic">Ephesians</hi> 2:20, Christ is called the "<hi rend="bold">chief corner stone</hi>."</note>
             </p>
             <p>
-               <note id="went.022.n69" n="69" anchored="yes">
-                  <hi rend="BOLD">69</hi> Compositor's error.  The text should read "but."</note>
+               <note id="went.022.n69" n="69">Compositor's error.  The text should read "but."</note>
             </p>
             <p>
-               <note id="went.022.n70" n="70" anchored="yes">
-                  <hi rend="BOLD">70</hi> Of the saints in <hi rend="italic">Revelation</hi> 7:17, one of the elders tells John, "God shall <hi rend="BOLD">wipe away</hi> all the <hi rend="BOLD">tears</hi> from their eyes."</note>
+               <note id="went.022.n70" n="70">Of the saints in <hi rend="italic">Revelation</hi> 7:17, one of the elders tells John, "God shall <hi rend="bold">wipe away</hi> all the <hi rend="bold">tears</hi> from their eyes."</note>
             </p>
             <p>
-               <note id="went.022.n71" n="71" anchored="yes">
-                  <hi rend="BOLD">71</hi> "Wolves" is a common descriptive term for the enemies of God in the Bible.  See, e.g., <hi rend="italic">Matthew</hi> 7:15 and <hi rend="italic">Ezekiel</hi> 21:27.</note>
+               <note id="went.022.n71" n="71">"Wolves" is a common descriptive term for the enemies of God in the Bible.  See, e.g., <hi rend="italic">Matthew</hi> 7:15 and <hi rend="italic">Ezekiel</hi> 21:27.</note>
             </p>
          </div>
          <div id="went.023" type="Section">
@@ -542,21 +480,17 @@ And he now comes to fight with you all again<ref target="went.021.n48">48</ref>.
                <ref target="went.023.n73">73</ref> into our Land:   <lb/> For the Nations sins are deep dyed in blood, <lb/> But for all his Saints surely it will be good<ref target="went.023.n74">74</ref>.   <lb/> Great patience the Lord hath now had, <lb/> But now he comes, to make his Children glad: <lb/> Which <hi rend="italic">Babylon</hi> would have pressed down, <lb/> But the Saints shall sing, and wear the Crown: <lb/> And no joy like that, which God will send <lb/> Unto his Saints for ever unto the end. <lb/> Fear not, little Flock, your joy doth come, <lb/> For our Father will <hi rend="italic">give us the Kingdom<ref target="went.023.n75">75</ref>
                </hi>.</p>
             <p>
-               <note id="went.023.n72" n="72" anchored="yes">
-                  <hi rend="BOLD">72</hi> The text is cropped here and the inserted handwritten marginalia is largely inscrutable.</note>
+               <note id="went.023.n72" n="72">The text is cropped here and the inserted handwritten marginalia is largely inscrutable.</note>
             </p>
             <p>
-               <note id="went.023.n73" n="73" anchored="yes">
-                  <hi rend="BOLD">73</hi> This is a reference to the Popish Plot of 1678-79 in which the French supposedly conspired to help English Catholics overthrow Charles II and the Anglican Church in England.</note>
+               <note id="went.023.n73" n="73">This is a reference to the Popish Plot of 1678-79 in which the French supposedly conspired to help English Catholics overthrow Charles II and the Anglican Church in England.</note>
             </p>
             <p>
-               <note id="went.023.n74" n="74" anchored="yes">
-                  <hi rend="BOLD">74</hi> In <hi rend="italic">Revelation</hi> 7, God's saints are rewarded.</note>
+               <note id="went.023.n74" n="74">In <hi rend="italic">Revelation</hi> 7, God's saints are rewarded.</note>
             </p>
             <p>
-               <note id="went.023.n75" n="75" anchored="yes">
-                  <hi rend="BOLD">75</hi> 
-                  <hi rend="italic">Luke</hi> 12:32:  "<hi rend="BOLD">Fear not, little flock</hi>; for it is your<hi rend="BOLD"> Father</hi>'s good pleasure to <hi rend="BOLD">give</hi> you <hi rend="BOLD">the kingdom</hi>.</note>
+               <note id="went.023.n75" n="75">
+                  <hi rend="italic">Luke</hi> 12:32:  "<hi rend="bold">Fear not, little flock</hi>; for it is your<hi rend="bold"> Father</hi>'s good pleasure to <hi rend="bold">give</hi> you <hi rend="bold">the kingdom</hi>.</note>
             </p>
          </div>
          <div id="went.024" type="Section">
@@ -580,42 +514,33 @@ And he now comes to fight with you all again<ref target="went.021.n48">48</ref>.
                <lb/>  And I the Lord say unto thee,<hi rend="italic"> That I will severely punish </hi>Philip Barder,<hi rend="italic"> for his calling of thee, to repent of the Lords work; and for his refusing of thee for his Tenant, when I the Lord sent thee;  and for his being unwilling, to take my word, when he was ready, to take a mans word, a poor, blind, ignorant, dark Soul, that knows not me, nor what I am a doing;  and he talked to the grief of thine heart, as others did wound and pierce thee, my faithful Servant<ref target="went.025.n84">84</ref>.</hi>
             </p>
             <p>
-               <note id="went.025.n76" n="76" anchored="yes">
-                  <hi rend="BOLD">76</hi> A "<hi rend="BOLD">great</hi> 
-                  <hi rend="BOLD">multitude</hi>" is a common descriptive term for a crowd or a large number of people in the Old and New Testaments.  See, e.g., 2 <hi rend="italic">Chronicles</hi> 28:5 and <hi rend="italic">Matthew</hi> 14:14.</note>
+               <note id="went.025.n76" n="76">A "<hi rend="bold">great</hi> 
+                  <hi rend="bold">multitude</hi>" is a common descriptive term for a crowd or a large number of people in the Old and New Testaments.  See, e.g., 2 <hi rend="italic">Chronicles</hi> 28:5 and <hi rend="italic">Matthew</hi> 14:14.</note>
             </p>
             <p>
-               <note id="went.025.n77" n="77" anchored="yes">
-                  <hi rend="BOLD">77</hi> In Christ's "Sermon on the Mount," He tells His followers, "Enter ye in at the strait gate:  for wide is the gate, and <hi rend="BOLD">broad</hi> is the <hi rend="BOLD">way</hi>, that leadeth to destruction, and many there be which go in thereat" (<hi rend="italic">Matthew</hi> 7:13).</note>
+               <note id="went.025.n77" n="77">In Christ's "Sermon on the Mount," He tells His followers, "Enter ye in at the strait gate:  for wide is the gate, and <hi rend="bold">broad</hi> is the <hi rend="bold">way</hi>, that leadeth to destruction, and many there be which go in thereat" (<hi rend="italic">Matthew</hi> 7:13).</note>
             </p>
             <p>
-               <note id="went.025.n78" n="78" anchored="yes">
-                  <hi rend="BOLD">78</hi> Often it is said of God in the Old Testament that his "<hi rend="BOLD">anger was kindled against</hi>" sinners.  See, e.g., <hi rend="italic">Zechariah</hi> 10:3 and <hi rend="italic">Numbers</hi> 24:10.</note>
+               <note id="went.025.n78" n="78">Often it is said of God in the Old Testament that his "<hi rend="bold">anger was kindled against</hi>" sinners.  See, e.g., <hi rend="italic">Zechariah</hi> 10:3 and <hi rend="italic">Numbers</hi> 24:10.</note>
             </p>
             <p>
-               <note id="went.025.n79" n="79" anchored="yes">
-                  <hi rend="BOLD">79</hi> 
-                  <hi rend="italic">Jeremiah</hi> 49:12:  "Behold, they whose judgment was not to drink of the cup have assuredly drunken; and art thou he that shall altogether go unpunished?  thou shalt<hi rend="BOLD"> not go unpunished</hi>, but thou shalt surely drink of it."</note>
+               <note id="went.025.n79" n="79">
+                  <hi rend="italic">Jeremiah</hi> 49:12:  "Behold, they whose judgment was not to drink of the cup have assuredly drunken; and art thou he that shall altogether go unpunished?  thou shalt<hi rend="bold"> not go unpunished</hi>, but thou shalt surely drink of it."</note>
             </p>
             <p>
-               <note id="went.025.n80" n="80" anchored="yes">
-                  <hi rend="BOLD">80</hi>  In <hi rend="italic">Matthew</hi> 18:6, Christ says, "But whoso shall offend one of these <hi rend="BOLD">little ones</hi> which believe in me, it were better for him that <hi rend="BOLD">a millstone</hi> was<hi rend="BOLD"> hanged about</hi> his <hi rend="BOLD">neck</hi>, and that he were drowned in the depth of the <hi rend="BOLD">sea</hi>."  Wentworth again posits herself as the humble, innocent, childlike "little one" as she does in "Revelation VII," thereby emphasizing the particular injustice of her persecution and the surety of her persecutors' damnation.</note>
+               <note id="went.025.n80" n="80"> In <hi rend="italic">Matthew</hi> 18:6, Christ says, "But whoso shall offend one of these <hi rend="bold">little ones</hi> which believe in me, it were better for him that <hi rend="bold">a millstone</hi> was<hi rend="bold"> hanged about</hi> his <hi rend="bold">neck</hi>, and that he were drowned in the depth of the <hi rend="bold">sea</hi>."  Wentworth again posits herself as the humble, innocent, childlike "little one" as she does in "Revelation VII," thereby emphasizing the particular injustice of her persecution and the surety of her persecutors' damnation.</note>
             </p>
             <p>
-               <note id="went.025.n81" n="81" anchored="yes">
-                  <hi rend="BOLD">81</hi>  In <hi rend="italic">Matthew</hi> 25:40, the persecutors of the faithful are warned that Christ will deal harshly with them on Judgment Day:  "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have <hi rend="BOLD">done</hi> it <hi rend="BOLD">unto</hi> one of the least of these my brethren, ye have <hi rend="BOLD">done</hi> it unto <hi rend="BOLD">me</hi>."  Wentworth again warns her persecutors that they will be punished for their abuse of her.</note>
+               <note id="went.025.n81" n="81"> In <hi rend="italic">Matthew</hi> 25:40, the persecutors of the faithful are warned that Christ will deal harshly with them on Judgment Day:  "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have <hi rend="bold">done</hi> it <hi rend="bold">unto</hi> one of the least of these my brethren, ye have <hi rend="bold">done</hi> it unto <hi rend="bold">me</hi>."  Wentworth again warns her persecutors that they will be punished for their abuse of her.</note>
             </p>
             <p>
-               <note id="went.025.n82" n="82" anchored="yes">
-                  <hi rend="BOLD">82</hi> Often it is said of God in the Old Testament that his "<hi rend="BOLD">anger was kindled against</hi>" sinners.  See, e.g., <hi rend="italic">Zechariah</hi> 10:3 and <hi rend="italic">Numbers</hi> 24:10.</note>
+               <note id="went.025.n82" n="82">Often it is said of God in the Old Testament that his "<hi rend="bold">anger was kindled against</hi>" sinners.  See, e.g., <hi rend="italic">Zechariah</hi> 10:3 and <hi rend="italic">Numbers</hi> 24:10.</note>
             </p>
             <p>
-               <note id="went.025.n83" n="83" anchored="yes">
-                  <hi rend="BOLD">83</hi> Hanserd Knollys, the Anabaptist preacher, who is also referred to in "Revelation IX" as "Knowles."</note>
+               <note id="went.025.n83" n="83">Hanserd Knollys, the Anabaptist preacher, who is also referred to in "Revelation IX" as "Knowles."</note>
             </p>
             <p>
-               <note id="went.025.n84" n="84" anchored="yes">
-                  <hi rend="BOLD">84</hi> This is a likely reference to the parable of the "faithful servant" in <hi rend="italic">Matthew</hi> 24:45 &#x0026; 25:21-23.</note>
+               <note id="went.025.n84" n="84">This is a likely reference to the parable of the "faithful servant" in <hi rend="italic">Matthew</hi> 24:45 &#x0026; 25:21-23.</note>
             </p>
          </div>
          <div id="went.026" type="Section">
@@ -634,37 +559,29 @@ And he now comes to fight with you all again<ref target="went.021.n48">48</ref>.
                <hi rend="italic">Thousands and thousands undone in poor </hi>England; <lb/> That into the bottomless Pit<ref target="went.026.n91">91</ref> will now fall, <lb/> Which will devour, and swallow them up all. <lb/> Against them all will I the Lord shut the door<ref target="went.026.n92">92</ref>, <lb/>  Where they can never enter in any more: <lb/> For I the Lord do not know any of them, <lb/> That would kill and slay my own Children: <lb/> Would starve them to death with hunger and cold, <lb/> As I the Lord do see, and did it oft behold: <lb/> They would destroy my Church, even whole <hi rend="italic">Zion</hi>, <lb/> But I the Lord am come to save my own: <lb/> And those that follow me, and my commands do keep, <lb/> They shall with me for ever most sweetly sleep. <lb/> Come now whole <hi rend="italic">Zion</hi>, come now and sing, <lb/> All Honour and Glory unto your God and King, <lb/> Who will deliver them, and set thee free, <lb/> I the Lord will do for them, as I have done for thee. <lb/>
             </p>
             <p>
-               <note id="went.026.n85" n="85" anchored="yes">
-                  <hi rend="BOLD">85</hi> "Awakned" is a compositor's error.</note>
+               <note id="went.026.n85" n="85">"Awakned" is a compositor's error.</note>
             </p>
             <p>
-               <note id="went.026.n86" n="86" anchored="yes">
-                  <hi rend="BOLD">86</hi> In <hi rend="italic">Ezekiel</hi> 6:9, the Lord tells Ezekiel that he will destroy the children of Israel, who "go <hi rend="BOLD">whoring after</hi> their<hi rend="BOLD"> idol</hi>s."</note>
+               <note id="went.026.n86" n="86">In <hi rend="italic">Ezekiel</hi> 6:9, the Lord tells Ezekiel that he will destroy the children of Israel, who "go <hi rend="bold">whoring after</hi> their<hi rend="bold"> idol</hi>s."</note>
             </p>
             <p>
-               <note id="went.026.n87" n="87" anchored="yes">
-                  <hi rend="BOLD">87</hi> In <hi rend="italic">Luke</hi> 13:6-9, the parable of the barren fig tree, Christ asks the dresser of the vineyard, "Behold, these three years I come seeking fruit on this fig tree, and find none:  cut it down; why <hi rend="BOLD">cumber</hi>eth it the <hi rend="BOLD">ground</hi>?"  The vineyard dresser answers that he will fertilize and tend the tree for one year, and, if it still does not bear fruit, Christ may cut it down.  Wentworth suggests that the people of England are spiritually barren, and the Lord will consequently destroy them.  Wentworth may also allude to this passage because of its proximity to <hi rend="italic">Luke</hi> 13:10-17, in which her Scriptural analogue, the woman suffering from an 18-year-long infirmity, is healed by Christ.</note>
+               <note id="went.026.n87" n="87">In <hi rend="italic">Luke</hi> 13:6-9, the parable of the barren fig tree, Christ asks the dresser of the vineyard, "Behold, these three years I come seeking fruit on this fig tree, and find none:  cut it down; why <hi rend="bold">cumber</hi>eth it the <hi rend="bold">ground</hi>?"  The vineyard dresser answers that he will fertilize and tend the tree for one year, and, if it still does not bear fruit, Christ may cut it down.  Wentworth suggests that the people of England are spiritually barren, and the Lord will consequently destroy them.  Wentworth may also allude to this passage because of its proximity to <hi rend="italic">Luke</hi> 13:10-17, in which her Scriptural analogue, the woman suffering from an 18-year-long infirmity, is healed by Christ.</note>
             </p>
             <p>
-               <note id="went.026.n88" n="88" anchored="yes">
-                  <hi rend="BOLD">88</hi> When the Lord says that he will destroy his enemies, he often says he will "<hi rend="BOLD">cut them off</hi>."  See, for example, <hi rend="italic">Exodus</hi> 23:23 and <hi rend="italic">Psalm</hi> 54:5.</note>
+               <note id="went.026.n88" n="88">When the Lord says that he will destroy his enemies, he often says he will "<hi rend="bold">cut them off</hi>."  See, for example, <hi rend="italic">Exodus</hi> 23:23 and <hi rend="italic">Psalm</hi> 54:5.</note>
             </p>
             <p>
-               <note id="went.026.n89" n="89" anchored="yes">
-                  <hi rend="BOLD">89</hi> 
-                  <hi rend="italic">Jeremiah</hi> 49:12:  "For thus saith the Lord; Behold, they whose judgment was not to drink of the <hi rend="BOLD">cup</hi> have assuredly drunken; and art thou he that shall altogether go unpunished?  thou shalt not go unpunished, but thou shalt surely drink of it."</note>
+               <note id="went.026.n89" n="89">
+                  <hi rend="italic">Jeremiah</hi> 49:12:  "For thus saith the Lord; Behold, they whose judgment was not to drink of the <hi rend="bold">cup</hi> have assuredly drunken; and art thou he that shall altogether go unpunished?  thou shalt not go unpunished, but thou shalt surely drink of it."</note>
             </p>
             <p>
-               <note id="went.026.n90" n="90" anchored="yes">
-                  <hi rend="BOLD">90</hi> In <hi rend="italic">Matthew</hi> 18:6, Christ says, "But whoso shall offend one of these <hi rend="BOLD">little ones</hi> which believe in me, it were better for him that <hi rend="BOLD">a millstone</hi> was<hi rend="BOLD"> hanged about</hi> his <hi rend="BOLD">neck</hi>, and that he were drowned in the depth of the <hi rend="BOLD">sea</hi>."  Wentworth again posits herself as the humble, innocent, childlike "little one" as she does in "Revelation VII," thereby emphasizing the particular injustice of her persecution and the surety of her persecutors' damnation.</note>
+               <note id="went.026.n90" n="90">In <hi rend="italic">Matthew</hi> 18:6, Christ says, "But whoso shall offend one of these <hi rend="bold">little ones</hi> which believe in me, it were better for him that <hi rend="bold">a millstone</hi> was<hi rend="bold"> hanged about</hi> his <hi rend="bold">neck</hi>, and that he were drowned in the depth of the <hi rend="bold">sea</hi>."  Wentworth again posits herself as the humble, innocent, childlike "little one" as she does in "Revelation VII," thereby emphasizing the particular injustice of her persecution and the surety of her persecutors' damnation.</note>
             </p>
             <p>
-               <note id="went.026.n91" n="91" anchored="yes">
-                  <hi rend="BOLD">91</hi> This is a reference to the "bottomless pit" of <hi rend="italic">Revelation</hi> 9.</note>
+               <note id="went.026.n91" n="91">This is a reference to the "bottomless pit" of <hi rend="italic">Revelation</hi> 9.</note>
             </p>
             <p>
-               <note id="went.026.n92" n="92" anchored="yes">
-                  <hi rend="BOLD">92</hi> The story of the wise and foolish virgins appears in <hi rend="italic">Matthew</hi> 25.  The wise virgins take oil with which to fill their lamps when they wait to "wed" Christ and the foolish virgins do not.  When Christ calls out to the virgins at midnight to come to Him, the foolish virgins have to go buy oil for their lamps whereas the wise virgins may proceed directly to the marriage feast.  To the foolish virgins who arrive late, Christ says, "I do not know you" and He shuts the doors of the feast against them (<hi rend="italic">Matthew</hi> 25:12).  Wentworth, then, uses the story of wise and foolish virgins to underscore the importance of preparing for the Apocalypse.  A similar allusion to the story of the wise and foolish virgins occurs in Wentworth's <hi rend="italic">A true Account</hi>:  "[do not] deceive your own selves by thinking either moral honesty, or formality, or any thing of our own righteousness, or going as far as the five foolish Virgins, just to Heavens Gate, and yet could not enter into eternal bliss" (14, B4 verso).  The prophet Lady Eleanor Douglas also employs an allusion to this Biblical story to emphasize the importance of preparing for God's coming when she tells the people of England to keep "oyl in their lamps, or watchful."   See Lady Eleanor Douglas, <hi rend="italic">Apocalypse</hi>, Chapter 11 (n.p., 164?) 8, A4.verso.</note>
+               <note id="went.026.n92" n="92">The story of the wise and foolish virgins appears in <hi rend="italic">Matthew</hi> 25.  The wise virgins take oil with which to fill their lamps when they wait to "wed" Christ and the foolish virgins do not.  When Christ calls out to the virgins at midnight to come to Him, the foolish virgins have to go buy oil for their lamps whereas the wise virgins may proceed directly to the marriage feast.  To the foolish virgins who arrive late, Christ says, "I do not know you" and He shuts the doors of the feast against them (<hi rend="italic">Matthew</hi> 25:12).  Wentworth, then, uses the story of wise and foolish virgins to underscore the importance of preparing for the Apocalypse.  A similar allusion to the story of the wise and foolish virgins occurs in Wentworth's <hi rend="italic">A true Account</hi>:  "[do not] deceive your own selves by thinking either moral honesty, or formality, or any thing of our own righteousness, or going as far as the five foolish Virgins, just to Heavens Gate, and yet could not enter into eternal bliss" (14, B4 verso).  The prophet Lady Eleanor Douglas also employs an allusion to this Biblical story to emphasize the importance of preparing for God's coming when she tells the people of England to keep "oyl in their lamps, or watchful."   See Lady Eleanor Douglas, <hi rend="italic">Apocalypse</hi>, Chapter 11 (n.p., 164?) 8, A4.verso.</note>
             </p>
          </div>
          <div id="went.027" type="Section">
@@ -675,24 +592,19 @@ And he now comes to fight with you all again<ref target="went.021.n48">48</ref>.
                <hi rend="italic">  When I had ended this, and laid it by, and was retired alone in my Chamber, the same day the Lord spake to me again thus:</hi>
                <lb/>I the Lord take up the Cudgels<ref target="went.027.n93">93</ref> to fight with wicked men,  Who fight and make War with the Lamb then: The false Prophets, and the great blind Beast<ref target="went.027.n94">94</ref>,  That comes from North and South, and the East; That are so blind, they can neither see nor hear<ref target="went.027.n95">95</ref>,  Nor the God of Heaven they do not regard nor fear: But would spread their Errors<ref target="went.027.n96">96</ref> all over the Land,  But with their falshoods before me the Lord cannot stand. My Church, my Spouse without spot must she be, My beloved Bride must be all fair for me: In Purple and Scarlet, cloathed all in white, That to the World she may give her light. It is I the Lord, who to thee now do speak, And yet they will not regard, nor my word take: By my Spirit I spake unto my Servants of old, As by my Prophets I have you all foretold. And I the Lord change not, but am still the same,Who speak to thee my Daughter again and again. And I the Lord now tell thee, that I will destroy, And preserve thy Name, and record thy Loyalty: When I cut off<ref target="went.027.n97">97</ref> oppressors, and lying wicked men,  When they feel my hand, they will believe then: And know, that it is I the Lord, who does all for thee, Because thou art faithful in suffering for me: Thy Name shall live, when thy Enemies are gone, Because thou stoodst for Truth, when thou was alone.</p>
             <p>
-               <note id="went.027.n93" n="93" anchored="yes">
-                  <hi rend="BOLD">93</hi> According to the <hi rend="italic">OED</hi>, a cudgel is a "short thick stick used as a weapon; a club."</note>
+               <note id="went.027.n93" n="93">According to the <hi rend="italic">OED</hi>, a cudgel is a "short thick stick used as a weapon; a club."</note>
             </p>
             <p>
-               <note id="went.027.n94" n="94" anchored="yes">
-                  <hi rend="BOLD">94</hi> In <hi rend="italic">Revelation</hi> 20:10, the "beast" and the "false prophet" are already in Hell when the devil is cast down into it.</note>
+               <note id="went.027.n94" n="94">In <hi rend="italic">Revelation</hi> 20:10, the "beast" and the "false prophet" are already in Hell when the devil is cast down into it.</note>
             </p>
             <p>
-               <note id="went.027.n95" n="95" anchored="yes">
-                  <hi rend="BOLD">95</hi> In <hi rend="italic">Deuteronomy</hi> 4:28, Moses says that the Lord will punish those who worship graven images by scattering them among heathens to "serve gods, the work of men's hands, wood and stone, which <hi rend="BOLD">neither see, nor hear</hi>, nor eat, nor smell."  See also <hi rend="italic">Daniel</hi> 5:23 and <hi rend="italic">Revelation</hi> 9:20 for further descriptions of false gods as blind and deaf.  Wentworth suggests here that the people of England are not worshiping the "God of Heaven," but false gods, and are following "false prophets" as well.</note>
+               <note id="went.027.n95" n="95">In <hi rend="italic">Deuteronomy</hi> 4:28, Moses says that the Lord will punish those who worship graven images by scattering them among heathens to "serve gods, the work of men's hands, wood and stone, which <hi rend="bold">neither see, nor hear</hi>, nor eat, nor smell."  See also <hi rend="italic">Daniel</hi> 5:23 and <hi rend="italic">Revelation</hi> 9:20 for further descriptions of false gods as blind and deaf.  Wentworth suggests here that the people of England are not worshiping the "God of Heaven," but false gods, and are following "false prophets" as well.</note>
             </p>
             <p>
-               <note id="went.027.n96" n="96" anchored="yes">
-                  <hi rend="BOLD">96</hi> Jeremiah refers to the construction of graven images as "the work of <hi rend="BOLD">errors</hi>"  (<hi rend="italic">Jeremiah</hi> 10:15 &#x0026; 51:18).  Wentworth continues to emphasize the fact that the English are worshiping false gods.</note>
+               <note id="went.027.n96" n="96">Jeremiah refers to the construction of graven images as "the work of <hi rend="bold">errors</hi>"  (<hi rend="italic">Jeremiah</hi> 10:15 &#x0026; 51:18).  Wentworth continues to emphasize the fact that the English are worshiping false gods.</note>
             </p>
             <p>
-               <note id="went.027.n97" n="97" anchored="yes">
-                  <hi rend="BOLD">97</hi> When the Lord says that he will destroy his enemies, he often says he will "<hi rend="BOLD">cut them off</hi>."  See, for example, <hi rend="italic">Exodus</hi> 23:23 and <hi rend="italic">Psalm</hi> 54:5.</note>
+               <note id="went.027.n97" n="97">When the Lord says that he will destroy his enemies, he often says he will "<hi rend="bold">cut them off</hi>."  See, for example, <hi rend="italic">Exodus</hi> 23:23 and <hi rend="italic">Psalm</hi> 54:5.</note>
             </p>
          </div>
          <div id="went.028" type="Section">
@@ -723,36 +635,28 @@ Stones<ref target="went.028.n103">103</ref>, will stand, <lb/>
  For <hi rend="italic">one shall ten thousand</hi> chace, <lb/>
  And <hi rend="italic">Zion</hi> she shall win the Race.</p>
             <p>
-               <note id="went.028.n98" n="98" anchored="yes">
-                  <hi rend="BOLD">98</hi> In <hi rend="italic">Psalm</hi> 101:1 &#x0026; 8, David says that he will rule with "<hi rend="BOLD">mercy and judgment</hi>" and "destroy all the wicked of the land."  Wentworth imagines God initiating a similar rule over England.</note>
+               <note id="went.028.n98" n="98">In <hi rend="italic">Psalm</hi> 101:1 &#x0026; 8, David says that he will rule with "<hi rend="bold">mercy and judgment</hi>" and "destroy all the wicked of the land."  Wentworth imagines God initiating a similar rule over England.</note>
             </p>
             <p>
-               <note id="went.028.n99" n="99" anchored="yes">
-                  <hi rend="BOLD">99</hi> Several times in the <hi rend="italic">Bible</hi>, the brethren of Christian congregations are told to greet one another with a "holy kiss."  See, e.g., <hi rend="italic">Romans</hi> 16:16 and 1 <hi rend="italic">Corinthians</hi> 13:12.</note>
+               <note id="went.028.n99" n="99">Several times in the <hi rend="italic">Bible</hi>, the brethren of Christian congregations are told to greet one another with a "holy kiss."  See, e.g., <hi rend="italic">Romans</hi> 16:16 and 1 <hi rend="italic">Corinthians</hi> 13:12.</note>
             </p>
             <p>
-               <note id="went.028.n100" n="100" anchored="yes">
-                  <hi rend="BOLD">100</hi> In <hi rend="italic">Proverbs</hi> 1:3, "justice" and "equity" are listed as qualities which the <hi rend="italic">Proverbs of Solomon </hi>will elucidate.</note>
+               <note id="went.028.n100" n="100">In <hi rend="italic">Proverbs</hi> 1:3, "justice" and "equity" are listed as qualities which the <hi rend="italic">Proverbs of Solomon </hi>will elucidate.</note>
             </p>
             <p>
-               <note id="went.028.n101" n="101" anchored="yes">
-                  <hi rend="BOLD">101</hi> In <hi rend="italic">John</hi> 18:11 Simon Peter cuts off the ear of the high priest's servant as Jesus is being arrested.  Jesus tells Simon Peter, "put up thy <hi rend="BOLD">sword</hi> into the <hi rend="BOLD">sheath</hi>:  the cup which my Father hath given me, shall I not drink it?"  Wentworth seems to have this passage in mind here, though she places the sword in God's hand and envisions God's personified victim, Babylon, as bleeding to death rather than as simply losing an ear.  Wentworth, then, uses the sheathed sword to suggest the completion of God's vengeance against His enemies, whereas  in <hi rend="italic">John</hi> the sheathed sword is used to symbolize Christ's submission to His enemies.</note>
+               <note id="went.028.n101" n="101">In <hi rend="italic">John</hi> 18:11 Simon Peter cuts off the ear of the high priest's servant as Jesus is being arrested.  Jesus tells Simon Peter, "put up thy <hi rend="bold">sword</hi> into the <hi rend="bold">sheath</hi>:  the cup which my Father hath given me, shall I not drink it?"  Wentworth seems to have this passage in mind here, though she places the sword in God's hand and envisions God's personified victim, Babylon, as bleeding to death rather than as simply losing an ear.  Wentworth, then, uses the sheathed sword to suggest the completion of God's vengeance against His enemies, whereas  in <hi rend="italic">John</hi> the sheathed sword is used to symbolize Christ's submission to His enemies.</note>
             </p>
             <p>
-               <note id="went.028.n102" n="102" anchored="yes">
-                  <hi rend="BOLD">102</hi> In <hi rend="italic">Psalm</hi> 75:8, the Lord pours all of the red wine out of a <hi rend="BOLD">cup</hi> but the <hi rend="BOLD">dregs</hi>, which the wicked shall be forced to drink.  In <hi rend="italic">Isaiah</hi> 51:17, the people of Jerusalem are first forced to drink from "the <hi rend="BOLD">cup</hi> of his [God's] fury" even to the <hi rend="BOLD">dregs</hi>.  In <hi rend="italic">Isaiah</hi> 51:22-23, the Lord says he will take the <hi rend="BOLD">cup</hi> from their hands and force those who afflict them to drink it.</note>
+               <note id="went.028.n102" n="102">In <hi rend="italic">Psalm</hi> 75:8, the Lord pours all of the red wine out of a <hi rend="bold">cup</hi> but the <hi rend="bold">dregs</hi>, which the wicked shall be forced to drink.  In <hi rend="italic">Isaiah</hi> 51:17, the people of Jerusalem are first forced to drink from "the <hi rend="bold">cup</hi> of his [God's] fury" even to the <hi rend="bold">dregs</hi>.  In <hi rend="italic">Isaiah</hi> 51:22-23, the Lord says he will take the <hi rend="bold">cup</hi> from their hands and force those who afflict them to drink it.</note>
             </p>
             <p>
-               <note id="went.028.n103" n="103" anchored="yes">
-                  <hi rend="BOLD">103</hi> In 1 <hi rend="italic">Peter</hi> 2:4-5, Christ is called a "<hi rend="BOLD">living stone</hi>" and the new priests are called 'lively stones' who will be built up into a "<hi rend="BOLD">spiritual</hi> house."</note>
+               <note id="went.028.n103" n="103">In 1 <hi rend="italic">Peter</hi> 2:4-5, Christ is called a "<hi rend="bold">living stone</hi>" and the new priests are called 'lively stones' who will be built up into a "<hi rend="bold">spiritual</hi> house."</note>
             </p>
             <p>
-               <note id="went.028.n104" n="104" anchored="yes">
-                  <hi rend="BOLD">104</hi> In <hi rend="italic">Mark</hi> 8:24, when Christ touches the blind man's eyes, the latter sees "men as <hi rend="BOLD">trees</hi>, walking."  The second time Christ touches the blind man's eyes, the latter sees clearly.  Wentworth seems to suggest that God is in the process of healing or saving her.</note>
+               <note id="went.028.n104" n="104">In <hi rend="italic">Mark</hi> 8:24, when Christ touches the blind man's eyes, the latter sees "men as <hi rend="bold">trees</hi>, walking."  The second time Christ touches the blind man's eyes, the latter sees clearly.  Wentworth seems to suggest that God is in the process of healing or saving her.</note>
             </p>
             <p>
-               <note id="went.028.n105" n="105" anchored="yes">
-                  <hi rend="BOLD">105</hi>  In <hi rend="italic">Psalm</hi> 118:10 &#x0026;12, the pagan nations are described as swarming around the speaker like bees:  "All <hi rend="BOLD">nations</hi> compassed me about...They compassed me about like <hi rend="BOLD">bees</hi>."  The speaker vows to destroy them.  Wentworth similarly envisions these "bees," i.e., the ungodly people of England, being destroyed.</note>
+               <note id="went.028.n105" n="105"> In <hi rend="italic">Psalm</hi> 118:10 &#x0026;12, the pagan nations are described as swarming around the speaker like bees:  "All <hi rend="bold">nations</hi> compassed me about...They compassed me about like <hi rend="bold">bees</hi>."  The speaker vows to destroy them.  Wentworth similarly envisions these "bees," i.e., the ungodly people of England, being destroyed.</note>
             </p>
          </div>
          <div id="went.029" type="Section">
@@ -763,24 +667,20 @@ Stones<ref target="went.028.n103">103</ref>, will stand, <lb/>
             <p>  Whereas the Lord has made way, to bring forth into the World his Revelations sooner, than I expected or thought of, and commanded me very earnestly, to add thereunto, what I have suffered and suffer for being his Messenger, in bearing his Testimony to the World:  And I endeavoured, to put it by, for shame's sake.  There fear and trembling came upon me, that I could not withstand it, but was forced to declare herewith openly, how for obeying the Word of the Lord, and his Commandments, I am reproached as a proud, wicked, deceived, deluded, lying Woman;  a mad, melancholy, crackbrained, self willed, conceited Fool, and black Sinner, led by whimsies, notions, and knif-knafs<ref target="went.029.n106">106</ref> of my own head; one that speaks blasphemy, not fit to take the Name of God in her mouth;  an Heathen and Publican, a Fortune-teller, an Enthusiast, and the like much more, whereof I appeal to God, to judge:  And then let all slanderers challenge their own words.<lb/>  Thus we stand ready before the Lord, and attend upon him, to pass sentence, and to give a visible Testimony from Heaven, which of these two Spirits he will own?  That Spirit, which hath dictated the Verses in this Book;  or that, which speaks all those evil Words and Defamations:  For God cannot own both.<lb/>  And when it cometh to pass, that you Slanderers are found not only false Accusers and Persecutors, but also Rebukers, Controlers and Blasphemers<ref target="went.029.n107">107</ref>  against the Holy Ghost, and that therefore God shall make your Name to stink and rot upon the Earth, and put you to eternal shame for what you have done and said falsly of me since you well know your selves, that whosoever loveth and maketh a Lye, must stand without with the Dogs and Sorcerers, and Whoremongers, and Murderers, and Idolaters<ref target="went.029.n108">108</ref>.  How is it then possible, that you, knowing this, can think to go unpunished by the just, true and holy God, who judgeth righteously?  Therefore let all mark, how the Lord will fall upon you, and how quickly he will begin:  For your lying words have made the Lords anger to burn hot against you; <hi rend="italic">Ezek</hi>.  24.27.  In that day shall my mouth be opened up to him, which is escaped, and I shall speak, and be no more reviled, no more abused, no more persecuted:  But you shall be a sign unto all people, and they shall know, that it is the Lord, that spake by me unto you, and all the People of <hi rend="italic">England</hi>.  <hi rend="italic">Ezek</hi>. 24.25, 26.    Shall it not be, saith the Lord, in the day, when I take from them their strength, (N B. <hi rend="italic">New-years day</hi>!) the joy of their Glory, the desire of their Eyes, and that whereupon they set their minds; that he, that escaped that day, shall come unto thee,<hi rend="italic"> and take thee by the hand</hi>, to cause thee, to hear it with thine Ears?<lb/>  And as concerning my Husbands Behaviour towards me in this Case of the Lords, He the Lord will also judge betwixt Him and Me, and make known, whether I am an impudent Hussy, a disobedient Wife to him, one that run away from her Husband, and the like.  Or whether He is the Man, that will not suffer me to live with him, that will not receive me into his Habitation, unless I deny the Lord, and his Message, and avow to be deluded by a lying Spirit.  And therefore he takes no care of me, nor once looks after me these almost two years.  These things the Lord will judge and bring to light, that all People shall know, how He likes of their encouraging my Husband against me, in making me the Butt of their malice;  but my Husband, they make the patient, meek Lamb, and strengthen him thus against the Lord.  Therefore all that have done, and do so, shall feel the Rod of an angry God, as there is <hi rend="italic">Hanserd Knollys</hi> with his Church, and <hi rend="italic">Nehemiah Cocks</hi>, my Husbands Pastor, <hi rend="italic">Thomas Hicks, William Dicks, Philip Barder,</hi> my Relations, and hundreds more, that have a hand in setting my Husband against me, so that he will not own me:  And then they go on to blame and defame me, and say, that I am run away from him!<lb/>  So far it is the will of God, that the World should know the true reason, why I must live alone and apart from my said Husband, which (as it will stand before God) is no other, but that I cannot deny the Testimony of <hi rend="italic">Jesus</hi>, but keep the Commandments of God,  being obedient to all his Wills.  And this is the thing, the only thing, that makes my Husband and hundreds more, to be wroth with me, and endeavour to take away my good Name, in spreading abroad, that I keep Men company, and have my Rogues come to me, and live a scandalous life in an Alms-house.  But as the Pharisees of old said of the Son of God, that he was a gluttonous man, a Wine-bibber, a Friend of Publicans and Sinners<ref target="went.029.n109">109</ref>, and one that hath the Devil;  and yet he bore it patiently:  So shall I wait in patience, how the <hi rend="italic">Lord</hi> 
                <hi rend="italic">Jesus</hi> doth love and like of their thus defaming me, which will be seen and known openly, for to be recorded to Generations to come.<lb/>  After I had written this, the Word of the Lord came unto me, and said:  My anger is greatly kindled, against all thy malicious lying Enemies, and I will appear a swift Witness against them, and pour out the Vials of my wrath upon them:  And I will make my self known by the Judgment, which I will execute against them, by ensnaring them in the Works of their own Hands;  even whilst they are in their wicked way of lying, and bold in their sin, I the Lord will appear with my Judgment against them.<lb/>  Moreover, the Lord said, <hi rend="italic">The great Disappointment and Overturning shall surely be accomplished, which did begin before New-years day 1677.  for then was the beginning of what will now very shortly follow</hi>.  And then they shall all know, saith the Lord, how falsly they have accused thee in that matter:  And that they have spoken from a blind, dark, lying Spirit:  And they shall see, that thou wast not deceived, or deluded, as they say, but that thou hast spoken the Truth in soberness, and in the fear of God:  And I will decide the Controversie.</p>
             <p>
-               <note id="went.029.n106" n="106" anchored="yes">
-                  <hi rend="BOLD">106</hi> Though the <hi rend="italic">OED</hi> does not list "knif-knafs" as a variation of "knick-knacks,"  Wentworth seems to use the term in this manner.  When Elaine Hobby quotes this sentence, she changes "knif-knafs" to "knick-knacks."  See Hobby, <hi rend="italic">Virtue of Necessity</hi>, 52.</note>
+               <note id="went.029.n106" n="106">Though the <hi rend="italic">OED</hi> does not list "knif-knafs" as a variation of "knick-knacks,"  Wentworth seems to use the term in this manner.  When Elaine Hobby quotes this sentence, she changes "knif-knafs" to "knick-knacks."  See Hobby, <hi rend="italic">Virtue of Necessity</hi>, 52.</note>
             </p>
             <p>
-               <note id="went.029.n107" n="107" anchored="yes">
-                  <hi rend="BOLD">107</hi> In 2 <hi rend="italic">Timothy</hi> 3:1-3, Paul tells Timothy "This know also, that in the last days perilous times shall come.  For men shall be lovers of their own selves, covetous, boasters, proud, <hi rend="BOLD">blasphemers</hi>, disobedient to parents, unthankful, unholy, without natural affection, trucebreakers, <hi rend="BOLD">false</hi> 
-                  <hi rend="BOLD">accusers</hi>, incontinent, fierce, despisers of those that are good."  Wentworth suggests that her persecution is a sign that England is in its "last days."</note>
+               <note id="went.029.n107" n="107">In 2 <hi rend="italic">Timothy</hi> 3:1-3, Paul tells Timothy "This know also, that in the last days perilous times shall come.  For men shall be lovers of their own selves, covetous, boasters, proud, <hi rend="bold">blasphemers</hi>, disobedient to parents, unthankful, unholy, without natural affection, trucebreakers, <hi rend="bold">false</hi> 
+                  <hi rend="bold">accusers</hi>, incontinent, fierce, despisers of those that are good."  Wentworth suggests that her persecution is a sign that England is in its "last days."</note>
             </p>
             <p>
-               <note id="went.029.n108" n="108" anchored="yes">
-                  <hi rend="BOLD">108</hi> In <hi rend="italic">Revelation</hi> 22:14-15, an angel says to John, "Blessed are that do his commandments, that they may have the right to the tree of life, and may enter in through the gates into the city.  For without are<hi rend="BOLD"> dogs, and sorcerers, and whoremongers, and murderers, and idolaters</hi>, and whosoever loveth and maketh a lie."</note>
+               <note id="went.029.n108" n="108">In <hi rend="italic">Revelation</hi> 22:14-15, an angel says to John, "Blessed are that do his commandments, that they may have the right to the tree of life, and may enter in through the gates into the city.  For without are<hi rend="bold"> dogs, and sorcerers, and whoremongers, and murderers, and idolaters</hi>, and whosoever loveth and maketh a lie."</note>
             </p>
             <p>
-               <note id="went.029.n109" n="109" anchored="yes">
-                  <hi rend="BOLD">109</hi> 
-                  <hi rend="italic">Matthew</hi> 11:19:  "The Son of man came eating and drinking, and they say, Behold a <hi rend="BOLD">gluttonous</hi>, and<hi rend="BOLD"> a winebibber</hi>
-                  <hi rend="BOLD">, a friend of publicans and sinners</hi>."  See also <hi rend="italic">Luke</hi> 7:34:  "The Son of man is come eating and drinking; and ye say, Behold a<hi rend="BOLD"> gluttonous man</hi>, and<hi rend="BOLD"> a winebibber</hi>
-                  <hi rend="BOLD">, a friend of publicans and sinners</hi>!"  Wentworth compares the accusations made against her to the accusations that the Pharisees made against Christ.</note>
+               <note id="went.029.n109" n="109">
+                  <hi rend="italic">Matthew</hi> 11:19:  "The Son of man came eating and drinking, and they say, Behold a <hi rend="bold">gluttonous</hi>, and<hi rend="bold"> a winebibber</hi>
+                  <hi rend="bold">, a friend of publicans and sinners</hi>."  See also <hi rend="italic">Luke</hi> 7:34:  "The Son of man is come eating and drinking; and ye say, Behold a<hi rend="bold"> gluttonous man</hi>, and<hi rend="bold"> a winebibber</hi>
+                  <hi rend="bold">, a friend of publicans and sinners</hi>!"  Wentworth compares the accusations made against her to the accusations that the Pharisees made against Christ.</note>
             </p>
          </div>
          <div id="went.030" type="Section">
@@ -791,9 +691,8 @@ Stones<ref target="went.028.n103">103</ref>, will stand, <lb/>
             <p>In the morning upon my Bed the Lord spake thus unto me, and made me write it down, as soon as I was up, before I was ready;  Thus he said:<lb/>
 If thy Enemies be angry at my Word, <lb/>    Then angry they must be still; <lb/> For in Judgment will I the Lord <lb/>    Meet them and do what is my will.For their rejecting my Word, and fighting with me, <lb/> I the Lord will fight with all of them for thee, <lb/> And leave neither Root nor Branch<ref target="went.030.n110">110</ref> to stand,   <lb/> But cut them off out of the Land: <lb/> If they do not quickly repent, <lb/> No Life to them shall be lent. </p>
             <p>
-               <note id="went.030.n110" n="110" anchored="yes">
-                  <hi rend="BOLD">110</hi> 
-                  <hi rend="italic">Malachi</hi> 4:1:  "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble:  and the day that cometh shall burn them up, saith the Lord of hosts, that it shall leave them neither<hi rend="BOLD"> root nor branch</hi>."  For other instances where Wentworth uses this phrase to describe the complete destruction of her enemies, see also "Revelation XVII" in this text and <hi rend="italic">A true Account</hi>, 19, C3.</note>
+               <note id="went.030.n110" n="110">
+                  <hi rend="italic">Malachi</hi> 4:1:  "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble:  and the day that cometh shall burn them up, saith the Lord of hosts, that it shall leave them neither<hi rend="bold"> root nor branch</hi>."  For other instances where Wentworth uses this phrase to describe the complete destruction of her enemies, see also "Revelation XVII" in this text and <hi rend="italic">A true Account</hi>, 19, C3.</note>
             </p>
          </div>
          <div id="went.031" type="Section">
@@ -802,11 +701,10 @@ If thy Enemies be angry at my Word, <lb/>    Then angry they must be still; <lb/
             <docDate> 1679</docDate>
             <p>In conclusion hereof, I thought fit to acquaint the pious Reader, how after that Mrs. <hi rend="italic">Wentworth</hi>, by the contrivance of her Husband, was turned out of her House, which he did lett unknown to her;  and then, she being commanded by the Lord not to quit it, he took away all, not a Stool to sit upon, not a Bed, nor any thing else left;  and afterwards sent three of her Cosins, who took her out the House by force at <hi rend="italic">Midsummer</hi> 1677.  But in the year 1678.  <hi rend="italic">April</hi> 26.  the Word of the Lord came unto her, saying, That he would return her, at <hi rend="italic">Midsummer</hi> next following, into the same House again, notwithstanding all oppositions of men whatsoever, in despight of their Malice.  And though her Husband would let her have no Houshold-stuff, Bedding, and the like;  yet he, the Lord, would provide her with all suitable conveniencies, and Money too for her maintenance and House-Rent, by such as she never saw before:  And that should be for a sign, that he, the Lord hath sent her, to give warning to the Nation, that an unheard-of overturn was coming upon them, unless they repent.  Now all this, according to the Word of the Lord, is come to pass;  for though all manner of oppositions from all sides, directly and indirectly, have been made, yet when the time, appointed by the Lord, was come, the Door of the House was opened to her, (by whom, God knows, for to this day she knows it not) and she entrd<ref target="went.031.n111">111</ref>  freely and took possession.  Soon after Beds were brought in, Chairs, Tables, and all manner of useful Furniture;  Money also was and is not wanting to this day:  yea more bountiful has been, and still is the Lord, then he promised, even to the astonishment of all that have been, and are eye-witnesses of it.  Thus wonderfully doth the Lord own, that he hath sent her.  Whereof if any desires further satisfaction, he may have it from her self;  whilst the whole thing it self, being of a larger extent, then to be crowded in here, is making ready to be published.</p>
             <p>
-               <note id="went.031.n111" n="111" anchored="yes">
-                  <hi rend="BOLD">111</hi> Compositor's error.</note>
+               <note id="went.031.n111" n="111">Compositor's error.</note>
             </p>
             <p>
-               <hi rend="BOLD">FINIS</hi>
+               <hi rend="bold">FINIS</hi>
             </p>
          </div>
       </body>
@@ -815,7 +713,7 @@ If thy Enemies be angry at my Word, <lb/>    Then angry they must be still; <lb/
             <docAuthor>Taft, Vickie. </docAuthor>
             <head> Wentworth Bibliography</head>
             <div id="went.033" type="part">
-               <head>Wentworth.  Bibliography: <hi rend="BOLD">Primary Sources.</hi> 
+               <head>Wentworth.  Bibliography: <hi rend="bold">Primary Sources.</hi> 
                </head>
                <p>
                   <bibl>
@@ -975,7 +873,7 @@ If thy Enemies be angry at my Word, <lb/>    Then angry they must be still; <lb/
                </p>
             </div>
             <div id="went.034" type="part">
-               <head>Wentworth.  Bibliography: <hi rend="BOLD">Secondary Sources Containing Direct References to Wentworth.</hi> 
+               <head>Wentworth.  Bibliography: <hi rend="bold">Secondary Sources Containing Direct References to Wentworth.</hi> 
                </head>
                <p>
                   <bibl>
@@ -1060,7 +958,7 @@ If thy Enemies be angry at my Word, <lb/>    Then angry they must be still; <lb/
                </p>
             </div>
             <div id="went.035" type="part">
-               <head>Wentworth.  Bibliography: <hi rend="BOLD">Secondary Sources Without References to Wentworth.</hi>
+               <head>Wentworth.  Bibliography: <hi rend="bold">Secondary Sources Without References to Wentworth.</hi>
                </head>
                <p>
                   <bibl>
@@ -1081,7 +979,7 @@ If thy Enemies be angry at my Word, <lb/>    Then angry they must be still; <lb/
                      <title level="j">
                         <hi rend="italic">The Journal of Psychohistory</hi> 11.3</title> 
                      <date>(Winter 1984):</date>  
-                     <biblScope type="PAGES">411-30.</biblScope>
+                     <biblScope type="pages">411-30.</biblScope>
                   </bibl>
                </p>
                <p>
@@ -1115,7 +1013,7 @@ If thy Enemies be angry at my Word, <lb/>    Then angry they must be still; <lb/
                      <title level="j">
                         <hi rend="italic">English Literary History</hi> 60.2</title> 
                      <date>(Summer 1993):</date>  
-                     <biblScope type="PAGES">349-77.</biblScope>
+                     <biblScope type="pages">349-77.</biblScope>
                   </bibl>
                </p>
                <p>

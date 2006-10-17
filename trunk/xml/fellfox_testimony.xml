@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n=" A True Testimony From the People of God: (Who by the world are called Quakers) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Covenant, which brought again our Lord Jesus from the dead. ">
+         <titleStmt>
             <title>A True Testimony From the People of God: (Who by the world are called
 Quakers) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Covenant, which brought again our Lord Jesus from the dead, an electronic edition.</title>
             <author><name type="person" reg="Fox, Margaret Askew Fell, 1614-1702">Margaret Askew Fell Fox</name></author>
@@ -90,13 +90,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    <text>
       <front>
          <div id="fellfox_testimony.001" type="Text">
-            <docAuthor>Fell Fox, Margaret Askew</docAuthor>
-            <head> A TRUE TESTIMONY From the People of God: (Who by the world are called QUAKERS) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Covenant, which brought again our LORD JESUS from the dead.</head>
-            <docDate> 1660</docDate>
-            <argument>
-               <p>Tracts citing differences between Quakers and other religious groups.</p>
-            </argument>
-            <p>A TRUE<lb/>
+            <head>A TRUE<lb/>
 TESTIMONY<lb/>
 From the<lb/>
 People of God:<lb/>
@@ -109,7 +103,7 @@ are now raised up by the same Power, and quickned by<lb/>
 the same Spirit and Blood of the Everlasting Cove-<lb/>
 nant, which brought again our LORD<lb/>
 JESUS from the dead.<lb/>
-            </p>
+            </head>
             <p>Published for this End, (Viz.)<lb/>
 That all sober minded People may see the Unity and A-<lb/>
 greement of our Doctrine and Testimony, with the Testi-<lb/>
@@ -127,8 +121,7 @@ I Cor. 10.32. </p>
 at his shop at the sign of the Black-spread-Eagle and Wind-Mill 
 in Martins L' Grand, 1660.</p>
             <div id="fellfox_testimony.002" type="Letter">
-               <head>Fell Fox: (A True Testimony . . .) The Epistle to the Reader</head>
-               <p>The Epistle to the Reader</p>
+               <head>The Epistle to the Reader</head>
                <p>FRIEND,<lb/>
 Being that the day of the Lord is come, and he arisen 
 in his Eternal Light, and is arising in the Consciences of Men, the place where his Throne and 
@@ -221,7 +214,7 @@ M. F.</p>
       <body>
 <pb n="1"/>
          <div id="fellfox_testimony.003" type="Text">
-            <docAuthor>A true TESTIMONY, &#x0026;c.</docAuthor>
+
             <p>To all the professed Teachers in the whole world, who
             go under the
 Name of Christians, and make a profession of Christ, who was 

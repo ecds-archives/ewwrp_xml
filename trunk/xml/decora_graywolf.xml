@@ -1,5 +1,5 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Gray Wolf's Daughter, an electronic edition.</title>
@@ -87,14 +87,7 @@ Emory Women Writers Resource Project.</p>
    <text>
       <body>
          <div id="decora_graywolf.001" type="Story">
-            <docAuthor>De Cora, Angel (Hinook-Mahiwi-Kilinaka)</docAuthor>
             <head>Gray Wolf's Daughter</head>
-            <docDate>1899</docDate>
-            <argument>
-               <p>The Winnebago author De Cora tells of a girl's last festival dance before she goes to a white boarding school.</p>
-            </argument>
-            <bibl>
-               <title>Harper's New Monthly Magazine</title> 99: 860-62</bibl>
             <p>The fire was burning steadily, but the mother stirred it with a stick to a brighter flame. It snapped and crackled and sent a myriad of sparks flying upward through the opening at the top of the lodge. This roused the daughter a little as she sat gazing into the fire. Her mind had been wandering here and there to this and that one of her associates-to one who had been to school, to another who had staid at home and was a thorough Indian, comparing the life of the one with the life of the other.</p>
             <p>She herself had for a long time desired knowledge of the white man's ways, and now her family had given their consent to her going to school. To-morrow was to be the first day of a new life in the boarding-school.</p>
             <p>Thinking of all these things, the girl had forgotten that her father and three of the leading medicine-men were making ready for the vapor bath, in purification for the coming sacred festival.</p>

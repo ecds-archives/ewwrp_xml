@@ -1,11 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n="The Oppression of Prophecy: Quaker Women in
-		       Late Seventeenth Century Yorkshire:  Writings
-		       by Judith Boulbie  and Mary Waite [a machine
-		       readable transcription].  Edited with an
-		       introduction by Amy Enright.">
+         <titleStmt>
             <title>The Oppression of Prophecy: Quaker Women in Late Seventeenth Century Yorkshire:  Writings by Judith Boulbie
 and Mary Waite [a machine readable transcription].  Edited with an
 		       introduction by Amy Enright.</title>
@@ -90,11 +86,9 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
       <body>
 	<div id="quaker.000" type="critical introduction">
          <div id="quaker.001" type="Introduction">
-            <docAuthor>Enright, Amy. </docAuthor>
             <head> Introduction to <title>A Testimony for Truth against all Hireling-Priests and Deceivers . . . .  
 1655;  A Warning to all Friends who Professeth the Everlasting Truth . . . .  </title>
             </head>
-            <docDate>1997</docDate>
             <p>The English civil war began as a heated argument over the nature of monarchy among the male ruling elite.  Once ignited, the fire of rebellion, fanned by the winds of social and religious reform, grew beyond all expectations. The subsequent popular movements which occurred during the Interregnum (1642-1660) were characterized by their challenge to traditional hierarchy, for the battlefields of seventeenth-century English revolt were not only material but ideological.  Ironically, both conservatives and radicals looked to the Bible for inspiration and affirmation.  On the one hand, Christian scripture associated rebellion with sin. The extremist vocabulary of the Reformation continued to inform perceptions about authority and society; any threat to ecclesiastical hierarchy must be the work of Satan's legions. On the other hand, The English Bible, authorized by King James I, had been officially distributed in 1611 and, in it, popular movements found the grounds to challenge ungodly monarchy and oppressive social structure. Thus, the middle decades of the seventeenth century were a time of unprecedented conflict and experimentation in English government and society.</p>
             <p>Following the death of the Protector, Oliver Cromwell, in 1658, the last remnants of political consensus deteriorated and the Commonwealth government failed.  Fear of anarchy brought about a conservative backlash which contributed to the restoration of the monarchy in 1660 and continued throughout the reign of Charles II.  The Quakers, a successful religious sect, sixty thousand strong in 1660, were particularly targeted for persecution because of their radicalism in both political and religious circles.  In <title>The Quakers and the English Revolution</title>, Barry Reay concludes that the Quakers were understood to be "identifiable remnants of the excesses of the Interregnum" <ref target="quaker.002.n1"> 1.</ref> The Quakers were politically radical in the sense that many of them had served in Cromwell's army. Through their religious platform, they continued to espouse the egalitarian cause associated with the military's Levellers, who had called for universal male suffrage.  They were socially radical in the sense that they "cast aside the hegemony of the elite and threatened all social conventions" <ref target="quaker.002.n2"> 2.</ref> They refused to engage  in the social activities that bolstered human authority: the swearing of civil oaths, the doffing of the hat  and the use of the formal personal pronoun directed to citizens of higher social rank.</p>
             <p>Worse yet, the Quakers drew their religious practices and theology from the most radical of the Interregnum sects.  In <title>"Women and the Civil War Sects,"</title> Keith Thomas offers a comprehensive list of sectarian characteristics.</p>
@@ -471,9 +465,7 @@ Generations, comes to be revealed, even by him who was found worthy to open the 
             </p>
          </div>
          <div id="quaker.005" type="Glossary">
-            <docAuthor>Enright, Amy. </docAuthor>
             <head> Text Glossary for Judith Boulbie.</head>
-            <docDate>1997</docDate>
             <p>
                <note id="quaker.005.njb1" n="JB1">Line 14,  <hi rend="bold">Bowels</hi>: inner-depths of the body. Thus, Boulbie conveys the idea that she was prompted to speak against the Priests' activities by her most profound feelings.</note>
                <note id="quaker.005.njb2" n="JB2">Line 16, <hi rend="bold">Wo</hi>: Woe</note>
@@ -515,7 +507,6 @@ Generations, comes to be revealed, even by him who was found worthy to open the 
             <head>
                <title> A WARNING TO ALL FRIENDS . . . </title>
             </head>
-            <docDate> 1688</docDate>
             <p>
                <hi rend="bold">A WARNING TO ALL FRIENDS Who Professeth the Everlasting Truth of God, which he hath Revealed and made manifest in this his Blessed Day, (whether on this Side, or beyond the Seas.) </hi>
                <hi rend="italic">Dear Friends,</hi> In Tender Bowels of love, do I feel (from the  Lord) a warning Spring in my heart to you,  that you all may be kept low in his humble self denying Life, where safety is to be found. For assuredly,  the great and Notable day of the Lord is at hand,  in which he will arise in the greatnesse of his strength, to plead the cause of his suffering Seed, with all its enemies, whether within, or without.</p>
@@ -530,9 +521,7 @@ Generations, comes to be revealed, even by him who was found worthy to open the 
             <p>So I have cleared my Spirit of what hath long lain upon me, and discharged my Conscience in delivering the Lords Message faithfully according to the ability he hath given me.  And so am clear in my spirit : The Lord set it home upon every heart whom it may concerne, and that it may be Received, in the same bowels of love it was given forth.  Then shall I receive my reward; and the Lord his Glory. And so shall to return<ref target="quaker.007.nmw56">56</ref> to my Tent, and enter into the hole of the <pb/>Rock, where safetie is to be found, til the indignation be overpast, and in the endless unchangable love of God, do I Salute you, and bid you Farewel in the Lord.Mary WaiteYork 10th 2nd Month<ref target="quaker.007.nmw57">57</ref> 1679 Let this be Read in Friends meetings, when they are gathered together, in the fear of the Lord, and in his weightie<ref target="quaker.007.nmw58">58</ref>, savoury Life</p>
          </div>
          <div id="quaker.007" type="Glossary">
-            <docAuthor>Enright, Amy. </docAuthor>
             <head> Glossary for Text of Mary Waite.</head>
-            <docDate>1997</docDate>
             <p>
                <note id="quaker.007.nmw1" n="MW1">Line 17, <hi rend="bold">dispensations</hi>:The Oxford English Dictionary defines dispensation as 'Ordering, management: esp. the divine administration or conduct of the world'. Essentially, Waite is advising Quakers to remain faithful within whatever life situation or station they find themselves.</note>
                <note id="quaker.007.nmw2" n="MW2">Line 18, <hi rend="bold">Fathers...Mansions</hi>: John 14:1-2 Let not your heart be troubled: yee beleeve in God, beleeve also in me. In my Fathers house are many mansions ; if it were not so, I would have told you: I goe to prepare a place for you. Waite is reminding the community of Jesus' promise to lead them to eternal life in the kingdom of Heaven.</note>
@@ -597,7 +586,6 @@ Generations, comes to be revealed, even by him who was found worthy to open the 
       </body>
       <back>
          <div id="quaker.008" type="Bibliography">
-            <docAuthor>Enright, Amy. </docAuthor>
             <head>
                <title> Bibliography for Judith Boulbie and Mary Waite. </title>
             </head>

@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n="Letter to a Friend">
+         <titleStmt>
             <title>Letter to a Friend, an electronic edition.</title>
             <author><name type="person" reg="Cabot, Susan C. (Susan Copley), 1794-1861">Susan C. Cabot</name></author>
             <respStmt>
@@ -88,15 +88,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    <text>
       <body>
          <div id="cabot.001" type="Letter">
-            <docAuthor>Cabot, Susan C. </docAuthor>
-            <head>
-               <title> Letter to a Friend</title>
-            </head>
-            <docDate> 1844</docDate>
-            <argument>
-               <p>Appeal to a friend who feels she is too busy with local concerns to protest against slavery.  Cabot argues that as a Christian, one must be concerned with the welfare of those who are far off, as well as those who are near.</p>
-            </argument>
-            <p>LETTER TO A FRIEND.</p>
+            <head>LETTER TO A FRIEND.</head>
             <p>I CANNOT feel satisfied without having a few more words with you upon the subject we were discussing last evening. You said, in reply to some of the remarks I made upon the necessity of our doing all we could for the slaves, that you found so much evil around you to overcome, so much care to be bestowed upon those nearest to you, that you had no time or thought to bestow upon the slaves; and then you cited injustice and wrong-doing towards those, who, while they were not called slaves, were yet treated as badly by those who thought, because they paid money for their services, that they had a right to be as selfish and inhuman in their requirements of them as their bad pas-
 <pb n="101"/>
 sions might dictate. No one can say or feel too much for these wrongs, (done by Christians) and most heartily do I sympathise with your strong indignation upon the subject. But should this sympathy with one source of suffering shut the heart against other sources, or cancel its obligations to extend its sympathies and keep up the sacred fire which burns for oppressed humanity?</p>

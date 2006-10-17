@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n=" The British India Society">
+         <titleStmt>
             <title>The British India Society, an electronic edition.</title>
             <author><name type="person" reg="Chapman, Maria Weston, 1806-1885">Maria Weston Chapman</name></author>
             <respStmt>
@@ -88,15 +88,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    <text>
       <body>
          <div id="chapman_british.001" type="Article">
-            <docAuthor>Chapman, Maria Weston. </docAuthor>
-            <head>
-               <title> The British India Society</title>
-            </head>
-            <docDate> 1839</docDate>
-            <argument>
-               <p>Commends this society for creating competition with slave labor and promoting the idea of freedom in India.</p>
-            </argument>
-            <p>THE BRITISH INDIA SOCIETY</p>
+            <head>THE BRITISH INDIA SOCIETY</head>
             <p>BY MARIA WESTON CHAPMAN</p>
             <p>It would seem as if a word were hardly needed, to commend this newly-formed, but most important Society, to the warmest sympathies of American abolitionists.  It is, in fact, doing their work for them, by bringing the free labor of British India in direct competition with slave labor;--by silencing the captious objector to a world-wide benevolence, when he says "why do not the English people reform their East Indian oppressions, before they speak of ours;"-by arousing the world with the grand idea of a great nation emulous of righteousness and freedom, laboring to make the beauty of its example flame out like a beacon-light to all its peers, till they shall see their cherished in
 <pb n="82"/>

@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n=" Our Greatest Want ">
+         <titleStmt>
             <title>Our Greatest Want, an electronic edition.</title>
             <author><name type="person" reg="Harper, Frances Ellen
 Watkins, 1825-1911">Frances Ellen Watkins Harper</name></author>
@@ -35,7 +35,7 @@ University, Atlanta, Georgia 30322</p>
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Our Greatest Want <date>[18--?]</date></bibl>
+            <bibl>Our Greatest Want <date>[18--?]</date><title>The Anglo-African Magazine.  Vol. 1, No. 5.</title></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -93,16 +93,8 @@ TEILITE</item>
    <text>
       <body>
          <div id="harper.001" type="Essay">
-            <docAuthor>Watkins, Frances Ellen. </docAuthor>
-            <docAuthor>[Frances E. W. Harper]. </docAuthor>
             <head>Our Greatest Want. </head>
-            <docDate>1859</docDate>
-            <argument>
-               <p>Brief tract about the true needs of the United States.</p>
-            </argument>
-            <bibl>
-               <title>The Anglo-African Magazine.  Vol. 1, No. 5.</title>
-            </bibl>
+
             <p>Leading ideas impress themselves upon communities and countries.  A
 thought is evolved and thrown out among the masses, they receive it
 and it becomes inter-woven with their mental and moral life--if the

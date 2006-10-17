@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n="The Confession and Execution of Letitia Wigington of Ratclif, who suffered at Tyburn, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days before her death, being Condemned for whiping her Apprentice Girl to Death.">
+         <titleStmt>
             <title>The Confession and Execution of Letitia Wigington
 	   of Ratclif, who suffered at Tyburn, on Fryday the 9 h of
 	   this instant September, 1681, written by her own hand in
@@ -92,18 +92,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    </teiHeader>
    <text>
       <body>
-         <div id="wiginton.001" n=" THE CONFESSION AND EXECUTION OF Letitia Wigington of Ratclif, who suffered at TYBURN, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days before her death, being Condemned for whiping her Apprentice Girl to Death." type="text">
-            <docAuthor>Wigington, Leticia. </docAuthor>
-            <head>
-               <title> THE CONFESSION AND EXECUTION OF Letitia Wigington of Ratclif, who suffered at TYBURN, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days before her death, being Condemned for whiping her Apprentice Girl to Death.</title>
-            </head>
-            <docDate> 1684</docDate>
-            <argument>
-               <p>Confession supposedly written shortly before Wiginton's execution in
-1681. Alleged crime -- whipping death of Rebecca Clifford, eleven-year-old
-apprentice. Wiginton says her lodger, who moved in after Wiginton's husband failed to provide for her and their three children and two apprentices, committed the crime. Defense is reasoned, detailed, and plausible. Contains detailed information about her economic circumstance.</p>
-            </argument>
-            <p>THE<lb/>
+         <div id="wiginton.001" type="Text">
+            <head>THE<lb/>
 CONFESSION AND EXECUTION<lb/>
 OF<lb/>
 Letitia Wigington<lb/>
@@ -111,7 +101,7 @@ of Ratclif, who suffered at TYBURN,<lb/>
 on Fryday the 9 h of this instant September, 1681, written<lb/>
 by her own hand in the Goal of Newgate two days be-<lb/>
 fore her death, being Condemned for whiping her<lb/>
-Apprentice Girl to Death.</p>
+Apprentice Girl to Death.</head>
             <p>We are fully satisfied, that the following Paper was written by this
 unhappy womans own hand, a while before her Death, and though at her Tryal
 for this horrid fact, the Evidence against her, was full, clear and

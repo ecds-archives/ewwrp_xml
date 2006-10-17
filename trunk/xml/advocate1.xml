@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n="The Woman's Advocate">
+         <titleStmt>
             <title>The Woman's Advocate, Volume 1, an electronic edition.</title>
             <author><name type="person" reg="Tomlinson, William
 P.">William P. Tomlinson, Editor</name></author>
@@ -1295,7 +1295,7 @@ wait the final result.</p>
                            <pb n="50 The Woman's Advocate."/>
                            <p>In view of the difficulties invariably attending the inauguration of a new enterprise, we feel that even special attention may be called to our initial number. The opening paper, "Looking Back," by Frances Dana Gage, will be read with the interest which that honored name awakens; Henry B. Blackwell contributes a vigorous paper on "The Era of Reconstruction;", Richard J. Hinton writes pleasantly of "The Woman Movement in Great Britain;" the brilliant, versatile pen of Kate Field furnishes us with a specially prepared "Report of the New England Women's Club;" Antoinette Brown Blackwell deals with "Industrial Reconstruction" in her unaffected, charming manner; Aaron M. Powell treats, thoughtfully, of "Woman as a Voter;" Lucy Stone institutes a graphic comparison between "Women and Rebels;" while such well-known writers as Frederick Douglass, W. J. Linton, Rev. J. W. Chadwick, Charles K. Whipple, George S. Burleigh, Rev. Phebe A. Hanaford and others add variety and interest to the number. As THE ADVOCATE is printed from stereotype plates, orders for back numbers can be promptly supplied, and subscriptions, at a date, commence with the beginning of the year. </p>
                         </div>
-                        <div id="advocate1.127" Brief notes">
+                        <div id="advocate1.127" type="Brief notes">
                            <head>NOTES.</head>
                            <docDate>VOL. I, NO. I. JANUARY, 1869.</docDate>
                            <p>ELEVEN States of the Union, all in the North, have now formed Suffrage Associations.</p>

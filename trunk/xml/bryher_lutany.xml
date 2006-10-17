@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n="REGION OF LUTANY">
+         <titleStmt>
             <title>REGION OF LUTANY, an electronic edition.</title>
             <author><name type="person" reg="Bryher, Annie Winifred Ellerman">W. Bryher</name></author>
             <respStmt>
@@ -86,17 +86,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    <text>
       <body>
          <div id="bryher_lutany.001" type="Book">
-            <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
             <head>REGION OF LUTANY<lb/>By WINIFRED ELLERMAN</head>
-            <argument>
-               <p>This is a collection of Bryher's poetry.</p>
-            </argument>
-            <bibl>CHAPMAN &#x0026; HALL
-1914</bibl>
-            <p>
-               <pb/>
-            </p>
-            <lb/>
+            <pb/>
             <p>CONTENTS<lb/>
 Region of Lutany	       5<lb/>
 Corfu		       7<lb/>
@@ -115,13 +106,9 @@ Tristfulness		     31<pb n="5"/>
 5<lb/>
             </p>
             <div id="bryher_lutany.002" type="Book">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>Region of Lutany</head>
-               <docDate>1912</docDate>
                <div id="bryher_lutany.003" type="Poem">
-                  <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>REGION OF LUTANY</head>
-                  <docDate>1912</docDate>
                   <lg type="stanza">
                      <l n="1">Where is the way to thee,</l>
                      <l>	Region of Lutany?</l>
@@ -153,9 +140,7 @@ Tristfulness		     31<pb n="5"/>
                   <pb n="7"/>
                </div>
                <div id="bryher_lutany.004" type="Poem">
-                  <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>CORFU</head>
-                  <docDate>1913</docDate>
                   <lg type="stanza">
                      <l n="1">Wrapt in the dreaming Ionian sea,</l>
                      <l>  Magical isle of the splendid South,</l>
@@ -182,9 +167,7 @@ Tristfulness		     31<pb n="5"/>
                   <pb n="8"/>
                </div>
                <div id="bryher_lutany.005" type="Poem">
-                  <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>LEADERLESS</head>
-                  <docDate>1913</docDate>
                   <lg type="stanza">
                      <l n="1">(<hi rend="italic">To an imaginary poet.</hi>)</l>
                   </lg>
@@ -313,9 +296,7 @@ Tristfulness		     31<pb n="5"/>
                   <pb n="13"/>
                </div>
                <div id="bryher_lutany.006" type="Poem">
-                  <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>PAL&#x00C6;OKASTRIZZA</head>
-                  <docDate>1913</docDate>
                   <lg type="stanza">
                      <l n="1">Beyond the olive slopes, a sun-crowned peak</l>
                      <l>Rose like a lily from the violet sea,</l>
@@ -341,9 +322,7 @@ Tristfulness		     31<pb n="5"/>
                   <pb n="14"/>
                </div>
                <div id="bryher_lutany.007" type="Poem">
-                  <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>TO FRANCIS THOMPSON</head>
-                  <docDate>June, 1913</docDate>
                   <lg type="stanza">
                      <l n="1">Enwrapt  within the amethystine fold</l>
                      <l>Of thy first sleep, unsaddened and at peace,</l>
@@ -383,9 +362,7 @@ Tristfulness		     31<pb n="5"/>
                   <pb n="16"/>
                </div>
                <div id="bryher_lutany.008" type="Poem">
-                  <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>PANSIES</head>
-                  <docDate>1913</docDate>
                   <lg type="stanza">
                      <l n="1">O my glimmering petalled pansies,</l>
                      <l>  Amethyst, purple and golden, and gay,</l>
@@ -417,9 +394,7 @@ Tristfulness		     31<pb n="5"/>
                   <pb n="18"/>
                </div>
                <div id="bryher_lutany.009" type="Poem">
-                  <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>DWELT A MAID IN LUTANY</head>
-                  <docDate>[unknown]</docDate>
                   <lg type="stanza">
                      <l n="1">Long ago there dwelt a maid,</l>
                      <l>All alone in Lutany,</l>
@@ -472,9 +447,7 @@ Tristfulness		     31<pb n="5"/>
                   <pb n="20"/>
                </div>
                <div id="bryher_lutany.010" type="Poem">
-                  <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>SICILY</head>
-                  <docDate>[unknown]</docDate>
                   <lg type="stanza">
                      <l n="1">When songs were but the winds that swept thy seas,</l>
                      <l>And rhymes were as thy Spring anemones,</l>
@@ -509,9 +482,7 @@ Tristfulness		     31<pb n="5"/>
                   <pb n="22"/>
                </div>
                <div id="bryher_lutany.012" type="Poem">
-                  <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>ODE TO THE SEA</head>
-                  <docDate>1913</docDate>
                   <lg type="stanza">
                      <l n="1">How shall I tune my lute to sing thy praise</l>
                      <l>Mysterious Sea?</l>
@@ -583,9 +554,7 @@ Tristfulness		     31<pb n="5"/>
                   <pb n="25"/>
                </div>
                <div id="bryher_lutany.013" type="Poem">
-                  <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>PONTIKONISI</head>
-                  <docDate>1913</docDate>
                   <lg type="stanza">
                      <l n="1">Dream-ceintured isle amid June-sleepy seas,</l>
                      <l>Therein flit vanished songs of lutanists,</l>
@@ -603,9 +572,7 @@ Tristfulness		     31<pb n="5"/>
                   <pb n="26"/>
                </div>
                <div id="bryher_lutany.014" type="Poem">
-                  <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>BLUEBELLS</head>
-                  <docDate>1911</docDate>
                   <lg type="stanza">
                      <l n="1">In the wildest melodies</l>
                      <l>Ring ye out together,</l>
@@ -627,9 +594,7 @@ Tristfulness		     31<pb n="5"/>
                   <pb n="27"/>
                </div>
                <div id="bryher_lutany.015" type="Poem">
-                  <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>THE PAGES OF THE FLOWERS</head>
-                  <docDate>191[3]</docDate>
                   <lg type="stanza">
                      <l n="1">Gay tinted pages, fly away,</l>
                      <l>	Away, away,</l>
@@ -669,9 +634,7 @@ Tristfulness		     31<pb n="5"/>
                   <pb n="29"/>
                </div>
                <div id="bryher_lutany.016" type="Poem">
-                  <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>SONG</head>
-                  <docDate>1912</docDate>
                   <lg type="stanza">
                      <l n="1">The sunset glows</l>
                      <l>  Above the sea,</l>
@@ -704,9 +667,7 @@ Tristfulness		     31<pb n="5"/>
                   <pb n="31"/>
                </div>
                <div id="bryher_lutany.017" type="Poem">
-                  <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                   <head>TRISTFULNESS</head>
-                  <docDate>1913</docDate>
                   <lg type="stanza">
                      <l n="1">O azure-wing&#x00E8;d dream, why flit from me?</l>
                      <l>A wind anemone,</l>

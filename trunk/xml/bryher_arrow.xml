@@ -1,7 +1,7 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
-         <titleStmt n="  Arrow Music  BY BRYHER.">
+         <titleStmt>
             <title>Arrow Music  BY BRYHER, an electronic edition.</title>
             <author><name type="person" reg="Bryher, Annie Winifred Ellerman">W. Bryher</name></author>
             <respStmt>
@@ -89,12 +89,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
    <text>
       <body>
          <div id="bryher_arrow.001" type="Book">
-            <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
             <head> Arrow Music  BY [Bryher].</head>
-            <docDate>1922</docDate>
-            <argument>
-               <p>A collection of Bryher's poetry.</p>
-            </argument>
+
             <p>Acknowledgement is due to the editors of <title>Poetry</title> (Chicago) in whose periodical certain of these poems have appeared.</p>
             <p>
                <hi rend="bold">CONTENTS.</hi>
@@ -116,9 +112,9 @@ WILD ROSE . . . . . 17<lb/>
 HORSES OF TROS . . . . . 18<lb/>
 MYISKOS . . . . . 19-20</p>
             <div id="bryher_arrow.002" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
+
                <head>ARROW-MUSIC.</head>
-               <docDate>1922</docDate>
+
                <lg type="stanza">
                   <l n="1">An old Egyptian said:</l>
                   <l>"it is a dream which leads them,</l>
@@ -167,9 +163,7 @@ MYISKOS . . . . . 19-20</p>
                </lg>
             </div>
             <div id="bryher_arrow.003" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>A CARTHAGINIAN IN ROME.</head>
-               <docDate>1922</docDate>
                <lg type="stanza">
                   <l n="1">We come to forget. </l>
                </lg>
@@ -195,9 +189,7 @@ We come to forget</l>
                </lg>
             </div>
             <div id="bryher_arrow.004" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>PENTHESILEIA.</head>
-               <docDate>1922</docDate>
                <lg type="stanza">
                   <l n="1">A chilles wept, they said,</l>
                   <l> to see you dead.</l>
@@ -242,9 +234,7 @@ We come to forget</l>
                </lg>
             </div>
             <div id="bryher_arrow.005" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>THE POOL. </head>
-               <docDate>1922</docDate>
                <lg type="stanza">
                   <l n="1">
                      <hi rend="italic">You mirage a dead world</hi> 
@@ -280,9 +270,7 @@ We come to forget</l>
                </lg>
             </div>
             <div id="bryher_arrow.006" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>LOVE SONGS 0F THE STONE AGE. </head>
-               <docDate>1922</docDate>
                <lg n="1" type="section">
                   <head>I.</head>
                   <lg type="stanza">
@@ -383,9 +371,7 @@ We come to forget</l>
                </lg>
             </div>
             <div id="bryher_arrow.007" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>FR0M HELIX. </head>
-               <docDate>1922</docDate>
                <lg type="stanza">
                   <l n="1">Athene has wreathed violets for your head. </l>
                   <l>The owl-white leaves, stricken with fire, break from your hair, </l>
@@ -407,9 +393,7 @@ We come to forget</l>
                </lg>
             </div>
             <div id="bryher_arrow.008" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>IN EXILE. </head>
-               <docDate>1922</docDate>
                <lg type="stanza">
                   <l n="1">Is it love that drifts your head toward your white, cool shoulder, heat-smitten rose too tense for the white throat? Is it love that paints the eyelid ledge with iris; the weariness of days I dare not know you suffered? Is it love that hurts or thought? </l>
                </lg>
@@ -421,9 +405,7 @@ We come to forget</l>
                </lg>
             </div>
             <div id="bryher_arrow.009" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>AMAZON. </head>
-               <docDate>1922</docDate>
                <lg type="stanza">
                   <l n="1">The closed bud of dawn opens on your face. </l>
                   <l>The thong of my javelin </l>
@@ -437,9 +419,7 @@ We come to forget</l>
                </lg>
             </div>
             <div id="bryher_arrow.010" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>APPLE SONG. </head>
-               <docDate>1922</docDate>
                <lg type="stanza">
                   <l n="1">Hands, you are apple-flowers </l>
                   <l>blown with the wind </l>
@@ -465,9 +445,7 @@ We come to forget</l>
                </lg>
             </div>
             <div id="bryher_arrow.011" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>SONG. </head>
-               <docDate>1922</docDate>
                <lg type="stanza">
                   <l n="1">The golds of the narcissus </l>
                   <l>and the red , </l>
@@ -482,9 +460,7 @@ We come to forget</l>
                </lg>
             </div>
             <div id="bryher_arrow.012" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>IN SYRIA</head>
-               <docDate>1922</docDate>
                <lg type="stanza">
                   <l n="1">Girls, not a spear, once held my tent, </l>
                   <l>Circassian arm and Thracian wrist </l>
@@ -507,9 +483,7 @@ We come to forget</l>
                </lg>
             </div>
             <div id="bryher_arrow.013" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>BLUE SLEEP.</head>
-               <docDate>1922</docDate>
                <lg type="stanza">
                   <l n="1">Aphrodite!</l>
                   <l>Aphrodite of the blue sleep, the bird-black sea, </l>
@@ -537,9 +511,7 @@ We come to forget</l>
                </lg>
             </div>
             <div id="bryher_arrow.014" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>EOS.</head>
-               <docDate>1922</docDate>
                <lg type="stanza">
                   <l n="1">Your face is the flush of Eos: </l>
                   <l>You are dawn. </l>
@@ -567,9 +539,7 @@ We come to forget</l>
                </lg>
             </div>
             <div id="bryher_arrow.015" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>WILD ROSE. </head>
-               <docDate>1922</docDate>
                <lg type="stanza">
                   <l n="1">O wild rose, bend above my face!</l>
                   <l>There is no world-</l>
@@ -587,9 +557,7 @@ We come to forget</l>
                </lg>
             </div>
             <div id="bryher_arrow.016" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>HORSES OF TROS. </head>
-               <docDate>1922</docDate>
                <lg type="stanza">
                   <l n="1">If I forge horses, </l>
                   <l>black hooves, bronze coursers, </l>
@@ -619,9 +587,7 @@ We come to forget</l>
                </lg>
             </div>
             <div id="bryher_arrow.017" type="Poem">
-               <docAuthor>Bryher, W.  [Annie Winifred Ellerman]</docAuthor>
                <head>MYISKOS.</head>
-               <docDate>1922</docDate>
                <lg type="stanza">
                   <l n="1">Let them keep who they will, Myiskos, </l>
                   <l>out of Tyre; </l>

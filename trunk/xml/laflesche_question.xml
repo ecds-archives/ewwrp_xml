@@ -1,5 +1,5 @@
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>The Indian Question, an electronic edition.</title>
@@ -83,16 +83,11 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
    </teiHeader>
    <text>
       <body>
-         <div id="laflesche_question.001" type="Essay">
-            <docAuthor>La Flesche, Susette (Bright Eyes)</docAuthor>
-            <head>"The Indian Question."</head>
-            <docDate>1880</docDate>
-            <argument>
-               <p>Argues for citizenship for Native Americans.  Attacks U.S. government policy toward Native Americans, which treats them as children or property, rather than as adults.</p>
-            </argument>
-            <bibl>
-               <title>The Christian Union</title>21.10 (March 10, 1880): 222-3.</bibl>
             <pb n="222"/>
+         <div id="laflesche_question.001" type="Essay">
+            <head>"The Indian Question."</head>
+
+
             <p>The solution of the Indian Problem, as it is called, is citizenship. Like all great questions which have agitated the world, the solution is simple; so simple that men cannot understand it. They look for something complicated, something wonderful, as the answer to a question which has puzzled the wisest heads for a hundred years. The question, I believe, is, "What shall be done with the Indian?" One part of the American people try to solve it by crying, "Exterminate him." The answer to such people is, that he has a Creator who will avenge his extermination. The other part cry, "Civilize him." Forthwith they go to work, tell him that his land shall be his as long as the "grass grows and the waters run." Then they say to him, "You must not pass beyond this line without the permission of this agent whom we place over you," thus effectually preventing him from seeing or moving in any civilization except his own. Then again they say to him, "You must trade only with this man whom we appoint," thus effectually preventing his engaging in commerce or trade should he so desire. Then to crown the whole, they say, "Above all, you must do just as we say or we won't feed you." After thus putting a premium on idleness they close the whole by saying, " We have adopted this policy in order to civilize you, and you must become civilized." As the process of civilization is rather slow, it having taken the Anglo-Saxon race about a thousand years or so to become what they are now, and as the Indian, being a man, objects decidedly to being placed in a nursery subject to the bidding of a man who may be his inferior in moral character or intelligence, he is termed rebellious or sullen, and troops are oftentimes sent for to bring him into subjection. Again, somebody wants his land, or can make money by moving him, a pretext is found, and as he, being a man and not a child or thing, objects decidedly to giving up what he looks on as his own, he is termed rebellious, sullen and incapable of civilization.</p>
             <p>When the Indian, being a man and not a child or thing, or merely an animal, as some of the would-be civilizers have termed him, fights for his property, liberty and life, they call him a savage. When the first settlers in this country fought for their property, liberty and lives, they were called heroes. When the Indian in fighting this great nation wins a battle it is called a massacre; when this great nation in fighting the Indian wins it is called a victory.</p>
             <p>After the Indian is prevented from earning his own living and from taking care of himself by this system of nursing and feeding-although I have heard it reported at different times within the last few years that whole tribes have been found in a state of starvation-he is reported to be incapable of taking care of himself, and would starve if the government let him alone. It seems to me that it was because Standing Bear was trying to take care of himself that this powerful government sent out its armed forces to carry him back to a land from which he had fled because the terror of death was on him in that land. It sounds
