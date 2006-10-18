@@ -1,4 +1,4 @@
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?><TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -86,7 +86,7 @@ Women Writers Resource Project at Emory University.</p>
 </lg>
 
 <lg type="couplet">
-<l rend="indent">>But lo! some fop for their defence prepares</l>
+<l rend="indent">&gt;But lo! some fop for their defence prepares</l>
 <l>And thus his fond impertinence declares:</l>
 </lg>
 
@@ -95,8 +95,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>'With foul aspersions, the defenceless sex;</l>
 <l>'Be not on helpless innocence severe;</l>
 <l>'Let what you say sufficiently appear,</l>
-<l>'And make your railing by your reason clear.<corr
-sic="" resp="gs">'</corr></l>
+<l>'And make your railing by your reason clear.<corr sic="" resp="gs">'</corr></l>
 
 <pb n="5"/>
 <l>'What you require, sufficiently I'll do,</l>
@@ -162,8 +161,7 @@ sic="" resp="gs">'</corr></l>
 <l>Her precious blood might meer madness spill</l>
 <l>Because the filthy ruffian cross'd her will.</l>
 <l>(For willfulness sincerely they adore,</l>
-<l>Not all their valu'd charms they rev'rence more <gap
-desc="punctuation mark" reason="illegible" resp="gs" extent="one character"/>)</l>
+<l>Not all their valu'd charms they rev'rence more <gap desc="punctuation mark" reason="illegible" resp="gs" extent="one character"/>)</l>
 </lg>
 
 <lg type="stanza">
@@ -196,8 +194,7 @@ desc="punctuation mark" reason="illegible" resp="gs" extent="one character"/>)</
 
 <pb n="10"/>
 <l>She might have thought the place to publick eyes</l>
-<l>Too much expos'd, and fear'd more lurking spies <unclear
-reason="blurred text" resp="gs">:</unclear></l>
+<l>Too much expos'd, and fear'd more lurking spies <unclear reason="blurred text" resp="gs">:</unclear></l>
 <l>But had all things united well t'assure</l>
 <l>Such sparks were secret, and the place--secure;</l>
 <l>To have withdrawn, and made a cold excuse,</l>
@@ -615,9 +612,3 @@ reason="blurred text" resp="gs">:</unclear></l>
 </body>
 </text>
 </TEI.2>
-
-
-
-
-
-

@@ -1,4 +1,4 @@
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?><TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -36,8 +36,7 @@
       <encodingDesc>
          <projectDesc>
             <p>This digital text is produced from a first edition
-	   volume of the World War I poetry anthology, <hi
-	   rend="italic">Lest We Forget: A War Anthology</hi>.  While
+	   volume of the World War I poetry anthology, <hi rend="italic">Lest We Forget: A War Anthology</hi>.  While
 	   this anthology includes poetry from a varied group of male
 	   and female poets, our edition includes only those poems
 	   penned by women.  Also included in this electronic edition

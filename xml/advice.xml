@@ -1,4 +1,4 @@
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?><TEI.2>
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -31,8 +31,7 @@ collections and services, Emory University, Atlanta, Georgia 30322.</p>
          </seriesStmt>
          <sourceDesc>
             <bibl>London, Printed for <hi rend="italic">Benjamin
-	    Billingsley</hi> at the Printing press in <hi
-	    rend="italic">Cornhill</hi>, 1678. </bibl>
+	    Billingsley</hi> at the Printing press in <hi rend="italic">Cornhill</hi>, 1678. </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -99,16 +98,14 @@ those who have lived in <orig reg="foreign" resp="gs">forraign</orig> parts, tha
 <pb n="2"/>
 appertains to us, and the trades to our Fathers or Husbands; (under
 favour) the one is to be minded, and the other not neglected, for
-there is not that danger of a families overthrow by the <orig
-reg="sauce">sause</orig> wanting <sic>it's</sic> right relish, or the
+there is not that danger of a families overthrow by the <orig reg="sauce">sause</orig> wanting <sic>it's</sic> right relish, or the
 Table or Stools misplac't, as by a widows ignorance of her concern as
 to her estate, and I hope husbands will not oppose this when help and
 care is intended to them whil'st living; and safety to their name and
 posterity after death: except they have private trades (too much in
 mode) whereof they would have their wives wholly ignorant. In such a
 case indeed, one that knows not that one and two make three suits
-best. And let us not fear we shall want time and opportunity to <orig
-reg="manage" resp="gs">mannage</orig> the decencies of our house; for what is an hour in a day, or half a day in a week, to make inspection into that, that is to keep me and mine from ruine and poverty.</p>
+best. And let us not fear we shall want time and opportunity to <orig reg="manage" resp="gs">mannage</orig> the decencies of our house; for what is an hour in a day, or half a day in a week, to make inspection into that, that is to keep me and mine from ruine and poverty.</p>
 <p>Methinks now the objection may be that this art is too high and
 mysterious for the weaker <hi rend="italic">sex</hi> it will make them
 proud: <corr sic="Womenhad">Women had</corr> better keep to their Needle-work, point laces, &amp;c. and if they come to poverty, those small Crafts may give them some mean <sic>releif.</sic></p>
@@ -122,15 +119,12 @@ ever blest ye<corr sic="" resp="gs">.</corr></p>
 <pb n="3"/>
 <p>And now Gentlewomen I give you those rudiments of Accounts, which are the subject of this little pamphlet and transmit this learning to you the best I can, in the self same manner as it came to me.</p>
 <p>Know then that my Parents were very careful to cause me to learn writing and <hi rend="italic">Arithmetick</hi>, and in that I proceeded as far as Reduction, the Rule of Three and Practice, with other Rules, for without the knowledge of these I was told I should not be capable of Trade and Book-keeping and in these I found no discouragement for though <hi rend="italic">Arithmetick</hi> set my brains at work, Yet there was much delight in seeing the end, and how each question produced a fair answer and informed me of things I knew not.</p>
-<p>Afterwards I was put to keep an exact account of the expence of <hi
-rend="italic">House-keeping</hi>, and other petty <hi
-rend="italic">Charges</hi>, my Father made it my office to call all
+<p>Afterwards I was put to keep an exact account of the expence of <hi rend="italic">House-keeping</hi>, and other petty <hi rend="italic">Charges</hi>, my Father made it my office to call all
 persons to an account every night what they had laid out, and to
 reimburse it them, and set all down in a book, and this is the way to
 make one a Cashier as they are termed, and one that. can keep a fair
 account of receipts and payments of Money or Cash-book, is in a good
-way towards the understanding of Book-keeping: <hi
-rend="italic">shee</hi> that is so well versed in this as to keep the
+way towards the understanding of Book-keeping: <hi rend="italic">shee</hi> that is so well versed in this as to keep the
 accounts of her Cash right and <orig reg="daily" resp="gs">dayly</orig>
 <sic corr="entered">entred</sic> in a book fair without blotting, will soon be fit for greater undertakings.</p>
 <p>Now in regard that other learnings do depend upon this petty Cash account; I find it therefore convenient to give you an example of a moneths expence, and you will thereby see what further use may be made of it afterwards.</p>
@@ -357,8 +351,7 @@ accounts of her Cash right and <orig reg="daily" resp="gs">dayly</orig>
 
 <row role="data">
 <cell role="data"/>
-<cell role="data">For a pound of <sic corr="Sausages"
-resp="gs">Sauciges</sic></cell>
+<cell role="data">For a pound of <sic corr="Sausages" resp="gs">Sauciges</sic></cell>
 <cell role="data">8</cell>
 <cell role="data">--</cell>
 <cell role="data">--</cell>
@@ -440,8 +433,7 @@ resp="gs">Sauciges</sic></cell>
 
 <row role="data">
 <cell role="data"/>
-<cell role="data">For 2 pound of <orig reg="Sausages"
-resp="gs">Sauciges</orig></cell>
+<cell role="data">For 2 pound of <orig reg="Sausages" resp="gs">Sauciges</orig></cell>
 <cell role="data">8</cell>
 <cell role="data">--</cell>
 <cell role="data">1</cell>
@@ -1056,8 +1048,7 @@ brewing</cell>
 </row>
 <row role="data">
 <cell role="data">23.</cell>
-<cell role="data">For Veal, Calves Head, <hi
-rend="italic">&amp;c</hi></cell>
+<cell role="data">For Veal, Calves Head, <hi rend="italic">&amp;c</hi></cell>
 <cell role="data">8</cell>
 <cell role="data">--</cell>
 <cell role="data">5</cell>
@@ -1156,8 +1147,7 @@ rend="italic">&amp;c</hi></cell>
 
 <row role="data">
 <cell role="data"/>
-<cell role="data">A Quarter to the Poor, due at <hi
-rend="italic">Christmas</hi></cell>
+<cell role="data">A Quarter to the Poor, due at <hi rend="italic">Christmas</hi></cell>
 <cell role="data">11</cell>
 <cell role="data">2</cell>
 <cell role="data">6</cell>
@@ -1183,8 +1173,7 @@ rend="italic">Christmas</hi></cell>
 
 <row role="data">
 <cell role="data">31.</cell>
-<cell role="data">For the River-water 1m to <hi
-rend="italic">Christmas</hi></cell>
+<cell role="data">For the River-water 1m to <hi rend="italic">Christmas</hi></cell>
 <cell role="data">11</cell>
 <cell role="data">--</cell>
 <cell role="data">5</cell>
@@ -1221,5 +1210,3 @@ in Accounts of greater Moment.</p>
 </body>
 </text>
 </TEI.2>
-
-

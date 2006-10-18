@@ -1,4 +1,4 @@
-<TEI.2 id="chambers.1200">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="chambers.1200">
    <teiHeader type="text" id="chambers.1201">
       <fileDesc>
          <titleStmt>
@@ -212,8 +212,7 @@ preserve or restore the complexion.</p></div>
 <head rend="italic">TO take off red Spots from the Face.</head>
 <p>Take a lemon, and lay it before a slow fire, in a flat earthen
 plate, to receive the liquor that sweats out of it; when all the juice
-is out, pour it into a glass to <unclear reason="partial ink blot"
-resp="gs">cool</unclear>and rub the face with a few drops of it,
+is out, pour it into a glass to <unclear reason="partial ink blot" resp="gs">cool</unclear>and rub the face with a few drops of it,
 which will <unclear reason="partial ink blot" resp="gs">remove</unclear> all sorts of red spots.</p></div>
 
 <div id="chambers105" type="Recipe" n="5">
@@ -521,8 +520,7 @@ mile; put to it a dram of the. oil of roses, and a few grains of cummin-seed; mi
 <head rend="italic">To remove from the face, Spots of a long Standing.</head>
 <p>Dissolve in a quart of barley-water, two ounces of benjamin, and
 the same quantity of storax; put to it a pint of brandy, which will
-give it a fine *redish colour. When you use it take a <orig
-reg="basin" resp="gs">bason</orig> filled with clear spring water, and pour a few drops into it, which you must mix with the water, and then rub it on your face.</p></div>
+give it a fine *redish colour. When you use it take a <orig reg="basin" resp="gs">bason</orig> filled with clear spring water, and pour a few drops into it, which you must mix with the water, and then rub it on your face.</p></div>
 </div>
 
 <pb n="[169]"/>
@@ -845,7 +843,3 @@ out the insect or kill it.</p></div>
 </body>
 </text>
 </TEI.2>
-
-
-
-
