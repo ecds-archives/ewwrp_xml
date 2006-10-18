@@ -1,4 +1,4 @@
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?><TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -1232,7 +1232,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
                <p>In response to numerous applications, the publishers can supply copies of this poem printed separately at twopence each (post free, 2 1/2d., or a dozen copies,   2s. 1d.). The profits will be given to the Dublin Castle Red Cross Hospital.</p>
                <p>SIDGWICK &#x0026; JACKSON LTD.</p>
                <p>3 ADAM STREET, LONDON, W.C.</p>
-               <note id="flower26.n1" rend="inline">The preceding text speaks to the popularity of this particular poem.  Printed on a small slip of paper, this advertisement was pasted into the volume after publication.  The insert is found on the same page as the poem, "The Flower of Youth."</note>
+               
             </div>
             <pb n="56 FLOWER OF YOUTH"/>
             <div id="flower27" type="Poem">

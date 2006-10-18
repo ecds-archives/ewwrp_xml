@@ -1,4 +1,4 @@
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?><TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -520,7 +520,7 @@ Or satisfy'd, that you have done enough to set them forth.<lb/>
                   <pb n="15"/>
                </lg>
             </div>
-            <div id="evelyn.004"  type="Part">
+            <div id="evelyn.004" type="Part">
                   <head>THE<lb/>
 FOP-DICTIONARY.<lb/>
 OR,<lb/>

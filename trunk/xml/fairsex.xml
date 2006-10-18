@@ -1,4 +1,4 @@
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?><TEI.2>
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -63,7 +63,7 @@ Women Writers Resource Project at Emory University.</p>
       </revisionDesc>
    </teiHeader>
 <text>
-<front></front>
+<front/>
 <body>
 <pb n="1"/>
 <div id="fairsex001" type="Section" n="1">
@@ -72,17 +72,14 @@ Women Writers Resource Project at Emory University.</p>
 <p>Your Commands can never Fail to Oblige barely by being Yours that
 Indearing and they desire such Charms from their Original.  You Trust
 not <gap reason="illegible" extent="2 words" resp="gs"/> these borrow'd Beauties but Endow them with intrinsick Excellence; like First Principles, they are Embrac'd as soon as Propos'd for the Reason of them is self Evident.</p>
-<p>One would Contemplate the Ladies methinks, of meer Choice and <gap
-reason="illegible" extent="7 words" resp="gs"/>so Divine Subject; especially, <hi rend="italics">Madam!</hi> who
+<p>One would Contemplate the Ladies methinks, of meer Choice and <gap reason="illegible" extent="7 words" resp="gs"/>so Divine Subject; especially, <hi rend="italics">Madam!</hi> who
 
 <pb n="2"/>
 has the Advantage of Knowing You, and can thereby inrich his Mind with so bright a Train of Ideas. But when moreover, You Require it, Will not the very Stones Obey! Will not Matter itself dissolve into Meditation!</p>
 <p>I am a wonderful <unclear reason="smudged text" resp="gs">Instance</unclear> my Self, of the greatness of your Power; that never Thought in my Life, but upon your <unclear reason="smudged text" resp="gs">Account</unclear>; and <unclear reason="smudged text" resp="gs">never</unclear> Thought of any thing beside You, but at your Command; even what I am now doing for its Birth, acknowledges your Authority; and for its Success upon your influence.</p>
-<p>Of all the Parts of the Creation that are <gap reason="illegible"
-extent="1 word" resp="gs"/> either through Ignorance or Humour, none
+<p>Of all the Parts of the Creation that are <gap reason="illegible" extent="1 word" resp="gs"/> either through Ignorance or Humour, none
 suffer so notoriously as the Ladies; and the Reason is because the
-same degree of Contempt, consider'd absolutely and in it self, is <gap
-reason="illegible" extent="1 word" resp="gs"/> aggravated always <gap reason="illegible" extent="8 lines" resp="gs"/>great One.</p>
+same degree of Contempt, consider'd absolutely and in it self, is <gap reason="illegible" extent="1 word" resp="gs"/> aggravated always <gap reason="illegible" extent="8 lines" resp="gs"/>great One.</p>
 <p><gap reason="illegible" extent="3 lines" resp="gs"/>
 
 <pb n="3"/>
@@ -110,13 +107,10 @@ hardly need of such a Limitation; it being impossible for her, to do
 us any service by misemploying or abusing her Natural Powers; and she
 contributes not at all to our happiness, so long as she continues to
 Impair her own. Hence it is, that this general View I have given of
-her Duty (how Unlucky soever it may prove in the <unclear
-reason="smudged print" resp="gs">end</unclear>)promises at least
-Hopefully enough; wherein <gap reason="smudged print" extent="1 word"
-resp="gs"/> occurs nothing to Displease the Ladies, nor any thing to
+her Duty (how Unlucky soever it may prove in the <unclear reason="smudged print" resp="gs">end</unclear>)promises at least
+Hopefully enough; wherein <gap reason="smudged print" extent="1 word" resp="gs"/> occurs nothing to Displease the Ladies, nor any thing to
 offend us: But the whole Perfromance on their side is easy, and the
-Assistance it procures ourselves, compleat. For nothing <unclear
-reason="smudged print" resp="gs">testifies</unclear> a Duty to be
+Assistance it procures ourselves, compleat. For nothing <unclear reason="smudged print" resp="gs">testifies</unclear> a Duty to be
 truly <unclear reason="smudged print" resp="gs">Sensed</unclear> so much as when it contains no Difficulty, nor any thing Disagreeable, and yet fully answers the Ends of its <unclear reason="smudged print" resp="gs">Institution</unclear>. How applicable this is to the pesent Case, will appear in the Conclusion of this Argument.</p>
 
 <pb n="7"/>
@@ -220,8 +214,7 @@ Elocution.</p>
 of the Thing: Unless it were first possible for Contraries to be reconcil'd, or all men thought alike of the same subject.</p>
 <p>It is without question a Providetnial contrivance, that we are all made to think in a different manner from one another: the Advantage of it is particularly visible in the case of Beauty, and our different conceptions of it. For, did every Woman appear Equally charming in the Eyes of every Man; nothing, 'tis likely, would be able to set bounds to Lust and Debauchery, besides Death or Impotence.</p>
 <p>The Blessings of handsom Women among us Bears, methinks, some kind
-of Resemblance with that of Manna to the <hi
-rend="italic">Israelites</hi>. For tho' 'tis true every Particle of
+of Resemblance with that of Manna to the <hi rend="italic">Israelites</hi>. For tho' 'tis true every Particle of
 That, had a capacity, they say, of Suiting with every Palate; whereas
 'tis not every Woman can make herself to be Admir'd of all and so the
 <orig reg="comparison" resp="gs">comparsion</orig> Fails; there is
@@ -269,9 +262,7 @@ casion indeed of Triumph over the other. If we pretend to any real piece of know
 <p>Love is the Foundation of Happiness, and it's Perfection: the Pleasures of Earth are owing to it, and so are the Joys of Heaven. The measure of our Happiness is proportioned to the Charms of our Beloved Object; for the more agreeable, That, the more intense our affections are, and Our selves by consequence, so much the more happy.</p>
 
 <pb n="23"/>
-<p>All Objects, Consider'd <gap reason="faded text" extent="1 word"
-resp="gs"/> Amiable,<gap reason="faded text" extent="2 words"
-resp="gs"/> our Affections, we find, just to the same Pitch, nor
+<p>All Objects, Consider'd <gap reason="faded text" extent="1 word" resp="gs"/> Amiable,<gap reason="faded text" extent="2 words" resp="gs"/> our Affections, we find, just to the same Pitch, nor
 <unclear reason="faded text" resp="gs">Produce</unclear> in us Equal Degrees of Pleasure. One great Reason of this is, because they all Differ in Nature and Capacity; and Consequently Act not upon our Minds in the same Manner, and with Equal advantage; But Each according to it's proper Nature, and Subordinate Powers. Some, for Instance, gain our Affections purely upon the account of what they are in themselves; and by the Force of their Intrinsick, and inherent Excellencies, without any particular Endearment, or further Recommendation; such are things Inanimate, as curious Pictures, Beautiful Edifices, and the like: or Even Rational Creatures them selves; so far as they are only Propos'd to us with their Natural, or Necessary Qualifications. Such objects under so Imperfect a Notion as this, can at best but provoke a very Feeble Passion, a Mixture perhaps of some Love, and more admiration. Other Objects advance with yet a stronger Charm; such as in it self is more Powerful than all the Rest, and when in Conjunction with them, is Irresistable; These strike with a Double advantage; They not only shine with absolute and Intrinsick Glory; They but Voluntarily Exert It too. In short,they return our Love, and strengthen that Passion in our selves, by the Additional Powers of their own; and we become the very same thing to what we Love, which it's self is to us. This is the Time, when Mutual Desires of Union begin to grow
 
 <pb n="24"/>
@@ -345,4 +336,3 @@ when it occasions most Vexation and Pains. Thus I have knowne Persons pretend to
 </body>
 </text>
 </TEI.2>
-

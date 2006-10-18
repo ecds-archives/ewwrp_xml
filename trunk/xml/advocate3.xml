@@ -1,10 +1,9 @@
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?><TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>The Woman's Advocate, Volume 3, an electronic edition.</title>
-            <author><name type="person" reg="Tomlinson, William
-P.">William P. Tomlinson, Editor</name></author>
+            <author><name type="person" reg="Tomlinson, William P.">William P. Tomlinson, Editor</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>

@@ -1,4 +1,4 @@
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?><TEI.2>
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -132,8 +132,7 @@ I.  <lb/>ACCOUNT OF ELIZABETH'S FAMILY.</head>
 life's short history was rendered peculiarly interesting by
 circumstances of no common occurrence.  Her father, Mr. John Jones,
 whose Indian name is <hi rend="italic">Tyentenegen</hi>, is an Indian
-of the Oojebway<ref target="anon_memoir.002n1">*</ref> <note
-place="foot" id="anon_memoir.002n1">*Commonly called Chippeway.</note> nation, and brother to the Rev. Peter Jones,
+of the Oojebway<ref target="anon_memoir.002n1">*</ref><note place="foot" id="anon_memoir.002n1">*Commonly called Chippeway.</note>  nation, and brother to the Rev. Peter Jones,
 otherwise <hi rend="italic">Kahkewaquonaby</hi>, known as a Missionary
 to many in this country as well as amongst his own people.  The mother
 of Elizabeth, whose maiden name was Christiana Brant, was a

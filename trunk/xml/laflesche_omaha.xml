@@ -1,10 +1,9 @@
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?><TEI.2>
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
             <title>Omaha Legends and Tent Stories, an electronic edition.</title>
-            <author><name type="person" reg="La Flesche,
-Susette">Susette La Flesche (Bright Eyes)</name></author>
+            <author><name type="person" reg="La Flesche, Susette">Susette La Flesche (Bright Eyes)</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
@@ -107,9 +106,9 @@ legends, while she listened with rapt attention, until my grandmother bade her g
             <p>These legends have never been published, with the exception of one which was published in <hi rend="italic">The Critic</hi>. I have taken them down fresh from the lips of my father, mother and grandmother. I suppose legends something like them have been published from time to time by people from other tribes. These are Omaha legends.</p>
             <p>Bright Eyes.</p>
             <p>I.-THE BABES IN THE WOODS.</p>
-            <p>Once on a time,<ref target="laflesche_omaha.002.st1">1</ref> there stood a tent all alone by itself in the woods, and in it lived a man, his wife, and their two children, a little girl and boy. One morning he combed his wife's hair<ref target="laflesche_omaha.002.st2">2</ref> carefully, braided it, painted red the parting of her hair, and painted red her cheeks. Then he started out to hunt all day.</p>
+            <p>Once on a time,<ref target="laflesche_omaha.002.st1">1</ref><note id="laflesche_omaha.002.st1" n="1">"Once on a time," <hi rend="italic">Agsthe</hi>, the word with which Indian legends begin, "one time," or "once on a time," just like the English phrase.</note> there stood a tent all alone by itself in the woods, and in it lived a man, his wife, and their two children, a little girl and boy. One morning he combed his wife's hair<ref target="laflesche_omaha.002.st2">2</ref><note id="laflesche_omaha.002.st2" n="2">"Combed his wife's hair." In many tribes the men always comb their wives' hair and braid it. They use for this purpose a brush made of small twigs of stiff grass.</note> carefully, braided it, painted red the parting of her hair, and painted red her cheeks. Then he started out to hunt all day.</p>
             <p>He killed a deer and brought it home with him at night. When he saw his wife he saw that her hair, which he had combed so smoothly on starting out, had become all rumpled, and was in a sad state, while nearly all the paint had been rubbed off her cheeks. He wondered at it, but made no comment.</p>
-            <p>The next day he combed his wife's hair as usual and started out again. When he came home at night with more game, he noticed again that her hair was rumpled and the paint gone. Still he kept silent. On the third day, the same things occurred as on the two preceding days. On the fourth morning,<ref target="laflesche_omaha.002.st3">3</ref> the man said to himself, I wonder what the meaning of all this is? After he had combed her hair he started out apparently to hunt as before, but when he had gone a little way he turned back and hid near the tent, in order to find out what his wife did that disordered her hair so. After a while his wife came out of the tent and walked away through the woods. He followed her, concealing himself as he went, lest she should turn and see him.</p>
+            <p>The next day he combed his wife's hair as usual and started out again. When he came home at night with more game, he noticed again that her hair was rumpled and the paint gone. Still he kept silent. On the third day, the same things occurred as on the two preceding days. On the fourth morning,<ref target="laflesche_omaha.002.st3">3</ref><note id="laflesche_omaha.002.st3" n="3">"Fourth morning." The number "four" is a sacred number among Indians. In their religious legends things are always repeated four times. It is also used as an indefinite.</note> the man said to himself, I wonder what the meaning of all this is? After he had combed her hair he started out apparently to hunt as before, but when he had gone a little way he turned back and hid near the tent, in order to find out what his wife did that disordered her hair so. After a while his wife came out of the tent and walked away through the woods. He followed her, concealing himself as he went, lest she should turn and see him.</p>
             <p>Of a sudden a bear came out from the thick undergrowth, and going up to her, took her head in his two great paws and commenced to pat it from side to side as though it were a ball. Too frightened to stop to think that his wife, finding the bear harmless, might have been amusing herself with it in his absences, he raised his bow and shot at the bear, but the arrow struck her as well as the bear, and killed her. When he saw her lying there dead, he realized what he had done, and was horror-struck.</p>
             <p>"No one must ever know what I have done," he said to himself.</p>
             <p>On his starting out he had taken some meat, for his noonday meal, and this he hurriedly cut into strips, convenient for eating, and hung on the branches of a tree, near where the body of his dead wife lay. Then he went back to his tent where his two motherless children were at play. He said to them: " You know that oak-tree, where your mother took you once? On it you will find hanging some meat which I have placed there for you to eat."</p>
@@ -136,10 +135,10 @@ the branches as their father had said, but just as they were about to eat it, th
             <p>Then the children went hand-in-hand away from the camp, and they came to a little tent that stood by itself, far off from the main camp. An old woman who was living all alone, came to the tent door and saw the two children standing near, and she said to them:</p>
             <p>"0h! grandchildren, I am glad to see you, but what are you doing here all alone?"</p>
             <p>Then the children told her all their story, and how the people of the camps had told them to go away, because they were so bad.</p>
-            <p>The old woman said, "Come in and sit down here!" And she gave them the guests' place<ref target="laflesche_omaha.002.st4">4</ref> in the middle of the tent, and gave them something to eat; and after they had eaten, she spread a robe on the ground for them, and they went to sleep.</p>
+            <p>The old woman said, "Come in and sit down here!" And she gave them the guests' place<ref target="laflesche_omaha.002.st4">4</ref><note id="laflesche_omaha.002.st4" n="4">"Guests' place." The place reserved for guests in an Indian tent, is opposite the place of entrance. Those to whom they wish to show respect or honor are invited to sit there.</note> in the middle of the tent, and gave them something to eat; and after they had eaten, she spread a robe on the ground for them, and they went to sleep.</p>
             <p>Now near the camp was a great body of water, so wide that they could not see the farther shore. While the children were asleep, the father said to the people:</p>
             <p>"Those children are monsters. If the tribe stay here, I am afraid they will harm some of the people. Come and let us go to the other side of this big water, where they cannot reach us!"</p>
-            <p>All the people believed him, and they got ready to start, but before they started, they took glue-sticks<ref target="laflesche_omaha.002.st5">5</ref> and stuck the children's eyelids together while they were asleep, to keep them from following. Then they ordered the old woman not to awaken the children, but to get ready to go with them. The old woman, after they had gone out, gathered together a quantity of provisions, dug a pit near the sleeping children, and, filling it with the provisions, covered it with grass and earth, then followed the tribe as they crossed the water. When the people were all gone across the water, the little boy awoke first. He tried to open his eyes and could not, and he called out:</p>
+            <p>All the people believed him, and they got ready to start, but before they started, they took glue-sticks<ref target="laflesche_omaha.002.st5">5</ref><note id="laflesche_omaha.002.st5" n="5">"Glue sticks." In every Indian tent in the old time, there were always "glue sticks." The glue is generally made from parts of the turtle. A stick about two feet long, is put into it as it cools, and slowly turned around until it sticks fast, in shape like an egg. The glue is used to fasten the feathers on the arrows, and for other purposes. To use it, they only have to dip the stick in warm water.</note> and stuck the children's eyelids together while they were asleep, to keep them from following. Then they ordered the old woman not to awaken the children, but to get ready to go with them. The old woman, after they had gone out, gathered together a quantity of provisions, dug a pit near the sleeping children, and, filling it with the provisions, covered it with grass and earth, then followed the tribe as they crossed the water. When the people were all gone across the water, the little boy awoke first. He tried to open his eyes and could not, and he called out:</p>
             <p>"Oh! sister, I cannot open my eyes."</p>
             <p>She said, "Neither can I open my eyes."</p>
             <p>As they lay there a mouse ran once across them and back again, and they said nothing. Then the mouse ran across them and back again. This time the little girl said:</p>
@@ -148,11 +147,13 @@ the branches as their father had said, but just as they were about to eat it, th
             </p>
             <p>"Oh! you hateful mouse, why have you no pity on us when we are so helpless? You run over us in this way as though you were mocking us."</p>
             <p>The mouse answered: "I wanted to help you get your eyes open. Why do you scold me?"</p>
-            <p>"Oh! Grandmother,"<ref target="laflesche_omaha.002.st6">6</ref> the girl exclaimed, "have pity on us and open our eyes, but first of all open my little brother's eyes!"</p>
+            <p>"Oh! Grandmother,"<ref target="laflesche_omaha.002.st6">6</ref><note id="laflesche_omaha.002.st6" n="6"><p>"Oh! Grandmother." I know of nothing which is so understood by all classes of whites, as the Indian habit of saying "Father," "Grandfather," "Grandmother," etc. It is simply a title of respect, and means, when used in this way, nothing more than "Sir," or "Madam." They never say "<hi rend="italic">Great</hi> Father" when speaking of the President, as the interpreters always render it, but "Grand Father."</p>
+            <p>Indian relationship is extended to very remote degrees, and is regulated by such complicated laws that it takes long and severe study to understand it. The following gives only a mere idea of its complexity:</p>
+            <p>First cousins are called uncles and aunts. A son of a nephew is called grandson. A great uncle on the female side is called uncle. A great uncle on the male side is called grandfather. A third cousin on the female side is a nephew or niece to the second cousin on the male side, and grandson to the fourth cousin on the same side. A step-nephew to an uncle, is a son-in-law to that uncle and all his children, grandchildren and great grandchildren, and brother-in-law to the children, grandchildren and great grandchildren of his wife's mother and all the children, grandchildren and great grandchildren of his wife's aunts. A man marrying into a family is grandfather to the children of his wife's brother to the latest generation. The first child of a wife's brother is her son or daughter, the others, grandchildren, and so on, <hi rend="italic">ad infinitum</hi>. So they always address each other by their relationship title; names are seldom heard.</p></note> the girl exclaimed, "have pity on us and open our eyes, but first of all open my little brother's eyes!"</p>
             <p>Then the mouse rubbed the boy's eyes with its little paws, and they opened.</p>
             <p>"Oh! I can see now, sister," cried the little boy.</p>
             <p>Then the mouse performed the same office for the girl's eyes. The children thanked the mouse, and the little girl said:</p>
-            <p>"Grandmother, for this kind help which you have given us, you shall have ever hereafter for your food the underground beans."<ref target="laflesche_omaha.002.st7">7</ref>
+            <p>"Grandmother, for this kind help which you have given us, you shall have ever hereafter for your food the underground beans."<ref target="laflesche_omaha.002.st7">7</ref><note id="laflesche_omaha.002.st7" n="7">There is a bean, very much like the common butter bean, which grows under ground. These the field mice gather in great quantities and store in holes in the ground. The Indians get bushels of them by robbing these stores, very much after the same fashion that we take honey from the bees.</note>
             </p>
             <p>This is how the ground-mice came to store the under-ground beans for their winter food.</p>
             <p>When the mouse had gone away, the girl and the boy went toward the camp to find the old woman. The tents were all gone, and not a human being was in sight. They saw the broad trail which led to the water, and the girl said to her brother:</p>
@@ -165,13 +166,21 @@ the branches as their father had said, but just as they were about to eat it, th
             <p>The two children lived alone in this place for a long time.</p>
             <p>When the boy was almost grown up, he said to his sister:</p>
             <p>"Sister, can't you make me a bow and some arrows?"</p>
-            <p>His sister answered: "Yes, brother. Let us go to the deserted camp and see if we cannot find a broken knife." <ref target="laflesche_omaha.002.st8">8</ref>
+            <p>His sister answered: "Yes, brother. Let us go to the deserted camp and see if we cannot find a broken knife." <ref target="laflesche_omaha.002.st8">8</ref><note id="laflesche_omaha.002.st8" n="8">"A broken knife." Indians used originally for knives, sharp flint stone which was fastened with thongs to a handle of wood. The knife part often fell out and was lost.</note>
             </p>
-            <p>When they had hunted and found a broken knife, they also found pieces of sinew<ref target="laflesche_omaha.002.st9">9</ref> with which to make the cord for the bow, and feathers with which to wing the arrows.</p>
+            <p>When they had hunted and found a broken knife, they also found pieces of sinew<ref target="laflesche_omaha.002.st9">9</ref><note id="laflesche_omaha.002.st9" n="9">"Sinew." This is the Indian thread. It is taken from each side of the backbone of the buffalo, elk, deer, antelope, and horse. That taken from the deer is the best. It is hung up, dried, and then torn into threads. These are twisted together for bow strings and for other purposes where a small, stout cord is needed.</note> with which to make the cord for the bow, and feathers with which to wing the arrows.</p>
             <p>On the morning after the bow and the arrows were finished, the boy said:</p>
             <p>"Sister, I shall go out hunting to-day!"</p>
             <p>His sister gave him his bow and arrows, and he started out. On this first day of his hunt he killed a little speckled bird.</p>
-            <p>Toward evening, his sister, sitting alone in the tent, heard his voice singing in the distance, and this was the song he sang as he travelled homewards:<ref target="laflesche_omaha.002.st10">10</ref>
+            <p>Toward evening, his sister, sitting alone in the tent, heard his voice singing in the distance, and this was the song he sang as he travelled homewards:<ref target="laflesche_omaha.002.st10">10</ref><note id="laflesche_omaha.002.st10" n="10"><p>The tune to which this is sung is exceedingly pretty and the Indians never tire hearing its repetition. The words in the original are very musical. The third verse, which is introduced a little further on in the story, is the easiest to write in our English alphabet.
+
+                 <q> <lg type="stanza">
+                     <l n="1">"Tangaho, tangaha adaden,</l>
+                     <l>Seinda chaskati roin,</l>
+                     <l>Ta athetho, tangaha,</l>
+                     <l>Ta athetho, tangaha."</l>
+                  </lg></q></p>
+               </note>
             </p>
             <p>
                <pb n="25 Omaha Legends and Tent-Stories"/>
@@ -222,28 +231,18 @@ the branches as their father had said, but just as they were about to eat it, th
          <div id="laflesche_omaha.002" type="Notes">
             <docAuthor>Tibbles, T. H.</docAuthor>
             <head>Notes</head>
-               <note id="laflesche_omaha.002.st1" n="1">"Once on a time," <hi rend="italic">Agsthe</hi>, the word with which Indian legends begin, "one time," or "once on a time," just like the English phrase.</note>
-               <note id="laflesche_omaha.002.st2" n="2">"Combed his wife's hair." In many tribes the men always comb their wives' hair and braid it. They use for this purpose a brush made of small twigs of stiff grass.</note>
-               <note id="laflesche_omaha.002.st3" n="3">"Fourth morning." The number "four" is a sacred number among Indians. In their religious legends things are always repeated four times. It is also used as an indefinite.</note>
-               <note id="laflesche_omaha.002.st4" n="4">"Guests' place." The place reserved for guests in an Indian tent, is opposite the place of entrance. Those to whom they wish to show respect or honor are invited to sit there.</note>
-               <note id="laflesche_omaha.002.st5" n="5">"Glue sticks." In every Indian tent in the old time, there were always "glue sticks." The glue is generally made from parts of the turtle. A stick about two feet long, is put into it as it cools, and slowly turned around until it sticks fast, in shape like an egg. The glue is used to fasten the feathers on the arrows, and for other purposes. To use it, they only have to dip the stick in warm water.</note>
-         <note id="laflesche_omaha.002.st6" n="6"><p>"Oh! Grandmother." I know of nothing which is so understood by all classes of whites, as the Indian habit of saying "Father," "Grandfather," "Grandmother," etc. It is simply a title of respect, and means, when used in this way, nothing more than "Sir," or "Madam." They never say "<hi rend="italic">Great</hi> Father" when speaking of the President, as the interpreters always render it, but "Grand Father."</p>
-            <p>Indian relationship is extended to very remote degrees, and is regulated by such complicated laws that it takes long and severe study to understand it. The following gives only a mere idea of its complexity:</p>
-            <p>First cousins are called uncles and aunts. A son of a nephew is called grandson. A great uncle on the female side is called uncle. A great uncle on the male side is called grandfather. A third cousin on the female side is a nephew or niece to the second cousin on the male side, and grandson to the fourth cousin on the same side. A step-nephew to an uncle, is a son-in-law to that uncle and all his children, grandchildren and great grandchildren, and brother-in-law to the children, grandchildren and great grandchildren of his wife's mother and all the children, grandchildren and great grandchildren of his wife's aunts. A man marrying into a family is grandfather to the children of his wife's brother to the latest generation. The first child of a wife's brother is her son or daughter, the others, grandchildren, and so on, <hi rend="italic">ad infinitum</hi>. So they always address each other by their relationship title; names are seldom heard.</p></note>
+               
+               
+               
+               
+               
+         
             
             
-               <note id="laflesche_omaha.002.st7" n="7">There is a bean, very much like the common butter bean, which grows under ground. These the field mice gather in great quantities and store in holes in the ground. The Indians get bushels of them by robbing these stores, very much after the same fashion that we take honey from the bees.</note>
-               <note id="laflesche_omaha.002.st8" n="8">"A broken knife." Indians used originally for knives, sharp flint stone which was fastened with thongs to a handle of wood. The knife part often fell out and was lost.</note>
-               <note id="laflesche_omaha.002.st9" n="9">"Sinew." This is the Indian thread. It is taken from each side of the backbone of the buffalo, elk, deer, antelope, and horse. That taken from the deer is the best. It is hung up, dried, and then torn into threads. These are twisted together for bow strings and for other purposes where a small, stout cord is needed.</note>
-               <note id="laflesche_omaha.002.st10" n="10"><p>The tune to which this is sung is exceedingly pretty and the Indians never tire hearing its repetition. The words in the original are very musical. The third verse, which is introduced a little further on in the story, is the easiest to write in our English alphabet.
-
-                 <q> <lg type="stanza">
-                     <l n="1">"Tangaho, tangaha adaden,</l>
-                     <l>Seinda chaskati roin,</l>
-                     <l>Ta athetho, tangaha,</l>
-                     <l>Ta athetho, tangaha."</l>
-                  </lg></q></p>
-               </note>
+               
+               
+               
+               
          </div>
       </body>
    </text>
