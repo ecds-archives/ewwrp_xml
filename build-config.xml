@@ -13,10 +13,13 @@
 
 <!-- info necessary for loading & deleting data in exist -->
  <db>
-   <server>wilson.library.emory.edu</server>
+   <server>
+        <test>wilson.library.emory.edu</test>
+        <production>bohr.library.emory.edu</production>
+   </server>
    <port>8080</port>
    <collection>ewwrp</collection>
-   <user>rsutton</user>
+   <user>ahickco</user>
    <password>test</password>
  </db>
 
