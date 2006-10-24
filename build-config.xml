@@ -1,5 +1,6 @@
 <config>
  <input>/home/rsutton/buildarea/wwrp-docs</input> 
+ <format>TEI</format>	<!-- TEI, EAD, etc -->
 
  <!-- settings used for sgml parsing -->
  <dtd>
