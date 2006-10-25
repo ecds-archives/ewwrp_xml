@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2>
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd"><TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,12 +50,17 @@ Women Writers Resource Project at Emory University.</p>
             <rs type="geography">Great Britain</rs>
             <date>1700-1799</date>
          </creation>
+	 <langUsage>
+	   <language id="fr">French</language>
+	   <language id="lat">Latin</language>
+	   <language id="eng">English</language>
+	 </langUsage>
       </profileDesc>
       <revisionDesc>
          <change>
             <date>2005</date>
             <respStmt>
-               <name>Gitanjali Shahani</name>
+               <name id="gs">Gitanjali Shahani</name>
                <resp>Staff</resp>
             </respStmt>
             <item>XML tags inserted in compliance with TEI guidelines using TEILITE.</item>
@@ -883,7 +888,7 @@ must write:---an agreeable visit must be shortened or a <foreign lang="fr" rend=
 procure condemnation, by communicating my spleen to my readers.</p>
 <p>One species of relief is however reserved for us laborers in literature; this is the occasional aid of correspondents, who kindly now and then interpose their lucubrations, and afford us a day's respite. Of such assistance, I cannot say I have not my share: I now experience the comfort of it, and as I know not how more gratefully to acknowledge the favor, I shall comply with the injunction of early publication, first intreating my polite readers' forgiveness for the rank of those I introduce to them.</p>
 
-<quote><text><body><div id="pharos800" type="Letter"><opener><salute>SIR,</salute></opener>
+<quote><text><body><div id="pharos850" type="Letter"><opener><salute>SIR,</salute></opener>
 <p>YESTERDAY at dinner I hears my lady say as there is a book a writing every two days in a week, in the which whomsomever has any complaints may write. Now, sir, this is just the
 
 <pb n="130 THE PHAROS No. XIII"/>
