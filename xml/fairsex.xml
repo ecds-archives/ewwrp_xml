@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2>
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd"><TEI.2>
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -50,12 +50,15 @@ Women Writers Resource Project at Emory University.</p>
             <rs type="geography">Great Britain</rs>
             <date>1700-1799</date>
          </creation>
+	 <langUsage>
+	   <language id="fr">French</language>
+	 </langUsage>
       </profileDesc>
       <revisionDesc>
          <change>
             <date>2006</date>
             <respStmt>
-               <name>Gitanjali Shahani</name>
+               <name id="gs">Gitanjali Shahani</name>
                <resp>Staff</resp>
             </respStmt>
             <item>XML tags inserted in compliance with TEI guidelines using TEILITE.</item>
