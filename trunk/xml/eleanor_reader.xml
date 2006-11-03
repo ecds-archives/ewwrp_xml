@@ -82,14 +82,13 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
    </teiHeader>
    <text>
       <body>
+         <pb n="(1)"/>
+
          <div id="eleanor_reader.001" type="Prose">
             <docAuthor>Eleanor, Lady</docAuthor>
             <head>Reader, the heavy hour at hand . . .</head>
             <docDate>London: s.n., 1648</docDate>
             <bibl> London 1648.</bibl>
-            <p>
-               <hi rend="center">(1)</hi>
-            </p>
             <p>READER,</p>
             <p>
                <hi rend="italic">THe heavy </hi> hour at hand, <hi rend="italic">that it should not </hi> as a Thief surprize us in the night, Babylons <hi rend="italic">scattering whirlwind our final or utter blow; or lest should say, </hi> There had not a Prophet been amongst them, <hi rend="italic">could not refrain giving thee warning, though </hi> like rolling the restles stone, <hi rend="italic">prove but </hi> labor in vain. </p>
