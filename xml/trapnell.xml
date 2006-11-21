@@ -94,7 +94,6 @@ pages. EEB 263:E:224(3) TT 39:E.224(3)</bibl>
       </revisionDesc>
    </teiHeader>
    <text>
-      <front/>
       <body>
          <div id="trapnell.001" type="Essay">
             <head>Strange and Wonderful<lb/>
@@ -112,8 +111,7 @@ the last PARLIAMENT.</p>
 Trance, without taking any sustenance, except a cup of small Beer once
 in 24 hours: during which time, she uttered many things herein
 mentioned, relating to the Go- vernors, Churches, Ministry,
-Universities, and all the three Nations; full of Wonder and Ad-
-miration, for all that shall read and peruse the same.</p>
+Universities, and all the three Nations; full of Wonder and Admiration, for all that shall read and peruse the same.</p>
             <p>LONDON:<lb/> Printed for ROBERT SELE, MDCLIV. 
 <pb n="3"/>
             </p>
@@ -311,6 +309,5 @@ to Mark lane in London in health and strenghth.</p>
             <p>FINIS.</p>
          </div>
       </body>
-      <back/>
    </text>
 </TEI.2>

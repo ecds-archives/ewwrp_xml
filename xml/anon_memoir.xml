@@ -116,9 +116,7 @@ UPPER CANADA.</title>
 PUBLISHED BY JOHN MASON, 14, CITY-ROAD:  AND SOLD AT 66,
 PATTERNOSTER-ROW.</bibl>
             <p>Is it well with the child?  It is well!-2 Kings iv, 26.</p>
-            <div id="anon_memoir.002" type="Chapter">
-               <docAuthor>Anonymous</docAuthor>
-               <docDate>1838</docDate>
+            <div id="anon_memoir.002" type="Chapter" n="1">
                <head>Chapter
 I.  <lb/>ACCOUNT OF ELIZABETH'S FAMILY.</head>
                <epigraph>
@@ -246,9 +244,7 @@ prepared to meet her again in that bright world of glory, where are
 gathered from all nations, people, kindred, and tongues, those who
 fear God and love Jesus Christ.</p>
             </div>
-            <div id="anon_memoir.003" type="Chapter">
-               <docAuthor>Anonymous</docAuthor>
-               <docDate>1838</docDate>
+            <div id="anon_memoir.003" type="Chapter" n="2">
                <head>Chapter
 II.  <lb/>DESCRIPTION OF ELIZABETH'S BIRTH-PLACE AND EARLY
 CHILDHOOD.</head>
@@ -407,9 +403,7 @@ wisdom's way;</l>
 may trust to all they say."</l>
                </lg>
             </div>
-            <div id="anon_memoir.004" type="Chapter">
-               <docAuthor>Anonymous</docAuthor>
-               <docDate>1838</docDate>
+            <div id="anon_memoir.004" type="Chapter" n="3">
                <head>Chapter
 III.  <lb/>ELIZABETH'S EARLY PIETY.</head>
                <epigraph>
@@ -577,9 +571,7 @@ better care and happier home in heaven.</p>
                   <l>Legions of angels can't confine me there."</l>
                </lg>
             </div>
-            <div id="anon_memoir.005" type="Chapter">
-               <docAuthor>Anonymous</docAuthor>
-               <docDate>1838</docDate>
+            <div id="anon_memoir.005" type="Chapter" n="4">
                <head>Chapter
 IV.  <lb/>ELIZABETH'S PREMATURE DEATH.</head>
                <epigraph>
@@ -768,8 +760,6 @@ grave's repose,</l>
                </lg>
             </div>
             <div id="anon_memoir.006" type="Chapter">
-               <docAuthor>Anonymous</docAuthor>
-               <docDate>1838</docDate>
                <head>LINES.<lb/>
                   <hi rend="italic">Addressed by a friend to Mr. John Jones, on
 hearing that his little Girl was drowned in the River Credit.</hi>

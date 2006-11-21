@@ -119,8 +119,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             </div>
             <pb n="10 FLOWER OF YOUTH"/>
             <div id="flower02" type="Poem">
-               <head rend="center">THE LOWLANDS OF FLANDERS</head>
-               <head rend="center">
+               <head rend="center">THE LOWLANDS OF FLANDERS<lb/>
                   <hi rend="italic">(An Old Song Resung)</hi> 
                </head>
                <lg type="stanza">
@@ -360,7 +359,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             </div>
             <pb n="20 FLOWER OF YOUTH"/>
             <div id="flower06" type="Poem">
-               <head rend="center">&#x003E;THE BRIDE</head>
+               <head rend="center">THE BRIDE</head>
                <lg type="stanza">
                   <l>WEAVE me no wreath of orange blossom, </l>
                   <l rend="indent">No bridal white shall me adorn; </l>
