@@ -410,8 +410,7 @@
             </div>
             <div id="lest09" type="Poem">
                <pb n="90 LEST WE FORGET"/>
-               <head rend="center">MEDIATION IN WAR-TIME</head>
-               <head rend="center">(<hi rend="italic">After St. Anselm.</hi>)</head>
+               <head rend="center">MEDIATION IN WAR-TIME<lb/>(<hi rend="italic">After St. Anselm.</hi>)</head>
                <lg type="stanza">
                   <l>IF Thou, Lord God, willest to judge</l>
                   <l>This Thy most piteous clay,</l>
@@ -541,8 +540,7 @@
             </div>
             <div id="lest12" type="Poem">
                <pb n="99 LEST WE FORGET"/>
-               <head rend="center">A RE ALBERTO.</head>
-               <head rend="center">Saluto Italico.</head>
+               <head rend="center">A RE ALBERTO.<lb/>Saluto Italico.</head>
                <lg type="stanza">
                   <l>O ALBERTO, biondo e leggendario re,</l>
                   <l>Che n&#x00E8; lusinga menzognera ammalia</l>
