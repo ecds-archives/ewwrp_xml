@@ -94,7 +94,7 @@ Printing press in <name rend="italic">Cornhill</name>,
 being bid meddle with our distaff, for I have heard it affirmed by
 those who have lived in <orig reg="foreign" resp="gs">forraign</orig> parts, that Merchants and other trades men have no other Book-keepers then their Wives: who by this means (the Husband dying) are well acquainted with the nature and manner of the trade, and are so certain how, and where their stock is; that they need not be beholden to servants or friends for guidance.</p>
 <p>And for telling us that the government of the House
-
+<seg type="catch">apper</seg>
 <pb n="2"/>
 appertains to us, and the trades to our Fathers or Husbands; (under
 favour) the one is to be minded, and the other not neglected, for
@@ -115,7 +115,7 @@ with these mean things, whilst by gaining or saving an estate you
 shall never be out of capacity to store your selves more abundantly
 with those trifles, then your own. industry in such matters could have
 ever blest ye<corr sic="" resp="gs">.</corr></p>
-<p rend="right-justify">And</p>
+<ab type="catch">And</ab>
 <pb n="3"/>
 <p>And now Gentlewomen I give you those rudiments of Accounts, which are the subject of this little pamphlet and transmit this learning to you the best I can, in the self same manner as it came to me.</p>
 <p>Know then that my Parents were very careful to cause me to learn writing and <hi rend="italic">Arithmetick</hi>, and in that I proceeded as far as Reduction, the Rule of Three and Practice, with other Rules, for without the knowledge of these I was told I should not be capable of Trade and Book-keeping and in these I found no discouragement for though <hi rend="italic">Arithmetick</hi> set my brains at work, Yet there was much delight in seeing the end, and how each question produced a fair answer and informed me of things I knew not.</p>
@@ -1190,11 +1190,10 @@ brewing</cell>
 </table>
 
 <p>Thus much for the particular Account of the Expences in <hi rend="italic">January</hi>, amounting to 21l 17s 11d. Which (being past and allowed) I am required to draw out in another form, and to make out, in particulars, how much thereof is Expended in Meat, how much in Bread and Meal, how much in Fish, &amp;c. And so to sub divide, and branch out this Account into as many parcels as is convenient, to shew which way my Money goes, and put me upon Considering how I may lessen my Expences for the time to come. The Form of this Account, is as followeth.</p>
-<p>See the Reason of the Figures preceding the Column of Money in <hi rend="italic">pag.</hi> 14.</p>
-<!-- there is a page that is not encoded that we could show as a
-figure, but we need to digitize it
-<figure entity=""></figure>
--->
+<p>See the Reason of the Figures preceding the Column of Money in <hi
+rend="italic">pag.</hi> 14.</p><ab type="catch">Page</ab>
+
+<figure entity="advice" rend="inline"><figDesc>Image of Page 13</figDesc></figure>
 <pb n="14"/>
 <p>I know not any thing that wants Explanation in these two several Accounts, except the Reason of the Figures preceding each Summe of Money: The use thereof is this. In the first Account, <hi rend="italic">pag.</hi> 4. The first Article is 4<hi rend="italic">d</hi>. paid for a Book; and the note of Reference thereto is 12. To shew that you have that Sum, and that parcel past to Account in page t 2. And in page 12, under the Title of Books and Schooling, I find the number of Reference to be 4, shewing that the Paid Entry of 4d. for a Book, was there Originally Entred, <hi rend="italic">viz.</hi> in <hi rend="italic">pag.</hi> 4.</p>
 <p>Now, why all this, you'l say?</p>
