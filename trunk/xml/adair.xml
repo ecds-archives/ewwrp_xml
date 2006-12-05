@@ -2,7 +2,7 @@
    <teiHeader type="text" status="new" TEIform="teiHeader">
       <fileDesc TEIform="fileDesc">
          <titleStmt TEIform="titleStmt">
-            <title TEIform="title">Tahlequah, an electronic edition.</title>
+            <title TEIform="title">Tahlequah, an electronic edition</title>
             <author TEIform="author"><name type="person" reg="Adair, Lena Harnage" TEIform="name">Lena
 	    Harnage Adair</name></author>
             <respStmt TEIform="respStmt">

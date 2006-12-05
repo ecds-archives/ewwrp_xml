@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Memoirs of Madame de Motteville, Volume I, an electronic edition.</title>
+            <title>Memoirs of Madame de Motteville, Volume I, an electronic edition</title>
             <author><name type="person" reg="Motteville, Madame de">Madame de Motteville</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
@@ -55,7 +55,7 @@
 	     <list>
 	       <item>Women authors, French--19th Century.</item>
 	       <item>France--History--Louis XIV, 1643-1715.</item>
-	       <item>France--Court and Courtiers.</item>
+	       <item>France--Court and courtiers.</item>
 	     </list>
 	   </keywords>
 	 </textClass>
