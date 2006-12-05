@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Charity Bowery, an electronic edition.</title>
+            <title>Charity Bowery, an electronic edition</title>
             <author><name type="person" reg="Child, Lydia Maria Francis, 1802-1880">Lydia Maria Child</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
@@ -30,7 +30,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <title>Emoy Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Child, Lydia Maria.  Charity Bowery.  <publisher>Liberty Bell</publisher>, 25 Cornhill, <date>1839</date> (vol. 1).  American Periodical Series 1800-1850 microfilm.  APS 1207 Liberty Bell Volumes 1-13 (1839-52) reel 491. </bibl>
+            <bibl>Child, Lydia Maria.  Charity Bowery.  <publisher>The
+	   Liberty Bell</publisher>, 25 Cornhill, <date>1839</date> (vol. 1).  American Periodical Series 1800-1850 microfilm.  APS 1207 Liberty Bell Volumes 1-13 (1839-52) reel 491. </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

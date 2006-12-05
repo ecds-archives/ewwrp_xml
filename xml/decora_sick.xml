@@ -2,8 +2,9 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>The Sick Child.  A Story, an electronic edition.</title>
-            <author><name type="person" reg="De Cora, Angel">Angel De Cora (Henook-Makhewe-KeleNaka [sic])</name></author>
+            <title>The Sick Child.  A Story, an electronic edition</title>
+            <author><name type="person"
+	    reg="Henook-Makhewe-Kelenaka">Henook-Makhewe-Kelenaka (Angel De Cora)</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
@@ -33,7 +34,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
          <sourceDesc>
             <bibl>De Cora, Angel (Henook-Makhewe-KeleNaka [sic]). The Sick Child.  A
 Story.
-<publisher>Harper's Magazine</publisher> 98 (February <date>1899</date>): 446-448.</bibl>
+<publisher>Harper's New Monthly Magazine</publisher> 98 (February <date>1899</date>): 446-448.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
