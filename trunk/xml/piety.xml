@@ -77,7 +77,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>To gull the fond and unexperienc'd fool;</l>
 <l>Like patch, or paint, 'tis artfully design'd</l>
 <l>To hide, or cover the defective mind;</l>
-
+<l><seg type="catch">As</seg></l>
 <pb n="4"/>
 <l>As bragadoceos seldom dare to fight,</l>
 <l>As fops are never perfectly polite;</l>
@@ -96,7 +96,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>'Be not on helpless innocence severe;</l>
 <l>'Let what you say sufficiently appear,</l>
 <l>'And make your railing by your reason clear.<corr sic="" resp="gs">'</corr></l>
-
+<l><seg type="catch">'What</seg></l>
 <pb n="5"/>
 <l>'What you require, sufficiently I'll do,</l>
 <l>'Sweet Sir! by reason, by example too;</l>
@@ -115,7 +115,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>Unconscionable jades! who lov'd the game;</l>
 <l>And wou'd have all the joy--without the blame.</l>
 </lg>
-
+<l><seg type="catch">I'll</seg></l>
 <pb n="6"/>
 <lg type="stanza">
 <l rend="indent">I'll slightly pass th' <unclear reason="blurred text"><hi rend="italic">Ephesian</hi></unclear> matron too,</l>
@@ -136,7 +136,7 @@ Women Writers Resource Project at Emory University.</p>
 <lg type="stanza">
 <l rend="indent">Such things, I say, I'll pass regardless by,</l>
 <l>As trifles, matters of mere raillery;</l>
-
+<l><seg type="catch">But</seg></l>
 <pb n="7"/>
 <l>But mention those of whom kind rumour tells</l>
 <l>Far better things, and calls such miracles!</l>
@@ -155,7 +155,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>And not so fit to tempt her as to snare;</l>
 <l>0r else he took her in a moody vein</l>
 <l>When spleen her heart and vapours seiz'd her brain;</l>
-
+<l><seg type="catch">And</seg></l>
 <pb n="8"/>
 <l>And then the lady (past redemption ill)</l>
 <l>Her precious blood might meer madness spill</l>
@@ -171,7 +171,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>And the gallant well answer'd her desire;</l>
 <l>Had she (the deed committed) still been sure</l>
 <l>Her reputation wou'd no blot endure;</l>
-
+<l><seg type="catch">The</seg></l>
 <pb n="9"/>
 <l>The resolute, the celebrated bride</l>
 <l>Had kill'd herself------before she had deny'd!</l>
@@ -191,7 +191,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>Their indiscretion, had her fame betray'd:</l>
 <l>(For youngsters, as 'tis known, in such a case,</l>
 <l>Have too much vanity, too little grace)</l>
-
+<l><seg type="catch">She</seg></l>
 <pb n="10"/>
 <l>She might have thought the place to publick eyes</l>
 <l>Too much expos'd, and fear'd more lurking spies <unclear reason="blurred text" resp="gs">:</unclear></l>
@@ -207,6 +207,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>As in a faithful mirrour may be seen,</l>
 <l>What the most famous were, or would have been.</l>
 </lg>
+<ab type="catch">Then</ab>
 <pb n="11"/>
 <lg type="couplet">
 <l rend="indent">Then let us leave what ancient records tell,</l>
@@ -228,7 +229,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>The <unclear reason="blurred characters">scorn</unclear> jayls, and refuse of mankind!</l>
 <l>But 'twas his perfect want of merit mov'd</l>
 <l>Her heart, and that by sympathy she lov'd;</l>
-
+<l><seg type="catch">Of</seg></l>
 <pb n="12"/>
 <l>Of all the various creatures upon earth,</l>
 <l>They most abhor-----a man of real, worth!</l>
@@ -247,7 +248,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>Or cruising, search'd the rough, <hi rend="italic">Atlantic</hi> main,</l>
 <l>While he, thro' danger, fame and riches sought,</l>
 <l>E'er to his home his purchases he brought;</l>
-
+<l><seg type="catch">The</seg></l>
 <pb n="13"/>
 <l>The pious lady had the prudent care,</l>
 <l>Not to be unprovided-----of an heir!</l>
@@ -266,7 +267,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>A common-prayer book hurl'd into the flames,</l>
 <l>And this (more priz'd) did carefully conceal,</l>
 <l>So much their l------y did surpass their zeal!</l>
-
+<l><seg type="catch">Some</seg></l>
 <pb n="14"/>
 <l>Some curious maids have found the gentle way</l>
 <l>To sooth their fancies with delicious play,</l>
@@ -283,7 +284,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>To keep them safe from this contagious ill:</l>
 <l>Not youths with wit, with beauty and estate,</l>
 <l>(Over the fell so prevalantly great!)</l>
-
+<l><seg type="catch">Tempt</seg></l>
 <pb n="15"/>
 <l>Tempt female frailty with successful ease,</l>
 <l>Like the pernicious fellowship of these!</l>
@@ -302,7 +303,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>That there, alike untam'd desires shou'd range:</l>
 <l>Not clime nor distance inclination change!</l>
 </lg>
-
+<ab type="catch">A la</ab>
 <pb n="16"/>
 <lg type="stanza">
 <l rend="indent">A lady fair, to wealthy <hi rend="italic">India's</hi> shore,</l>
@@ -318,7 +319,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>To traffick there, as freely as the best;</l>
 <l>As they sought riches! she pursu'd delight;</l>
 <l>And came not thither to resign her right;</l>
-
+<l><seg type="catch">Thus,</seg></l>
 <pb n="17"/>
 <l>Thus boldly dealt with country and with town,</l>
 <l>Op'ning her warehouse; yellow, black and brown,</l>
@@ -333,7 +334,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>Nineteen encounter'd, and maintain'd, the field,</l>
 <l>And did but barely to the twenti'th yield.</l>
 </lg>
-
+<ab type="catch">Oh!</ab>
 <pb n="18"/>
 <lg type="stanza">
 <l rend="indent">Oh! rampant, and triumphant <hi rend="italic">British</hi> dame!</l>
@@ -352,7 +353,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>And ----fly, with unexpressible affright,</l>
 <l>From reason's clear, and well discov'ring light.</l>
 </lg>
-
+<ab type="catch">Now</ab>
 <pb n="19"/>
 <lg type="stanza">
 <l rend="indent">Now let us take a short and general view</l>
@@ -371,7 +372,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>And both devotion, and diversion share:</l>
 <l>Whenever they awake from dreaming o'er</l>
 <l>The light occurrences that pass'd before,</l>
-
+<l><seg type="catch">If</seg></l>
 <pb n="20"/>
 <l>If the preceeding night, they've lost at play,</l>
 <l>Or have been baulk'd of their expected prey,</l>
@@ -388,7 +389,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>More conquests; or, at least th' acquir'd maintain:</l>
 <l>While morning holds, before the instrutive glass,</l>
 <l>The serious hours, with pious care they pass;</l>
-
+<l><seg type="catch">Till</seg></l>
 <pb n="21"/>
 <l>Till all the mass of dress, in order mov'd,</l>
 <l>The tempter is exaltedtaltod'ly improv'd;</l>
@@ -405,7 +406,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>To plot, salute, to see, and to be seen;</l>
 <l>Or cure, by sleep, the vapours, or the spleen.</l>
 </lg>
-
+<ab type="catch">Some</ab>
 <pb n="22"/>
 <lg type="stanza">
 <l rend="indent">Some few, indeed, with more devotion, make</l>
@@ -426,7 +427,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>The soil, the stain, and scum of all the rest,</l>
 <l>Is, in their judgment, and their choice, the best.</l>
 </lg>
-
+<ab type="catch">Some</ab>
 <pb n="23"/>
 <lg type="stanza">
 <l rend="indent">Some go to church, with charitable mind,</l>
@@ -445,7 +446,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>And freedom is, thro' jealousy, restrain'd;</l>
 <l>The church is, by intriguing females, made</l>
 <l>The frequent mart of love's lascivious trade;</l>
-
+<l><seg type="catch">Whither</seg></l>
 <pb n="24"/>
 <l>Whither, some compact to commence, they range,</l>
 <l>And make the house of G---d the D-----l's exchange!</l>
@@ -461,7 +462,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>Often accommodated her desire;</l>
 <l>For tho' free commerce with the world was stopp'd,</l>
 <l>And publick trade forbid---they interlop'd.</l>
-
+<l><seg type="catch">Tho'</seg></l>
 <pb n="25"/>
 <l>Tho' this immurement was a vain pretence,</l>
 <l>Nor suited real piety, or sense!</l>
@@ -483,7 +484,7 @@ Women Writers Resource Project at Emory University.</p>
 <lg type="stanza">
 <l>Yet, not to take advantage of the crimes</l>
 <l>Committed in the dusk of former times;</l>
-
+<l><seg type="catch">I will</seg></l>
 <pb n="26"/>
 <l>I will, with curious, and impartial care,</l>
 <l>Slightly remark what modern zealots are.</l>
@@ -501,7 +502,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>Seek joys to come, who here enjoyments share?</l>
 <l>But wretched nymphs, whom cruel love has cross'd;</l>
 <l>Their maiden toys, or reputations loss'd;</l>
-
+<l><seg type="catch">Who</seg></l>
 <pb n="27"/>
 <l>Who are in mind, or body thus distress'd</l>
 <l>Whit weight of poverty (that's conscience) press'd;</l>
@@ -522,7 +523,7 @@ Women Writers Resource Project at Emory University.</p>
 <lg type="stanza">
 <l rend="indent">Well fare the merry rovers of the street,</l>
 <l>Who freely bite, and cully whom they meet;</l>
-
+<l><seg type="catch">Who</seg></l>
 <pb n="28"/>
 <l>Who make licentious reprobates their prey;</l>
 <l>More honest, more religious too are they,</l>
@@ -542,7 +543,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>Man's innocence once fatally surpris'd;</l>
 <l>(To <hi rend="italic">Eve</hi> the doctrine of delusion taught</l>
 <l>E'er since improv'd with ever-zealous thought)</l>
-
+<l><seg type="catch">The</seg></l>
 <pb n="29"/>
 <l>The lurking sex, by stratagems like these</l>
 <l>Upon th' unknowing, or unguarded seize;</l>
@@ -564,7 +565,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>But is there not hypocrisy in dress?</l>
 <l>To falshood here, that they're reputed so,</l>
 <l>Say, do not much even the fairest owe?</l>
-
+<l><seg type="catch">False</seg></l>
 <pb n="30"/>
 <l>False is their beauty, falshood is their trade;</l>
 <l>They seem for that, and for perdition made.</l>
@@ -583,7 +584,7 @@ Women Writers Resource Project at Emory University.</p>
 <l>They'd break the feeble yoke of woman-kind,</l>
 <l>Regain their native privilege of mind,</l>
 <l>And be the lords they were at first design'd!</l>
-
+<l><seg type="catch">Yet,</seg></l>
 <pb n="31"/>
 <l>Yet, if amongst the sly deceivers, are,</l>
 <l>Any sincerely virtuous, pious, fair;</l>
@@ -601,8 +602,8 @@ Women Writers Resource Project at Emory University.</p>
 <l>And be from rocks and sands securely clear;</l>
 <l>Most circumspect behoves the man to be,</l>
 <l>Who trusts his all to this uncertain sea;</l>
-
-<pb n="31"/>
+<l><seg type="catch">Let</seg></l>
+<pb n="32"/>
 <l>Let him his faculties of mind awake,</l>
 <l>His reason use, and strict enquiries make</l>
 <l>To shun the dreadful woe attending his mistake.</l>
