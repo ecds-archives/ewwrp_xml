@@ -2,7 +2,7 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>Memoir Of Elizabeth Jones, a Little Indian Girl, Who Lived at
+            <title><seg type="short-title">Memoir Of Elizabeth Jones</seg>, a Little Indian Girl, Who Lived at
 the River-Credit Mission, Upper Canada, an electronic edition</title>
             <author><name type="person" reg="Anonymous">Anonymous</name></author>
             <respStmt>
