@@ -86,7 +86,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
          <div id="truth_1.001" n="Sojourner Truth" type="Essay">
             <docAuthor>Staff</docAuthor>
             <head>
-               <hi rend="center">Sojourner Truth</hi>
+               <hi rend="center"><seg type="short-title">Sojourner Truth</seg></hi>
                <lb/>
                <hi rend="center">From the Detroit Post.</hi>
                <lb/>
