@@ -106,11 +106,9 @@ TEILITE</item>
       <body>
          <div id="anon_memoir.001" type="Book">
             <docAuthor>Anonymous</docAuthor>
-            <head>
-               <title>MEMOIR OF ELIZABETH
-JONES, A LITTLE INDIAN GIRL, WHO LIVED AT THE RIVER-CREDIT MISSION,
-UPPER CANADA.</title>
-            </head>
+            <head><seg type="short-title">MEMOIR OF ELIZABETH
+JONES</seg>, A LITTLE INDIAN GIRL, WHO LIVED AT THE RIVER-CREDIT MISSION,
+UPPER CANADA.</head>
             <docDate>1838</docDate>
             <bibl>LONDON:
 PUBLISHED BY JOHN MASON, 14, CITY-ROAD:  AND SOLD AT 66,
@@ -760,7 +758,7 @@ grave's repose,</l>
                </lg>
             </div>
             <div id="anon_memoir.006" type="Chapter">
-               <head>LINES.<lb/>
+               <head><seg type="short-title">LINES.</seg><lb/>
                   <hi rend="italic">Addressed by a friend to Mr. John Jones, on
 hearing that his little Girl was drowned in the River Credit.</hi>
                </head>

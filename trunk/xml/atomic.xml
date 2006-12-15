@@ -261,7 +261,7 @@
             <docAuthor>Partington, Leigh Tillman. </docAuthor>
             <head>Timeline for Margaret (Lucas) Cavendish</head>
             <div id="atomic.006" type="Timeline">
-               <head>Cavendish:  Selected Western Events Surrounding
+               <head>Cavendish:  <seg type="short-title">Selected Western Events</seg> Surrounding
 	       the Life of Margaret (Lucas) Cavendish, Duchess of
 	       Newcastle <ref target="atomic.008.n16">16</ref><note
 	       id="atomic.008.n16" n="16" type="ed" place="end">All
@@ -1599,7 +1599,7 @@ parts, <hi rend="italic">and</hi> factions.</title>
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
                   <title>  
-                     <hi rend="italic">All</hi> sharpe Atomes <hi rend="italic">do run to the </hi>Center, <hi rend="italic">and</hi>
+                     <seg type="short-title"><hi rend="italic">All</hi> sharpe Atomes</seg> <hi rend="italic">do run to the </hi>Center, <hi rend="italic">and</hi>
                      <lb/>
                      <hi rend="italic">those that settle not, by reason of the straitnesse</hi>
                      <lb/>
