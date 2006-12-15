@@ -90,10 +90,10 @@ London: <publisher>Printed for me, Elinor James</publisher>, <date>1687</date>. 
    <text>
       <body>
          <div id="james.001" type="Text">
-            <head>Mrs. James's<lb/>
+            <head><seg type="short-title">Mrs. James's<lb/>
 VINDICATION<lb/>
 OF THE<lb/>
-Church of England,<lb/>
+Church of England</seg>,<lb/>
 IN AN<lb/>
 ANSWER<lb/>
 TO A<lb/>
