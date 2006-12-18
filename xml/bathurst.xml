@@ -92,7 +92,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div id="bathurst.001" type="Text">
-            <head>An Expostulatory appeal to
+            <head><seg type="short-title">An Expostulatory appeal</seg> to
 the Professors of Christianity, Joyned in Community with 
 Samuel Ansley.</head>
             <p>It having pleased the Lord (whose I am, and whom I serve) to call
