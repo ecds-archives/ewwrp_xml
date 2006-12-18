@@ -218,7 +218,7 @@
                <p>The atomic poems may be read without the context of Cavendish's life and the Scientific Revolution as background, but I think an understanding of the seventeenth century is vital to a true understanding of the science of Margaret Cavendish and why she should not be dismissed, either from the history of literature, nor from the history of science. As a woman writing poetry about atomic theory in the seventeenth century, she is assuredly unique, but as a woman re-visioning her environment and creating various utopian visions of both her world and other worlds, she allows the twentieth-century reader a picture of a creative, and sadly under-educated, seventeenth-century mind.</p>
             </div>
             <div id="atomic.004" type="Section">
-               <head>Cavendish: A Note on the Text </head>
+               <head>A Note on the Text </head>
                <p>I have modernized the lowercase &#x0022;s&#x0022; and &#x0022;f,&#x0022; and regulated the spacing. All spelling, capitalization, italics, and punctuation are faithful to the 1653 original. The footnotes were written by Margaret Cavendish and printed as marginalia only in the 1653 edition. I have used the margin for glossing vocabulary and line numbers, and so moved Cavendish's notes to the bottom of the page. Although later editions of texts are generally considered more authoritative, this does not hold true for Cavendish's early manuscripts. In the 1660s, Cavendish, according to Mendelson, hired an &#x0022;anonymous drudge to 'correct' the stylistic errors of her earliest works for second editions&#x0022; (42). We cannot be sure how closely she supervised this editing process, and considering her opinion of her own grammatical skills, I think she would have left it in the hands of an expert. Also, as noted earlier in the introduction, by the time <title>Philosophicall Fancies </title>was published later in 1653, Cavendish had discarded her theory of atoms. Therefore, if she was responsible for any changes made in the later two editions, those changes might reflect her disinterest, and in fact, disbelief, in atomic theory. I have chosen to work with the 1653 edition for these reasons: the poems are purely Cavendish's work, reflecting her enthusiasm for her own interpretation of atomic theory.<ref target="atomic.008.n18">18</ref><note id="atomic.008.n18" n="18" type="ed" place="end">Douglas Grant assumes that Cavendish corrected her earlier editions herself, but he also prefers the earliest editions:  &#x0022;The revisions were technically an improvement but, as they were insufficient in themselves to raise her poetry higher, they hindered the sincerity and spontaneity of her expression by their superficial polish. Rough and ragged though they are, her poems are to be preferred in their earlier shape&#x0022; (113)</note> Comparing the same poem from each edition illustrates the minor differences:</p>
                <p>Cavendish:  <hi rend="bold">
                      <hi rend="italic">Of</hi> Aire. </hi>
@@ -503,12 +503,10 @@
 	</div>
  
          <div id="atomic.009" type="Texts">
-            <p>Cavendish:  The Atomic Poems: Margaret (Lucas) Cavendish</p>
+            <p>The Atomic Poems: Margaret (Lucas) Cavendish</p>
             <div id="atomic.010" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>To<hi rend="italic"> Natural </hi>Philosophers. </title>
-               </head>
+               <head>To<hi rend="italic"> Natural </hi>Philosophers. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <l>IF any <hi rend="italic">Philosophers</hi> have written of these <hi rend="italic">Subjects</hi>, as I</l>
@@ -627,9 +625,7 @@
             <div id="atomic.011" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
-                  <title>
-                     <hi rend="italic">A World made by</hi> Atomes. </title>
-               </head>
+                     <hi rend="italic">A World made by</hi> Atomes. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -657,11 +653,9 @@
             <div id="atomic.012" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
-                  <title>
                      <hi rend="italic">The foure principall</hi> Figur'd Atomes <hi rend="italic">make</hi>
                      <lb/>
-                     <hi rend="italic">the foure</hi> Elements, <hi rend="italic">as</hi> Square, Round,<lb/> Long, <hi rend="italic">and</hi> Sharpe. </title>
-               </head>
+                     <hi rend="italic">the foure</hi> Elements, <hi rend="italic">as</hi> Square, Round,<lb/> Long, <hi rend="italic">and</hi> Sharpe. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -718,9 +712,7 @@
             <div id="atomic.013" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
-                  <title>
-                     <hi rend="italic">Of</hi> Aiery Atomes. </title>
-               </head>
+                     <hi rend="italic">Of</hi> Aiery Atomes. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -742,9 +734,7 @@
             <div id="atomic.014" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
-                  <title>
-                     <hi rend="italic">Of </hi>Aire. </title>
-               </head>
+                     <hi rend="italic">Of </hi>Aire. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -764,9 +754,7 @@
             <div id="atomic.015" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
-                  <title>
-                     <hi rend="italic">Of </hi>Earth. </title>
-               </head>
+                     <hi rend="italic">Of </hi>Earth. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -794,9 +782,7 @@
             <div id="atomic.016" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
-                  <title>
-                     <hi rend="italic">The weight of </hi>Atomes. </title>
-               </head>
+                     <hi rend="italic">The weight of </hi>Atomes. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -812,9 +798,7 @@
             <div id="atomic.017" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
-                  <title>
-                     <hi rend="italic">The bignesse of</hi> Atomes: </title>
-               </head>
+                     <hi rend="italic">The bignesse of</hi> Atomes: </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -838,10 +822,8 @@
             </div>
             <div id="atomic.018" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title> 
-                     <hi rend="italic">The joyning of severall</hi> Figur'd Atomes<hi rend="italic">make other</hi> Figures. </title>
-               </head>
+               <head> 
+                     <hi rend="italic">The joyning of severall</hi> Figur'd Atomes<hi rend="italic">make other</hi> Figures. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -855,9 +837,7 @@
             <div id="atomic.019" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
-                  <title>
-                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Change. </title>
-               </head>
+                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Change. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -874,10 +854,8 @@
             </div>
             <div id="atomic.020" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  All things last, or dissolve, according to the 
-Composure <hi rend="italic">of</hi> Atomes. </title>
-               </head>
+               <head>  All things last, or dissolve, according to the 
+Composure <hi rend="italic">of</hi> Atomes. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -914,10 +892,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.021" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title> 
-                     <hi rend="italic">Of Loose</hi> Atomes. </title>
-               </head>
+               <head> 
+                     <hi rend="italic">Of Loose</hi> Atomes. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -929,8 +905,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
                </lg>
             </div>
             <div id="atomic.022" type="Poem">
-               <docAuthor>Cavendish:  Change <hi rend="italic">is made by several</hi>-figur'd Atomes, <hi rend="italic">and</hi> Motion. </docAuthor>
-               <head>Change <hi rend="italic">is made by several</hi>-figur'd Atomes, <hi rend="italic">and</hi> Motion. </head>
+               <docAuthor>Cavendish, Margaret (Lucas).</docAuthor>
+               <head><seg type="short-title">Change</seg> <hi rend="italic">is made by several</hi>-figur'd Atomes, <hi rend="italic">and</hi> Motion. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -944,10 +920,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.023" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">Of</hi> Sharpe Atomes. </title>
-               </head>
+               <head>  
+                     <hi rend="italic">Of</hi> Sharpe Atomes. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -963,10 +937,7 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.024" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Flame. </title>
-               </head>
+               <head><seg type="short-title"><hi rend="italic">What</hi> Atomes</seg> <hi rend="italic">make</hi> Flame.</head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -983,10 +954,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.025" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title> 
-                     <hi rend="italic">Of</hi> Fire <hi rend="italic">and</hi> Flame. </title>
-               </head>
+               <head> 
+                     <hi rend="italic">Of</hi> Fire <hi rend="italic">and</hi> Flame. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1010,9 +979,7 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             <div id="atomic.026" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
                <head>
-                  <title>
-                     <hi rend="italic">Of</hi> Fire <hi rend="italic">in the Flint</hi>.</title> 
-               </head>
+                     <hi rend="italic">Of</hi> Fire <hi rend="italic">in the Flint</hi>.</head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1034,10 +1001,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.027" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">Of the</hi> Sympathy <hi rend="italic">of</hi> Atomes. </title>
-               </head>
+               <head>  
+                     <hi rend="italic">Of the</hi> Sympathy <hi rend="italic">of</hi> Atomes. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1054,10 +1019,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.028" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">Of the</hi> Sympathy <hi rend="italic">of their</hi> Figures. </title>
-               </head>
+               <head>  
+                     <hi rend="italic">Of the</hi> Sympathy <hi rend="italic">of their</hi> Figures. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1079,10 +1042,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.029" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Vegetables, Minerals, <hi rend="italic">and</hi> Animals. </title>
-               </head>
+               <head>  
+                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Vegetables, Minerals, <hi rend="italic">and</hi> Animals. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1106,10 +1067,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.030" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Heate <hi rend="italic">and</hi> Colde. </title>
-               </head>
+               <head>  
+                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Heate <hi rend="italic">and</hi> Colde. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1126,10 +1085,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.031" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title> 
-                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Fire <hi rend="italic">to burne, and what</hi>Flame. </title>
-               </head>
+               <head> 
+                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Fire <hi rend="italic">to burne, and what</hi>Flame. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1166,13 +1123,11 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.032" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
+               <head>  
                      <hi rend="italic">What </hi>Atomes<hi rend="italic"> make the </hi>Sun<hi rend="italic">, and the </hi>Sea<hi rend="italic">, go</hi>
                      <lb/>
                      <hi rend="italic">round.</hi> 
-                  </title>
-               </head>
+                  </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1191,10 +1146,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.033" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">What </hi>Atomes<hi rend="italic"> make </hi>Life. </title>
-               </head>
+               <head>  
+                     <hi rend="italic">What </hi>Atomes<hi rend="italic"> make </hi>Life. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1213,10 +1166,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.034" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title> 
-                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Death. </title>
-               </head>
+               <head> 
+                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Death. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1234,10 +1185,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.035" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">What</hi> Atomes <hi rend="italic">cause</hi> Sicknesse.</title> 
-               </head>
+               <head>  
+                     <hi rend="italic">What</hi> Atomes <hi rend="italic">cause</hi> Sicknesse.</head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1251,10 +1200,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.036" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make a</hi> Dropsie.</title> 
-               </head>
+               <head>  
+                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make a</hi> Dropsie.</head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1268,10 +1215,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.037" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make a</hi> Consumption. </title>
-               </head>
+               <head>  
+                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make a</hi> Consumption. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1284,10 +1229,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.038" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make the</hi> wind Collick. </title>
-               </head>
+               <head>  
+                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make the</hi> wind Collick. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1303,10 +1246,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.039" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make a</hi> Palsey, <hi rend="italic">or</hi> Apoplexy. </title>
-               </head>
+               <head>  
+                     <hi rend="italic">What</hi> Atomes <hi rend="italic">make a</hi> Palsey, <hi rend="italic">or</hi> Apoplexy. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1324,11 +1265,8 @@ Composure <hi rend="italic">of</hi> Atomes. </title>
             </div>
             <div id="atomic.040" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">In all other</hi> Diseases <hi rend="italic">they are mixed, taking</hi>
-parts, <hi rend="italic">and</hi> factions.</title>
-               </head>
+               <head><seg type="short-title"><hi rend="italic">In all other</hi> Diseases</seg> <hi rend="italic">they are mixed, taking</hi>
+parts, <hi rend="italic">and</hi> factions.</head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1341,10 +1279,7 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.041" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">All things are govern'd by</hi> Atomes. </title>
-               </head>
+               <head><hi rend="italic">All things are govern'd by</hi> Atomes.</head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1364,10 +1299,8 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.042" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title> 
-                     <hi rend="italic">A</hi> warr <hi rend="italic">with</hi> Atomes. </title>
-               </head>
+               <head> 
+                     <hi rend="italic">A</hi> warr <hi rend="italic">with</hi> Atomes. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1384,9 +1317,7 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.043" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  Atomes <hi rend="italic">and</hi> Motion <hi rend="italic">fall out</hi>.</title> 
-               </head>
+               <head>  Atomes <hi rend="italic">and</hi> Motion <hi rend="italic">fall out</hi>.</head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1405,12 +1336,9 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.044" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">The agreement of some kinde of</hi> Motion, <hi rend="italic">with</hi>
+               <head><seg type="short-title"><hi rend="italic">The agreement of some kinde of</hi> Motion</seg>, <hi rend="italic">with</hi>
                      <lb/>
-                     <hi rend="italic">some kinde of</hi> Atomes. </title>
-               </head>
+                     <hi rend="italic">some kinde of</hi> Atomes.</head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1426,9 +1354,7 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.045" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  Motion <hi rend="italic">directs, while</hi> Atomes <hi rend="italic">dance</hi>. </title>
-               </head>
+               <head>  Motion <hi rend="italic">directs, while</hi> Atomes <hi rend="italic">dance</hi>. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1446,11 +1372,8 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.046" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">The difference of</hi> Atomes <hi rend="italic">and</hi> Motion, <hi rend="italic">in</hi> youth<lb/>
-                     <hi rend="italic">and</hi> age. </title>
-               </head>
+               <head><seg type="short-title"><hi rend="italic">The difference of</hi> Atomes</seg> <hi rend="italic">and</hi> Motion, <hi rend="italic">in</hi> youth<lb/>
+                     <hi rend="italic">and</hi> age.</head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1468,9 +1391,7 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.047" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  Motion <hi rend="italic">makes</hi> Atomes <hi rend="italic">a</hi> Bawd <hi rend="italic">for</hi> Figure. </title>
-               </head>
+               <head>  Motion <hi rend="italic">makes</hi> Atomes <hi rend="italic">a</hi> Bawd <hi rend="italic">for</hi> Figure. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1495,11 +1416,9 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.048" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
+               <head>  
                      <hi rend="italic">Motion</hi> and <hi rend="italic">Figure</hi> 
-                  </title>
-               </head>
+                  </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1528,10 +1447,8 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.049" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">Of the</hi> Subtlety <hi rend="italic">of</hi> Motion. </title>
-               </head>
+               <head>  
+                     <hi rend="italic">Of the</hi> Subtlety <hi rend="italic">of</hi> Motion. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1552,10 +1469,8 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.050" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  Motion <hi rend="italic">is the </hi>Life <hi rend="italic">of all things.</hi> 
-                  </title>
-               </head>
+               <head>  Motion <hi rend="italic">is the </hi>Life <hi rend="italic">of all things.</hi> 
+                  </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1572,10 +1487,8 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.051" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">Of the</hi> Center. </title>
-               </head>
+               <head>  
+                     <hi rend="italic">Of the</hi> Center. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1597,15 +1510,12 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.052" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <seg type="short-title"><hi rend="italic">All</hi> sharpe Atomes</seg> <hi rend="italic">do run to the </hi>Center, <hi rend="italic">and</hi>
+               <head><seg type="short-title"><hi rend="italic">All</hi> sharpe Atomes</seg> <hi rend="italic">do run to the </hi>Center, <hi rend="italic">and</hi>
                      <lb/>
                      <hi rend="italic">those that settle not, by reason of the straitnesse</hi>
                      <lb/>
                      <hi rend="italic">of the </hi>Place,<hi rend="italic"> flye out to the </hi>Circumference.<lb/>Sharpe Atomes <hi rend="italic">to the</hi> Center, <hi rend="italic">make a </hi>
-                     <lb/>Sun. </title>
-               </head>
+                     <lb/>Sun.</head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1630,10 +1540,8 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.053" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">In the</hi> Center Atomes <hi rend="italic">never</hi> Separate. </title>
-               </head>
+               <head>  
+                     <hi rend="italic">In the</hi> Center Atomes <hi rend="italic">never</hi> Separate. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1651,10 +1559,8 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.0541" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">If</hi> Infinite Worlds, Infinite Centers.</title> 
-               </head>
+               <head>  
+                     <hi rend="italic">If</hi> Infinite Worlds, Infinite Centers.</head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1686,10 +1592,8 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.0542" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">The</hi> Infinites <hi rend="italic">of</hi> Matter</title> 
-               </head>
+               <head>  
+                     <hi rend="italic">The</hi> Infinites <hi rend="italic">of</hi> Matter</head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1706,10 +1610,8 @@ parts, <hi rend="italic">and</hi> factions.</title>
             </div>
             <div id="atomic.055" type="Poem">
                <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
-               <head>
-                  <title>  
-                     <hi rend="italic">A World made by foure</hi> Atomes. </title>
-               </head>
+               <head>  
+                     <hi rend="italic">A World made by foure</hi> Atomes. </head>
                <docDate> 1653</docDate>
                <lg type="stanza">
                   <lb/>
@@ -1759,9 +1661,7 @@ parts, <hi rend="italic">and</hi> factions.</title>
       <back>
          <div id="atomic.057" type="bibliography">
             <docAuthor>Partington, Leigh Tillman. </docAuthor>
-            <head>
-               <title>Cavendish Bibliography</title>
-            </head>
+            <head>Cavendish Bibliography</head>
             <bibl>
                <title level="a">Alchemy.</title> 
                <title level="m">Microsoft Encarta Multimedia Encyclopedia.</title>

@@ -90,7 +90,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <bibl>London: Sidgwick and Johnson, LTD.</bibl>
             <pb n="9 JOINING THE COLOURS"/>
             <div id="flower01" type="Poem">
-               <head rend="center">JOINING THE COLOURS<lb/>
+               <head rend="center"><seg type="short-title">JOINING THE COLOURS</seg><lb/>
 	       (WEST KENTS, DUBLIN, <hi rend="italic">August</hi> 1914)</head>
                <lg type="stanza">
                   <l>THERE they go marching all in step so gay!</l>
@@ -947,7 +947,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             </div>
             <pb n="44 FLOWER OF YOUTH"/>
             <div id="flower19" type="Poem">
-               <head rend="center">TO TWO BEREAVED <lb/>
+               <head rend="center"><seg type="short-title">TO TWO BEREAVED</seg> <lb/>
 (FOR G. S. C., 20<hi rend="italic">th October, </hi>  R. S. C., 28<hi rend="italic">th October</hi>  1914)</head>
                <lg type="stanza">
                   <l>Now in your days of worst distress, </l>
@@ -1356,8 +1356,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             </div>
             <pb n="61 THE FIELDS OF FRANCE"/>
             <div id="flower31" type="Poem">
-               <head rend="center">THE FIELDS OF FRANCE<lb/>
-"<hi rend="italic">Nous avons chass&#x00E9; ce Jesus Christ"</hi> 
+               <head rend="center"><seg type="short-title">THE FIELDS OF FRANCE</seg><lb/>
+<hi rend="italic">"Nous avons chass&#x00E9; ce Jesus Christ"</hi> 
                </head>
                <lg type="stanza">
                   <l>JESUS CHRIST they chased away</l>
@@ -1636,7 +1636,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             </div>
             <pb n="72 FLOWER OF YOUTH"/>
             <div id="flower37" type="Poem">
-               <head rend="center">TO R.A.A.<lb/>
+               <head rend="center"><seg type="short-title">TO R.A.A.</seg><lb/>
 (20<hi rend="italic">th October</hi>  1914. 24<hi rend="italic">th February</hi>  1915)</head>
                <lg type="stanza">
                   <l rend="italic">Was it not a great end?</l>

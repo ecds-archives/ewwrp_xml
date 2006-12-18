@@ -93,9 +93,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
       <body>
          <div id="bryher_develop.001" type="Book">
             <docAuthor>Bryher, W. [Annie Winifred Ellerman]</docAuthor>
-            <head>
-               <title>DEVELOPMENT</title>
-A NOVEL BY W. BRYHER
+            <head><seg type="short-title">DEVELOPMENT</seg>: A NOVEL BY W. BRYHER
 WITH A PREFACE BY AMY LOWELL</head>
             <bibl>NEW YORK
 THE MACMILLAN COMPANY</bibl>

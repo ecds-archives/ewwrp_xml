@@ -296,7 +296,7 @@ succeeded in forming a New England Federation. This step is a good one, and is e
                </div>
                <pb n="7 THE WOMAN'S ERA."/>
                <div id="era3.21.13" type="Article">
-                  <head rend="center">OPEN LETTER FROM CHAIRMAN OF EX. COM. OF N.F.A.-A.W.</head>
+                  <head rend="center"><seg type="short-title">OPEN LETTER FROM CHAIRMAN</seg> OF EX. COM. OF N.F.A.-A.W.</head>
                   <docAuthor>Victoria Matthews</docAuthor>
                   <docDate>June 1896</docDate>
                   <p>Since the publication of the letters sent by the officers of the National League, many persons have written for information as to "why the National Federation refused to unite with National League?" and other questions implying that the officers of the National Federation were cognizant of the plans of the League to hold a separate convention before the announcement was made in public print. As my correspondence is <corr sic="voluminious">voluminous</corr>, and everything connected with this matter is not private but public concern, I am forced to adopt this means of answering many who have requested information concerning the matter. I beg all included under this head of personal correspondents will consider this explanation a personal reply to their queries: -- </p>
@@ -337,7 +337,7 @@ succeeded in forming a New England Federation. This step is a good one, and is e
                <div id="era3.21.16" type="Advertisement">
                   <head rend="center">The Woman's Era.<lb/>
 Souvenir Number<lb/>
-N.F.A.A.M. Convention Program<lb/>
+<seg type="short-title">N.F.A.A.M. Convention Program</seg><lb/>
 Washington Business Calendar</head>
                   <docDate>June 1896</docDate>
                   <p>
@@ -518,15 +518,15 @@ VENIE &#x0026; WATKINS, Props.</p>
                </div>
             </div>
             <div id="era3.02" n="2" type="Issue">
-               <head rend="center">The Woman's Era.</head>
-               <head rend="center">Organ of The National Federation of Afro-American Women.</head>
-               <head rend="center">Vol. III. No. 2.</head>
+               <head rend="center"><seg type="short-title">The Woman's Era</seg>.<lb/>
+               Organ of The National Federation of Afro-American Women.<lb/>
+               Vol. III. No. 2.</head>
                <opener>
                   <dateline>BOSTON, MASS., JULY, 1896.  PRICE 10 CENTS.</dateline>
                </opener>
                <div id="era3.02.01" type="List">
                   <head rend="center">NATIONAL FEDERATION OF AFRO-AMERICAN WOMEN.<lb/>
-Membership List.</head>
+<seg type="short-title">Membership List</seg>.</head>
                   <docDate>July 1896</docDate>
                   <p>
                      <hi rend="bold">Officers.</hi>
@@ -1686,13 +1686,13 @@ Is hanging breathless on our fate.</p>
                   <p>The great Clarkson's methods in bringing about the emancipation of the bondmen on English soil possess many sterling lessons for us who would carry on the present day work of emancipation among our struggling people, and should be carefully studied. One of his first steps was the formation of a committee of twelve persons for the collection and dissemination of evidence on the slave traffic. We would do well to follow in his footsteps, by the establishment of such committees to collect and disseminate evidence on the legislative enactments inimical to our interests. This could be done with great propriety in connection with the chain-gang system and the separate car law.</p>
                </div>
                <div id="era3.03.05" type="Article">
-                  <head rend="center">THE FREDERICK DOUGLASS MEMORIAL AND PILGRIMAGE ASSOCIATION.</head>
+                  <head rend="center">THE <seg type="short-title">FREDERICK DOUGLASS MEMORIAL</seg> AND PILGRIMAGE ASSOCIATION.</head>
                   <docDate>August 1896</docDate>
                   <p>This is the name adopted by a party of impromptu visitors to Anacostia on the day following the adjournment of the Federation meetings. Perhaps it was from inspiration from the surroundings; certainly it was from no prearrangement that the twenty odd callers suddenly decided to band themselves together to work for the securing of the Douglass homestead for a Mecca to which pilgrimages may be made, and in which an historical collection of anti-slavery literature and other race data may be kept. Mr. Douglass' widow was made president of the new association. A secretary and treasurer were elected, the nucleus of a fund contributed, and each club representative pledged herself to see to it that her own club kept green the memory of Mr. Douglass by fittingly celebrating his birthday on the 22nd of each February. Then the association adjourned to the vine clad porch overlooking the Potomac, and succumbed to the omnipresent and irresistible photographer.</p>
                   <pb n="5 THE WOMAN'S ERA."/>
                </div>
                <div id="era3.03.06" type="Article">
-                  <head rend="center">THEY ENTERTAINED THE FEDERATION AND PROMOTED THE SUCCESS OF THE CONVENTION.</head>
+                  <head rend="center"><seg type="short-title">THEY ENTERTAINED THE FEDERATION</seg> AND PROMOTED THE SUCCESS OF THE CONVENTION.</head>
                   <docAuthor>Josephine B. Bruce</docAuthor>
                   <docDate>August 1896</docDate>
                   <p>The Ladies' Auxiliary Association of Washington, D. C., while one of the youngest members of the Federation, having joined its ranks only a few weeks prior to the assembling of the convention, was notwithstanding one of the most enthusiastic among the large and highly creditable membership of the Federation. The auxiliary felt, in a large degree, that the Federation was its guest, and the pleasure and pride in having so noble a gathering in our home city was evinced on every hand by the ceaseless and untiring activity of our ladies.</p>
@@ -1795,7 +1795,7 @@ first love and marks a depth of soul that is a gift rather than the result of cu
                   </lg>
                </div>
                <div id="era3.03.09" type="Minutes">
-                  <head rend="center">THE FORTHCOMING MINUTES OF THE FIRST ANNUAL MEETING OF THE N.F.A.A.W.</head>
+                  <head rend="center"><seg type="short-title">THE FORTHCOMING MINUTES</seg> OF THE FIRST ANNUAL MEETING OF THE N.F.A.A.W.</head>
                   <docAuthor>Victoria Matthews</docAuthor>
                   <docDate>August 1896</docDate>
                   <p>All persons holding papers prepared for the first annual convention of the National Federation
@@ -1883,7 +1883,7 @@ matter. That union was the general desire, no one can doubt, and that in effecti
                </div>
                <pb n="11 THE WOMAN'S ERA."/>
                <div id="era3.03.16" type="Minutes">
-                  <head rend="center">FIRST MINUTES OF THE NATIONAL ASSOCIATION OF COLORED WOMEN.</head>
+                  <head rend="center"><seg type="short-title">FIRST MINUTES</seg> OF THE NATIONAL ASSOCIATION OF COLORED WOMEN.</head>
                   <docAuthor>Mary Church Terrell and Frances Jackson</docAuthor>
                   <docDate>August 1896</docDate>
                   <div id="era3.03.16.01" type="Minutes">
@@ -2508,7 +2508,7 @@ bers of both organizations, that they were willing to yield to the demand for un
                   </signed>
                </div>
                <div id="era3.04.08" type="List">
-                  <head rend="center">WAYS AND MEANS COMMITTEE OF THE NATIONAL ASSOCIATION OF COLORED WOMEN.</head>
+                  <head rend="center"><seg type="short-title">WAYS AND MEANS COMMITTEE</seg> OF THE NATIONAL ASSOCIATION OF COLORED WOMEN.</head>
                   <docDate>October and November 1896</docDate>
                   <list type="simple">
                      <item>Mrs. J. Napier Kemp, chairman, of Minneapolis, Minn.</item>
@@ -2734,7 +2734,7 @@ and the worth of others. It is one of the longest steps toward our salvation.</p
                      <p>In early December Mrs. Ruffin goes down to New Bedford to address the club that has honored her by taking her name.</p>
                   </div>
                   <div id="era3.04.13.08" type="Report">
-                     <head rend="center">CLUB SUBSCRIPTIONS TO WOMAN'S ERA RECEIVED DURING OCTOBER.
+                     <head rend="center"><seg type="short-title">CLUB SUBSCRIPTIONS</seg> TO WOMAN'S ERA RECEIVED DURING OCTOBER.
 </head>
                      <docDate>October and November 1896</docDate>
                      <list type="simple">
@@ -2797,7 +2797,7 @@ Mother's Duty," from a teacher's standpoint. Time will be allowed for a short di
                      <p>The young ladies of Morris Brown College, Atlanta, Georgia, have an excellent literary society named in honor of the wife of Bishop Abraham Grant. It is a rival of the young men's fraternity for literary honor.</p>
                   </div>
                   <div id="era3.04.15.03" type="Constitution">
-                     <head rend="center">CONSTITUTION OF THE NATIONAL JOHN BROWN MEMORIAL ASSOCIATION OF WOMEN.</head>
+                     <head rend="center"><seg type="short-title">CONSTITUTION</seg> OF THE NATIONAL JOHN BROWN MEMORIAL ASSOCIATION OF WOMEN.</head>
                      <docDate>October and November 1896</docDate>
                      <p>
                         <address>
@@ -2810,7 +2810,7 @@ Mother's Duty," from a teacher's standpoint. Time will be allowed for a short di
                   </div>
                </div>
                <div id="era3.04.16" type="Article">
-                  <head rend="center">CHICAGO'S PROVIDENT HOSPITAL AND TRAINING SCHOOL. - SOCIAL MATTERS.</head>
+                  <head rend="center"><seg type="short-title">CHICAGO'S PROVIDENT HOSPITAL</seg> AND TRAINING SCHOOL. - SOCIAL MATTERS.</head>
                   <docAuthor>Fannie Barrier Williams</docAuthor>
                   <docDate>October and November 1896</docDate>
                   <p>One of the most notable events in local affairs is the completion of the new and beautiful building for Provident Hospital and Training School for Nurses. The existence and noble purposes of this institution have been mentioned more than once in the ERA, but people not living in Chicago can scarcely appreciate how much it means to the progressive spirit of the colored people of this great city.</p>
@@ -2847,7 +2847,7 @@ story, published in many papers, concerning the reputed destitution of the daugh
                   <p>"Noah's Ark," the coming entertainment by the Charity Club, is expected to be a brave social function as well as to put lots of money into the treasury for the Charity Hospital. Jos. Lee, of Woodland Park Hotel, who catered for the Food Fair just closed at Mechanic's Building, will also serve the more select host of charity workers in the same place.</p>
                </div>
                <div id="era3.04.19" type="Filler">
-                  <head rend="center">THE WOMAN'S ERA AND AMERICAN KITCHEN MAGAZINE ONE YEAR FOR ONE DOLLAR.</head>
+                  <head rend="center"><seg type="short-title">THE WOMAN'S ERA AND AMERICAN KITCHEN MAGAZINE</seg> ONE YEAR FOR ONE DOLLAR.</head>
                   <docDate>October and November 1896</docDate>
                   <p>The publishers of the WOMAN'S ERA offer that paper and the <hi rend="italic">American Kitchen Magazine</hi>, both for one year at the price of each, one (1) dollar</p>
                   <p>This is an opportunity for our readers. The American Kitchen Magazine is well known as the best magazine in the country, dealing with household and domestic economy: its managers and staff of writers include those who are authority on these subjects: Mrs. Ellen Richardson, Mrs. Sarah Rover, Mrs. Lincoln.</p>
@@ -3500,7 +3500,7 @@ veiled the uncovered heads of the overseer and the hunters.</p>
                   <p>And who knows but what it was best?</p>
                </div>
                <div id="era3.05.16" type="Filler">
-                  <head rend="center">THE WOMAN'S ERA AND AMERICAN KITCHEN MAGAZINE ONE YEAR FOR ONE DOLLAR.
+                  <head rend="center"><seg type="short-title">THE WOMAN'S ERA AND AMERICAN KITCHEN MAGAZINE</seg> ONE YEAR FOR ONE DOLLAR.
 </head>
                   <docDate>January 1897</docDate>
                   <p>The publishers of the W0MAN'S ERA offer that paper and the <hi rend="italic">American Kitchen Magazine</hi>, both for one year at the price of each, one (1) dollar.</p>
