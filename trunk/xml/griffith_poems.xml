@@ -1124,7 +1124,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <div id="griffith_poems.10" type="Poem">
                <docAuthor>Griffith, Mattie [Martha]</docAuthor>
                <docAuthor>Browne, Mattie Griffith</docAuthor>
-               <head>To Miss Julia Dean,<lb/>
+               <head><seg type="short-title">To Miss Julia Dean</seg>,<lb/>
 ON SEEING HER AS JULIET.</head>
                <lg type="stanza">
                   <l n="1">OH, thou art wondrous fair!  I did not dream</l>
@@ -1755,7 +1755,7 @@ ON SEEING HER AS JULIET.</head>
             <div id="griffith_poems.16" type="Poem">
                <docAuthor>Griffith, Mattie [Martha]</docAuthor>
                <docAuthor>Browne, Mattie Griffith</docAuthor>
-               <head>In Memory of Mrs. Adeline K. O'Brien,<lb/>
+               <head><seg type="short-title">In Memory of Mrs. Adeline K. O'Brien</seg>,<lb/>
 ON VISTING HER HOUSE AFTER HER DEATH.</head>
                <lg type="stanza">
                   <l n="1">SHE is not here!  Alas, she is not here!</l>
@@ -2195,7 +2195,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <div id="griffith_poems.21" type="Poem">
                <docAuthor>Griffith, Mattie [Martha]</docAuthor>
                <docAuthor>Browne, Mattie Griffith</docAuthor>
-               <head>Lines to Miss -------<lb/>
+               <head><seg type="short-title">Lines to Miss -------</seg><lb/>
 ON HER MARRIAGE.</head>
                <lg type="stanza">
                   <l n="1">FAIR lady, new and holy ties are thine,</l>
@@ -2555,7 +2555,7 @@ ON HER MARRIAGE.</head>
             <div id="griffith_poems.26" type="Poem">
                <docAuthor>Griffith, Mattie [Martha]</docAuthor>
                <docAuthor>Browne, Mattie Griffith</docAuthor>
-               <head>Impromptu.<lb/>
+               <head><seg type="short-title">Impromptu.</seg><lb/>
 ON RECEIVING A MAGNOLIA FLOWER FROM THE BEAUTIFUL SALLIE W.</head>
                <lg type="stanza">
                   <l n="1">I LOVE to look on thee, oh glorious flower,</l>
@@ -2733,7 +2733,7 @@ ON RECEIVING A MAGNOLIA FLOWER FROM THE BEAUTIFUL SALLIE W.</head>
             <div id="griffith_poems.28" type="Poem">
                <docAuthor>Griffith, Mattie [Martha]</docAuthor>
                <docAuthor>Browne, Mattie Griffith</docAuthor>
-               <head>The Young Mother.<lb/>
+               <head><seg type="short-title">The Young Mother.</seg><lb/>
 AFFECTIONATELY INSCRIBED TO MRS. L. A. W., OF LITTLE ROCK.</head>
                <lg type="stanza">
                   <l n="1">OH how serenely soft that pale high brow,</l>
@@ -2905,7 +2905,7 @@ AFFECTIONATELY INSCRIBED TO MRS. L. A. W., OF LITTLE ROCK.</head>
             <div id="griffith_poems.31" type="Poem">
                <docAuthor>Griffith, Mattie [Martha]</docAuthor>
                <docAuthor>Browne, Mattie Griffith</docAuthor>
-               <head>Broken Barbiton-Withered Laurel-Wreath and Broken Heart.<lb/>
+               <head><seg type="short-title">Broken Barbiton-Withered Laurel-Wreath</seg> and Broken Heart.<lb/>
 A SCENE FROM BULWER'S ZANONI.</head>
                <lg type="stanza">
                   <l n="1">IT was the close of day upon the shores</l>
@@ -3114,7 +3114,7 @@ A SCENE FROM BULWER'S ZANONI.</head>
             <div id="griffith_poems.33" type="Poem">
                <docAuthor>Griffith, Mattie [Martha]</docAuthor>
                <docAuthor>Browne, Mattie Griffith</docAuthor>
-               <head>A Trifle to a friend,<lb/>
+               <head><seg type="short-title">A Trifle to a friend</seg>,<lb/>
 ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
                <lg type="stanza">
                   <l n="1">THOU'LT leave us! O'er the wild waves of the deep,</l>
