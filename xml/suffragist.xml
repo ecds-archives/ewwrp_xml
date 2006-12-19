@@ -408,7 +408,7 @@
          </div>
          <div id="suffragist.009" type="Article">
             <head> 
-               <hi rend="center">Shall Woman Vote?</hi>
+               <hi rend="center"><seg type="short-title">Shall Woman Vote?</seg></hi>
                <lb/>
                <hi rend="center">City Convention at Cooper Institute</hi>
             </head>
@@ -512,7 +512,7 @@
             <p>At the conclusion of Mrs. Gage's address, the meeting adjourned to meet again to-day, at the same place, at 10 A.M. and 7 1/2 P.M.</p>
          </div>
          <div id="suffragist.012" type="Article">
-            <head>The Hearing Before the Female Suffrage Committee--Addresses by Mrs. Stanton and Miss Anthony.</head>
+            <head><seg type="short-title">The Hearing</seg> Before the Female Suffrage Committee--Addresses by Mrs. Stanton and Miss Anthony.</head>
             <docDate>June 28, 1867</docDate>
             <docAuthor>Staff</docAuthor>
             <bibl>New York Tribune</bibl>
@@ -749,7 +749,7 @@
             <p>Read our articles on Wall street, and tell us if it is not a new thought for a feminine pen to stir up the Bulls and Bears as we do, to deal the master strokes we have against this whole system of stock gambling. <hi rend="italic">Entre nous</hi>, Chilicothe, we sold two hundred papers to Wall street yesterday.</p>
          </div>
          <div id="suffragist.017" type="Article">
-            <head>Grace Greenwood on the Washington Suffrage Convention.</head>
+            <head><seg type="short-title">Grace Greenwood</seg> on the Washington Suffrage Convention.</head>
             <docDate>February 4, 1869</docDate>
             <docAuthor>Staff</docAuthor>
             <bibl>The Revolution</bibl>
@@ -1229,7 +1229,7 @@
             </p>
          </div>
          <div id="suffragist.025" type="Article">
-            <head>Mrs. Elizabeth Cady Stanton Declines to Run for Congress</head>
+            <head><seg type="short-title">Mrs. Elizabeth Cady Stanton Declines</seg> to Run for Congress</head>
             <docDate>October 26, 1870</docDate>
             <docAuthor>Staff</docAuthor>
             <bibl>New York Times</bibl>
