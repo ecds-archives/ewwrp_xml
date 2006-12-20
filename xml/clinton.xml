@@ -76,7 +76,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
    <text>
       <body>
 	<div id="clinton.000" type="critical introduction">
-         <div id="clinton.001" type="Book">
+         <div id="clinton.001" type="Essay">
             <head>
                <title>The Countess of Lincolnes Nurserie</title>: A Critical Edition</head>
             <div id="clinton.002" type="Contents">
@@ -84,7 +84,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
                <head><seg type="short-title">Contents</seg> for <title>The Countess of Lincolnes Nurserie</title>: A Critical Edition</head>
                <p>
                   <hi rend="bold">Introduction</hi>:</p>
-               <p>I. "What a racket do Authors make about this": The Debate Over Maternal Breastfeeding in Early Modern England . . . I</p>
+               <p>I. "What a racket do Authors make about this": The Debate Over Maternal Breastfeeding in Early Modern England . . . ii</p>
                <p>II. "And to be short, the mothers <orig reg="milk">milke</orig> is most wholesome for the <orig reg="child">childe</orig>":  Medical Texts and Maternal Breastfeeding . . . iii</p>
                <p>III. "Sure if their breasts be <orig reg="dry">drie</orig>. . . they should fast and pray together": Breastfeeding and Moral Advice Tracts in Early Modern England . . . vii</p>
                <p>IV. "We were sensible of the neglect of duty in not having nursed her": Personal Testimony about Breastfeeding . . . xi</p>
@@ -95,8 +95,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
                   <hi rend="bold">The Text</hi>:</p>
                <p>
                   <title>The Countesse of Lincolnes Nurserie</title> . . . 1</p>
-               <pb n="ii"/>
             </div>
+               <pb n="ii"/>
             <div id="clinton.003" n="1" type="Section">
                <head><seg type="short-title">Introduction</seg><lb/>
 I.<lb/>
@@ -107,9 +107,9 @@ Maternal Breastfeeding in Early Modern England</head>
                   <q direct="unspecified">What a racket do Authors make about this!  What thwarting and contradicting, not of others only but of themselves!  What reasons do they bring, why a woman must needs nurse her own child?  Some extorted from Divinity. . . Some they have haled it head and shoulders from reason.  The Mothers milk is most convenient for the child because the child participates of her Nature. . . . Or else because the woman cannot love her child, except she give it suck her own self, which if she <orig reg="do">doe</orig> not more inhumane beast she.</q> 
                   <ref target="clinton.010.intro1">1</ref><note id="clinton.010.intro1" n="1">Nicholas Culpepper, <title>Culpepper's Midwife Enlarged</title> (London, 1684), L4v.</note>
                </p>
-               <p>Culpepper mentions the primary reasons maternal breastfeeding was encouraged-religious duty, natural law, and maternal obligation--but he also perceives the selective use of these justifications.  Although Clinton was not the first Puritan to preach about breastfeeding, she was the first woman to <hi rend="italic">publish</hi> her views on the topic, providing a rare example of a woman contributing to the predominantly male discourse about proper maternal behavior.    <pb n="iii"/>
-               </p>
+               <p>Culpepper mentions the primary reasons maternal breastfeeding was encouraged-religious duty, natural law, and maternal obligation--but he also perceives the selective use of these justifications.  Although Clinton was not the first Puritan to preach about breastfeeding, she was the first woman to <hi rend="italic">publish</hi> her views on the topic, providing a rare example of a woman contributing to the predominantly male discourse about proper maternal behavior.</p>
             </div>
+   <pb n="iii"/>
             <div id="clinton.004" n="2" type="Section">
                <head>II.<lb/>
 "And to be short, the mothers <orig reg="milk">milke</orig> is most wholesome for the <orig reg="child">childe</orig>":  
@@ -118,8 +118,18 @@ Maternal Breastfeeding in Early Modern England</head>
                   <orig reg="suck">sucke</orig> 
                   <orig reg="herself">herselfe</orig> for the mothers <orig reg="milk">milke</orig> is more convenient and agreeable to the infant then any other <orig reg="woman's">womans</orig> &#x0026; more doth nourish it, for because that in the mothers belly it was wont to the same &#x0026; fed with it." <ref target="clinton.010.intro2">2</ref><note id="clinton.010.intro2" n="2">Eucharius Rosselin, <title>The Birth of Man-Kinde: otherwise named the Womans Booke</title>. Trans. Thomas Raynald (London: 1616), L6v-L7r.  Rosselin's text, originally published in Latin in 1540, was one of the early modern period's most popular obstetrical texts, going through numerous editions between 1540 and 1700.</note>  Physicians at this time believed that breast milk was a sort of refined blood, and since the child was used to the mother's blood, it would also thrive more on her milk. <ref target="clinton.010.intro3">3</ref><note id="clinton.010.intro3" n="3">See Valerie Fildes, <title>Breasts, Bottles, and Babies: A History of Infant Feeding</title> (Edinburgh: Edinburgh University Press, 1986), 99-116.   Gail Kern Paster also discusses the importance of this theory in <title>The Body Embarrassed: Drama and the Disciplines of Shame in Early Modern England</title> (Ithaca: Cornell University Press, 1993), 198-208.</note>
                </p>
-               <p>Despite theories about the beneficial medical effects of breastfeeding, physicians more often discussed what they believed were the emotional effects of using a wet nurse: problems with the development of the child's character and the consequences of wet nursing on the mother-infant relationship.  Consequently, these commentaries frequently stray from the realm of medical advice into moral instruction.  Ambrose Paré, for instance, makes the following heated comment:<pb n="iv"/>
-               </p>
+               <p>Despite theories about the beneficial medical
+	       effects of breastfeeding, physicians more often
+	       discussed what they believed were the emotional effects
+	       of using a wet nurse: problems with the development of
+	       the child's character and the consequences of wet
+	       nursing on the mother-infant relationship.
+	       Consequently, these commentaries frequently stray from
+	       the realm of medical advice into moral instruction.
+	       Ambrose Paré, for instance, makes the following heated
+	       comment:</p>
+	       <pb n="iv"/>
+
                <p>
                   <q direct="unspecified">And moreover, mothers ought to nurse their <orig reg="own">owne</orig> children, because of the most part, they are <orig reg="far">farre</orig> more vigilant and <orig reg="careful">carefull</orig> in bringing up and attending their children than hired and mercenary nurses, which <orig reg="do">doe</orig> not <orig reg="so">soe</orig> much regard the infant as the <orig reg="gain">gaine</orig> they shall have by keeping it.  Those that <orig reg="do">doe</orig> not nurse their <orig reg="own">owne</orig> children, cannot rightly be termed mothers: for they <orig reg="do">doe</orig> not absolutely <orig reg="perform">performe</orig> the duty of a mother unto the child. . . . For this is a <orig reg="certain">certaine</orig> unnatural, imperfect and <orig reg="half">halfe</orig> 
                      <orig reg="kind">kinde</orig> of a mothers <orig reg="duty">dutie</orig>, to <orig reg="bear">beare</orig> a <orig reg="child">childe</orig> and presently to abandon or put it away as if it were forsaken.</q> 
@@ -193,9 +203,9 @@ love, health, and above all Christian duty, to prove that all mothers who are ph
                <p>Gouge also believes, though, that "many husbands will not suffer their wives to nurse their children themselves." <ref target="clinton.010.intro20">20</ref><note id="clinton.010.intro20" n="20">Ibid., K4v.</note>  Gouge does not, of course, recommend disrupting the patriarchal household order, but he does add that "[t]he <orig reg="duty">dutie</orig> on a fathers part in this respect is required that he <orig reg="encourage">incourage</orig> his wife, and <orig reg="help">helpe</orig> her with all needful things for the performance of this duty." <ref target="clinton.010.intro21">21</ref><note id="clinton.010.intro21" n="21">Ibid., L1r.</note>  Paternal objections, such as "trouble, disquiet, and <orig reg="expense">expence</orig>" carry little weight with Gouge. <ref target="clinton.010.intro22">22</ref><note id="clinton.010.intro22" n="22">Ibid.</note>  He strongly censures those husbands who prevent their wives from nursing:</p>
                <p>
                   <q direct="unspecified">The mothers <orig reg="pain">paine</orig> is the greatest: it is in comparison but a small thing that father can endure therein.  Their fault therefore must be the greater, if in any way they be an occasion of their <orig reg="children">childes</orig> putting forth to nurse: which I have the rather noted because husbands for the most part are the cause that their wives not nurse their <orig reg="own">owne</orig> children. . . . If husbands were willing that their wives should <orig reg="perform">performe</orig> this <orig reg="duty">dutie</orig> and would <orig reg="persuade">purswade</orig> and <orig reg="encourage">incourage</orig> them thereto, and afford them what <orig reg="helps">helpes</orig> they could, where one mother now nurseth her <orig reg="child">childe</orig>, twenty would do it.</q> 
-                  <ref target="clinton.010.intro23">23</ref><note id="clinton.010.intro23" n="23">Ibid., L1v.</note>
+                  <ref target="clinton.010.intro23">23</ref><note id="clinton.010.intro23" n="23">Ibid., L1v.</note></p>
                   <pb n="x"/>
-               </p>
+
                <p>Though, Gouge pushes women to nurse their children, he also impels men to support the practice so that both mother and father can perform their "bounden duty."</p>
                <p>Like the medical controversy over wet nurses, the Puritan effort promote maternal breastfeeding survived the Restoration.  Reverend Henry Newcome's 1695 <title>The Compleat Mother, Or an Earnest Perswasive to all Mothers (especially those of Rank and Quality) to Nurse their Own Children</title> makes a sustained appeal to end wet nursing.  It is the only seventeenth-century text besides <title>The Countesse of Lincolnes Nurserie</title> devoted exclusively to the duty of mothers to nurse their own children, and it is similarly directed at women of "Rank and Quality."  Labeling wealthy women who use wet nurses "impious," Newcome makes exceptions only when nursing would endanger either the mother's or the child's health. <ref target="clinton.010.intro24">24</ref><note id="clinton.010.intro24" n="24"><title>The Compleat Mother, Or an Earnest Perswasive to all Mothers (especially those of Rank and Quality) to Nurse their Own Children</title> (London, 1695), G2r-G5v.</note>
                </p>
@@ -307,27 +317,26 @@ a woman writing to other women "for the benefit of their own sex." <ref target="
                   <q direct="unspecified">Such works [women authored texts] were private and personal, and did not claim to enter upon the masculine territory of literary production.  They drew on personal experience and were addressed to an intimate circle.  As the English Countess of Lincoln Elizabeth Knevet Clinton explained, amid pages of exhortation to her daughter in law about the proper care and nurture of her children, "I leave the larger and learneder discourse here-of unto men of art, and learning: only I speak of so much as I <orig reg="read">reade</orig> and know in mine <orig reg="own">owne</orig> experience, which if any of my <orig reg="sex">sexe</orig> and condition do <orig reg="receive">receave</orig> good by, I am glad."</q> 
                   <ref target="clinton.010.intro54">54</ref><note id="clinton.010.intro54" n="54">Margaret L. King, <title>Women of the Renaissance</title> (Chicago: University of Chicago Press, 1991), 214.</note>
                </p>
-               <p>By concluding that Clinton herself restricted her work, King neglects an important literary trope.  Although Clinton's meek "I leave the larger and learneder discourse here-of unto men of art" seems to efface her authority as a writer, it is, in fact, a standard ploy of the woman writer (and of many male writers, too) in the early modern period.  As Margaret Ezell observes, "Read in this company [of amateur male writers], women authors seem no more modest than their male contemporaries; rather than pleading pressing business or spiritual concerns which prevent the author from attempting true scholarship as many male writers do, they simply plead their sex." <ref target="clinton.010.intro55">55</ref><note id="clinton.010.intro55" n="55">Margaret J.M. Ezell, <title>The Patriarch's Wife: Literary Evidence and the History of the Family</title> (Chapel Hill: University of North Carolina Press, 1987), 88.</note>  In this context, Clinton finesses a literary tactic to make her writing more effective.  By partially obscuring her own authority, Clinton seems less strident and thus more feminine, which in turn authenticates her voice and her opinions.
+               <p>By concluding that Clinton herself restricted her work, King neglects an important literary trope.  Although Clinton's meek "I leave the larger and learneder discourse here-of unto men of art" seems to efface her authority as a writer, it is, in fact, a standard ploy of the woman writer (and of many male writers, too) in the early modern period.  As Margaret Ezell observes, "Read in this company [of amateur male writers], women authors seem no more modest than their male contemporaries; rather than pleading pressing business or spiritual concerns which prevent the author from attempting true scholarship as many male writers do, they simply plead their sex." <ref target="clinton.010.intro55">55</ref><note id="clinton.010.intro55" n="55">Margaret J.M. Ezell, <title>The Patriarch's Wife: Literary Evidence and the History of the Family</title> (Chapel Hill: University of North Carolina Press, 1987), 88.</note>  In this context, Clinton finesses a literary tactic to make her writing more effective.  By partially obscuring her own authority, Clinton seems less strident and thus more feminine, which in turn authenticates her voice and her opinions.</p>
 <pb n="xxi"/>
-               </p>
+
                <p>By rhetorically manipulating her femininity, Clinton knows she confers authority on her tract:</p>
                <p>
                   <q direct="unspecified">Because it hath pleased God to <orig reg="bless">blesse</orig> me with so many children, and so caused me to observe many things falling out to mothers, and to their children; I thought it good to open my <orig reg="mind">minde</orig> concerning a <orig reg="special">speciall</orig> matter belonging to all <orig reg="child">childe</orig>-bearing women, seriously to consider of: and to manifest my <orig reg="mind">minde</orig> the better, even to write of this matter, so <orig reg="far">farre</orig> as God shall please to direct me.</q> 
                   <ref target="clinton.010.intro56">56</ref><note id="clinton.010.intro56" n="56">Clinton, <title>The Countess of Lincolnes Nurserie</title>, B1r.</note>
                </p>
                <p>At this point, she specifically situates herself as a mother speaking to other mothers--her maternal experience provides justification for publishing her views, and she does so only "so <orig reg="far">farre</orig> as God shall please to direct" her.  By the end of the tract, though, she states that her purpose in writing is "by doing my endeavor to prevent many Christian mothers from sinning in the same kind, against our most loving and <orig reg="gracious">gratious</orig> God." <ref target="clinton.010.intro57">57</ref><note id="clinton.010.intro57" n="57">Ibid., D1v.</note>  Her impetus to prevent sin by publicly lecturing women is only marginally tempered by her claim that "I write in <orig reg="modesty">modestie</orig>." <ref target="clinton.010.intro58">58</ref><note id="clinton.010.intro58" n="58">Ibid., C3v.</note>  Although she is "direct[ed]" by God, Clinton asserts herself and her moral beliefs to teach her peers.</p>
-               <p>In this light, then, Elizabeth Clinton, the Countess of Lincoln, is not merely a woman writing to other women, or a concerned mother hoping to save her daughters and grandchildren from sin and danger.  In part, she is a Christian voice speaking out to other Christians, exhorting and preaching to them about their duties to God; in part, she is a noblewoman using her place and her authority to appeal to her peers; and in part, she is a writer working to stabilize the vexed position of parents affected by the cultural ambivalence about maternal breastfeeding.  The annotated text that follows clearly demonstrates that through effective and varied rhetoric, Clinton inserts herself, her voice and opinions, into a discourse on proper and godly childbearing.
+               <p>In this light, then, Elizabeth Clinton, the Countess of Lincoln, is not merely a woman writing to other women, or a concerned mother hoping to save her daughters and grandchildren from sin and danger.  In part, she is a Christian voice speaking out to other Christians, exhorting and preaching to them about their duties to God; in part, she is a noblewoman using her place and her authority to appeal to her peers; and in part, she is a writer working to stabilize the vexed position of parents affected by the cultural ambivalence about maternal breastfeeding.  The annotated text that follows clearly demonstrates that through effective and varied rhetoric, Clinton inserts herself, her voice and opinions, into a discourse on proper and godly childbearing.</p>
 <pb n="xxii"/>
-               </p>
+
             </div>
             <div id="clinton.008" n="6" type="Preface">
                <head>VI.<lb/>
 Editorial Practice</head>
                <p>I have designed the edition which follows with both the scholar and student of early modern literature in mind.  I have left the original punctuation and spelling as they appear in the 1622 first edition.  I have, for the sake of clarity, silently emended i/j, f/s, u/v, and vv/w.  I have also retained the original orthography and italicization since they covey emphasis unavailable in purely Roman typeface.</p>
-               <p>When annotating the text, I provided extensive Biblical citation and quotation to allow the reader to more fully grasp the rich tapestry Clinton weaves using Scripture as her guide; from personal experience I also know that a reference to a Bible chapter and verse is not as instructive--due to basic laziness--as the full text of one is.  I likewise gloss  unusual vocabulary, as well as references to further reading, when I believe it would be helpful.
-<pb n="xxiii"/>
-               </p>
+               <p>When annotating the text, I provided extensive Biblical citation and quotation to allow the reader to more fully grasp the rich tapestry Clinton weaves using Scripture as her guide; from personal experience I also know that a reference to a Bible chapter and verse is not as instructive--due to basic laziness--as the full text of one is.  I likewise gloss  unusual vocabulary, as well as references to further reading, when I believe it would be helpful.</p>
             </div>
+<pb n="xxiii"/>
             <div id="clinton.009" n="7" type="Biography">
                <head>VII.<lb/>
 Biographical Essay</head>
@@ -369,9 +378,9 @@ full of care to please God, and of <orig reg="natural">naturall</orig> affection
                   <orig reg="witness">witnes</orig>, that God hath adorned you with faire tokens of his love <ref target="clinton.015.countesse4">4</ref><note id="clinton.015.countesse4" n="4">I.e., children.</note> and mercy to your <orig reg="soul">soule</orig>; As the practice of true Christian religion; dedicating your <orig reg="self">selfe</orig> to Gods service; answerablenesse to all holy commands of the holy God, which are Testimonies of Gods love, and doth challenge a very great <orig reg="esteem">esteeme</orig> from me, amongst the rest, that can truly judge and rightly <orig reg="discern">discerne</orig> what is best <ref target="clinton.015.countesse5">5</ref><note id="clinton.015.countesse5" n="5">Clinton seems to be paraphrasing Luke 12:57 here: "And why judge ye not of your fellows what is right?"  In general, Clinton seems to quote or paraphrase the 1561 Geneva Bible, rather than the Authorized Version of 1611.</note>; I am full of thoughts in this kind or of this matter: yet I say no more but this, <orig reg="Go">Goe</orig> on and prosper, Hold fast all that is good, trust in God for strength to grow <ref target="clinton.015.countesse6">6</ref><note id="clinton.015.countesse6" n="6">A general tenet, but also an oblique reference to 1 Peter 2:2-3, "As <orig reg="newborn">newborne</orig> babes desire the <orig reg="sincere">syncyre</orig> 
                      <orig reg="milk">milke</orig> of the word, that ye may <orig reg="grow">growe</orig> thereby. It so be that ye have tasted how <orig reg="bountiful">bountifull</orig> is the Lord."</note> and continue in <orig reg="faithful">faithfull</orig> obedience to his glorious majesty, And I will not cease to <orig reg="entreat">intreat</orig> the Lord of heaven, to <orig reg="power">powre</orig> 
                   <ref target="clinton.015.countesse7">7</ref><note id="clinton.015.countesse7" n="7">I.e., pour.</note> 
-                  <orig reg="abundantly">aboundantly</orig> all Blessings of heaven and earth upon you, and your children, as they increase in number.Your Ladyship: in the best and fastest <ref target="clinton.015.countesse8">8</ref><note id="clinton.015.countesse8" n="8">In this sense, "fastest" means earnest and steady (OED). <title>The Harleian Miscellany</title> reprints it as "safest," but in the UMI microfilm of the 1622 edition, it is clearly an "f."</note> love ELIZABETH LINCOLNE.
+                  <orig reg="abundantly">aboundantly</orig> all Blessings of heaven and earth upon you, and your children, as they increase in number.Your Ladyship: in the best and fastest <ref target="clinton.015.countesse8">8</ref><note id="clinton.015.countesse8" n="8">In this sense, "fastest" means earnest and steady (OED). <title>The Harleian Miscellany</title> reprints it as "safest," but in the UMI microfilm of the 1622 edition, it is clearly an "f."</note> love ELIZABETH LINCOLNE.</p>
 <pb n="4"/>
-               </p>
+
             </div>
             <div id="clinton.013" type="Preface">
                <head><seg type="short-title">Preface</seg> to the Countesse of Lincolnes Nurserie: TO THE COURTEOUS, chiefly most Christian, Reader</head>
@@ -401,9 +410,8 @@ chiefly most Christian, Reader.</p>
                   <l>Go then, Great <orig reg="book">booke</orig> of Nursing plead the Cause.</l>
                   <l>Teach High'st, lov'st all, it's Gods and Natures <orig reg="laws">lawes</orig>.</l>
                </lg>
-               <p>Thomas Lodge <ref target="clinton.015.countesse20">20</ref><note id="clinton.015.countesse20" n="20">The Brown Women Writers Draft in Process of the <title>Nurserie</title> lists the initials only here.  The UMI microfilm gives the author's full name, Thomas Lodge.  Lodge (1558-1625) was a recusant Catholic solicitor, author, privateer, and physician.  He is most famous for his 1590 romance, <title>Rosalynde</title>, one of Shakespeare's sources for <title>As You Like It</title>.</note>
+               <p>Thomas Lodge <ref target="clinton.015.countesse20">20</ref><note id="clinton.015.countesse20" n="20">The Brown Women Writers Draft in Process of the <title>Nurserie</title> lists the initials only here.  The UMI microfilm gives the author's full name, Thomas Lodge.  Lodge (1558-1625) was a recusant Catholic solicitor, author, privateer, and physician.  He is most famous for his 1590 romance, <title>Rosalynde</title>, one of Shakespeare's sources for <title>As You Like It</title>.</note></p>
                   <pb n="6"/>
-               </p>
             </div>
             <div id="clinton.014" type="Text">
                <head>THE COUNTESSE OF<lb/>
