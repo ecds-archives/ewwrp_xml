@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd"><TEI.2>
+<TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Female Piety and Virtue. A Poem.</title>
-            <author>Anonymous</author>
+            <title>Female Piety and Virtue, an electronic edition.</title>
+            <author><name type="person" reg="Anonymous">Anonymous</name></author>
             <respStmt>
                <resp>Compiled and edited by Gitanjali Shahani</resp>
                <name>The Lewis H. Beck Center</name>
@@ -30,7 +30,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Printed for J. ROBERTS in <hi rend="italic">Warwick-Lane</hi>,
+            <bibl>Anonymous. <title>Female Piety and Virtue, A Poem.</title>Printed for J. ROBERTS in <hi rend="italic">Warwick-Lane</hi>,
    J. BILLINGSLEY under the <hi rend="italic">Piazzas</hi> of the <hi rend="italic">Royal-Excahnage</hi> in
    Cornhill, A. DODD at the Peacock without Temple Bar, J. STAG in
   <hi rend="italic">Westminster-Hall</hi>, and H. WHITRIDGE in <hi rend="italic">Serle-Street</hi> near

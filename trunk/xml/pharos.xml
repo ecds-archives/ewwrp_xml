@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd"><TEI.2>
+<TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>The Pharos. A Collection of Periodical Essays. By the
-	   Author of Constance. Volume I.</title>
-            <author n="Mathews,Eliza Kirkham">Mathews, Eliza Kirkham</author>
+	   Author of Constance. Volume I, an electronic edition.</title>
+            <author><name type="person" reg="Mathews, Charles, Mrs., d. 1802.">Mathews, Eliza Kirkham</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>The Lewis H. Beck Center</name>
@@ -31,9 +31,9 @@ collections and services, Emory University, Atlanta, Georgia 30322.</p>
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Mathews, Eliza Kirkham. The Pharos. A collection of
+            <bibl>Mathews, Eliza Kirkham. <title>The Pharos. A collection of
 	    periodical essays. By the author of Constance. Volume
-	    I. London, Printed for T. Hookham, New Bond Street, MDCCLXXXVII. (1787) </bibl>
+	    I.</title> London, Printed for T. Hookham, New Bond Street, MDCCLXXXVII. (1787) </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -816,7 +816,7 @@ presenting to us all our misfortunes in detail!<corr sic="" resp="gs">'</corr></
 <p>'Let Ali's countenance not frown on
 <seg type="catch">me,'</seg>
 <pb n="116 THE PHAROS No. XI"/>
-me,' said Segued, 'if I own myself unconvinced by his words.--I still, O thou happy man!--Happy in ever carrying about with thee a mind stored with delight! I still envy thee, and, could the half of my treasures purchase thy wisdom, 0 how freely would I resign it!--I am rich; I can smile at the caprices of our river, and I have the happiness of blessing many, but a mind like mine disgraces power, and I am excluded from the society of those I reverence by the want of knowledge.--Give me thy wisdom, and I would bear thy poverty.'</p>
+me,' said Segued, 'if I own myself unconvinced by his words.--I still, O thou happy man!--Happy in ever carrying about with thee a mind stored with delight! I still envy thee, and, could the half of my treasures purchase thy wisdom, O how freely would I resign it!--I am rich; I can smile at the caprices of our river, and I have the happiness of blessing many, but a mind like mine disgraces power, and I am excluded from the society of those I reverence by the want of knowledge.--Give me thy wisdom, and I would bear thy poverty.'</p>
 <p>'My wisdom,' said Ali, 'is not mine to give, nor could I by study or tuition have obtained it. Of him who communicated it, I will ask a like portion for thee; but then thou must prepare thine eyes to see objects, perhaps of terror, certainly aweful--canst thou stand in the presence of a super-
 <seg type="catch">natural</seg>
 <pb n="117 THE PHAROS No. XI"/>
@@ -1293,7 +1293,7 @@ detail is presented to us.</p>
 <p>IT is the common opinion of the world, that where parents or guardians do not exercise the utmost caution and circumspection in setting those who depend on their experience, out in life, nothing but misfortunes can be the fate of youth. --The following communication will shew the misery of being too well taken care of.</p>
 
 <quote><text><body><opener><salute>SIR,</salute></opener>
-<p>F0R upwards of seven-years I have suffered oppression, which I should, in half that time, have declared intolerable,. had not my reason been convinced that it was salutary; but I have been shamefully imposed on, and the world shall
+<p>FOR upwards of seven-years I have suffered oppression, which I should, in half that time, have declared intolerable,. had not my reason been convinced that it was salutary; but I have been shamefully imposed on, and the world shall
 <seg type="catch">know</seg>
 <pb n="198 THE PHAROS No. XIX"/>
 know it, that they may judge of how little avail is prudence unaccompanied by judgment.</p>
@@ -1352,7 +1352,7 @@ my uncle!--I was thunderstruck when she returned from church and told me her err
 <signed><name type="person">PENELOPE.</name></signed></closer></body></text></quote>
 </div>
 <pb n="[211]"/>
-<div id="pharos020" type="Issue" n="205">
+<div id="pharos020" type="Issue" n="20">
 <head>No XX. SATURDAY, Jan. 13, 1787.</head>
 <epigraph lang="eng"><cit><quote>--Meretricious graces to beguile.</quote>
 <bibl>COWPER.</bibl></cit></epigraph>
@@ -1576,7 +1576,7 @@ verity I think what our women gain our men lose.</p>
 <bibl>COWPER.</bibl></cit></epigraph>
 
 <quote><text><body><opener><salute>SIR,</salute></opener>
-<p>T0 read well is to possess an agreeable talent, and much pleasure is communicated by the exertion of it: it is a delightful regale to hear the words of an elegant author delivered with propriety, and, where the subjects admits or requires it, with energy and pathos. Of this no one can be ignorant who has ever been soothed by the music of judicious modulation, or who has been doomed to witness the murder of good
+<p>TO read well is to possess an agreeable talent, and much pleasure is communicated by the exertion of it: it is a delightful regale to hear the words of an elegant author delivered with propriety, and, where the subjects admits or requires it, with energy and pathos. Of this no one can be ignorant who has ever been soothed by the music of judicious modulation, or who has been doomed to witness the murder of good
 <seg type="catch">sentiments</seg>
 <pb n="250 THE PHAROS No. XXIII"/>
 sentiments and fine language by dull monotony or ill-placed emphasis.</p>
@@ -1643,7 +1643,7 @@ pant in a crime which only the worthlessness of the injured party suffered him t
 <seg type="catch">proved</seg>
 <pb n="262 THE PHAROS No. XXIV"/>
 proved by a hat <foreign lang="fr" rend="italic">&#x00E0; la paysanne</foreign>, therefore her aunt URSULA decorates her brows with the same juvenile caprice, unconscious that from her solitude and ineffectual endeavors to appear young the is supposed much nearer sixty than in truth she is,--Now I am on the subject of this sort of indecorum which consists in the affectation of youth, will my readers pardon me if I introduce to them a  <foreign lang="fr" rend="italic">jeu d'esprit</foreign> of a young gentleman not unknown in the train of genius.</p>
-
+<quote><text><body>
 <div id="pharos600" type="Poem"><head><seg type="short-title">To Miss*******</seg> on her entering her fifty-sixth year.</head>
 
 <lg type="stanza"><l>Dear Phil, for whom pert fops have burn'd,</l>
@@ -1691,7 +1691,9 @@ proved by a hat <foreign lang="fr" rend="italic">&#x00E0; la paysanne</foreign>,
 <l>By girlish airs and vain pretence</l>
 <l>'Gainst decency and common sense</l>
 <l>Forbear at least to offend.</l></lg>
-
+</div>
+</body>
+</text></quote>
 <p>The athletic exercise of <hi rend="italic">coachwomanship</hi> would never have become a female recreation had decorum remained among us.--Here, cries Paulina, you are inconsistent: CAROLINE whom you have often referred to as a standard of decorous conduct has long practised driving. Very true, Paulina, she has so--but how?--I do not call her's the <hi rend="italic">athletic</hi> exercise--her horses are managed to her hand--her vehicle might be overturned without injury, for it is scarcely raised from the ground, and it never yet appeared in any place but her own park--there indeed she does indulge in an amusement which she makes not only innocent but laudable. See her take her feat--she is followed to her ca-
 <seg type="catch">briole</seg>
 <pb n="265 THE PHAROS No. XXIV"/>
@@ -1709,7 +1711,7 @@ decorum does not heighten, no accomplishment, no natural endowment it does not a
 <seg type="catch">singu</seg>
 <pb n="268 THE PHAROS No. XXIV"/>
 singularity may give a hint for tome improvement?</p>
-
+<quote><text><body>
  <div id="pharos601" type="Poem"><cit><quote><lg type="blank"><l>So absolute she seems,</l>
 <l>And in herself complete, so well to know</l>
 <l>Her own, that what she wills to do or say</l>
@@ -1724,8 +1726,7 @@ singularity may give a hint for tome improvement?</p>
 <l>Build in her loveliest, and create an awe</l>
 <l>About her, as a guard angelic plac'd.</l></lg></quote>
 <bibl>MILTON.</bibl></cit></div>
-</div>
-</div>
+</body></text></quote></div>
 <pb n="[269]"/>
 <div id="pharos025" type="Issue" n="25">
 <head>No. XXV. TUESDAY, Jan. 30, 1787.</head>
