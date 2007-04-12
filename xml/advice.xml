@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2>
+<TEI.2>
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>Advice to the Women and Maidens of London.</title>
-            <author>By one of that Sex.</author>
+            <title>Advice to the Women and Maidens of London, an
+	    electronic edition.</title>
+            <author><name type="person" reg="One of that Sex.">One of that Sex.</name></author>
             <respStmt>
                <resp>Compiled and edited by Gitanjali Shahani</resp>
                <name>The Lewis H. Beck Center</name>

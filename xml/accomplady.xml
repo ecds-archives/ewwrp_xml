@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2>
+<TEI.2>
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>The Accomplished Ladies Rich Closet of Rarities.</title>
-            <author>John Shirley</author>
+            <title>The Accomplished Ladies Rich Closet of Rarities, an
+	    electronic edition.</title>
+            <author><name type="person" reg="J. S. (John Shirley), fl. 1680-1702.">John Shirley</name></author>
             <respStmt>
                <resp>Compiled and edited by Gitanjali Shahani</resp>
                <name>The Lewis H. Beck Center</name>
@@ -30,7 +31,8 @@ collections and services, Emory University, Atlanta, Georgia 30322.</p>
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>London, Printed by <hi rend="italic">W Wilde</hi>
+            <bibl>Shirley, John. <title>The Accomplished Ladies Rich
+	    Closet of Rarities</title>. London, Printed by <hi rend="italic">W Wilde</hi>
 	    for N. Bodington in <hi rend="italic">Duck Lane</hi>; and
 	    J. Blare on <hi rend="italic">London Bridge.</hi>1696.</bibl>
          </sourceDesc>
