@@ -53,6 +53,14 @@ Women Writers Resource Project at Emory University.</p>
             <rs type="geography">Great Britain</rs>
             <date>1700-1799</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Women--Conduct of life--Early works to 1800.</item>
+	       <item>Poems--England--18th century.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>

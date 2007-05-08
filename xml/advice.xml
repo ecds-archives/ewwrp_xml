@@ -51,6 +51,14 @@ Women Writers Resource Project at Emory University.</p>
             <rs type="geography">Great Britain</rs>
             <date>1600-1699</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Bookkeeping --Early works to 1800.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
+
       </profileDesc>
       <revisionDesc>
          <change>
