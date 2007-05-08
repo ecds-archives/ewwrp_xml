@@ -55,6 +55,13 @@ Women Writers Resource Project at Emory University.</p>
 	 <langUsage>
 	   <language id="fr">French</language>
 	 </langUsage>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Women--Early works to 1800.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>

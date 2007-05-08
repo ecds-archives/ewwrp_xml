@@ -50,6 +50,14 @@ Women Writers Resource Project at Emory University.</p>
             <rs type="geography">Great Britain</rs>
             <date>1700-1799</date>
          </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Home economics --Early works to 1800.</item>
+	       <item>Cookery, English --Early works to 1800.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>

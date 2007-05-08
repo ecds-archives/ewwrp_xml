@@ -57,6 +57,14 @@ Women Writers Resource Project at Emory University.</p>
 	   <language id="lat">Latin</language>
 	   <language id="eng">English</language>
 	 </langUsage>
+
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Periodical publications--London.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
       </profileDesc>
       <revisionDesc>
          <change>
