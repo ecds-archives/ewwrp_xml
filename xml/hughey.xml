@@ -4,9 +4,9 @@
          <titleStmt>
             <title>Cultural Interest of Women in England from 1524 to
 	    1640 Indicated in the Writing of the Women, an electronic edition.</title>
-            <author><name type="person" reg="">Ruth Willard Hughey</name></author>
+            <author><name type="person" reg="Hughey, Ruth Willard, 1899-">Ruth Willard Hughey</name></author>
          </titleStmt>
-         <extent>400kb</extent>
+         <extent>600kb</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -55,15 +55,24 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
 	 <textClass>
 	   <keywords scheme="lcsh">
 	     <list>
-	       <item>.</item>
-	       <item>.</item>
+	       <item>Women--England--Social conditions.</item>
+	       <item>Women--England--Religious life.</item>
+	       <item>Women authors, English.</item>
 	     </list>
 	   </keywords>
 	 </textClass>
       </profileDesc>
       <revisionDesc>
+	<change>
+	  <date>November 2006</date>
+	  <respStmt>
+	    <name>Betty Busbee</name>
+	    <resp>Typist</resp>
+	  </respStmt>
+	  <item>Text rekeyed into digital form</item>
+	</change>
          <change>
-            <date>2007</date>
+            <date>April 2007</date>
             <respStmt>
                <name>Alice Hickcox</name>
                <resp>Electronic Text Specialist</resp>
@@ -384,21 +393,21 @@ printed.  The earlier was from the French version of the fourth book,
 "De Sacramento," of the treaties <title>De Imitations Christi</title>,
 printed by Wynkyn de Worde in 1504 with the translation of the first
 three books by Dr. William Atkynson,<ref
-target="hughey101p7n1">1</ref><note place="foot" id="hughey101p7n1"
+target="hughey101p8n1">1</ref><note place="foot" id="hughey101p8n1"
 n="1">John K. Ingram, "The Earliest English Translation of the
 <title>First Three Books of the De Imitatione</title>... Also The
 Earliest Printed Translation of the Whole Work."  Preface, p. vii.
 Early English Text Society, vol. xvii.</note>  a study undertaken at
-Lady Margaret's command.<ref target="hughey101p7n2"></ref><note place="foot" id="hughey101p7n2" n="2">R. and N. Authors. I, 256.</note> Her second translation, printed by Wynkyn de Worde as a separate publication in 1522, thirteen years after her death, was called:
+Lady Margaret's command.<ref target="hughey101p8n2">2</ref><note place="foot" id="hughey101p8n2" n="2">R. and N. Authors. I, 256.</note> Her second translation, printed by Wynkyn de Worde as a separate publication in 1522, thirteen years after her death, was called:
 <q>The mirroure of Golde to the sinfull Soule; the whiche hath ben
 translated at Parice oute of Laten into Frenche, and ...nowe of late
 translatede out of Frenche into Englisshe by the right excellent
 princesse Margarete, moder to oure souerain lorde king. Henry the vii,
-and countesse of Richemond and Derby.</q><ref target="hughey101p7n3">3</ref><note
-place="foot" id="hughey101p7n3" n="3"><hi rend="italic">Ibid.</hi>, I, 254; <title>S. T. C.</title>, no. 6895 (ed. 1525).</note></p>
+and countesse of Richemond and Derby.</q><ref target="hughey101p8n3">3</ref><note
+place="foot" id="hughey101p8n3" n="3"><hi rend="italic">Ibid.</hi>, I, 254; <title>S. T. C.</title>, no. 6895 (ed. 1525).</note></p>
 <p>More significance pertains to the printing of her translation from
 the <title>De Imitatione Christi</title>, since it appeared during
-Lady Margaret's lifetime.<ref target="hughey101p7n4">4</ref><note place="foot" id="hughey101p7n4"
+Lady Margaret's lifetime.<ref target="hughey101p8n4">4</ref><note place="foot" id="hughey101p8n4"
 n="4">I find no evidence that Lady Margaret's <title>Ordinances and
 reformations of apparel for princes and estates, with other ladies and
 gentlewomen, for the time of mourning</title>, compiled in 1493, was
@@ -554,7 +563,7 @@ te laboriose admodum sudatum fuisse nemo non intelligat, cur quam
 omnes tibi merito deferant laudem rejicias, non video.  Attemen ego
 hanc rem omnen ita relinquo <pb n="16"/>prudentiae tuae, ut quamcunque velis
 rationem inire, eam ego maxime approbandam censuero.<ref
-target="hughey201p16n1">1</ref><note place="foot" id="hughey201p16n1"
+target="hughey102p16n1">1</ref><note place="foot" id="hughey102p16n1"
 n="1">Strype, <title>Ec. Mem.</title>, II, ii, 330-31.</note></q></p> 
 <p>That the queen should urge the printing
 of the Princess Mary's translation is significant in itself, but that
@@ -614,7 +623,7 @@ patiently to suffer all affictions here; and to set at nought the vain
 prosperity of this world; and alway to long for everlasting felicity:
 collected out of holy works by the most vertuous and gracious
 Katherine, Queen of England, France and Ireland.</q><ref
-target="hughey102p18n">2</ref><note place="foot" id="hughey102p18n2"
+target="hughey102p18n2">2</ref><note place="foot" id="hughey102p18n2"
 n="2">Strype, <title>Ec. Mem.</title>, II, i, 205; Ballard, <hi
 rend="italic">op. cit.</hi>, p. 87; <title>S. T. C.</title>,
 no. 4819.</note></p>
@@ -681,7 +690,7 @@ scripture, and her conception of justification by faith.  An edition
 in 1548 is described as "Set foorth and put in print, at the instaunt
 desire of the right gratious lady Katherin, duches of Suffolke, and
 the ernest request of the right honourable lord William Parre,
-marquesse of Northampton."<ref target="hughey102p20n4"></ref><note
+marquesse of Northampton."<ref target="hughey102p20n4">4</ref><note
 place="foot" id="hughey102p20n4" n="4"><title>R. and N. Authors.</title>, I, 46; <title>S. T. C.</title>,
 no. 4828.</note> In 1563 still another edition of the book
 appeared,<ref target="hughey102p20n5">5</ref><note place="foot"
@@ -744,7 +753,7 @@ suppression.</p>
 influence upon Lady Jane Gray, who "entered the <pb n="23"/>queen's services at
 nine years old [1546], and remained with her till her death in
 September, 1548, acting as chief mourner at the funeral."<ref
-target="hughey102p23n1">1</ref><note place="foot" id="hughey102pn231" n="1">Gardiner,
+target="hughey102p23n1">1</ref><note place="foot" id="hughey102p23n1" n="1">Gardiner,
 <hi rend="italic">op. cit.</hi>, p. 176.</note>  Upon Katherine Parr was placed the responsibility
 of directing Lady Jane's studies to the end that she might be a
 suitable heir to the throne.<ref target="hughey102p23n2">2</ref><note
@@ -1034,7 +1043,7 @@ have with most hearty thanks returned it to you (as you see) printed,
 knowing that I have threin done the best, and in this point used a
 reasonable policy; that is, to prevent such excuses as your modesty
 would have made in stay of publishing it.</p></q><ref
-target="hughey102pn"></ref><note place="foot" id="hughey102pn" n=""><title>Correspondence of Matthew
+target="hughey102p33n1">1</ref><note place="foot" id="hughey102p33n1" n="1"><title>Correspondence of Matthew
 Parker</title>, pp. 219-21.  Ed. by John Bruce.  Parker
 Society</note></p>
 <p>Thus, again,
@@ -1102,8 +1111,8 @@ target="hughey102p36n2">2</ref><note place="foot" id="hughey102p36n2" n="2"><tit
 1563 and 1564 <title>Serten godly prayers of Lady Janes</title><ref
 target="hughey102p36n3">3</ref><note place="foot" id="hughey102p36n3" n="3">Arber, <title>Transcript.</title>,
 i, 235.</note> were licensed to J. Charlwood, and the book was printed,
-although no copy is extant.<ref target="hughey102pn"></ref><note
-place="foot" id="hughey102pn" n="">Haz., <hi rend="italic">op. cit.</hi>, ii, 258.  Not recorded in
+although no copy is extant.<ref target="hughey102p36n4">4</ref><note
+place="foot" id="hughey102p36n4" n="4">Haz., <hi rend="italic">op. cit.</hi>, ii, 258.  Not recorded in
 <title>S. T. C.</title></note>  Six years later an edition was published containing
 several writings printed earlier by Foxe: the epistle to a learned
 man, the communication with Fecknam, the epistle to her sister, and,
@@ -1188,7 +1197,7 @@ problems of theology but with constancy of lovers.</p>
 <pb n="40"/><p>Nevertheless,
 books of prayers and meditations continued to be prepared by women.
 Numeroud entries upon the <title>Stationers' Registers</title><ref
-target="hughey102pn"></ref><note place="foot" id="hughey102pn" n="">Arber's
+target="hughey102p40n1">1</ref><note place="foot" id="hughey102p40n1" n="1">Arber's
 <title>Transcript</title>.</note> for books of sermons, prayers, meditations, translations
 of scripture, and religious controversial pamphlets are convincing
 evidence of the tremendous influence of religion upon written matter
@@ -1819,7 +1828,7 @@ id="hughey103p64n2" n="2">Ballard, <hi rend="italic">op. cit.</hi>, p. 198; <tit
 <q>Parthenicon Elisabethae Joanne Westoniae virginibus nobilissimae, poetriae florenntissimae, linguarium plurimarum peritissinia, Liber III opera ac studio G. Mart. a
 Baldhoven, Sil. collectus; et nunc demio, amicis desiderantibus
 communicatus, Pragae, Typis Pauli Sessii.</q><ref
-target="hughey103pn"></ref><note place="foot" id="hughey103pn" n="">Ballard, <hi rend="italic">op. cit.</hi>, p. 245.  Not in <title>S. T. C.</title></note></p>
+target="hughey103p65n1">1</ref><note place="foot" id="hughey103p65n1" n="1">Ballard, <hi rend="italic">op. cit.</hi>, p. 245.  Not in <title>S. T. C.</title></note></p>
 
 <p>Of a less erudite character was the publication of Lady Elizabeth
 Melville, daughter of Sir James Melville and wife of John, Lord
@@ -1951,7 +1960,7 @@ are "taken out of Peters complaint, which she vsually sung &#x0026;
 plaied on the winde instrument."<ref target="hughey103p70n3">3</ref><note
 place="foot" id="hughey103p70n3" n="3">p. 23.</note>  Six of these
 stanzas are incorrectly <pb n="71"/>quoted.<ref
-target="hughey103p71n1">1</ref><note place="foot" id="hughey103pn71" n="1">In quoting stanza lxxx she fails to catch the rhyme.  Her selection of stanzas does not follow Southwell's order.  Robert Southwell, <title>Complete Poems</title>, Ed. by Alexander Grosart, pp. 9-44.</note>  The unacknowledged verses in the epistle beginning:
+target="hughey103p71n1">1</ref><note place="foot" id="hughey103p71n1" n="1">In quoting stanza lxxx she fails to catch the rhyme.  Her selection of stanzas does not follow Southwell's order.  Robert Southwell, <title>Complete Poems</title>, Ed. by Alexander Grosart, pp. 9-44.</note>  The unacknowledged verses in the epistle beginning:
 <q><lg><l>Crush the serpent in the head</l>
 <l>Breake ill egs yer they be hatched</l>
 <l>Kill bad chickens in the tread,</l></lg></q>
@@ -2045,8 +2054,8 @@ priores quos tulit quondam inuenis.</hi></q><ref
 target="hughey103p74n2">2</ref><note place="foot" id="hughey103p74n2" n="2"><title>Phaedra</title>, 654-5.</note></p>
 <p>In Chapter XIV she quotes again from the <title>Phaedra</title> and
 likewise from the <title>Moral Epistles</title> and the
-<title>Troades</title>.<ref target="hughey103pn"></ref><note
-place="foot" id="hughey103pn" n=""><hi rend="italic">Ibid.</hi>,
+<title>Troades</title>.<ref target="hughey103p74n3">3</ref><note
+place="foot" id="hughey103p74n3" n="3"><hi rend="italic">Ibid.</hi>,
 137-40; <title>Moral Epistles</title>, iii, 316;
 <title>Troades</title>, 1-6.  She cites the
 <title>Epistles</title>.</note>   Her line, "Ut hora, sic fugit
@@ -3568,7 +3577,7 @@ Milton Manor, but in her own behalf that the Constableship of
 Quinborrowe "may goe by it self" and thus not affect her rights in
 Milton <pb n="129"/>Manor, of which she says, "I may and am aduysed to
 hold and kepe the Courtes therof."<ref
-target="hughey300pn">1</ref><note place="foot" id="hughey300p129n1" n="1"><title>Lans. MS.</title> 67, f. 82.</note> The letter, in a fair hand, bears a signature much more crudely drawn, indicating that she had employed a copyist to pen the body.</p>
+target="hughey300p129n1">1</ref><note place="foot" id="hughey300p129n1" n="1"><title>Lans. MS.</title> 67, f. 82.</note> The letter, in a fair hand, bears a signature much more crudely drawn, indicating that she had employed a copyist to pen the body.</p>
 <p>Such an arrangement was not unusual even as late as the date of
 this letter, 1591.  The handwriting of women was often crude and
 difficult to read. A more poorly formed hand could scarcely be found
@@ -3780,7 +3789,7 @@ married in 1609 to Richard Sackville, later Earl of Dorset.  She was
 later marrried to Philip Herbert, Earl of Pembroke.  See Williamson,
 <title>Lady Anne Clifford</title>, etc.</note> who has left one of the
 three<ref target="hughey300p135n4">4</ref><note place="foot"
-id="hughey300pn4" n="4"><title>Diary of Lady Hoby</title>,
+id="hughey300p135n4" n="4"><title>Diary of Lady Hoby</title>,
 Introduction, p. 49.  Ed. by Dorothy Meads.</note> extant diaries kept
 by women in the early seventeenth century.  Lady Anne's diary, <pb
 n="136"/>more exactly kept between the years 1603 and 1619,<ref
@@ -4207,8 +4216,8 @@ talent and judgment has united so much diligence and assiduity in the
 cultivation of every liberal pursuit."</note> a Swiss student at
 Oxford who was patronized by Lady Jane's father, had encouraged
 Bullinger to dedicate to Henry Grey, Marquis of Dorset, one of the
-<title>Decades</title>.<ref target="hughey400pn"></ref><note
-place="foot" id="hughey400pn" n=""><title>Zurich Letters</title>, iii,
+<title>Decades</title>.<ref target="hughey400p155n2">2</ref><note
+place="foot" id="hughey400p155n2" n="2"><title>Zurich Letters</title>, iii,
 3.</note>  It is not unreasonable to believe that Lady Jane, who
 gathered "daily as out of a most beautiful garden, the sweetest
 flowers" from Bullinger's <title>Christian Perfection</title>,<ref
@@ -4224,7 +4233,7 @@ as the parliamentary statutes <pb n="156"/>attest, the attitude
 prevailing toward the wives of clergy was different from that which
 she had known in Zurich, where the wives of ministers and the wives of
 magistrates were one and the same.<ref
-target="hughey400pn"></ref><note place="foot" id="hughey400p1n1" n="1"><title>Enc. Brit.</title> xxiii, 998.</note></p>
+target="hughey400p156n1">1</ref><note place="foot" id="hughey400p156n1" n="1"><title>Enc. Brit.</title> xxiii, 998.</note></p>
 <p>Edward VI came to the throne in January, 1547; and on December 17
 of that year a "proposition was submitted to the effect that all
 canons, statutes, laws, decrees, usages, and customs, interfering with
@@ -4324,7 +4333,7 @@ target="hughey400p158n1">1</ref><note place="foot" id="hughey400p158n1" n="1">Sa
 of the religious persecution in the Low Countries and in France, many
 of the continental Reformed leaders, both from the Lutheran and from
 the Zwinglian groups, came to England.  With them were their
-wives,<ref target="hughey400160pn1">1</ref><note place="foot"
+wives,<ref target="hughey400p160n1">1</ref><note place="foot"
 id="hughey400p160n1" n="1">"Their wives have come over to them."
 Micronius to Bullinger, Sept. 30, 1549.  <title>Zurich
 Letters.</title> iii, 558.</note> usually women of the same station
@@ -4334,7 +4343,7 @@ target="hughey400p160n2">2</ref><note place="foot"
 id="hughey400p160n2" n="2">For identifications and marriages, see
 pp. 147-48.</note>  Bernardine Ochine was made prebendary at
 Canterbury.<ref target="hughey400p160n3">3</ref><note place="foot"
-id="hughey400p160ne" n="3">Sander, <hi rend="italic">op. cit.</hi>,
+id="hughey400p160n3" n="3">Sander, <hi rend="italic">op. cit.</hi>,
 p. 193, fn., 2.</note>  John &#x00E0; Lasco, the Pole, an ardent
 admirer of Bullinger's, was minister of Austin Friars, the newly
 authorized German church in London;<ref
@@ -4468,8 +4477,8 @@ id="hughey400p166n2" n="2">William Tyndale, <title>An Answer to Sir
 Thomas More's Dialogue</title>. p. 18.  Ed. by Henry Walter.  Parker
 Society.</note> Whitgift allowed to women the right of instruction in
 private families and also permission to speak in the congregation if
-none else would preach Christ.<ref target="hughey400pn"></ref><note
-place="foot" id="hughey400pn" n="">John Whitgift,
+none else would preach Christ.<ref target="hughey400p166n3">3</ref><note
+place="foot" id="hughey400p166n3" n="3">John Whitgift,
 <title>Works</title>, ii, 499.  Ed by John Ayre.  Parker
 Society.</note>  Without doubt, however, all the Reformers, including
 the women, would have inclined to the belief of Luther that women
@@ -5159,7 +5168,7 @@ id="hughey500p205n1" n="1">Blomefield, <hi
 rend="italic">op. cit.</hi>, v, 94.</note>  In 1611 at an inquisition
 Christopher was declared to be <hi rend="italic">Fatuus et Ideota</hi>
 and to have been so for twenty-four years.<ref
-target="hughey500p205n2"></ref><note place="foot" id="hughey500p205n2"
+target="hughey500p205n2">2</ref><note place="foot" id="hughey500p205n2"
 n="2"><p>"At the inquisition taken at Norwich Castle, September 3d, in
 the 9th year of James I before Sir Henry Gawdy, Sir Thomas Berney,
 Knts.  Thomas Corbett Esq. Henry Branthwayte, Esq. feodary, and John
@@ -5262,8 +5271,8 @@ would be Paston heirs to succeed Edmund, and therefore he carefully
 provided for the entail upon the eldest son and then upon nine other
 sons in order, should the eldest die.  If all went well, the younger
 children were to have portions from the profits.<ref
-target="hughey500p208n2">2</ref><note place="foot"
-id="hughey500p208n2" n="2"><p>The exact arrangement was as follows:  (See
+target="hughey500p208n3">3</ref><note place="foot"
+id="hughey500p208n3" n="3"><p>The exact arrangement was as follows:  (See
 page 9, fn. 1, quotation from <title>Add. MS.</title> 27447, f. 226
 for the first part of the arrangement.)  "And after to the vse of the
 feoffees the deft etc dureinge the lifes of the p<hi
@@ -5662,7 +5671,7 @@ wright this to thee";<ref target="hughey500p223n1">1</ref><note
 place="foot" id="hughey500p223n1" n="1"><title>Add. MS.</title> 27447,
 f. 256.</note>  "I am so strayed of time as I can no tary longer to
 talk w<hi rend="super">t</hi>  the now."<ref
-target="hughey500p223n2">2</ref><note place="foot" id="hughey500p223n3" n="3"><hi rend="italic">Ibid.</hi>, f. 232.</note></p> 
+target="hughey500p223n2">2</ref><note place="foot" id="hughey500p223n2" n="2"><hi rend="italic">Ibid.</hi>, f. 232.</note></p> 
 <p>She was, however, dependent upon uncertain methods of postal
 delivery so that her efforts for a regular correspondence might easily
 be frustrated.  It was fortunate that she was able to send servants
@@ -5670,7 +5679,7 @@ back and forth to Cambridge, for they were often her only means for
 mail.<ref target="hughey500p223n3">3</ref><note place="foot"
 id="hughey500p223n3" n="3"><hi rend="italic">Ibid.</hi>, f. 250, and
 elsewhere in the series.</note>  As long as she was in Paston,<ref
-target="hughey500p223n3">3</ref><note place="foot"
+target="hughey500p223n4">4</ref><note place="foot"
 id="hughey500p223n4" n="4">Some of the letters are written from
 Pagrave, one of the Paston manors, where the family spent the winter
 of 1626-27.  <title>Add. MSS</title>. 36988, ff. 55; 57, dated
@@ -5694,7 +5703,7 @@ place="foot" id="hughey500p224n2" n="2"><title>Add. MS.</title> 36988, f. 31.  J
 if thow hast not receiued 4. of min/. besids this, on by my Cosine
 Cook on by m Parker.  on by Johnsons the Carier, on by Cowell the
 Carier.</q><ref target="hughey500p224n3">3</ref><note place="foot"
-id="hughey500p224n2" n="2"><hi rend="italic">Ibid.</hi>, f. 47.</note></p> 
+id="hughey500p224n3" n="3"><hi rend="italic">Ibid.</hi>, f. 47.</note></p> 
 <p>We may assume from William's statement that his mother shall have
 every Saturday "a Letter from me or my Tutor, if They doe not miscary
 By The carrier,"<ref target="hughey500p224n4">4</ref><note place="foot"
@@ -6043,7 +6052,7 @@ eight to breakfast, till nine: to studie, from nine till eleven: in
 the after-<pb n="236"/>noon, to recreation in the garden, till one; to
 studie from one till somewhat past three; to exercise till
 prayers."<ref target="hughey500p236n1">1</ref><note place="foot"
-id="hughey500p2316n" n="1"><title>Add. MS.</title> 27447, f. 205.
+id="hughey500p236n1" n="1"><title>Add. MS.</title> 27447, f. 205.
 February 23, 1623 [4].</note>  Katherine urged that these directions
 be kept, for they seemed "admirable good ons" to her;<ref
 target="hughey500p236n2">2</ref><note place="foot"
@@ -6311,7 +6320,7 @@ target="hughey500p245n3">3</ref><note place="foot"
 id="hughey500p245n3" n="3"><title>Add. MS.</title> 36988,
 f. 49.</note> occurs with painful frequency in the letters.<ref
 target="hughey500p245n4">4</ref><note place="foot"
-id="hughey500p245n5" n="5"><hi rend="italic">E. g.</hi>, "Thy fathers
+id="hughey500p245n4" n="4"><hi rend="italic">E. g.</hi>, "Thy fathers
 illness of his legge haue bine the Cawse of our stay for he was faynt
 to take Phisike for it: but yett it is bigge so that he can not endure
 on his boots."  <title>Add. MS.</title> 36988, f. 53.  Oct. 27,
@@ -6511,7 +6520,7 @@ target="hughey500p253n1">1</ref><note place="foot" id="hughey500p253n1" n="1">Mu
 <q>I pray god be mercyfull vnto our kinge and state for many rumors
 fliethe abroad of much intended mischiff agaynst bothe, but the Lord
 can prevent ther desingns.</q><ref target="hughey500p253n2">2</ref><note
-place="foot" id="hughey500p253n3" n="3"><title>Add. MS.</title> 36988, f. 65.</note></p> 
+place="foot" id="hughey500p253n2" n="2"><title>Add. MS.</title> 36988, f. 65.</note></p> 
 <p>In the two letters still preserved which William wrote to his
 mother during his college days,<ref target="hughey500p253n3">3</ref><note
 place="foot" id="hughey500p253n3" n="3"><hi rend="italic">Ibid.</hi>,
