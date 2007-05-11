@@ -40,6 +40,13 @@ collections and services, Emory University, Atlanta, Georgia 30322.</p>
             <p>This text is produced in conjunction with the 
 Women Writers Resource Project at Emory University.</p>
          </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
       </encodingDesc>
       <profileDesc>
          <creation>
