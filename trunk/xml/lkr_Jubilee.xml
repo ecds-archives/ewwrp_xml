@@ -1,0 +1,60 @@
+Questions:  Some lines within the stanza are indented.  Do I do this with <p>?
+
+<text>
+	<body>
+		<div>
+			<head rend="center">A JUBILEE<lb/>
+			<hi rend="italic">For The Nancy Hart Highway</hi></head>
+			<stage><hi rend="italic">Air "Tramp, Tramp, Tramp."</hi></stage>
+			<byline rend="italic">By Mrs. Loula Kendall Rogers, Chaplain Major<lb/>
+					General Samuel Elbert Chapter Daughters<lb/>
+					of The American Revolution</byline>
+			
+			
+
+				<lg type="stanza">
+					<l>Let us join the D. A. R.</l>
+					<l>As they come from near and far</l>
+					<l>And unite to honor all who did their part,</l>
+					<l rend="indent">For our country when 'twas new,</l>
+					<l>Every patriot tried and true</l>
+					<l>Now we come to honor brave old Nancy Hart</l>
+				</lg>
+	
+			
+
+					<lg type="stanza"><head rend="center">CHORUS</head>
+					<l>Honk!  honk!  honk!  The horns are blowing!</l>
+					<l>Let us all be bright and gay,</l>
+					<l>Cast aside all care and woe,</l>
+					<l>As we onward swiftly go,</l>
+					<l>While we glide along the Nancy Hart Highway!</l>
+				</lg>
+
+			
+
+				<lg type="stanza"><head>II.</head>
+					<l>Passing swiftly o'er the trail,</l>	
+					<l>Never mind the Eastern gale,</l>
+					<l>Sing a merry song of Jubilee today,</l>
+					<l>Let <hi rend="quote">Old Glory</hi> be unfurled</l>
+					<l>Wave its colors o'er the world</l>
+					<l>As we glide along the Nancy Hart Highway!</l>
+				</lg>
+
+			
+
+				<lg type="stanza"><head rend="center">III.</head>
+
+					<l>May kind heaven ever bless</l>
+					<l>With Great joy and all success,</l>
+					<l>Every one who on this Highway swiftly speeds,</l>
+					<l>Then, oh, let us ne'er forget</l>
+					<l>Till our evening sun has set</l>
+					<l>Nancy Hart and all her many glorious deeds!</l>
+				</lg>
+
+			<lg><head rend="center">CHORUS</head></lg>
+		</div>
+	</body>
+</text>
