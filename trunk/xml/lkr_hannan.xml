@@ -1,15 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
 Paragraphs can't span divs can they?  How does this work when a paragraph goes over into another page?
 Do we want to keep the page layout?  If do, do <lg>s nest inside <p>s?  And how do we columns?
 
 <text>
-	<body>
-		<div>
-			<div1 type="page" n=6>
-				<head>HANNAH MORE’S INFLUENCE</head>
-				<author>LOULA KENDALL ROGERS</author>
-					<p>There are so many bright women of a more modern date that Hannah More who have won for themselves honor and distinction in the field of literature, some may ask why should we go so far bacj to look for fame and real worth, when they may be found around us every day?  For a reply we may only look upward at the golden sun on a beautiful morning in summer as he arises from a bank of grey and crimson clouds illuminating mountains, hill and valley with life and light, and filling our sould with joy and gratitude that the long dark night has passed away and all earth is singing a song of greeting.  In the same manner this life-giving sunlight was welcome six thousand years ago.  The same emotions thrilled the souls of our first parents that thrill our own at the present day.</p>
-					<p>There is no more reason, then, why a beautiful thought should die, or a useful life go out of existence than that the world of nature should lose its charm for those who appreciate its glorious revelations.</p>
-					<p>Often, when ransacking a library, we find some biography hitherto unnoticed save by a glance, and discover beauties in a life that inspire us with new resolutions to succeed in the race set before us.  A gifted writer says: “To the young person thirsting for learning and hungering for education, there are no books more helpful than biographies.  Time is of no account with great lives and great thoughts before us which are as fresh today as when they passed through the author’s mind years ago”</p>
+<body>
+<div>
+<pb n="6"/>
+<div1 type="page">
+<head>HANNAH MORE'S INFLUENCE</head>
+<author>LOULA KENDALL ROGERS</author>
+<p>There are so many bright women of a more modern date that Hannah
+More who have won for themselves honor and distinction in the field of
+literature, some may ask why should we go so far bacj to look for fame
+and real worth, when they may be found around us every day?  For a
+reply we may only look upward at the golden sun on a beautiful morning
+in summer as he arises from a bank of grey and crimson clouds
+illuminating mountains, hill and valley with life and light, and
+filling our sould with joy and gratitude that the long dark night has
+passed away and all earth is singing a song of greeting.  In the same
+manner this life-giving sunlight was welcome six thousand years ago.
+The same emotions thrilled the souls of our first parents that thrill
+our own at the present day.</p>
+<p>There is no more reason, then, why a beautiful thought should die, or a useful life go out of existence than that the world of nature should lose its charm for those who appreciate its glorious revelations.</p>
+					<p>Often, when ransacking a library, we find some biography hitherto unnoticed save by a glance, and discover beauties in a life that inspire us with new resolutions to succeed in the race set before us.  A gifted writer says: “To the young person thirsting for learning and hungering for education, there are no books more helpful than biographies.  Time is of no account with great lives and great thoughts before us which are as fresh today as when they passed through the author's mind years ago”</p>
 					<p>For this reason we have felt constrained to give a short sketch of the wonderful influence exerted in her day by Hannah More, even over royalty itself.  She was born at Hanham, a small rectory near Bristol, England, in 1745, and was the youngest of five daughters.  Like Charlotte Bronte and her two sisters , they were carefully trained and educated mostly at home , and in their turn opened a boarding school which became one of the most celebrated seminaries in the west of England.</p>
 					<p>This intelligent young girl soon attracted the attention of Dr. Stonehouse, who not only encouraged her to write. but assisted her greatly in the suggestion of themes that were popular.  Her
 			</div1>
