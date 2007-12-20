@@ -1,137 +1,38 @@
-<TEI.2>
-  <teiHeader><fileDesc>
-         <titleStmt>
-   <title>Loula Kendall Rogers: The Civil War and Southern Womanhood</title>
-            <author><name type="person" reg="Rogers, Loula
-	    Kendall">Loula Kendall Rogers</name></author>
-            <respStmt>
-               <resp>Compiled and edited by</resp>
-               <name>Beck Center</name>
-            </respStmt>
-         </titleStmt>
-         <extent>???</extent>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
-               <addrLine>Atlanta, Georgia</addrLine>
-            </address>
-            <availability>
-               <p>2007 Emory University. Permission is granted to
-download, transmit, or otherwise reproduce, distribute or display the contributions to
-the work claimed by Emory University for non-profit educational purposes, provided 
-this header is included in its entirety.  For inquiries about commercial uses, contact
-either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
-collections and services, Emory University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>2007</date>
-         </publicationStmt>
-         <seriesStmt>
-            <title>Emory Women Writers Resource Project</title>
-         </seriesStmt>
-         <sourceDesc>
-            <bibl>Rogers, Loula Kendall. [Loula Kendall Rogers].Loula
-	    Kendall Rogers: The South, The Civil War and Womanhood<publisher>J. &#x0026;Beck
-	   Center, Emory University</publisher>, <date>2007</date>.</bibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
-         </projectDesc>
-	<classDecl>
-	  <taxonomy id="lcsh">
-	    <bibl>
-	      <title>Library of Congress Subject Headings</title>
-	    </bibl>
-	  </taxonomy>
-	</classDecl>
-      </encodingDesc>
-      <profileDesc>
-         <creation>
-	   <rs type="collection">Early 20th Century Literature</rs>
-	   <rs type="language">English</rs>
-            <rs type="ethnicity">Caucasian</rs>
-            <rs type="form">Unedited</rs>
-            <rs type="genre">Poetry</rs>
-            <rs type="geography">United States</rs>
-            <date>1900-1999</date>
-         </creation>
-	 <textClass>
-	   <keywords scheme="lcsh">
-	     <list>
-	       <item>United Daughters of the Confederacy. Georgia Division</item>
-	       <item>Women poets, American--Georgia</item>
-	       <item>Literature--Georgia--Societies and clubs.</item>
-	       <item>American poetry--20th century.</item>
-	       <item>American poetry--19th century.</item>
-	     </list>
-	   </keywords>
-	 </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change>
-            <date>2007</date>
-            <respStmt>
-               <name>Stewart Varner</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-         </change>
-	 <change>
-	    <date>2006</date>
-	    <respStmt>
-	       <name>Alden Mahler</name>
-	       <resp>Staff</resp>
-	    </respStmt>
-	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
-	 </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div id="ehark" type="poem">
-  </teiHeader>
-  <text>
-    <body>
-      <div>
-	<head><hi rend ="bold">HARK! OUR BOYS ARE COMING HOME.</hi></head>
-
-	<stage>TUNE: "Tramp, tramp, tramp, The Boys Are Marching Home"</stage>
-
-<byline>MRS. LOULA K. ROGERS</byline>
-
-<lg type="stanza">
-    <l>Don't you see the clouds are breaking o'er the eastern lands today?</l>
-    <l>And amid the rifts we see the shining blue?</l>
-    <l>Don't you hear the trumpet calling up hte boys so far away,</l>
-    <l>The millions of America so true?</l>
-</lg>
-
-<head>CHORUS</head>
-
-<lg type="stanza">
-    <l>Tramp, tramp, tramp, the boys are coming!</l>
-    <l>Let our cheers arise on high,</l>
-    <l>Let the light be shining bright</l>
-    <l>For out victors in the fight</l>
-    <l>And a thousand thanks for Liberty and Right!</l>
-</lg>
-
-<lg type="stanza">
-    <l>O'er each mothers heart is falling tears of love and hope and joy,</l>
-    <l>And the young are planning fesivals so gay,</l>
-    <l>All the nation is rejoicing that her gallant soldier boy</l>
-    <l>Has reached the top and triumphed in the fray.</l>
-</lg>
-
-<lg type="stanza">
-    <l>The hurrah for Christmas carol, and the pearly mistletoe!</l>
-    <l>The smoking viands ready for the feast,</l>
-    <l>Remember needy orphans whatsoever we may do,</l>
-    <l>And thank out God this wretched war has ceased.</l>
-</lg>
-</div>
-</body>
+<text>
+  <body>
+    <div>
+      <head rend="center">HARK! OUR BOYS ARE COMING HOME.</head>
+      <stage rend="center">TUNE: "Tramp, tramp, tramp, The Boys Are Marching Home"</stage>
+      <byline>MRS. LOULA K. ROGERS</byline>
+    </div>
+    <div>
+      <lg type="stanza">
+	<l>Don't you see the clouds are breaking o'er the eastern lands today?</l>
+	<l rend="indent">And amid the rifts we see the shining blue?</l>
+	<l>Don't you hear the trumpet calling up hte boys so far away,</l>
+	<l rend="indent">The millions of America so true?</l>
+      </lg>
+      <lg type="stanza">
+	<head>CHORUS</head>
+	<l>Tramp, tramp, tramp, the boys are coming!</l>
+	<l rend="indent">Let our cheers arise on high,</l>
+	<l rend="indent">Let the light be shining bright</l>
+	<l rend="indent">For out victors in the fight</l>
+	<l>And a thousand thanks for Liberty and Right!</l>
+      </lg>
+      <lg type="stanza">
+	<l>O'er each mothers heart is falling tears of love and hope and joy,</l>
+	<l rend="indent">And the young are planning fesivals so gay,</l>
+	<l>All the nation is rejoicing that her gallant soldier boy</l>
+	<l rend="indent">Has reached the top and triumphed in the fray.</l>
+      </lg>
+      <lg type="stanza">
+	<l>The hurrah for Christmas carol, and the pearly mistletoe!</l>
+	<l rend="indent">The smoking viands ready for the feast,</l>
+	<l>Remember needy orphans whatsoever we may do,</l>
+	<l rend="indent">And thank out God this wretched war has ceased.</l>
+      </lg>
+    </div>
+  </body>
 </text>
-</TEI.2>
+
