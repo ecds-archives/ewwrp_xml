@@ -1,16 +1,27 @@
-The Gallant
-Old Boys in Gray
-They are marching today in their
-armor of gray,
-Where proudly in youth they so gallenly trod,
-E’re Sherman invaded in battle array
-And swore each “Rebel should
-sleep in the sod.”
-But the strife and such boasting are
-all cast aside,
-As they glance on their banner with joy and with pride
-Still beaming with Justice and Mercy and Right,
-For it waved o’er Lee in heaven’s own light!
+What's up with the line tags in the first stanza???
+
+<text>
+  <front>
+    <head>The Gallant<lb/>
+    Old Boys in Gray</head>
+  </front>
+  <body>
+    <lg type="stanza">
+      <l>They are marching today in their</l>
+      <l rend="indent">armor of gray,</l>
+      <l>Where proudly in youth they so</l>
+      <l rend="indent">gallenly trod,</l>
+      <l>E're Sherman invaded in battle array</l>
+      <l rend="indent">And swore each "Rebel should</l>
+      <l rend="indent">sleep in the sod."</l>
+      <l>But the strife and such boasting are</l>
+      <l rend="indent">all cast aside,</l>
+      <l>As they glance on their banner with</l> 
+      <l rend="indent">joy and with pride<l>
+      <l>Still beaming with Justice and Mercy</l>
+      <l rend="indent">and Right,</l>
+      <l>For it waved o'er Lee in heaven's own light!</l>
+</l></l></lg>
 
 No cause that is just and guarded
 with trust
@@ -24,11 +35,11 @@ By reckless disorder, or vice unre-
 strained,
 For you won that glory with never
 shall fade
-It’s pure as thy banner, thy musket
+It's pure as thy banner, thy musket
 and blade.
 
 Four wars have displayed of what 
-metal they’re made,
+metal they're made,
 Old Guilford, Monterey and Manas
 sas proclaim,
 Then Spain with her heraldry, her
@@ -61,5 +72,5 @@ so gay,
 And deem it an honor to march with 
 the Gray!
 LOULA KENDALL ROGERS.
-Mrs. Loula Kendall Rogers, of Tennille, author of the above, was a “girl of the sixties” and is the widow of a splendid Confederate soldier, a captain in the Third Georgia regiment.  Her son, too, followed his soldier father’s example and remains overseas.
+Mrs. Loula Kendall Rogers, of Tennille, author of the above, was a "girl of the sixties" and is the widow of a splendid Confederate soldier, a captain in the Third Georgia regiment.  Her son, too, followed his soldier father's example and remains overseas.
 Mrs. H.M Franklin, president of the Georgia division U.D.C. is the only daughter of Mrs. Rogers.

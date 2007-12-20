@@ -1,60 +1,133 @@
-Questions:  Some lines within the stanza are indented.  Do I do this with <p>?
-
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Jubilee for the Nancy Hart Highway</title>
+            <author><name type="person" reg="Rogers, Loula Kendall, 1838-1931">Mrs. Loula Kendall Rogers</name></author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>Beck Center</name>
+            </respStmt>
+         </titleStmt>
+         <extent>100kb</extent>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address>
+               <addrLine>Atlanta, Georgia</addrLine>
+            </address>
+            <availability>
+               <p>2001 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2001</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Emory Women Writers Resource Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Rogers, Loula KendallXXXXXXXXXXXXXXXXXXXXTynan, Katharine "Flower of Youth: Poems in War Time." London: <publisher>XXXXXXXXXXXXXSidgwick &#x0026; Jackson</publisher>, <date>XXXXXXXXXXXX1915</date>.  XXXXXXXXXXXXXXXXX80 pages.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This digital text is produced from the Loula Kendall
+	   Rogers Papers, generously loaned to the Beck Center by    	
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+         </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+	   <rs type="collection">World War I</rs>
+	   <rs type="collection">Early 20th Century Literature</rs>
+	   <rs type="language">English</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Poetry</rs>
+            <rs type="geography">Great Britain</rs>
+            <date>1900-1999</date>
+         </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>World War, 1914-1918--Poetry.</item>
+	       <item>English poetry--Women authors--20th Century.</item>
+	       <item>War.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008</date>
+            <respStmt>
+               <name>Stewart Varner</name>
+               <resp>Woodruff Graduate Fellow</resp>
+            </respStmt>
+            <item>XML tags inserted in compliance with TEI guidelines using TEILITE</item>
+         </change>
+	 <change>
+	    <date>2008</date>
+	    <respStmt>
+	       <name>Stewart Varner</name>
+	       <resp>Staff</resp>
+	    </respStmt>
+	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
+	 </change>
+      </revisionDesc>
+   </teiHeader>
 <text>
-	<body>
-		<div>
-			<head rend="center">A JUBILEE<lb/>
-			<hi rend="italic">For The Nancy Hart Highway</hi></head>
-			<stage><hi rend="italic">Air "Tramp, Tramp, Tramp."</hi></stage>
-			<byline rend="italic">By Mrs. Loula Kendall Rogers, Chaplain Major<lb/>
-					General Samuel Elbert Chapter Daughters<lb/>
-					of The American Revolution</byline>
-			
-			
+  <body>
+    <div>
+      <head rend="center">A JUBILEE<lb/>
+      <hi rend="italic">For The Nancy Hart Highway</hi></head>
+      <stage rend="center"><hi rend="italic">Air "Tramp, Tramp, Tramp."</hi></stage>
+      <byline rend="center"><hi rend="italic">By Mrs. Loula Kendall Rogers, Chaplain Major<lb/>
+      General Samuel Elbert Chapter Daughters<lb/>
+      of The American Revolution</hi></byline>
+      <lg type="stanza">
+	<l>Let us join the D. A. R.</l>
+	<l>As they come from near and far</l>
+	<l>And unite to honor all who did their part,</l>
+	<l rend="indent">For our country when 'twas new,</l>
+	<l rend="indent">Every patriot tried and true</l>
+	<l>Now we come to honor brave old Nancy Hart!</l>
+      </lg>
+      <lg type="stanza"><head rend="center">CHORUS</head>
+      <l>Honk!  honk!  honk!  The horns are blowing!</l>
+      <l>Let us all be bright and gay,</l>
+      <l rend="indent">Cast aside all care and woe,</l>
+      <l rend="indent">As we onward swiftly go,</l>
+      <l>While we glide along the Nancy Hart Highway!</l>
+      </lg>
 
-				<lg type="stanza">
-					<l>Let us join the D. A. R.</l>
-					<l>As they come from near and far</l>
-					<l>And unite to honor all who did their part,</l>
-					<l rend="indent">For our country when 'twas new,</l>
-					<l>Every patriot tried and true</l>
-					<l>Now we come to honor brave old Nancy Hart</l>
-				</lg>
-	
-			
+<lg type="stanza"><head rend="center">II.</head>
+<l>Passing swiftly o'er the trail,</l>
+<l>Never mind the Eastern gale,</l>
+<l>Sing a merry song of Jubilee today,</l>
+<l rend="indent">Let <hi rend="quote">Old Glory</hi> be unfurled</l>
+<l rend="indent">Wave its colors o'er the world</l>
+<l>As we glide along the Nancy Hart Highway!</l>
+</lg>
 
-					<lg type="stanza"><head rend="center">CHORUS</head>
-					<l>Honk!  honk!  honk!  The horns are blowing!</l>
-					<l>Let us all be bright and gay,</l>
-					<l>Cast aside all care and woe,</l>
-					<l>As we onward swiftly go,</l>
-					<l>While we glide along the Nancy Hart Highway!</l>
-				</lg>
+<lg type="stanza"><head rend="center">III.</head>
+<l rend="indent">May kind heaven ever bless</l>
+<l rend="indent">With Great joy and all success,</l>
+<l>Every one who on this Highway swiftly speeds,</l>
+<l rend="indent">Then, oh, let us ne'er forget</l>
+<l rend="indent">Till our evening sun has set</l>
+<l>Nancy Hart and all her many glorious deeds!</l>
+</lg>
 
-			
-
-				<lg type="stanza"><head>II.</head>
-					<l>Passing swiftly o'er the trail,</l>	
-					<l>Never mind the Eastern gale,</l>
-					<l>Sing a merry song of Jubilee today,</l>
-					<l>Let <hi rend="quote">Old Glory</hi> be unfurled</l>
-					<l>Wave its colors o'er the world</l>
-					<l>As we glide along the Nancy Hart Highway!</l>
-				</lg>
-
-			
-
-				<lg type="stanza"><head rend="center">III.</head>
-
-					<l>May kind heaven ever bless</l>
-					<l>With Great joy and all success,</l>
-					<l>Every one who on this Highway swiftly speeds,</l>
-					<l>Then, oh, let us ne'er forget</l>
-					<l>Till our evening sun has set</l>
-					<l>Nancy Hart and all her many glorious deeds!</l>
-				</lg>
-
-			<lg><head rend="center">CHORUS</head></lg>
-		</div>
-	</body>
+<lg><head rend="center">CHORUS</head></lg>
+</div>
+</body>
 </text>
