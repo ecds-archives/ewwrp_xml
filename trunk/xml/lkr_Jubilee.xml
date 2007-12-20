@@ -111,7 +111,8 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
      <l>While we glide along the Nancy Hart Highway!</l>
      </lg>
 
-<lg type="stanza"><head rend="center">II.</head>
+<l rend="center">II.</l>
+<lg type="stanza">
 <l>Passing swiftly o'er the trail,</l>
 <l>Never mind the Eastern gale,</l>
 <l>Sing a merry song of Jubilee today,</l>
@@ -119,8 +120,8 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 <l rend="indent">Wave its colors o'er the world</l>
 <l>As we glide along the Nancy Hart Highway!</l>
 </lg>
-
-<lg type="stanza"><head rend="center">III.</head>
+<l rend="center">III</l>
+<lg type="stanza">
 <l rend="indent">May kind heaven ever bless</l>
 <l rend="indent">With Great joy and all success,</l>
 <l>Every one who on this Highway swiftly speeds,</l>
