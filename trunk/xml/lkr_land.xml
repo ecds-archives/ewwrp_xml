@@ -1,30 +1,41 @@
-The Land We Love.
-Dedicated to her Music Class
-BY
-MRS. Loula K. Rogers.
-
-There’s a Land to us far dearer,
-Than all others o’er which we may roam,
-And its radient skies are clearer,
-‘Tis the bright Sunny South, our home.
- Then aloud let us sing to her glory,
-And exalt it in music and song,
-Let her virtues be embalmed in story,
-As our voices the echo prolong.
-
-Oh, Georgia! The Star of the nation,
-Let rejoicing break forth on the air,
-Tho’ misfortune hath spread desolation,
-Our hearts were brave enough to bear,
-‘Till the clouds have retreated before us,
-And a Colquitt and a Candler o’er us
-Three cheers for the State that we love!
-
-Yes, the new Star of Liberty is dawning,
-And gladness will once more illume,
-The Night that has darkened out Morning,
-And o’er cast it with woe, and with gloom.
-Peace and plenty may smile now upon us,
-With a President to shield us from the storm,
-North and South, East and West forever,
-Three cheers for Tilden and Reforn.
+<text>
+  <div>
+    <front>
+      <head>The Land We Love.<lb/>
+      <stage>Dedicated to her Music Class</stage>
+      </head>
+      <byline>BY<lb/>MRS. LOULA K. ROGERS.</byline>
+    </front>
+    <body>
+      <lg type="stanza">
+	<l>There's a Land to us far dearer,</l>
+	<l>Than all others o'er which we may roam,</l>
+	<l>And its radient skies are clearer,</l>
+	<l>'Tis the bright Sunny South, our home.</l>
+	<l> Then aloud let us sing to her glory,</l>
+	<l>And exalt it in music and song,</l>
+	<l>Let her virtues be embalmed in story,</l>
+	<l>As our voices the echo prolong.</l>
+      </lg>
+      <lg type="stanza">
+	<l>Oh, Georgia! The Star of the nation,</l>
+	<l>Let rejoicing break forth on the air,</l>
+	<l>Tho' misfortune hath spread desolation,</l>
+	<l>Our hearts were brave enough to bear,</l>
+	<l>'Till the clouds have retreated before us,</l>
+	<l>And a Colquitt and a Candler o'er us</l>
+	<l>Three cheers for the State that we love!</l>
+      </lg>
+      <lg type="stanza">
+	<l>Yes, the new Star of Liberty is dawning,</l>
+	<l>And gladness will once more illume,</l>
+	<l>The Night that has darkened out Morning,</l>
+	<l>And o'er cast it with woe, and with gloom.</l>
+	<l>Peace and plenty may smile now upon us,</l>
+	<l>With a President to shield us from the storm,</l>
+	<l>North and South, East and West forever,</l>
+	<l>Three cheers for Tilden and Reforn.</l>
+      </lg>
+    </body>
+  </div>
+</text>
