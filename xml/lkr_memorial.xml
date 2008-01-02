@@ -1,41 +1,56 @@
-MEMORIAL SONG
-
-For the unveiling of the Memorial Fountain erected in Tennille, Georgia, by the Daughters of the Confederacy, April 26, 1917.  Written by Mrs. Loula Kendall Rogers.  Air “Columbia, Gem of the Ocean.” For the Loula K. Rogers Chapter C. of C.
-
-This day will our hearts ever cherish,
-Fond thoughts of the brave and the true,
-May their fame, and their glory ne’er perish,
-For memory shall bring them to view,
-Gather chaplets of lilies and roses,
-And laurels they won on the field,
-And place them where valor reposes
-Bright honon illumined their shield.
-
-CHORUS – 
-Three cheers for the loyal and true!
-Three cheers for the Loyal and true.
-North and South, East and West forever,
-Three cheers for the loyal and true!
-
-The Southern Cross, with “Old Glory” united,
-O’er millions their stars brightly beam,
-Hearts and hands for our country are plighted,
-All America is led by their gleam,
-Then if War spreads its wide decolation,
-Out defenders are the “Gray and the Blue.”
-Both will watch o’er the fate of our nation,
-Three cheers for the loyal and true!
-CHORUS – 
-
-With hearts ever faithful and tender
-For all who have bled in the fray,
-We’ve remembered each gallant defender 
-Inscribed on the marble today,
-And whether on ocean or mountain,
-Our Army and Navy shall be,
-Like, the waters that flash from this Fountain,
-May their light shine as pure and as free
-CHORUS – 
+<text>
+  <div>
+    <Front>
+      <head>MEMORIAL SONG</head>
+      <stage>For the unveiling of the Memorial Fountain erected in Tennille, Georgia,<lb/>
+      by the Daughters of the Confederacy, April 26, 1917.  Written by Mrs.<lb/>
+      Loula Kendall Rogers.  Air "Columbia, Gem of the Ocean." For the
+      Loula K. Rogers Chapter C. of C.<lb/>
+      </stage>
+    </Front>
+    <body>
+      <lg type="stanza">
+	<l>This day will our hearts ever cherish,</l>
+	<l>Fond thoughts of the brave and the true,</l>
+	<l>May their fame, and their glory ne'er perish,</l>
+	<l>For memory shall bring them to view,</l>
+	<l>Gather chaplets of lilies and roses,</l>
+	<l>And laurels they won on the field,</l>
+	<l>And place them where valor reposes</l>
+	<l>Bright honon illumined their shield.</l>
+      </lg>
+      <lg type="stanza">
+	<head rend="indent">CHORUS -</head>
+	<l>Three cheers for the loyal and true!</l>
+	<l>Three cheers for the Loyal and true.</l>
+	<l>North and South, East and West forever,</l>
+	<l>Three cheers for the loyal and true!</l>
+      </lg>
+      <lg type="stanza">
+	<l>The Southern Cross, with "Old Glory" united,</l>
+	<l>O'er millions their stars brightly beam,</l>
+	<l>Hearts and hands for our country are plighted,</l>
+	<l>All America is led by their gleam,</l>
+	<l>Then if War spreads its wide decolation,</l>
+	<l>Out defenders are the "Gray and the Blue."</l>
+	<l>Both will watch o'er the fate of our nation,</l>
+	<l>Three cheers for the loyal and true!</l>
+	<trailer rend="indent">CHORUS -</trailer>
+      </lg>
+      <lg type="stanza">
+	<l>With hearts ever faithful and tender</l>
+	<l>For all who have bled in the fray,</l>
+	<l>We've remembered each gallant defender</l>
+	<l>Inscribed on the marble today,</l>
+	<l>And whether on ocean or mountain,</l>
+	<l>Our Army and Navy shall be,</l>
+	<l>Like, the waters that flash from this Fountain,</l>
+	<l>May their light shine as pure and as free</l>
+	<trailer rend="indent">CHORUS -</trailer>
+      </lg>
+    </body>
+  </div>
+</text> 
 
   
 
