@@ -2,9 +2,9 @@
   <div>
     <body>
       <lg type="stanza">
-	<l>We know and all the world must know,</l>
+	<l><hi rend="underline">We</hi> know and <hi rend="underline">all</hi> the world must know,</l>
 	<l>That of all the wars on land or sea,</l>
-	<l>There never was, nor ever can be</l>
+	<l>There <hi rend="underline">never</hi> <hi rend="underline">was</hi>, nor ever <hi rend="underline">can</hi> be</l>
 	<l>A General so great as our R.E. Lee!</l>
 	<l><signed>L.K. Rogers</signed></l>
       </lg>
