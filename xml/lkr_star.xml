@@ -1,107 +1,140 @@
-The New Star
-1
-I was musing in the twilight of a bright and 
-beauteous land.
-Of its lovely streams, its placid lakes, and 
-hoary mountains grand.
-Twas strewn with flowers of every hue and 
-bore upon its breast – 
-A gem whose brightness far exceeds the purest 
-diamond crest.
-2
-There was beauty in its valleys, in its fountains 
-and its rills,
-And happiness with viewless touch awaked 
-to joy its hills,
-There was beauty in its banner as it gracefully 
-unfurled,
-Its triple folds in triumph o’er and all
-admiring world.
-3
-With blessings heaven crowned it – all was beauty, 
-peace and love,
-The angles smiled upon it from the star-gemmed 
-vault above,
-A thrill of joy rushed o’er my soul, those
-foaming ??? grand - 
-And those mighty streams were sparkling in
-my own, my native land!
-4
-Then the shadowy veil of night came down
- and oh, what darkness drear
-Fell on my beauteous visions so lately filled with cheer,
-In agony I wildly wept – all happiness 
-had fled,
-And before me was a bloody pall, where 
-Peace lay cold and dead!
-5
-What maniac horde had thither rushed, 
-what demon of the air,
-What fiery brand and withering breath had 
-wrought the ruin there?
-Who barred the glorious sunlight from those 
-sweet Magnolia bowers
-And sprinkled human blood upon those 
-fairy fruits and flowers?
-6
-Columbia! My native land, Oh, where is 
-now thy boast.
-The united hope and destiny of thy 
-freedom-loving host?
-Thy glory has departed, and a guilty
- erring one 
-With brother’s blood would desecrate the home 
-of Washington.
-7
-The night is black around thee – will it
-ne’er be light again,
-Will the crimson blood like rivers flow
-upon each sunny plain?
-Alas! the temple is devided, then why 
-should canon roar,
-Their thundering tones but echo “we’re
-parted evermore”!
+<text>
+  <div>
+    <body>
+      <head>The New Star</head>
+      <lg type="stanza">
+	<head rend="center">1</head>
+	<l>I was musing in the twilight of a bright and</l>
+	<l>beauteous land.</l>
+	<l>Of its lovely streams, its placid lakes, and</l>
+	<l>hoary mountains grand.</l>
+	<l>Twas strewn with flowers of every hue and</l>
+	<l>bore upon its breast -</l>
+	<l>A gem whose brightness far exceeds the purest</l>
+	<l>diamond crest.</l>
+      </lg>
+      <lg type="stanza">
+	<head rend="center">2</head>
+	<l>There was beauty in its valleys, in its fountains</l>
+	<l>and its rills,</l>
+	<l>And happiness with viewless touch awaked</l>
+	<l>to joy its hills,</l>
+	<l>There was beauty in its banner as it gracefully</l>
+	<l>unfurled,</l>
+	<l>Its triple folds in triumph o'er and all</l>
+	<l>admiring world.</l>
+      </lg>
+      <lg type="stanza">
+	<head rend="center">3</head>
+	<l>With blessings heaven crowned it - all was beauty,</l>
+	<l>peace and love,</l>
+	<l>The angles smiled upon it from the star gemmed</l>
+	<l>vault above,</l>
+	<l>A thrill of joy rushed o'er my soul, those</l>
+	<l>foaming torrents grand -</l>
+	<l>And those mighty streams were sparkling in</l>
+	<l>my own, my native land!</l>
+      </lg>
+      <lg type="stanza">
+	<head rend="center">4</head>
+	<l>Then the shadowy veil of night came down</l>
+	<l> and oh, what darkness drear</l>
+	<l>Fell on my beauteous visions so lately filled</l>
+	<l>with cheer,</l>
+	<l>In agony I wildly wept - all happiness </l>
+	<l>had fled,</l>
+	<l>And before me was a bloody pall, where</l>
+	<l><hi rend="underline">Peace</hi> lay cold and dead!</l>
+      </lg>
+      <lg type="stanza">
+	<head rend="center">5</head>
+	<l>What maniac horde had thither rushed,</l> 
+	<l>what demon of the air -</l>
+	<l>What fiery brand and withering breath, had</l>
+	<l>wrought the ruin there?</l>
+	<l>Who barred the glorious sunlight from those</l>
+	<l>sweet Magnolia bowers</l>
+	<l>And sprinkled <hi rend="underline">human</hi> <hi rend="underline">blood</hi> upon those</l>
+	<l>fairy fruits and flowers?</l>
+      </lg>
+      <lg type="stanza">
+	<head rend="center">6</head>
+	<l>Columbia! My native land, oh where is</l>
+	<l>now thy boast,</l>
+	<l>The united hope and destiny of thy</l> 
+	<l>freedom-loving host?</l>
+	<l>Thy glory has departed, and a guilty</l>
+	<l>erring one</l>
+	<l>With <sic corr="brothers'">brothers</sic> blood would desecrate the home</l>
+	<l>of Washington.</l>
+      </lg>
+      <lg type="stanza">
+	<head rend="center">7</head>
+	<l>The night is black around thee - will it</l>
+	<l>ne'er be light again,</l>
+	<l>Will the crimson blood like rivers flow</l>
+	<l>upon each sunny plain?</l>
+	<l>Alas! the temple is divided, <del rend="overstrike">then</del><add place="supralinear">List:</add><del rend="overstrike">why</del><add place="supralinear">A thousand</add></l>
+	<l><del rend="overstike">should cannon roar,</del><add place="right">cannons roar,</add></l>
+	<l><del rend="overstrike">And</del><add	place="supralinear">And</add> thundering tones <del rend="overstrike">but</del><add place="superlinear">re-</add>echo "<del rend="overstrike">We're</del><add place="supralinear">Are we</add></l>
+	<l>parted evermore"?</l>
+      </lg>
+      <lg type="stanza">
+	<l><del rend="overstike">Come, sacred Peace, above us, for we</del></l>
+	<l><del rend="overstike">never more can be,</del></l>
+	<l><del rend="overstike">United with the tyrants, who would</del></l>
+	<l><del rend="overstike">Subjugate the free,</del></l>
+      </lg>
+      <lg type="stanza">
+	<head rend="center">8</head>
+	<l>Yes, the veil is rend asunder! See how</l>
+	<l>human passions swell</l>
+	<l>For every thundering echo is a solemn</l>
+	<l>Funeral Knell</l>
+	<l>Oh, God in pity hear us! Send a message</l>
+	<l>of Peace</l>
+	<l>To quell the roaring <unclear>--</unclear> and their mighty</l>
+	<l><unclear>--</unclear>cease.</l>
+      </lg>
+      <lg type="stanza">
+	<head rend="center">9</head>
+	<l>In comparison came this answer, On</l>
+	<l>The ruins there a ray</l>
+	<l>Bringing to the worn and weary <unclear>--</unclear></l>
+	<l>of a brighter day</l>
+	<l>All honor to the nation born - the beautiful</l>
+	<l>New Star</l>
+	<l>That gleams above oppression like an angel</l>
+	<l>from afar.</l>
+      </lg>
+      <lg type="stanza">
+	<head rend="center">10</head>
+	<l>Star of the South! Where e'er I gaze thy</l>
+	<l>radiant light is there</l>
+	<l>And 'neath its ray my <del
+	rend="overstrike"><unclear>Cosrotsy</unclear></del><add	place="supralinear">spirit</add> kneels in</l>
+	<l>gratitude and prayer</l>
+	<l>Shine on through endless ages o'er the field</l>
+	<l>by heroes trod</l>
+	<l>that lead each Southern patriot onto glory and to God</l>
+      </lg>
+      <lg type="stanza">
+	<l><del rend="overstrike">All honor to the nation born, the beautifu</del></l> 
+	<l><del rend="overstrike">new star</del>,</l>
+	<l><del rend="overstrike">that gleams above oppressiuon like an angel</del></l>
+	<l><del rend="overstrike">from afar.</del></l>
+      </lg>
+      <lg type="stanza">
+	<l><del rend="overstrike">Star of the South! Where e'er I gaze</del></l>
+	<l><del rend="overstrike">thy peaceful light is there,</del></l>
+	<l><del rend="overstrike">And 'neath its ray a nation bows in</del></l> 
+	<l><del rend="overstrike">gratitude and prayer,</del></l>
+	<l><del rend="overstrike">Shine on, through endless ages, o'er the</del></l> 
+	<l><del rend="overstrike">fields by heroes trod</del></l>
+	<l><del rend="overstrike">And light each noble patriot to glory and</del></l>
+	<l><del rend="overstrike">to God!</del></l>
+      </lg>
+    </body>
+  </div>
+</text>
 
-Come, sacred Peace, above us, for we
-never more can be,
-United with the tyrants, who would 
-Subjugate the free,
-8
-Yes, the veil is rend asunder! See how 
-human passions swell
-For every thundering echo is a solemn
-Funeral Knell 
-Oh, God in pity hear us! Send a message 
-of Peace
-To quell the roaring ???? and their mighty
-????curse.
-9
-In comparison came this answer, On
-The ruins there a ray
-Bringing to the worn and weary ???
-of a brighter day
-All honor to the nation born – the beautiful
-New Star
-That gleams above oppression like an angel 
-from afar.
-Star of the South! Where e’er I gaze thy
-radiant light is there
-And ‘neath its ray my spirit kneels in 
-gratitude and prayer
-Shine on through endless ages o’er the field
-by heroes trod
-that lead each Southern patriot onto glory and to God
-
-Extra
-All honor to the nation born, the beautiful 
-new star,
-that gleams above oppressiuon like an angel
-from afar.
-
-Star of the South! Where e’er I gaze
-thy peaceful light is there,
-And ‘neath its ray a nation bows in 
-gratitude and prayer,
-Shine on, through endless ages, o’er the fields by heroes trod
-And light each noble patriot to glory and 
-to God!
