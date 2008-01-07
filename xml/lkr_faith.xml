@@ -1,52 +1,76 @@
-“THE SOLDIERS’ VICTORY OF FAITH
-This is the victory that hath overcome the world. – John 5th-4.
-(By Mrs. Loula Kendall Rogers, State Poet Laureate U.D.C., for the Annual Convention in Moutrie, October, 1929)
-Aurora gleamed in beauty o’er the hills,
-And cast a ray of golden charm that thrills
-A soldier lone, who wandered ‘neath the dome
-of Mountain’s sheltering arm o’er sun-lit home.
-Admiringly he gazed upon the view,
-The kneeling there where woodland flowers grew,
-He plead for Heavenly guidance on his way,
-For he must meet impending battle on that day!
-
-‘Twas thus at Valley Forge the Washington
-Invoked the mighty “King of Kings,” and won!
-For never a warrior in other lands had brought
-So great a victory as he in Faith has wrought
-Our vast Republic that extends from sea to sea,
-Whose banners wave in triumph o’er the Free;
-For Heaven has spread great blessings on our land,
-Of Peace and Plenty by Divine command.
-Years pass – Then o’er the plains of Mexico
-Near by the gates of Alamo,
-The thundering sound of guns proclaim
-That United States have won the fame,
-For Marion in his War-time creed,
-And Zachary Taylor proved help in need,
-While Jefferson Davis in that Mexican War,
-Was at Buena Vista a reigning Star!
-
-A proof that undying Faith was there,
-For our bravest leaders won by prayer;
-Not one private home did they efface,
-Nor cruelly burn a Court House place;
-This Law kept General Lee for years
-As he spared in mercy a widow’s tears,
-And by all nations his Orders were known,
-For his memory is reverenced by the world is shown.
-
-Who can forget brave Stonewall Jackson
-Whose Living Faith illumed each action?
-And Bishop Polk near Kennesaw’s height
-Who was visually crowned in Immortal Light?
-Later on the same true faith abides,
-As Pershing the honored Chieftian guides,
-While Victory crowns with success anew,
-And all nations admire his allegiance true.
-
-Then Hail!  All Hail!  With thankful voice acclaim,
-That Victory Above, crowns the true soldier with fame!
-Let Earth and Heaven rejoice on land and sea afar
-When Faith and Love combined have won the brightest
-Star!
+<text>
+  <div>
+    <body>
+      <head>A Soldier's Victory Of Faith</head>
+      <cit>
+	<quote>"For whatsoever is born of God, overcometh the World;<lb/>
+	and this is the victory that overcometh the world, even our
+	Faith. 1<hi rend="super">st</hi>
+	John 5-4</quote>
+	<bibl>1 John 5-4</bibl>
+      </cit>
+      <dateline rend="center">Read at the opening of the 35<hi rend="super">th</hi> Convention of United<lb/>
+      Daughters of the Confederacy at Moultrie, Georgia,Oct. 15<hi
+      rend="super">th</hi>1929</dateline>
+      <byline rend ="center">By Mrs. Loula Kendall
+      Rogers<lb/>
+      Poet Laureate, Georgia Division</byline>
+      <lg type="stanza">
+	<l>Aurora gleamed in beauty o'er the hills</l>
+	<l>And cast a ray of golden charm that thrills</l>
+	<l>A soldier brave, who wandered neath the dome</l>
+	<l>Of Mountain's sheltering arm and sun-lit home;</l>
+	<l>Admiringly he gazed upon the view,</l>
+	<l>Andkneeling there where woodland flowers grew'</l>
+	<l>He plead for Heavenly guidance on his way,</l>
+	<l>For he must meet impending battle on that day!</l>
+      </lg>
+      <lg type="stanza">
+	<l>'Twas thus at Valley Forge that Washington</l>
+	<l>Invoked the mighty "King of Kings," and won!</l>
+	<l>For never a Warrior in other lands had brought</l>
+	<l>So great a victory as he in Faith has wrought!</l>
+	<l>Our vast Republic that extends from sea to sea,</l>
+	<l>Whose banners wave in triumph o'er the Free;</l>
+	<l>For Heaven has cast great blessings on our land</l>
+	<l>Of Peace and Plenty by Divine command.</l>
+      </lg>
+      <lg type="stanza">
+	<l>Years pass - Then o'er the plains of Mexico</l>
+	<l>Near by the gates of Alamo,</l>
+	<l>The thundering sound of guns proclaim</l>
+	<l>That General Lane has won the fame</l>
+	<l>Of "<hi rend="underline">Marion</hi>," in his War time creed,</l>
+	<l>And Zachary Taylor proved a help in need</l>
+	<l>While Jefferson Davis in that Mexican War,</l>
+	<l>Was at Buena Vista a reigning Star!</l>
+      </lg>
+      <lg type="stanza">
+	<l>A proof that undying Faith was there</l>
+	<l>And our bravest heroes lead by prayer</l>
+	<l>Not one private home they efface</l>
+	<l>Nor cruelly burn a record's place</l>
+	<l>This Law kept General Lee for all the years</l>
+	<l>For <add place="supralinear">oft</add> he spared in Mercy a widow's tears,</l>
+	<l>And to all nations his Orders were known,</l>
+	<l>For his memory in reverence by the world is shown.</l>
+      </lg>
+      <lg type="stanza">
+	<l>Who can forget <add place="supralinear">the</add>brave Stonewall Jackson</l>
+	<l>Whose Living Faith illumed each action?</l>
+	<l>And Bishop Polk, near Kennesaw's<add place="supralinear">great</add> height</l>
+	<l>Who there was <add place="supralinear">visually</add> crowned by immortal Light?</l>
+	<l>Years later <del rend="overstrike">on</del> the same true faith abides</l>
+	<l>As Pershing, the world-honored leader guides,</l>
+	<l>While Victory crowns with success anew,</l>
+	<l>And all nations honor his allegiance true!</l>
+      </lg>
+      <lg type="stanza">
+	<l>Then Hail!  All Hail!  With thankful voice acclaim</l>
+	<l>That Victory hath crowned "The Pure in Heart," with fame</l>
+	<l>Let Earth and Heaven rejoice on land and sea afar</l>
+	<l>When Faith and Love <del rend="overstrike">combined</del> have won the brightest Star!</l>
+      </lg>
+    </body>
+  </div>
+</text>
