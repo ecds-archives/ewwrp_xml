@@ -1,9 +1,18 @@
-Helen Willis:
-Let me too try each day and hour
-To act upon this plan,
-What little good is in my power
-To do it while I can.
-If to be useful thus I try
-I may be better by and by.
-All together
-And a little child shall lead them.
+<text>
+  <div>
+    <body>
+      <head>Helen Willis:</head>
+      <lg type="stanza">
+	<l>Let me too try each day and hour</l>
+	<l>To act upon this plan,</l>
+	<l>What little good is in my power</l>
+	<l>To do it while I can.</l>
+	<l>If to be useful thus I try</l>
+	<l>I may be better by and by.</l>
+	<l><stage rend="indent">All together</stage></l>
+	<l>And a little child shall lead<lb/>
+	them.</l>
+      </lg>
+    </body>
+  </div>
+</text>

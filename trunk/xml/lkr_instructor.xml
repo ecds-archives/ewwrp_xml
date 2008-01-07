@@ -1,25 +1,38 @@
-General R.E. Lee
-As An Instructor Of Youth
-The golden chords attuned by thee Not by each alone, but through the limitless Expanse of all Eternity shall throb.
-Southwick
-
-A Prince among men!  A Hero great
-Who peerless stand on mountain height,
-Far, far above the ????,
-A soul illumed in Heaven’s own light!
-With manhood’s noblest gifts bestowed,
-He might have held illustrious reign
-In pomp and power, and homage ???
-A world wide statesman free of stain
-
-And yet the ??? what things may deem
-A lowly ???.   From lofty height
-He say ahead the future gleam
-That onward led to wisdom’s light,
-Thus patiently his work was wrought
-On Mind immortal, ever free,
-And thus America’s citizenship
-Grow ‘neath the Godlike soul of Lee!
-
-Mrs. Loula Kendall Rogers
-Tennille, Georgia
+<text>
+  <div>
+    <body>
+      <head>General R.E. Lee<lb/>
+      As An Instructor Of Youth</head>
+      <quote>
+	<lg>
+	  <l rend="indent">The golden chords attuned by thee</l>
+	  <l>Not as each alone, but through the limitless</l>
+	  <l>Expanse of all Eternity shall throb.</l>
+	  <byline>Southwick</byline>
+	</lg>
+      </quote>
+      <lg type="stanza">
+	<l>A Prince among men!  A Hero great</l>
+	<l>Who peerless stand on mountain height,</l>
+	<l>Far, far above the <unclear>---</unclear>,</l>
+	<l>A soul illumed in Heaven's own light!</l>
+	<l>With manhood's noblest gifts bestowed,</l>
+	<l>He might have held illustrious reign</l>
+	<l>In pomp and power, and homage due</l>
+	<l>A world wide statesman free of stain</l>
+      </lg>
+      <lg type="stanza">
+	<l>And yet he chose what Kings may deem</l>
+	<l>A lowly sphere.   From lofty height</l>
+	<l>He saw ahead the future gleam</l>
+	<l>That onward led to Wisdom's light,</l>
+	<l>Thus patiently his work was wrought</l>
+	<l>On <hi rend="underline">Mind</hi> immortal, ever free,</l>
+	<l>And thus America's citizenship</l>
+	<l>Grow 'neath the Godlike soul of Lee!</l>
+      </lg>
+      <byline>Mrs. Loula Kendall Rogers</byline>
+      <dateline>Tennille, Georgia</dateline>
+    </body>
+  </div>
+</text>
