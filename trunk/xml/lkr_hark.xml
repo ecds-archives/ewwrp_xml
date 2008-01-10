@@ -1,11 +1,10 @@
 <text>
   <body>
-    <div>
+    <pb n="[1]" entity="lkr_hark001" pages="1"/>
+    <div id="lkr_hark" type="poem">
       <head rend="center">HARK! OUR BOYS ARE COMING HOME.</head>
       <stage rend="center">TUNE: "Tramp, tramp, tramp, The Boys Are Marching Home"</stage>
       <byline>MRS. LOULA K. ROGERS</byline>
-    </div>
-    <div>
       <lg type="stanza">
 	<l>Don't you see the clouds are breaking o'er the eastern lands today?</l>
 	<l rend="indent">And amid the rifts we see the shining blue?</l>
@@ -27,7 +26,8 @@
 	<l rend="indent">Has reached the top and triumphed in the fray.</l>
       </lg>
       <lg type="stanza">
-	<l>The hurrah for Christmas carol, and the pearly mistletoe!</l>
+	<l>The hurrah for <del rend="overstrike">Christmas</del> <add
+place="supralinear">Dixie Soldiers</add> <del rend="overstrike">carol</del>, and the pearly mistletoe!</l>
 	<l rend="indent">The smoking viands ready for the feast,</l>
 	<l>Remember needy orphans whatsoever we may do,</l>
 	<l rend="indent">And thank out God this wretched war has ceased.</l>
