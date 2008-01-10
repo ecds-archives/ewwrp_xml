@@ -1,6 +1,7 @@
 <text>
-  <div>
-    <body>
+  <body>
+    <pb n="[1]" entity="lkr_confederacy001" pages="1"/> 
+    <div id="lkr_confederacy" type="poem"> 
       <head>THE SPIRIT OF THE CONFEDERACY</head>
       <stage rend="center">"Unveils a Picture Of Morn and Night,<lb/>
       Yet sweeps the lingering mists away!"</stage>
@@ -53,6 +54,7 @@
 	<l>Till "The Stars and Bars" at Manassas brought forth a ray of light,</l>
 	<l>And proved to all the spirit which King's Mountain found so true!</l>
       </lg>
+      <pb n="[2]" entity="lkr_confederacy002" pages="2"/> 
       <lg type="stanza">
 	<l>All Battles were unwelcome - but homes in ashes laid</l>
 	<l>Brought forth in words immortal emblazed upon the air</l>
@@ -72,7 +74,12 @@
 	<l>May Daughters of the Confederacy the Gates of Love unbar</l>
 	<l>And lead the Blue and Gray as friends to Heaven's Crowning Star</l>
       </lg>
-    </body>
-  </div>
+    </div>
+  </body>
+  <back>
+    <pb n="[3]" entity="lkr_confederacy003" pages="3"/> 
+    <div id="lkr_confederacy2" type="author's note">
+      <p>Spirit of the Confederacy</p>
+    </div>
+  </back>
 </text>
-

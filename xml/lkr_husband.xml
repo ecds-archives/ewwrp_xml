@@ -1,66 +1,67 @@
 <text>
-  <front>
-    <head rend="center">What I Want My Husband To Be.</head>
-  </front>
   <body>
-    <lg type="stanza">
-      <l>1 I want my husband to be a man</l>
-      <l>Complete in all that Gad may plan.</l>
-    </lg>
-    <lg type="stanza">
-      <l>2 He must be gallant he must be true</l>
-      <l>And coincide with all I do.</l>
-    </lg>
-    <lg type="stanza">
-      <l>3 He must not frown, he must not scold</l>
-      <l>And say my coffee is too cold</l>
-      <l>The steak is burnt, my rice not done</l>
-      <l>And think light bread must weigh a ton!</l>
-    </lg>
-    <lg type="stanza">
-      <l>4 Whatever I say whatever I do</l>
-      <l>My husband has got to say so too.</l>
-    </lg>
-    <lg type="stanza">
-      <l>5 Never a fault to find, not he</l>
-      <l>With either his mother-in-law or me.</l>
-    </lg>
-    <lg type="stanza">
-      <l>6 Tall and comely, black eyes and hair</l>
-      <l>And the spirit to do and to dare.</l>
-    </lg>
-    <lg type="stanza">
-      <l>7 He must not talk about other pretty girls</l>
-      <l>Of rosy cheeks and golden curls,</l>
-      <l>For if he does my time I'll wait</l>
-      <l>And very soon retaliate</l>
-    </lg>
-    <lg type="stanza">
-      <l>8 My husband must be submissive to me</l>
-      <l>And no other will but mine to be.</l>
-    </lg>
-    <lg type="stanza">
-      <l>9 If I wear a hat as big as the house</l>
-      <l>He must be as meek as a mouse.</l>
-      <l>And say I'm stunnin, tho he's frownin</l>
-      <l>And that he thinks I'm sweeter that pinks.</l>
-    </lg>
-    <lg type="stanza">
-      <l>10 I want my mate to be something great</l>
-      <l>An Earl a Count or a Potentate.</l>
-    </lg>
-    <lg type="stanza">
-      <l>11 My husband must be a President</l>
-      <l>Of something, though not worth a cent.</l>
-    </lg>
-    <lg type="stanza">
-      <l>12 He must have riches and plenty of gold</l>
-      <l>An automobile and a chauffeur bold.</l>
-    </lg>
-    <pb/>
-    <lg type="stanza">
-      <l>13 I'm satisfied with any old thing</l>
-      <l>That can give me a living and a diamond ring!</l>
-    </lg>
+    <pb n="1" entity="lkr_husband001" pages="1"/>
+    <div id="lkr_husband" type="poem">
+      <head rend="center">What I Want My Husband To Be.</head>
+      <lg type="stanza">
+	<l>1 I want my husband to be a man</l>
+	<l>Complete in all that Gad may plan.</l>
+      </lg>
+      <lg type="stanza">
+	<l>2 He must be gallant he must be true</l>
+	<l>And coincide with all I do.</l>
+      </lg>
+      <lg type="stanza">
+	<l>3 He must not frown, he must not scold</l>
+	<l>And say my coffee is too cold</l>
+	<l>The steak is burnt, my rice not done</l>
+	<l>And think <hi rend="underline">light</hi> bread <hi rend="underline">must</hi> <hi rend="underline">weigh</hi> <hi rend="underline">a</hi> <hi rend="underline">ton</hi>!</l>
+      </lg>
+      <lg type="stanza">
+	<l>4 Whatever <hi rend="underline">I</hi> say whatever <hi rend="underline">I</hi> do</l>
+	<l>My husband has got to say so too.</l>
+      </lg>
+      <lg type="stanza">
+	<l>5 Never a fault to find, not he</l>
+	<l>With either his <hi rend="underline">mother</hi>-<hi rend="underline">in</hi>-<hi rend="underline">law</hi> or me.</l>
+      </lg>
+      <lg type="stanza">
+	<l>6 Tall and comely, black eyes and hair</l>
+	<l>And the spirit to do and to dare.</l>
+      </lg>
+      <lg type="stanza">
+	<l>7 He must not talk about other pretty girls</l>
+	<l>Of rosy cheeks and golden curls,</l>
+	<l>For if he does <hi rend="underline">my</hi> time I'll wait</l>
+	<l>And very soon retaliate</l>
+      </lg>
+      <lg type="stanza">
+	<l>8 My husband must be submissive to me</l>
+	<l>And no other will but mine to be.</l>
+      </lg>
+      <lg type="stanza">
+	<l>9 If I wear a hat as big as the house</l>
+	<l>He must be as meek as a mouse.</l>
+	<l>And say I'm stunnin, tho he's frownin</l>
+	<l>And that <hi rend="underline">he</hi> thinks I'm sweeter that pinks.</l>
+      </lg>
+      <lg type="stanza">
+	<l>10 I want my mate to be something great</l>
+	<l>An Earl a Count or a <hi rend="underline">Potentate</hi>.</l>
+      </lg>
+      <lg type="stanza">
+	<l>11 My husband must be a President</l>
+	<l>Of something, though not worth a cent.</l>
+      </lg>
+      <lg type="stanza">
+	<l>12 He must have riches and plenty of gold</l>
+	<l>An automobile and a chauffeur bold.</l>
+      </lg>
+      <pb n="2" entity="lkr_husband002" pages="2"/>
+      <lg type="stanza">
+	<l>13 I'm satisfied with any old thing</l>
+	<l>That can give me a living and a diamond ring!</l>
+      </lg>
+    </div>
   </body>
 </text>

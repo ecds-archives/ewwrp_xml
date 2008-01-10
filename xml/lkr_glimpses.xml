@@ -1,78 +1,80 @@
 <text>
-  <front><head rend="center">GLIMPSES OF THE GREAT WORK WROUGHT BY<lb/>
-  GEORGIA DAUGHTERS OF THE CONFEDERACY</head>
-  <byline rend="center">By Mrs. Loula Kendall Rogers, Poet Laureate Georgia Division</byline>
-  </front>
   <body>
-    <lg type="stanza">
-      <l>Go ask the hills the mighty hills</l>
-      <l rend="indent">Where neither church nor school were known</l>
-      <l>No upward path to life and light</l>
-      <l rend="indent">Or judgment at Jehovah's throne?</l>
-      <l>And there 'tis found that woman's hands</l>
-      <l rend="indent">Have reared a shrine where love abides,</l>
-      <l>Where education opes the way</l>
-      <l rend="indent">And knowledge over mind presides.</l>
-    </lg>
-    <lg type="stanza">
-      <l>At Rabun Gap 'neath mountain height</l>
-      <l rend="indent">What wondrous changes have been wrought!</l>
-      <l>What stores of thought unlocked each day</l>
-      <l rend="indent">And gems revealed 'till then unsought!</l>
-      <l>O brave Bartow! Thy spirit dwells</l>
-      <l rend="indent">On every tree and sparkling rill,</l>
-      <l>Each zephyr tells to passers by</l>
-      <l rend="indent">"Though dead, his fame is living still."</l>
-    </lg>
-    <lg type="stanza">
-      <l>At Liberty Hall, a mansion stands</l>
-      <l rend="indent">In reverence to him who freely gave</l>
-      <l>Heart, hands and mind to train our youth</l>
-      <l rend="indent">And from a reckless life to save</l>
-      <l>Hail gallant Stephens! In memory hail!</l>
-      <l rend="indent">Thy labor was never spent in vain,</l>
-      <l>But illumined all who followed the gleam</l>
-      <l rend="indent">And in eternity they reign.</l>
-    </lg>
-    <lg type="stanza">
-      <l>The honored names of our Generals shrine</l>
-      <l rend="indent">At many hospitals o'er the sea</l>
-      <l>Bearing comfort to each soldier brave</l>
-      <l rend="indent">And gratitude to U.D.C.</l>
-      <l>In World War records Georgia won</l>
-      <l rend="indent">The highest prize!  And ne'er shall fade</l>
-      <l rend="indent">The gift of noble Hector church</l>
-      <l rend="indent">When ten thousands at our feet were laid!</l>
-    </lg>
-    <lg type="stanza">
-      <l>Go ask the winds that sweep Oconee</l>
-      <l rend="indent">Far down the crimson hills of Hall</l>
-      <l>What wondrous stories they are singing</l>
-      <l rend="indent">Of Athens queenliest queen of all</l>
-      <l>Ah, there sweet Winnie Davis smiles</l>
-      <l rend="indent">As daughters of heroes come afar</l>
-      <l>To life high and higher the banner of learing,</l>
-      <l rend="indent">Until its folds entwine a-star.</l>
-    </lg>
-    <lg type="stanza">
-      <l>Throughout all Georgia lands are found</l>
-      <l rend="indent">Memorials of our "Boys in Gray."</l>
-      <l>And truths of history certify</l>
-      <l rend="indent">A stainless banner led their way</l>
-      <l>From broad Savannah on the east</l>
-      <l rend="indent">To Chattahoochee's rhythmic wave</l>
-      <l>Confederate daughters ne'er have ceased</l>
-      <l rend="indent">To honor, revere and crown the brave</l>
-    </lg>
-    <lg type="stanza">
-      <l>On mountain crest, a vision lives</l>
-      <l rend="indent">The wonderous dream of Helen Plane</l>
-      <l>Heaven gave the hallowed Cenotaph</l>
-      <l rend="indent">All through the years it must remain</l>
-      <l>Oh mountain, speak with loving voice!</l>
-      <l rend="indent">The merit of they sons proclaim,</l>
-      <l>And tell to cycling years that roll</l>
-      <l>They won by right, eternal fame!</l>
-    </lg>
+    <pb n="[1]" entity="lkr_glimpses002" pages="1"/>
+    <div id="lkr_glimpses" type="poem"> 
+      <head rend="center">GLIMPSES OF THE GREAT WORK WROUGHT BY<lb/>
+      GEORGIA DAUGHTERS OF THE CONFEDERACY</head>
+      <byline rend="center">By Mrs. Loula Kendall Rogers, Poet Laureate Georgia Division</byline>
+      <lg type="stanza">
+	<l>Go ask the <hi rend="underline">hills</hi> the <hi rend="underline">mighty hills</hi></l>
+	<l rend="indent">Where neither church nor school were known</l>
+	<l>No upward path to life and light</l>
+	<l rend="indent">Or judgment at Jehovah's throne?</l>
+	<l>And there 'tis found that woman's hands</l>
+	<l rend="indent">Have reared a shrine where love abides,</l>
+	<l>Where education opes the way</l>
+	<l rend="indent">And knowledge over mind presides.</l>
+      </lg>
+      <lg type="stanza">
+	<l>At <hi rend="underline">Rabun Gap</hi> 'neath mountain height</l>
+	<l rend="indent">What wondrous changes have been wrought!</l>
+	<l>What stores of thought unlocked each day</l>
+	<l rend="indent">And gems revealed 'till then unsought!</l>
+	<l>O brave Bartow! Thy spirit dwells</l>
+	<l rend="indent">On every tree and sparkling rill,</l>
+	<l>Each zephyr tells to passers by</l>
+	<l rend="indent">"Though dead, his fame is living still."</l>
+      </lg>
+      <lg type="stanza">
+	<l>At <hi rend="underline">Liberty Hall</hi>, a mansion stands</l>
+	<l rend="indent">In reverence to him who freely gave</l>
+	<l>Heart, hands and mind to train our youth</l>
+	<l rend="indent">And from a reckless life to save</l>
+	<l>Hail gallant Stephens! In memory hail!</l>
+	<l rend="indent">Thy labor was never spent in vain,</l>
+	<l>But illumined all who followed the gleam</l>
+	<l rend="indent">And in eternity they reign.</l>
+      </lg>
+      <lg type="stanza">
+	<l>The honored names of our Generals shrine</l>
+	<l rend="indent">At many hospitals o'er the sea</l>
+	<l>Bearing comfort to each soldier brave</l>
+	<l rend="indent">And gratitude to U.D.C.</l>
+	<l>In World War records Georgia won</l>
+	<l rend="indent">The highest prize!  And ne'er shall fade</l>
+	<l rend="indent">The gift of noble <hi rend="underline">Hector</hi> church</l>
+	<l rend="indent">When ten thousands at our feet were laid!</l>
+      </lg>
+      <lg type="stanza">
+	<l>Go ask the winds that sweep <hi rend="underline">Oconee</hi></l>
+	<l rend="indent">Far down the crimson hills of Hall</l>
+	<l>What wondrous stories they are singing</l>
+	<l rend="indent">Of Athens queenliest queen of all</l>
+	<l>Ah, there sweet <hi rend="underline">Winnie Davis</hi> smiles</l>
+	<l rend="indent">As daughters of heroes come afar</l>
+	<l>To life high and higher the banner of learing,</l>
+	<l rend="indent">Until its <hi rend="underline">folds entwine a-star</hi>.</l>
+      </lg>
+      <lg type="stanza">
+	<l>Throughout <hi rend="underline">all Georgia lands</hi> are found</l>
+	<l rend="indent">Memorials of our "Boys in Gray."</l>
+	<l>And truths of history certify</l>
+	<l rend="indent">A stainless banner led their way</l>
+	<l>From broad Savannah on the east</l>
+	<l rend="indent">To Chattahoochee's rhythmic wave</l>
+	<l>Confederate daughters ne'er have ceased</l>
+	<l rend="indent">To <hi rend="underline">honor,</hi> <hi rend="underline">revere</hi> and <hi rend="underline">crown</hi> <hi rend="underline">the</hi> <hi rend="underline">brave</hi></l>
+      </lg>
+      <lg type="stanza">
+	<l>On mountain crest,<add place="supralinear">Stone Mountain</add> a vision lives</l>
+	<l rend="indent">The wonderous dream of Helen Plane</l>
+	<l><hi rend="underline">Heaven gave</hi> the <hi rend="underline">hallowed</hi> <hi rend="underline">Cenotaph</hi></l>
+	<l rend="indent">All through the years it must remain</l>
+	<l>Oh mountain, speak with loving voice!</l>
+	<l rend="indent">The merit of they sons proclaim,</l>
+	<l>And tell to cycling years that roll</l>
+	<l>They won <hi rend="underline">by</hi> <hi rend="underline">right</hi>, <hi rend="underline">eternal</hi> <hi rend="underline">fame</hi>!</l>
+      </lg>
+    </div>
   </body>
 </text>

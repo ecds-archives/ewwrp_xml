@@ -1,47 +1,49 @@
 <text>
-  <front>
-    <head rend="center">Useful Little Girls. (1)</head>
-  </front>
   <body>
-    <lg type="stanza">
-      <head>Minnie Tyler</head>
-      <l>A little girl I am indeed</l>
-      <l>And little do I know.</l>
-      <l>Much help and care I yet shall need</l>
-      <l>That I may ??? great</l>
-      <l>If I would ever hope to do</l>
-      <l>Things great and good and useful too.</l>
-    </lg>
-    <lg type="stanza">
-      <head>Lucile Grshrism</head>
-      <l>Yes even now I ought to try</l>
-      <l>To do what good I may</l>
-      <l>God never meant that such as I</l>
-      <l>Should only live to play</l>
-      <l>And talk and laugh, and eat and drink</l>
-      <l>And sleep and never think</l>
-    </lg>
-    <lg type="stanza">
-      <l>Grace Woodward</l>
-      <l>I may if I have but a mind</l>
-      <l>Do good in many ways</l>
-      <l>Plenty to do the young may find</l>
-      <l>In these our busy days.</l>
-      <l>Sad would it be though very small</l>
-      <l>If I was of no use at all.</l>
-    </lg>
-    <lg type="stanza">
-      <l>Bobbie Matthews</l>
-      <l>One gentle word that I may speak</l>
-      <l>Or one kind loving deeed</l>
-      <l>May through a trifle poor and weak</l>
-      <l>Prove lifes a tiny seed;</l>
-      <l>And who can tell what good may spring</l>
-      <l>From such a very little thing?</l>
-    </lg>
-    <lg type="stanza">
-      <l rend="indent">All together taking each other's hands,</l>
-      <l>"And a little child shall lead them"!</l>
-    </lg>
+    <pb n="1" entity="lkr_girls001" pages="1"/>
+    <div id="lkr_girls" type="poem">
+      <head rend="center">Useful Little Girls. (1)</head>
+      <lg type="stanza">
+	<head>Minnie Tyler</head>
+	<l>A little girl I am indeed</l>
+	<l>And little do I know.</l>
+	<l>Much help and care I yet shall need</l>
+	<l>That I may ??? great</l>
+	<l>If I would ever hope to do</l>
+	<l>Things great and good and useful too.</l>
+      </lg>
+      <lg type="stanza">
+	<head>Lucile Grshrism</head>
+	<l>Yes even now I ought to try</l>
+	<l>To do what good I may</l>
+	<l>God never meant that such as I</l>
+	<l>Should only live to play</l>
+	<l>And talk and laugh, and eat and drink</l>
+	<l>And sleep and never think</l>
+      </lg>
+      <lg type="stanza">
+	<l>Grace Woodward</l>
+	<l>I may if I have but a mind</l>
+	<l>Do good in many ways</l>
+	<l>Plenty to do the young may find</l>
+	<l>In these our busy days.</l>
+	<l>Sad would it be though very small</l>
+	<l>If I was of no use at all.</l>
+      </lg>
+      <lg type="stanza">
+	<l>Bobbie Matthews</l>
+	<l>One gentle word that I may speak</l>
+	<l>Or one kind loving deeed</l>
+	<l>May through a trifle poor and weak</l>
+	<l>Prove lifes a tiny seed;</l>
+	<l>And who can tell what good may spring</l>
+	<l>From such a very little thing?</l>
+      </lg>
+      <pb n="[2]" entity="lkr_girls002" pages="2"/>
+      <lg type="stanza">
+	<l rend="indent">All together taking each other's hands,</l>
+	<l>"And a little child shall lead them"!</l>
+      </lg>
+    </div>
   </body>
 </text>

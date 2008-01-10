@@ -1,6 +1,7 @@
 <text>
-  <div>
-    <body>
+  <body>
+    <pb n="[1]" entity="lkr_know001" pages="1"/>
+    <div id="lkr_know1" type="poem">
       <lg type="stanza">
 	<l><hi rend="underline">We</hi> know and <hi rend="underline">all</hi> the world must know,</l>
 	<l>That of all the wars on land or sea,</l>
@@ -8,7 +9,14 @@
 	<l>A General so great as our R.E. Lee!</l>
 	<l><signed>L.K. Rogers</signed></l>
       </lg>
- 
-    </body>
-  </div>
+    </div>
+  </body>
+  <back>
+    <pb n="[2]" entity="lkr_know002" pages="2"/>
+    <div id="lkr_know002" type="author's note">
+      <p>FOUND IN <hi rend="underline">STUDENTS</hi> <hi
+rend="underline">HISTORY</hi> <hi rend="underline">OF</hi> <hi
+      rend="underline">GEORGIA</hi></p>
+    </div>
+  </back>
 </text>

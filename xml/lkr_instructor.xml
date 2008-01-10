@@ -1,16 +1,17 @@
 <text>
-  <div>
-    <body>
+  <body>
+    <pb n="[1]" entity="lkr_instructor001" pages="1"/>
+    <div id="lkr_instructor" type="poem">
       <head>General R.E. Lee<lb/>
       As An Instructor Of Youth</head>
-      <quote>
+      <q>
 	<lg>
 	  <l rend="indent">The golden chords attuned by thee</l>
 	  <l>Not as each alone, but through the limitless</l>
 	  <l>Expanse of all Eternity shall throb.</l>
 	  <byline>Southwick</byline>
 	</lg>
-      </quote>
+      </q>
       <lg type="stanza">
 	<l>A Prince among men!  A Hero great</l>
 	<l>Who peerless stand on mountain height,</l>
@@ -33,6 +34,13 @@
       </lg>
       <byline>Mrs. Loula Kendall Rogers</byline>
       <dateline>Tennille, Georgia</dateline>
-    </body>
-  </div>
+    </div>
+  </body>
+  <back>
+    <pb n="[2]" entity="lkr_instructor002" pages="2"/>
+    <div id="lkr_instructor2" type="author's note">
+      <p>About General Lee<lb/>
+      For the UDC Program</p>
+    </div>
+  </back>
 </text>
