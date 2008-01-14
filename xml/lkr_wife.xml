@@ -1,6 +1,7 @@
 <text>
-  <div>
-    <body>
+  <body>
+    <pb n="[1]" entity="lkr_wife001" pages="1"/>
+    <div id="lkr_wife" type="poem">
       <head>What I want my Wife to be.</head>
       <lg type="stanza">
 	<l>1 She must be an acrobat yet gentle as a cat</l>
@@ -16,7 +17,7 @@
       </lg>
       <lg type="stanza">
 	<l>4 I do not want my wife to cook</l>
-	<l>Nor even look into a book</l>,
+	<l>Nor <hi rend="underline">even</hi> <hi rend="underline">look</hi> <hi rend="underline">into</hi> <hi rend="underline">a</hi> <hi rend="underline">book</hi></l>,
 	<l>But she must work my garden well</l>
 	<l>And make a lot of things to sell!</l>
       </lg>
@@ -54,11 +55,11 @@
 	<l>Oh, no I'd kiss her cheek and sing</l>
 	<l>"They are lovely dear, the very thing"!</l>
       </lg>
+      <pb n="[2]" entity="lkr_wife002" pages="2"/>
       <lg type="stanza">
 	<l>12 My help??? must be both funny and wise</l> 
 	<l>Tall and slim with sharp black eyes.</l>
       </lg>
-    </body>
-  </div>
+    </div>
+  </body>
 </text>
-

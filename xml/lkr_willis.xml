@@ -1,6 +1,7 @@
 <text>
-  <div>
-    <body>
+  <body>
+    <pb n="[1]" entity="lkr_willis001" pages="1"/>
+    <div id="lkr_willis" type="poem">
       <head>Helen Willis:</head>
       <lg type="stanza">
 	<l>Let me too try each day and hour</l>
@@ -13,6 +14,6 @@
 	<l>And a little child shall lead<lb/>
 	them.</l>
       </lg>
-    </body>
-  </div>
+    </div>
+  </body>
 </text>
