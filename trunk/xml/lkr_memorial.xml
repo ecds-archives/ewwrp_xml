@@ -1,14 +1,14 @@
 <text>
-  <div>
-    <Front>
-      <head>MEMORIAL SONG</head>
+  <body>
+    <pb n="[1]" entity="lke_memorial0004" pages="1"/>
+    <div id="lkr_memorial" type="poem"> 
+      <head>MEMORIAL SONG<lb/>
       <stage>For the unveiling of the Memorial Fountain erected in Tennille, Georgia,<lb/>
       by the Daughters of the Confederacy, April 26, 1917.  Written by Mrs.<lb/>
-      Loula Kendall Rogers.  Air "Columbia, Gem of the Ocean." For the
+      Loula Kendall Rogers.  Air "Columbia, Gem of the Ocean." For the<lb/>
       Loula K. Rogers Chapter C. of C.<lb/>
       </stage>
-    </Front>
-    <body>
+      </head>
       <lg type="stanza">
 	<l>This day will our hearts ever cherish,</l>
 	<l>Fond thoughts of the brave and the true,</l>
@@ -48,9 +48,6 @@
 	<l>May their light shine as pure and as free</l>
 	<trailer rend="indent">CHORUS -</trailer>
       </lg>
-    </body>
-  </div>
-</text> 
-
-  
-
+    </div>
+  </body>
+</text>

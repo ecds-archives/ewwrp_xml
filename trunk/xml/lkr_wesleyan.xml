@@ -1,6 +1,7 @@
 <text>
   <body>
-    <div>
+    <pb n="[1]" entity="lkr_wesleyan001" pages="1"/>
+    <div id="lkr_wesleyan" type="poem">
       <head>A MEMORY OF WESLEYAN FEMALE COLLEGE.</head>
       <stage>Dedicated to her class by MRS LOULA K. ROGERS.</stage>
       <lg type="stanza">
@@ -34,7 +35,7 @@
 	<l>Each holding crystal dewdrops that reflected life and light,</l>
 	<l>We know not that the morrow would bring forth grief and sorrow,</l>
       </lg>
-      <pb n="2"/>
+      <pb n="2" entity="lkr_wesleyan002" pages="2"/>      
       <lg type="stanza">
 	<l>Or the storm of war, unheard afar would cast a withering blight,</l>
 	<l>Transforming all our visions to a dark and cheerless night!</l>
@@ -71,7 +72,7 @@
 	<l>No study room could ever be more fulll of bright endeavor,</l>
 	<l>Than that to which fond memory turns so happily tonight,</l>
       </lg>
-      <pb n="3"/>
+      <pb n="3" entity="lkr_wesleyan003" pages="3"/>
       <lg type="stanza">
 	<l>Oh, the joking and the teasing e'en when Latin was displeasing,</l>
 	<l>As Fannie, Julia, Ida threw Geometry out of sight,</l>
@@ -102,4 +103,11 @@
       <dateline>*Miss Dinda Howard, of Columbus, Ga., July 4, 1872</dateline>
     </div>
   </body>
+  <back>
+    <pb n="[4]" entity="lkr_wesleyan004" pages="4"/>
+    <div id="lkr_wesleyan2" type="author's note">
+      <p>Memories of<lb/>
+      Wesleyan Female College</p>
+    </div>
+  </back>
 </text>

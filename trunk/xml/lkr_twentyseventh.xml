@@ -1,6 +1,7 @@
 <text>
-  <div>
-    <body>
+  <body>
+    <pb n="[1]" entity="lkr_twentyseventh001" pages="1"/>
+    <div id="lkr_twentyseventh" type="poem">
       <head><hi rend="underline">FOR</hi> <hi rend="underline">THE</hi> <hi rend="underline">TWENTYSEVENTH</hi> <hi rend="underline">BIRTHDAY</hi><lb/>
       Of the Willie Hunt Smith Chapter of Daughters of the Confederacy,<lb/>
       Organized by Mrs. Loula Kendall Rogers as the Barnesville Chapter,<lb/>
@@ -57,6 +58,7 @@
 	<l>Willie Hunt Smith!  Bring flowers bright,</l>
 	<l>To wreath upon sunlit prow,</l>
 	<l>While o'er the wave a holy light</l>
+	<pb n="2" entity="lkr_twentyseventh002" pages="2"/>
 	<l>Illumes with love each patriots brow.</l>
 	<l>The kindly word, the smile that cheered</l>
 	<l>Can never from our soul depart</l>
@@ -73,7 +75,17 @@
 	<l>With Loyal heart we will abide</l>
 	<l>Forever true to U. D. C.</l>
       </lg>
-    </body>
-  </div>
+    </div>
+  </body>
+  <back>
+    <pb n="3" entity="lkr_twentyseventh003" pages="3"/>
+    <div id="lkr_twentyseventh2" type="author's note">
+      <p>For the Willie Hart Smith<lb/>
+      Chapter U.D.C.<lb/>
+      (2 copies)<lb/>
+      1929<lb/>
+      <hi rend="underline">1896</hi><lb/>
+      33 years ago</p>
+    </div>
+  </back>
 </text>
-      

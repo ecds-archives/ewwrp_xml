@@ -1,11 +1,12 @@
 <text>
-  <div>
-    <body>
+  <body>
+    <pb n="[1]" entity="lkr_mountain001" pages="1"/>
+    <div id="lkr_mountain" type="poem">
       <head><add>This is the poem that was written after visiting the Mountain in 1858</add><lb/>
       The Stone Mountain Of Georgia in the Long Ago.</head>
-      <p>One of the Wonders of the World.  Not a mass of loose rocks, but
-      one mighty solid stone that lifts its regal crest far above all the
-      surrounding country.</p>
+      <p>One of the Wonders of the World.  Not a mass of loose<lb/>
+      rocks, but <hi rend="underline">one</hi> mighty solid stone that lifts its regal<lb/>
+      crest far above all the surrounding country.</p>
       <lg type="stanza">
 	<l>One pleasant day when Autumn's Queen</l>
 	<l>Had donned her vestal garments bright,</l>
@@ -27,11 +28,12 @@
 	<l>Was spangled with the glittering dew.</l>
       </lg>
       <lg type="stanza">
-	<l>Ah, here then was the Sylvan (??) Queen</l>
+	<l>Ah, here then was the Sylvan Queen</l>
 	<l>Who called us thither!  My young heart</l>
 	<l>Thrilled Wildly o'er the inspiring scene </l>
 	<l>Thus woven round me to impart</l>
-	<l>Enchantment never edreamed before,</l>
+	<pb n="2" entity="lkr_mountain002" pages="2"/>
+	<l>Enchantment never dreamed before,</l>
 	<l>For high above us in the air</l>
 	<l>Through rift of chord that floated o'er</l>
 	<l>Was God's own mighty Presence there!</l>
@@ -47,7 +49,7 @@
 	<l>Allegiance to the Evening Star.</l>
       </lg>
       <lg type="stanza">
-	<l>O here was neauty in a dress</l>
+	<l>O here was beauty in a dress</l>
 	<l>Of brilliancy and grandeur rare,</l>
 	<l>Which gave my soul the power to bless</l>
 	<l>The power of Him who placed it there!</l>
@@ -59,6 +61,6 @@
       <byline>Loula W. Kendall</byline>
       <dateline>Atlanta, Ga<lb/>
       September 10, 1858.</dateline>
-    </body>
-  </div>
+    </div>
+  </body>
 </text>

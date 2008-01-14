@@ -1,6 +1,7 @@
 <text>
-  <div>
-    <body>
+  <body>
+    <pb n="[1]" entity="lkr_star001" pages="1"/>
+    <div id="lkr_star" type="poem">
       <head>The New Star</head>
       <lg type="stanza">
 	<head rend="center">1</head>
@@ -29,6 +30,7 @@
 	<l>With blessings heaven crowned it - all was beauty,</l>
 	<l>peace and love,</l>
 	<l>The angles smiled upon it from the star gemmed</l>
+	<pb n="[2]" entity="lkr_star002" pages="2"/>
 	<l>vault above,</l>
 	<l>A thrill of joy rushed o'er my soul, those</l>
 	<l>foaming torrents grand -</l>
@@ -57,6 +59,7 @@
 	<l>And sprinkled <hi rend="underline">human</hi> <hi rend="underline">blood</hi> upon those</l>
 	<l>fairy fruits and flowers?</l>
       </lg>
+      <pb n="3" entity="lkr_star003" pages="3"/>
       <lg type="stanza">
 	<head rend="center">6</head>
 	<l>Columbia! My native land, oh where is</l>
@@ -85,6 +88,7 @@
 	<l><del rend="overstike">United with the tyrants, who would</del></l>
 	<l><del rend="overstike">Subjugate the free,</del></l>
       </lg>
+      <pb n="4" entity="lkr_star004" pages="4"/>
       <lg type="stanza">
 	<head rend="center">8</head>
 	<l>Yes, the veil is rend asunder! See how</l>
@@ -118,6 +122,7 @@
 	<l>by heroes trod</l>
 	<l>that lead each Southern patriot onto glory and to God</l>
       </lg>
+      <pb n="5" entity="lkr_star005" pages="5"/>
       <lg type="stanza">
 	<l><del rend="overstrike">All honor to the nation born, the beautifu</del></l> 
 	<l><del rend="overstrike">new star</del>,</l>
@@ -134,7 +139,16 @@
 	<l><del rend="overstrike">And light each noble patriot to glory and</del></l>
 	<l><del rend="overstrike">to God!</del></l>
       </lg>
-    </body>
-  </div>
+      <p>Copied from my original piece by Mrs R. J. Powell</p>
+    </div>
+  </body>
+  <back>
+    <pb n="[6]" entity="lkr_star006" pages="6"/>
+    <div id="lkr_star2" type="author's note">
+      <p>The New Star<lb/>
+      1862<lb/>
+      Appreciated by Daughters of the<lb/>
+      Confederacy.</p>
+    </div>
+  </back>
 </text>
-

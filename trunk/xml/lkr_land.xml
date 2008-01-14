@@ -1,12 +1,11 @@
 <text>
-  <div>
-    <front>
+  <body>
+    <pb n="[1]" entity="lkr_land001" pages="1"/>
+    <div id="lkr_land" type="poem">
       <head>The Land We Love.<lb/>
       <stage>Dedicated to her Music Class</stage>
       </head>
       <byline>BY<lb/>MRS. LOULA K. ROGERS.</byline>
-    </front>
-    <body>
       <lg type="stanza">
 	<l>There's a Land to us far dearer,</l>
 	<l>Than all others o'er which we may roam,</l>
@@ -36,6 +35,6 @@
 	<l>North and South, East and West forever,</l>
 	<l>Three cheers for Tilden and Reforn.</l>
       </lg>
-    </body>
-  </div>
+    </div>
+  </body>
 </text>
