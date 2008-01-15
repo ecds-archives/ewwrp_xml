@@ -10,7 +10,7 @@
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent>3.5k</extent>
+         <extent>6k</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -18,7 +18,7 @@
                <addrLine>Atlanta, Georgia</addrLine>
             </address>
             <availability>
-               <p>2001 Emory University. Permission is granted to
+               <p>2008 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
             </availability>
             <date>2008</date>
@@ -59,8 +59,10 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 	 <textClass>
 	   <keywords scheme="lcsh">
 	     <list>
-	       <item>World War, 1914-1918--Poetry.</item>
-	       <item>English poetry--Women authors--20th Century.</item>
+	       <item>Marrige--United States--19th Century.</item>
+	       <item>Civil War, U.S.,1861-1865</item>
+	       <item>Women authors, American--19th Century</item>
+	       <item>Women authors, American--20th Century</item>
 	       <item>War.</item>
 	     </list>
 	   </keywords>
@@ -75,14 +77,6 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
             </respStmt>
             <item>XML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
-	 <change>
-	    <date>2008</date>
-	    <respStmt>
-	       <name>Stewart Varner</name>
-	       <resp>Staff</resp>
-	    </respStmt>
-	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
-	 </change>
       </revisionDesc>
    </teiHeader>
 <text>
