@@ -54,13 +54,14 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
             <rs type="form">Unedited</rs>
             <rs type="genre">Poetry</rs>
             <rs type="geography">United States</rs>
-            <date>1900-1999</date>
+            <date>1800-1899</date>
          </creation>
 	 <textClass>
 	   <keywords scheme="lcsh">
 	     <list>
 	       <item>Marrige--United States--19th Century.</item>
-	       <item>Civil War, U.S.,1861-1865</item>
+	       <item>Civil War, U.S.,1861-1865--Poetry</item>
+	       <item>American poetry--19th century.</item>
 	       <item>Women authors, American--19th Century</item>
 	       <item>Women authors, American--20th Century</item>
 	       <item>War.</item>

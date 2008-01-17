@@ -1,3 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hark Our Boys Are Coming Home</title>
+            <author><name type="person" reg="Rogers, Loula Kendall, 1838-1931">Mrs. Loula Kendall Rogers</name></author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>Beck Center</name>
+            </respStmt>
+         </titleStmt>
+         <extent>10k</extent>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address>
+               <addrLine>Atlanta, Georgia</addrLine>
+            </address>
+            <availability>
+               <p>2008 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2008</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Emory Women Writers Resource Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Rogers, Loula Kendall, "Hark Our Boys Are Coming Home" Loula
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+	   Library, Emory University</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This digital text is produced from the Loula Kendall
+	   Rogers Papers, generously loaned to the Beck Center by    	
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+         </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+	   <rs type="collection">Early 20th Century Literature</rs>
+	   <rs type="language">American</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Poetry</rs>
+            <rs type="geography">United States</rs>
+            <date>1800-1899</date><date>1900-1999</date>
+         </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>American poetry--19th century.</item>
+	       <item>Women authors, American--19th Century</item>
+	       <item>Women authors, American--20th Century</item>
+	       <item>American poetry--20th century.</item>
+	       <item>Civil War, U.S., 1861-1865--Poetry</item>
+	     </list>
+	   </keywords>
+	 </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008</date>
+            <respStmt>
+               <name>Stewart Varner</name>
+               <resp>Woodruff Graduate Fellow</resp>
+            </respStmt>
+            <item>XML tags inserted in compliance with TEI guidelines using TEILITE</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
 <text>
   <body>
     <pb n="[1]" entity="lkr_hark001" pages="1"/>
@@ -35,4 +116,5 @@ place="supralinear">Dixie Soldiers</add> <del rend="overstrike">carol</del>, and
     </div>
   </body>
 </text>
+</TEI.2>
 
