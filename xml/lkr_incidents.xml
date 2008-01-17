@@ -1,3 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Incidents of the War Between The States</title>
+            <author><name type="person" reg="Rogers, Loula Kendall, 1838-1931">Mrs. Loula Kendall Rogers</name></author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>Beck Center</name>
+            </respStmt>
+         </titleStmt>
+         <extent>30k</extent>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address>
+               <addrLine>Atlanta, Georgia</addrLine>
+            </address>
+            <availability>
+               <p>2008 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2008</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Emory Women Writers Resource Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Rogers, Loula Kendall, "Incidents of the War Between The States" Loula
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+	   Library, Emory University</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This digital text is produced from the Loula Kendall
+	   Rogers Papers, generously loaned to the Beck Center by    	
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+         </projectDesc>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+	   <rs type="collection">Early 20th Century Literature</rs>
+	   <rs type="language">American</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Memoir</rs>
+            <rs type="geography">United States</rs>
+            <date>1900-1999</date>
+         </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>Civil War, U.S., 1861-1865</item>
+	       <item>Women authors, American--19th Century</item>
+	       <item>Women authors, American--20th Century</item>
+	       <item>Slavery--United States.</item>
+	     </list>
+	   </keywords>
+	 </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008</date>
+            <respStmt>
+               <name>Stewart Varner</name>
+               <resp>Woodruff Graduate Fellow</resp>
+            </respStmt>
+            <item>XML tags inserted in compliance with TEI guidelines using TEILITE</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
 <text>
   <body>
     <pb n="[1]" entity="lkr_incidents001" pages="1"/>
@@ -66,7 +146,7 @@
 	      <p>Can you not in your vicinity, and tat of Culloden near you, get up a box of hospital stores?  Bed clothing and wearing apparel are greatly needed here as there have been no donations to this hospital.  I am sure you can bestow your bounty upon none more needy, and rest assured you will have the blessing of many a poor soldier, an approving conscience, and the grateful thanks of</p> 
 	      <closer><name>Charles E. Lambdin,</name><lb/>
 	      Holloway Grays,<lb/>
-	      <placeName>Bean Station, Tenn.</placeName>
+	      Bean Station, Tenn.
 	      </closer>
 	    </div>
 	  </body>
@@ -85,7 +165,7 @@
       <p>The a troop of little darkies with eyes like the full moon came rushing in with the cry "The Yankees are comin!"  Very soon about fifty on horses surrounded our home, great, rough, savage looking men ransacked bureau drawers, tore down lace curtains, cut the locks out of trunks, searched closets, found some of the table silver and long treasured jewels, finally leaving every room in wild disorder.</p>
       <p>As soon as the first troop left, another came in, and this kind of treatment lasted three days.  About one hundred bales of ginned cotton, and twenty five bales of lint cotton were destroyed. My mother, with the assistance of the servants who nobly stood by us, had water poured on some of the bales and had then rolled down to the horse lot in a stream of water.</p>
       <p>A handsome revolving pin, the last gift of my father (containing his picture), a beautiful cameo set presented on my graduation day, and other articles too numerous to mention were taken from us.</p>
-      1<pb n="11" entity="lkr_incidents011" pages="11"/>
+      <pb n="11" entity="lkr_incidents011" pages="11"/>
       <p>One of the soldiers, pointing a loaded pistol in my face, asked where our silver was hidden.  I replied if he should stand there and ask until "doom's day" he would never find out from me!  He then asked if I had any brothers, and where were they?  To which I answered, one had fallen in defense of his country at the battle of Franklin, one at Petersburg, two were officers still fighting in the Confederate Army, and if I had a hundred they would all be there!  This seemed to silence him, for with a compliment my bravery (which was more of "righteous indignation" than bravery) he lowered his pistol.</p>
       <p>When a troop was overhauling our trunks and pocketing all they wanted I inquired if they were brought up in a christian community?  One replied in the affirmative, but he had never heard of the 8th Commandment, and when I repeated it he looked ashamed, and replied, "well boys, let's go"!</p>
       <p>That night at eleven o'clock we heard a knock at the front door, my mother was so alarmed she did not think it safe for me to return downstairs, but with a little colored maid, I ventured to the port of entry and asked who was there?  "Only a soldier, madam, hungry and tired, in search of something to eat".  Asking if he would give his word of honor that he would behave himself aright I would do what the Scripture teaches "if thine enemy is hungered, feed him".  so I opened the door and gave him what we had left from the rude pilferers of the day, and that was the only <hi rend="underline">gentleman</hi> <hi rend="underline">in</hi> <hi rend="underline">manner</hi> who entered our home, as he politely thanked me, and said he would report the others if he knew what company they belonged to."</p>
@@ -127,4 +207,5 @@
       </closer>
     </div>
   </body>
-</text> 
+</text>
+</TEI.2> 
