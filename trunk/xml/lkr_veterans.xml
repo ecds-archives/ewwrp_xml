@@ -127,22 +127,22 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
       flag about the cross, but this is only a symbol of our esteem and
       appreciation, and we hope will be cherished as a souvenir of
       regard.</p>
-      <div type="poem">
+      <p><text><body><div type="poem">
 	<lg type="stanza">
 	  <l>"Then wear it!  although the cause</l>
 	  <l>It represents has perished,</l>
 	  <l>Tis meet that in a cross</l>
 	  <l>Its memory should be cherished".</l>
 	</lg>
-      </div>
+      </div></body></text></p>
       <pb n="5" entity="lkr_veterans005" pages="5"/>
       <p>All honor then to each and every soldier who fought for their country under their flag!</p>
-      <div type="poem">
+      <p><text><body><div type="poem">
 	<lg type="couplet">
 	  <l>Ah! neath its folds brave men moved on</l>
 	  <l>Till strength, and hope and life were gone!</l>
 	</lg>
-      </div>
+      </div></body></text></p>
       <p>We meet then today to lay upon their resting places the first sweet offerings of spring, and like vestal virgins to kindle anew the light of patriotism and keep burning in the heart.</p>
       <p>And while we place garlands of roses over departed heroes, it is a pleasant task to honor our living soldiers with an emblem of esteem, to prove our appreciation of their faithfulness in the service of their country.  It is only a simple gift, but expresses much, a woman's remembrance of the times that tried men's souls, and of her own devotion to the brave and daring.</p>
       <div type="poem">
@@ -164,7 +164,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
   <pb n="[6]" entity="lkr_veterans006" pages="6"/>
   <back>
     <div>
-      <l>Memorial Address</l>
+      <head>Memorial Address</head>
       <byline>by Mrs Loula Kendall Rogers</byline>
       <dateline> April 26, 1904</dateline>
       <p>Honoring Our<lb/>

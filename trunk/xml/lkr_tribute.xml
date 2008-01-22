@@ -83,9 +83,9 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
     <pb n="1" entity="lkr_tribute001" pages="1"/>
     <div id="lkr_tribute" type="poem">
       <head>A Tribute Of Love</head>
-      <stage>To The Memory Of Miss Mildred Lewis Rutherford<lb/>
-      State and General Historian, From The United Daughters<lb/>> 
-      Of The Confederacy.</stage>
+      <head type="sub">To The Memory Of Miss Mildred Lewis Rutherford<lb/>
+      State and General Historian, From The United Daughters<lb/> 
+      Of The Confederacy.</head>
       <byline>By The Poet Laureate Mrs Loula Kendall Rogers.</byline>
       <lg type="stanza">
 	<l>When all the world is beaming bright oftimes there comes a cloud,</l>
@@ -146,7 +146,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
       <p>For 34<hi rend="super">th</hi> Convention<lb/>
       Please return these two . as I have no<lb/>
       other copies</p>
-      <signed>L.K. Rogers</signed>
+      <p>L.K. Rogers</p>
       <p>memorial of Miss Mildred</p>
     </div>
   </back>

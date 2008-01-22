@@ -85,12 +85,13 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
     <div id="lkr_southland" type="poem">
       <dateline>BARNESVILLE NEWS-GAZETTE, THURSDAY, FEBRUARY 17, 1927.</dateline>
       <head>THE SPIRIT OF THE SOUTHLAND<lb/></head>
-      <note>Unveils a Picture Of Morn and Night,<lb/>
-      Yet sweeps the lingering mists away!</note>
+      <head type="sub">Unveils a Picture Of Morn and Night,<lb/>
+      Yet sweeps the lingering mists away!</head>
       <byline>By Mrs. Loula Kendall Rogers, Poet Laureate,<lb/>
       Georgia Division U.D.C.</byline>
-      <note>Read during the 32nd Convvention of Daughters of the Confed-<lb/>
-      eracy at Statesboro, Georgia, On October 27th, 1926.</note>
+      <dateline>Read during the 32nd Convvention of Daughters of the Confed-<lb/>
+      eracy at Statesboro, Georgia, On <date value="1926-10-27">
+         October 27th, 1926</date>.</dateline>
       <lg type="stanza">
 	<l>'Tis Morn, radient Morn!  Upon each hill</l>
 	<l>There gleams a tint of gold, and in the vale afar</l>

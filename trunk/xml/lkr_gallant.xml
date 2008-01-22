@@ -125,10 +125,12 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 	<l>And deem it an honor to march with the Gray!</l>
       </lg>
       <byline>LOULA KENDALL ROGERS.</byline>
-      <p>Mrs. Loula Kendall Rogers, of Tennille, author of the above, was a "girl of the sixties" and is the widow of a splendid Confederate soldier, a captain in the Third Georgia regiment.  Her son, too, followed his soldier father's example and remains overseas.</p>
-      <p>Mrs. H.M Franklin, president of the Georgia division U.D.C. is
-      the only daughter of Mrs. Rogers.</p>
     </div>
-  </body>
+     </body>
+    <back> 
+      <div type="note" id="lkr_gallant002"><p>Mrs. Loula Kendall Rogers, of Tennille, author of the above, was a "girl of the sixties" and is the widow of a splendid Confederate soldier, a captain in the Third Georgia regiment.  Her son, too, followed his soldier father's example and remains overseas.</p>
+      <p>Mrs. H.M Franklin, president of the Georgia division U.D.C. is
+      the only daughter of Mrs. Rogers.</p></div>
+    </back>
 </text>
 </TEI.2>

@@ -79,7 +79,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
    </teiHeader>
 <text>
   <body>
-    <pb n="5" entitiy="lkr_aim001" pages="5"/>
+    <pb n="5" entity="lkr_aim001" pages="5"/>
     <div id="lkr_aim001" type="essay">
       <head>The Aim of Our Girls.</head>
       <p>No one can accomplish anything in life without a purpose that
