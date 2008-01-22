@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The Aim of Our Girls</title>
+            <title>The New Star</title>
             <author><name type="person" reg="Rogers, Loula Kendall, 1838-1931">Mrs. Loula Kendall Rogers</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
@@ -27,7 +27,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Rogers, Loula Kendall, "To My Absent Husband" Loula
+            <bibl>Rogers, Loula Kendall, "The New Star," <date>1862</date>. Loula
 	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
 	   Library, Emory University</bibl>
          </sourceDesc>
@@ -59,10 +59,11 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 	 <textClass>
 	   <keywords scheme="lcsh">
 	     <list>
-	       <item>Women--Education--Georgia.</item>
+	       <item>Civil War, U.S., 1861-1865--Poetry</item>
 	       <item>Women authors, American--19th Century</item>
 	       <item>Women authors, American--20th Century</item>
-	       <item></item>
+	       <item>Confederate States of America.</item>
+	       <item>United Daughters of the Confederacy.</item>
 	     </list>
 	   </keywords>
 	 </textClass>

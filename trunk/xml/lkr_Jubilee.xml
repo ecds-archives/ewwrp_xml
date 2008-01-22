@@ -3,14 +3,14 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The Aim of Our Girls</title>
+            <title>A Jubilee for The Nancy Hart Highway</title>
             <author><name type="person" reg="Rogers, Loula Kendall, 1838-1931">Mrs. Loula Kendall Rogers</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent>6k</extent>
+         <extent>10k</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -27,7 +27,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Rogers, Loula Kendall, "To My Absent Husband" Loula
+            <bibl>Rogers, Loula Kendall, "A Jubilee for The Nancy Hart Highway" Loula
 	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
 	   Library, Emory University</bibl>
          </sourceDesc>
@@ -54,15 +54,15 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
             <rs type="form">Unedited</rs>
             <rs type="genre">Poetry</rs>
             <rs type="geography">United States</rs>
-            <date>1900-1999</date>
+            <date>1800-1899</date><date>1900-1999</date>
          </creation>
 	 <textClass>
 	   <keywords scheme="lcsh">
 	     <list>
-	       <item>Women--Education--Georgia.</item>
+	       <item>Hart, Nancy Morgan.</item>
 	       <item>Women authors, American--19th Century</item>
 	       <item>Women authors, American--20th Century</item>
-	       <item></item>
+	       <item>Daughters of the American Revolution</item>
 	     </list>
 	   </keywords>
 	 </textClass>
