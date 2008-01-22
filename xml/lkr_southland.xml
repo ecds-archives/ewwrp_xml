@@ -3,14 +3,14 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The Aim of Our Girls</title>
+            <title>The Spirit of the Southland</title>
             <author><name type="person" reg="Rogers, Loula Kendall, 1838-1931">Mrs. Loula Kendall Rogers</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent>6k</extent>
+         <extent>10k</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -27,7 +27,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Rogers, Loula Kendall, "To My Absent Husband" Loula
+            <bibl>Rogers, Loula Kendall, "The Spirit of the
+	    Southland," <date>17 February 1927</date>. Loula
 	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
 	   Library, Emory University</bibl>
          </sourceDesc>
@@ -59,10 +60,10 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 	 <textClass>
 	   <keywords scheme="lcsh">
 	     <list>
-	       <item>Women--Education--Georgia.</item>
+	       <item>United Daughters of the Confederacy.</item>
 	       <item>Women authors, American--19th Century</item>
 	       <item>Women authors, American--20th Century</item>
-	       <item></item>
+	       <item>United States, Southern</item>
 	     </list>
 	   </keywords>
 	 </textClass>
@@ -83,14 +84,13 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
     <pb n="[1]" entity="lkr_southland001" pages="1"/>
     <div id="lkr_southland" type="poem">
       <dateline>BARNESVILLE NEWS-GAZETTE, THURSDAY, FEBRUARY 17, 1927.</dateline>
-      <head>THE SPIRIT OF THE SOUTHLAND<lb/>
+      <head>THE SPIRIT OF THE SOUTHLAND<lb/></head>
       <note>Unveils a Picture Of Morn and Night,<lb/>
       Yet sweeps the lingering mists away!</note>
       <byline>By Mrs. Loula Kendall Rogers, Poet Laureate,<lb/>
       Georgia Division U.D.C.</byline>
       <note>Read during the 32nd Convvention of Daughters of the Confed-<lb/>
       eracy at Statesboro, Georgia, On October 27th, 1926.</note>
-      </head>
       <lg type="stanza">
 	<l>'Tis Morn, radient Morn!  Upon each hill</l>
 	<l>There gleams a tint of gold, and in the vale afar</l>

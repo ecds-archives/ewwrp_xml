@@ -3,14 +3,15 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The Aim of Our Girls</title>
+            <title>Reminiscences of a Pleasent Day Spent at Stone
+	   Mountain in the Long Ago</title>
             <author><name type="person" reg="Rogers, Loula Kendall, 1838-1931">Mrs. Loula Kendall Rogers</name></author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent>6k</extent>
+         <extent>10k</extent>
          <publicationStmt>
             <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
@@ -27,7 +28,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Rogers, Loula Kendall, "To My Absent Husband" Loula
+            <bibl>Rogers, Loula Kendall, "Reminiscences of a Pleasent
+	    Day Spent at Stone  Mountain in the Long Ago," Loula
 	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
 	   Library, Emory University</bibl>
          </sourceDesc>
@@ -52,17 +54,17 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 	   <rs type="language">American</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
-            <rs type="genre">Poetry</rs>
+            <rs type="genre">Memoir</rs>
             <rs type="geography">United States</rs>
             <date>1900-1999</date>
          </creation>
 	 <textClass>
 	   <keywords scheme="lcsh">
 	     <list>
-	       <item>Women--Education--Georgia.</item>
+	       <item>United States, Southern</item>
 	       <item>Women authors, American--19th Century</item>
 	       <item>Women authors, American--20th Century</item>
-	       <item></item>
+	       <item>Stone Mountain Memorial State Park (Ga.) History.</item>
 	     </list>
 	   </keywords>
 	 </textClass>
@@ -113,8 +115,11 @@ become an ever radiant cenotaph on which is undying letters is emblazed "The <hi
     </div>
   </body>
   <back>
-    <p>Stone Mountain<lb/>
-    1858</p>
+<pb n="[4]" entity="lkr_reminiscences004" pages="4"/>
+<div id="lkr_reminiscences" type="memoir">
+  <p>Stone Mountain<lb/>
+  1858</p>
+</div>
   </back>
 </text>
 </TEI.2>
