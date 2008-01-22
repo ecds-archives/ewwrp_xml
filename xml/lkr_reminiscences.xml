@@ -83,7 +83,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 <text>
   <body>
     <pb n="[1]" entity="lkr_reminiscences001" pages="1"/>
-    <div id="lkr_reminiscences" type="memoir">
+    <div id="lkr_reminiscences01" type="memoir">
       <head>Reminiscences Of A Pleasant Day<lb/>
       Spent At Stone Mountain In The Long Ago.</head>
       <byline>Mrs. Loula Kendall Rogers</byline>
@@ -116,7 +116,7 @@ become an ever radiant cenotaph on which is undying letters is emblazed "The <hi
   </body>
   <back>
 <pb n="[4]" entity="lkr_reminiscences004" pages="4"/>
-<div id="lkr_reminiscences" type="memoir">
+<div id="lkr_reminiscences02" type="memoir">
   <p>Stone Mountain<lb/>
   1858</p>
 </div>

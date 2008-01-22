@@ -84,7 +84,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
     <pb n="[1]" entity="lkr_hark001" pages="1"/>
     <div id="lkr_hark" type="poem">
       <head rend="center">HARK! OUR BOYS ARE COMING HOME.</head>
-      <stage rend="center">TUNE: "Tramp, tramp, tramp, The Boys Are Marching Home"</stage>
+      <head type="sub">TUNE: "Tramp, tramp, tramp, The Boys Are Marching Home"</head>
       <byline>MRS. LOULA K. ROGERS</byline>
       <lg type="stanza">
 	<l>Don't you see the clouds are breaking o'er the eastern lands today?</l>

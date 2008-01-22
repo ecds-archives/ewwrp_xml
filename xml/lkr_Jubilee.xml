@@ -83,8 +83,8 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
     <pb n="[1]" entity="lkr_jubilee001"/>
     <div id="lkr_jubilee">
       <head rend="center">A JUBILEE<lb/>
-      <hi rend="italic">For The Nancy Hart Highway</hi></head>
-      <stage rend="center"><hi rend="italic">Air "Tramp, Tramp, Tramp."</hi></stage>
+      <hi rend="italic">For The Nancy Hart Highway</hi><lb/>
+      <hi rend="italic">Air "Tramp, Tramp, Tramp."</hi></head>
       <byline rend="center"><hi rend="italic">By Mrs. Loula Kendall Rogers, Chaplain Major<lb/>
       General Samuel Elbert Chapter Daughters<lb/>
       of The American Revolution</hi></byline>
@@ -103,8 +103,9 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
       <l rend="indent">As we onward swiftly go,</l>
       <l>While we glide along the Nancy Hart Highway!</l>
       </lg>
-      <l rend="center">II.</l>
+      
       <lg type="stanza">
+         <head rend="center">II.</head>
 	<l>Passing swiftly o'er the trail,</l>
 	<l>Never mind the Eastern gale,</l>
 	<l>Sing a merry song of Jubilee today,</l>
@@ -112,8 +113,9 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 	<l rend="indent">Wave its colors o'er the world</l>
 	<l>As we glide along the Nancy Hart Highway!</l>
       </lg>
-      <l rend="center">III</l>
+
       <lg type="stanza">
+         <head rend="center">III</head>
 	<l rend="indent">May kind heaven ever bless</l>
 	<l rend="indent">With Great joy and all success,</l>
 	<l>Every one who on this Highway swiftly speeds,</l>
@@ -121,7 +123,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 	<l rend="indent">Till our evening sun has set</l>
 	<l>Nancy Hart and all her many glorious deeds!</l>
       </lg>
-      <l rend="center">CHORUS</l>
+      <lg><l rend="center">CHORUS</l></lg>
     </div>
     </body>
 </text>
