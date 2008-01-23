@@ -29,7 +29,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
          </seriesStmt>
          <sourceDesc>
             <bibl>Rogers, Loula Kendall, "Glimpses of the Great Work
-	    Wrought By Georgia Daughters of the Confederacy," [1925]. Loula
+	    Wrought By Georgia Daughters of the Confederacy," <date>[1925]</date>. Loula
 	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
 	   Library, Emory University</bibl>
          </sourceDesc>
@@ -146,17 +146,22 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 	<l>From broad Savannah on the east</l>
 	<l rend="indent">To Chattahoochee's rhythmic wave</l>
 	<l>Confederate daughters ne'er have ceased</l>
-	<l rend="indent">To <hi rend="underline">honor,</hi> <hi rend="underline">revere</hi> and <hi rend="underline">crown</hi> <hi rend="underline">the</hi> <hi rend="underline">brave</hi></l>
+	<l rend="indent">To <hi rend="underline">honor,</hi> <hi
+	rend="underline">revere</hi> and <hi rend="underline">crown
+	</hi> <hi rend="underline">the </hi> <hi
+	rend="underline">brave</hi>.</l>
       </lg>
       <lg type="stanza">
 	<l>On mountain crest,<add place="supralinear">Stone Mountain</add> a vision lives</l>
 	<l rend="indent">The wonderous dream of Helen Plane</l>
-	<l><hi rend="underline">Heaven gave</hi> the <hi rend="underline">hallowed</hi> <hi rend="underline">Cenotaph</hi></l>
+	<l><hi rend="underline">Heaven gave</hi> the <hi
+	rend="underline">hallowed </hi> <hi rend="underline">Cenotaph</hi></l>
 	<l rend="indent">All through the years it must remain</l>
 	<l>Oh mountain, speak with loving voice!</l>
 	<l rend="indent">The merit of they sons proclaim,</l>
 	<l>And tell to cycling years that roll</l>
-	<l>They won <hi rend="underline">by</hi> <hi rend="underline">right</hi>, <hi rend="underline">eternal</hi> <hi rend="underline">fame</hi>!</l>
+	<l>They won <hi rend="underline">by </hi> <hi
+	rend="underline">right</hi>, <hi rend="underline">eternal </hi> <hi rend="underline">fame</hi>!</l>
       </lg>
     </div>
   </body>
