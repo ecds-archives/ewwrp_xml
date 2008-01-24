@@ -82,7 +82,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
   <body>
     <pb n="1" entity="lkr_girls001" pages="1"/>
     <div id="lkr_girls" type="poem">
-      <head rend="center">Useful Little Girls. (1)</head>
+      <head rend="center">Useful Little Girls.</head>
       <lg type="stanza">
 	<head>Minnie Tyler</head>
 	<l>A little girl I am indeed</l>
@@ -102,7 +102,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 	<l>And sleep and never think</l>
       </lg>
       <lg type="stanza">
-	<l>Grace Woodward</l>
+	<head>Grace Woodward</head>
 	<l>I may if I have but a mind</l>
 	<l>Do good in many ways</l>
 	<l>Plenty to do the young may find</l>
@@ -111,7 +111,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 	<l>If I was of no use at all.</l>
       </lg>
       <lg type="stanza">
-	<l>Bobbie Matthews</l>
+	<head>Bobbie Matthews</head>
 	<l>One gentle word that I may speak</l>
 	<l>Or one kind loving deeed</l>
 	<l>May through a trifle poor and weak</l>
