@@ -82,7 +82,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
   <body>
     <pb n="[1]" entity="lkr_land001" pages="1"/>
     <div id="lkr_land" type="poem">
-      <head>The Land We Love.<lb/>
+      <head><seg type="short-title">The Land We Love.</seg><lb/>
       <stage>Dedicated to her Music Class</stage>
       </head>
       <byline>BY<lb/>MRS. LOULA K. ROGERS.</byline>

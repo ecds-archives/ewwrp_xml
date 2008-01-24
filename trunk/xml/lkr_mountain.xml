@@ -84,7 +84,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
     <pb n="[1]" entity="lkr_mountain001" pages="1"/>
     <div id="lkr_mountain" type="poem">
       <head><add>This is the poem that was written after visiting the Mountain in 1858</add><lb/>
-      The Stone Mountain Of Georgia in the Long Ago.</head>
+      <seg type="short-title">The Stone Mountain Of Georgia in the Long Ago.</seg></head>
       <p>One of the Wonders of the World.  Not a mass of loose<lb/>
       rocks, but <hi rend="underline">one</hi> mighty solid stone that lifts its regal<lb/>
       crest far above all the surrounding country.</p>

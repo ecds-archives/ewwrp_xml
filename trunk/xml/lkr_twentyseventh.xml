@@ -82,10 +82,8 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
   <body>
     <pb n="[1]" entity="lkr_twentyseventh001" pages="1"/>
     <div id="lkr_twentyseventh" type="poem">
-      <head><hi rend="underline">FOR </hi> <hi rend="underline">THE
-      </hi> <hi rend="underline">TWENTYSEVENTH </hi> <hi
-      rend="underline">BIRTHDAY </hi><lb/>
-      Of the Willie Hunt Smith Chapter of Daughters of the Confederacy,<lb/>
+      <head><seg type="short-title"><hi rend="underline">FOR THE TWENTYSEVENTH BIRTHDAY</hi><lb/>
+      Of the Willie Hunt Smith Chapter of Daughters of the Confederacy,</seg><lb/>
       Organized by Mrs. Loula Kendall Rogers as the Barnesville Chapter,<lb/>
       On the 27th of March 1896<lb/>
       </head>
