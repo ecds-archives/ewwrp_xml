@@ -106,7 +106,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 	<l>A soldier brave, who wandered neath the dome</l>
 	<l>Of Mountain's sheltering arm and sun-lit home;</l>
 	<l>Admiringly he gazed upon the view,</l>
-	<l>Andkneeling there where woodland flowers grew'</l>
+	<l>And kneeling there where woodland flowers grew'</l>
 	<l>He plead for Heavenly guidance on his way,</l>
 	<l>For he must meet impending battle on that day!</l>
       </lg>
@@ -142,9 +142,9 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 	<l>For his memory in reverence by the world is shown.</l>
       </lg>
       <lg type="stanza">
-	<l>Who can forget <add place="supralinear">the</add>brave Stonewall Jackson</l>
+	<l>Who can forget <add place="supralinear">the </add>brave Stonewall Jackson</l>
 	<l>Whose Living Faith illumed each action?</l>
-	<l>And Bishop Polk, near Kennesaw's<add place="supralinear">great</add> height</l>
+	<l>And Bishop Polk, near Kennesaw's <add place="supralinear">great</add> height</l>
 	<l>Who there was <add place="supralinear">visually</add> crowned by immortal Light?</l>
 	<l>Years later <del rend="overstrike">on</del> the same true faith abides</l>
 	<l>As Pershing, the world-honored leader guides,</l>
@@ -155,7 +155,8 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
 	<l>Then Hail!  All Hail!  With thankful voice acclaim</l>
 	<l>That Victory hath crowned "The Pure in Heart," with fame</l>
 	<l>Let Earth and Heaven rejoice on land and sea afar</l>
-	<l>When Faith and Love <del rend="overstrike">combined</del> have won the <hi rend="underline">brightest</hi> <hi rend="underline">Star!</hi></l>
+	<l>When Faith and Love <del rend="overstrike">combined</del>
+	have won the <hi rend="underline">brightest </hi> <hi rend="underline">Star!</hi></l>
       </lg>
     </div>
   </body>
