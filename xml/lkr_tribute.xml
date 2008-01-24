@@ -82,7 +82,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
   <body>
     <pb n="1" entity="lkr_tribute001" pages="1"/>
     <div id="lkr_tribute" type="poem">
-      <head>A Tribute Of Love</head>
+      <head><seg type="short-title">A Tribute Of Love</seg></head>
       <head type="sub">To The Memory Of Miss Mildred Lewis Rutherford<lb/>
       State and General Historian, From The United Daughters<lb/> 
       Of The Confederacy.</head>

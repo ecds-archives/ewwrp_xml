@@ -82,7 +82,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
   <body>
     <pb n="[1]" entity="lke_memorial0004" pages="1"/>
     <div id="lkr_memorial" type="poem"> 
-      <head>MEMORIAL SONG<lb/>
+      <head><seg type="short-title">MEMORIAL SONG</seg><lb/>
       <stage>For the unveiling of the Memorial Fountain erected in Tennille, Georgia,<lb/>
       by the Daughters of the Confederacy, April 26, 1917.  Written by Mrs.<lb/>
       Loula Kendall Rogers.  Air "Columbia, Gem of the Ocean." For the<lb/>

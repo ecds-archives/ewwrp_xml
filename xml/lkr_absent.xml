@@ -85,7 +85,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
     <pb n="[1]" entity="lkr_absent001" pages="1"/>
     <div id="lkr_absent">
       <head rend="center">(FOR THE SOUTHERN CONFEDERACY)<lb/>
-      TO MY ABSENT HUSBAND</head>
+      <seg type="short-title">TO MY ABSENT HUSBAND</seg></head>
       <lg type="stanza">
 	<l>Thou'rt gone!  Thou'rt gone! no more may I hear</l>
 	<l>Love's lingering tones lowly breathed in my ear.</l>

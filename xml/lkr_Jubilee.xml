@@ -82,8 +82,8 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
   <body>
     <pb n="[1]" entity="lkr_jubilee001"/>
     <div id="lkr_jubilee">
-      <head rend="center">A JUBILEE<lb/>
-      <hi rend="italic">For The Nancy Hart Highway</hi><lb/>
+      <head rend="center"><seg type="short-title">A JUBILEE<lb/>
+      <hi rend="italic">For The Nancy Hart Highway</hi></seg><lb/>
       <hi rend="italic">Air "Tramp, Tramp, Tramp."</hi></head>
       <byline rend="center"><hi rend="italic">By Mrs. Loula Kendall Rogers, Chaplain Major<lb/>
       General Samuel Elbert Chapter Daughters<lb/>

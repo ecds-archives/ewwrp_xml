@@ -83,7 +83,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
   <body>
     <pb n="[1]" entity="lkr_confederacy001" pages="1"/> 
     <div id="lkr_confederacy" type="poem"> 
-      <head>THE SPIRIT OF THE CONFEDERACY</head>
+      <head><seg type="short-title">THE SPIRIT OF THE CONFEDERACY</seg></head>
       <head type="sub">"Unveils a Picture Of Morn and Night,<lb/>
       Yet sweeps the lingering mists away!"</head>
       <byline rend="center">By Mrs. Loula Kendall Rogers<lb/>
