@@ -1,24 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2 TEIform="TEI.2">
-   <teiHeader type="text" status="new" TEIform="teiHeader">
-      <fileDesc TEIform="fileDesc">
-         <titleStmt TEIform="titleStmt">
-            <title TEIform="title">Tahlequah, an electronic edition</title>
-            <author TEIform="author"><name type="person" reg="Adair, Lena Harnage" TEIform="name">Lena
-	    Harnage Adair</name></author>
-            <respStmt TEIform="respStmt">
-               <resp TEIform="resp">Compiled and edited by</resp>
-               <name TEIform="name">Beck Center</name>
-            </respStmt>
-         </titleStmt>
-         <extent TEIform="extent">15kb</extent>
-         <publicationStmt TEIform="publicationStmt">
-            <publisher TEIform="publisher">Lewis H. Beck Center</publisher>
-            <pubPlace TEIform="pubPlace">Emory University</pubPlace>
-            <address TEIform="address">
-               <addrLine TEIform="addrLine">Atlanta, Georgia</addrLine>
-            </address>
-            <availability status="unknown" TEIform="availability">
-               <p TEIform="p">1996 Emory University. Permission is granted to
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
+<TEI.2 TEIform="TEI.2" id="adair_1308">
+  <teiHeader TEIform="teiHeader" status="new" type="text">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title">Tahlequah, an electronic edition</title>
+        <author TEIform="author">
+          <name TEIform="name" reg="Adair, Lena Harnage" type="person">Lena Harnage Adair</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Compiled and edited by</resp>
+          <name TEIform="name">Beck Center</name>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">15kb</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <publisher TEIform="publisher">Lewis H. Beck Center</publisher>
+        <pubPlace TEIform="pubPlace">Emory University</pubPlace>
+        <address TEIform="address">
+          <addrLine TEIform="addrLine">Atlanta, Georgia</addrLine>
+        </address>
+        <availability TEIform="availability" status="unknown">
+          <p TEIform="p" id="adair_1301">1996 Emory University. Permission is granted to
 	       download, transmit, or otherwise reproduce, distribute
                or display the contributions to the work claimed by
                Emory University for non-profit educational purposes,
@@ -27,165 +30,163 @@
                Women Writers Resource Project or Lewis H. Beck Center
                for Electronic collections and services, Emory
                University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date TEIform="date">1996</date>
-         </publicationStmt>
-         <seriesStmt TEIform="seriesStmt">
-            <title TEIform="title">Emory Women Writers Resource Project</title>
-         </seriesStmt>
-         <sourceDesc TEIform="sourceDesc" default="NO">
-            <bibl TEIform="bibl" default="NO">Adair, Lena Harnage. "Tahlequah."<publisher TEIform="publisher">Tahlequah
-            Arrow</publisher> Feb. 19, <date TEIform="date">1916</date>: 1-4.</bibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc TEIform="encodingDesc">
-         <projectDesc TEIform="projectDesc" default="NO">
-            <p TEIform="p">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
-         </projectDesc>
-	<classDecl TEIform="classDecl">
-	  <taxonomy id="lcsh" TEIform="taxonomy">
-	    <bibl TEIform="bibl" default="NO">
-	      <title TEIform="title">Library of Congress Subject Headings</title>
-	    </bibl>
-	  </taxonomy>
-	</classDecl>
-      </encodingDesc>
-      <profileDesc TEIform="profileDesc">
-         <creation TEIform="creation">
-	    <rs type="collection" TEIform="rs">Native American</rs>
-	    <rs type="language" TEIform="rs">English</rs>
-            <rs type="ethnicity" TEIform="rs">Native American</rs>
-            <rs type="form" TEIform="rs">Unedited</rs>
-            <rs type="genre" TEIform="rs">Poetry</rs>
-            <rs type="geography" TEIform="rs">United States</rs>
-            <date TEIform="date">1900-1999</date>
-         </creation>
-	 <textClass TEIform="textClass" default="NO">
-	   <keywords scheme="lcsh" TEIform="keywords">
-	     <list TEIform="list" type="simple">
-	       <item TEIform="item">Tahlequah (Okla.).</item>
-	       <item TEIform="item">American literature--20th Century--Fiction.</item>
-	       <item TEIform="item">Women authors, American--20th Century.</item>
-	       <item TEIform="item">Race relations.</item>
-	       <item TEIform="item">Native Americans.</item>
-	     </list>
-	   </keywords>
-	 </textClass>
-      </profileDesc>
-      <revisionDesc TEIform="revisionDesc">
-         <change TEIform="change">
-            <date TEIform="date">1999</date>
-            <respStmt TEIform="respStmt">
-               <name TEIform="name">Anna Engle</name>
-               <resp TEIform="resp">Staff</resp>
-            </respStmt>
-            <item TEIform="item">SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-         </change>
-	 <change TEIform="change">
-	    <date TEIform="date">2006</date>
-	    <respStmt TEIform="respStmt">
-	       <name TEIform="name">Alden Mahler</name>
-	       <resp TEIform="resp">Staff</resp>
-	    </respStmt>
-	    <item TEIform="item">TEI header elements changed to conform to new Beck
+        </availability>
+        <date TEIform="date">1996</date>
+      <idno type="ark">http://pid.emory.edu/ark:/25593/179gc</idno></publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title">Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">Adair, Lena Harnage. "Tahlequah."<publisher TEIform="publisher">Tahlequah Arrow</publisher> Feb. 19, <date TEIform="date">1916</date>: 1-4.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <projectDesc TEIform="projectDesc" default="NO">
+        <p TEIform="p" id="adair_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl TEIform="classDecl">
+        <taxonomy TEIform="taxonomy" id="lcsh">
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title">Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <creation TEIform="creation">
+        <rs TEIform="rs" type="collection">Native American</rs>
+        <rs TEIform="rs" type="language">English</rs>
+        <rs TEIform="rs" type="ethnicity">Native American</rs>
+        <rs TEIform="rs" type="form">Unedited</rs>
+        <rs TEIform="rs" type="genre">Poetry</rs>
+        <rs TEIform="rs" type="geography">United States</rs>
+        <date TEIform="date">1900-1999</date>
+      </creation>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords" scheme="lcsh">
+          <list TEIform="list" type="simple">
+            <item TEIform="item">Tahlequah (Okla.).</item>
+            <item TEIform="item">American literature--20th Century--Fiction.</item>
+            <item TEIform="item">Women authors, American--20th Century.</item>
+            <item TEIform="item">Race relations.</item>
+            <item TEIform="item">Native Americans.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc TEIform="revisionDesc">
+      <change TEIform="change">
+        <date TEIform="date">1999</date>
+        <respStmt TEIform="respStmt">
+          <name TEIform="name">Anna Engle</name>
+          <resp TEIform="resp">Staff</resp>
+        </respStmt>
+        <item TEIform="item">SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
+      </change>
+      <change TEIform="change">
+        <date TEIform="date">2006</date>
+        <respStmt TEIform="respStmt">
+          <name TEIform="name">Alden Mahler</name>
+          <resp TEIform="resp">Staff</resp>
+        </respStmt>
+        <item TEIform="item">TEI header elements changed to conform to new Beck
 	    Center standards.</item>
-	 </change>
-      </revisionDesc>
-   </teiHeader>
-   <text TEIform="text">
-      <body TEIform="body">
-         <div id="adair.001" type="poem" org="uniform" part="N" sample="complete" TEIform="div">
-            <head TEIform="head">Tahlequah</head>
-               <pb n="1" TEIform="pb"/>
-
-            <lg type="stanza" org="uniform" part="N" sample="complete" TEIform="lg">
-               <l n="1" part="N" TEIform="l">Here's to Tahlequah with her wooded hills,</l>
-               <l part="N" TEIform="l">Her sparkling springs and tinkling rills,</l>
-               <l part="N" TEIform="l">Her rocky cliffs by ferns o'ergrown,</l>
-               <l part="N" TEIform="l">And her shady nooks by lovers known:</l>
-               <l part="N" TEIform="l">Her maidens fair and cultured dames,</l>
-               <l part="N" TEIform="l">And gifted sons of illustrious names.</l>
-               <l part="N" TEIform="l">He who drinks of the waters of these lipid [sic] springs;</l>
-               <l part="N" TEIform="l">Though far he may wander fond memory brings</l>
-               <l part="N" TEIform="l">Sweet thoughts of the village taat [sic] nestles serene,</l>
-               <l part="N" TEIform="l">So tranquil and lovely like an enchanted scene;</l>
-               <l part="N" TEIform="l">Visions of beauty he long will retain,</l>
-               <l part="N" TEIform="l">And in dreams will he oft visit Tahlequah again.</l>
-               <l part="N" TEIform="l">About her foothills of the Ozark rise,</l>
-               <l part="N" TEIform="l">Like a gem surrounded by her setting she lies,</l>
-               <l part="N" TEIform="l">Near by flows the Illinois-a srystal [sic] stream,</l>
-               <l part="N" TEIform="l">Brightly the waters o'er its pebbly bed gleam.</l>
-               <l part="N" TEIform="l">He who loves the beautiful, along its banks may find</l>
-               <l part="N" TEIform="l">Many a picturesque spot to delight the mind.</l>
-               <l part="N" TEIform="l">You should see Tahlequah in the month of May,</l>
-               <l part="N" TEIform="l">When nature has dooned [sic] her brightest array,</l>
-               <l part="N" TEIform="l">When incense, borne by the perfumed breeze,</l>
-               <l part="N" TEIform="l">That blows through the snow-white locust trees,</l>
-               <l part="N" TEIform="l">Around the quaint old capital square,</l>
-               <l part="N" TEIform="l">Floats out upon the warm sweet air;</l>
-               <l part="N" TEIform="l">When the emerald sward is bedecked wtih [sic] flowers</l>
-               <l part="N" TEIform="l">And the birds sing in their leafy bowers,</l>
-               <pb n="4" TEIform="pb"/>
-               <l part="N" TEIform="l">And the voice of the school children on the street,</l>
-               <l part="N" TEIform="l">Fall [sic] upon the ear like music sweet.</l>
-               <l part="N" TEIform="l">Many a Tahlequah family its lineage traces</l>
-               <l part="N" TEIform="l">Back to old England's proudest races,</l>
-               <l part="N" TEIform="l">For many a noble, to hide his head,</l>
-               <l part="N" TEIform="l">In Cromwell's time, to America fled,</l>
-               <l part="N" TEIform="l">And by the Cherokees were made welcome</l>
-               <l part="N" TEIform="l">To dwell with them in their forest home.</l>
-               <l part="N" TEIform="l">And in the days when revolutionary strife</l>
-               <l part="N" TEIform="l">Often endangered the royalists [sic] life,</l>
-               <l part="N" TEIform="l">Over the mountains of Tennessee,</l>
-               <l part="N" TEIform="l">The Tory came to dwell with the Cherokee:</l>
-               <l part="N" TEIform="l">For during that period the Indians were loyal</l>
-               <l part="N" TEIform="l">To the British crown and the family royal.</l>
-               <l part="N" TEIform="l">The same that Cherokee history adorn,</l>
-               <l part="N" TEIform="l">Were not assumed, but were  proudly borne,</l>
-               <l part="N" TEIform="l">By descendants of these old English sires,</l>
-               <l part="N" TEIform="l">Who safety sought at the Cherokee camp fires.</l>
-               <l part="N" TEIform="l">The name Tahlequah to this town was given</l>
-               <l part="N" TEIform="l">By the old Cherokees, when they were driven</l>
-               <l part="N" TEIform="l">From their eastern homes, afar to the west,</l>
-               <l part="N" TEIform="l">Till they reached this dear spot, "A haven of rest,"</l>
-               <l part="N" TEIform="l">Poor, sorrowing exiles, of their homes bereft</l>
-               <l part="N" TEIform="l">Grieving for the fire-sides which they had left.</l>
-               <l part="N" TEIform="l">God who takes care of those whom the strong oppress,</l>
-               <l part="N" TEIform="l">And pities them in their sore distress</l>
-               <l part="N" TEIform="l">Brought it to pass, that the land of the given,</l>
-               <l part="N" TEIform="l">By treaty as sacred and solemn as Heaven</l>
-               <l part="N" TEIform="l">Was better than that of which they had been despoiled,</l>
-               <l part="N" TEIform="l">Little the white brothers knew of this land</l>
-               <l part="N" TEIform="l">Which they gave to the remnant of this proud band.</l>
-               <l part="N" TEIform="l">Knew naught of the mineral wealth which hides</l>
-               <l part="N" TEIform="l">Its bounteous stores in the mountain sides;</l>
-               <l part="N" TEIform="l">Naught of the verdant fruitful plants,</l>
-               <l part="N" TEIform="l">Nor the varied resources this country contains.</l>
-               <l part="N" TEIform="l">Here the Cherokee rested, their long journey o'er,</l>
-               <l part="N" TEIform="l">And this wildwood was given to be theirs evermore,</l>
-               <l part="N" TEIform="l">Here they made the council-ground.</l>
-               <l part="N" TEIform="l">And here their Kihegas oft were found</l>
-               <l part="N" TEIform="l">In solemn assembly and council grave;</l>
-               <l part="N" TEIform="l">When laws to govern the nation they gave,</l>
-               <l part="N" TEIform="l">Here, Sequoyah, the Cadmus, his alpabet [sic] brought,</l>
-               <l part="N" TEIform="l">Whcih [sic] with infinite patience and skill he wrought,</l>
-               <l part="N" TEIform="l">Schools were established to teach the youth</l>
-               <l part="N" TEIform="l">And churches, to spread Christainity's [sic] truth.</l>
-               <l part="N" TEIform="l">Soon the wilderness was made to bloom</l>
-               <l part="N" TEIform="l">As homes were bulit [sic] dispelled its gloom.</l>
-               <l part="N" TEIform="l">And the town by the little woodland stream</l>
-               <l part="N" TEIform="l">Threw its light afar, like a diamond's gleam.</l>
-               <l part="N" TEIform="l">Such was the birth of this historic town,</l>
-               <l part="N" TEIform="l">Which for her beauty is of wide renown,</l>
-               <l part="N" TEIform="l">For her fountains that gush from the rough hillside,</l>
-               <l part="N" TEIform="l">And her halls of learning, the Nation's pride.</l>
-               <l part="N" TEIform="l">Like Athens of old, she is of learning the seat,</l>
-               <l part="N" TEIform="l">So peaceful and quiet, a sylvan retreat.</l>
-            </lg>
-            <note type="inline" place="unspecified" anchored="yes" TEIform="note">
-               <p TEIform="p"> Kihegas-Leading men </p>
-            </note>
-         </div>
-      </body>
-   </text>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text TEIform="text" id="adair_1307">
+    <body TEIform="body" id="adair_1306">
+      <div TEIform="div" id="adair_001" org="uniform" part="N" sample="complete" type="poem">
+        <head TEIform="head">Tahlequah</head>
+        <pb TEIform="pb" id="adair_1303" n="1"/>
+        <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
+          <l TEIform="l" n="1" part="N">Here's to Tahlequah with her wooded hills,</l>
+          <l TEIform="l" part="N">Her sparkling springs and tinkling rills,</l>
+          <l TEIform="l" part="N">Her rocky cliffs by ferns o'ergrown,</l>
+          <l TEIform="l" part="N">And her shady nooks by lovers known:</l>
+          <l TEIform="l" part="N">Her maidens fair and cultured dames,</l>
+          <l TEIform="l" part="N">And gifted sons of illustrious names.</l>
+          <l TEIform="l" part="N">He who drinks of the waters of these lipid [sic] springs;</l>
+          <l TEIform="l" part="N">Though far he may wander fond memory brings</l>
+          <l TEIform="l" part="N">Sweet thoughts of the village taat [sic] nestles serene,</l>
+          <l TEIform="l" part="N">So tranquil and lovely like an enchanted scene;</l>
+          <l TEIform="l" part="N">Visions of beauty he long will retain,</l>
+          <l TEIform="l" part="N">And in dreams will he oft visit Tahlequah again.</l>
+          <l TEIform="l" part="N">About her foothills of the Ozark rise,</l>
+          <l TEIform="l" part="N">Like a gem surrounded by her setting she lies,</l>
+          <l TEIform="l" part="N">Near by flows the Illinois-a srystal [sic] stream,</l>
+          <l TEIform="l" part="N">Brightly the waters o'er its pebbly bed gleam.</l>
+          <l TEIform="l" part="N">He who loves the beautiful, along its banks may find</l>
+          <l TEIform="l" part="N">Many a picturesque spot to delight the mind.</l>
+          <l TEIform="l" part="N">You should see Tahlequah in the month of May,</l>
+          <l TEIform="l" part="N">When nature has dooned [sic] her brightest array,</l>
+          <l TEIform="l" part="N">When incense, borne by the perfumed breeze,</l>
+          <l TEIform="l" part="N">That blows through the snow-white locust trees,</l>
+          <l TEIform="l" part="N">Around the quaint old capital square,</l>
+          <l TEIform="l" part="N">Floats out upon the warm sweet air;</l>
+          <l TEIform="l" part="N">When the emerald sward is bedecked wtih [sic] flowers</l>
+          <l TEIform="l" part="N">And the birds sing in their leafy bowers,</l>
+          <pb TEIform="pb" id="adair_1304" n="4"/>
+          <l TEIform="l" part="N">And the voice of the school children on the street,</l>
+          <l TEIform="l" part="N">Fall [sic] upon the ear like music sweet.</l>
+          <l TEIform="l" part="N">Many a Tahlequah family its lineage traces</l>
+          <l TEIform="l" part="N">Back to old England's proudest races,</l>
+          <l TEIform="l" part="N">For many a noble, to hide his head,</l>
+          <l TEIform="l" part="N">In Cromwell's time, to America fled,</l>
+          <l TEIform="l" part="N">And by the Cherokees were made welcome</l>
+          <l TEIform="l" part="N">To dwell with them in their forest home.</l>
+          <l TEIform="l" part="N">And in the days when revolutionary strife</l>
+          <l TEIform="l" part="N">Often endangered the royalists [sic] life,</l>
+          <l TEIform="l" part="N">Over the mountains of Tennessee,</l>
+          <l TEIform="l" part="N">The Tory came to dwell with the Cherokee:</l>
+          <l TEIform="l" part="N">For during that period the Indians were loyal</l>
+          <l TEIform="l" part="N">To the British crown and the family royal.</l>
+          <l TEIform="l" part="N">The same that Cherokee history adorn,</l>
+          <l TEIform="l" part="N">Were not assumed, but were  proudly borne,</l>
+          <l TEIform="l" part="N">By descendants of these old English sires,</l>
+          <l TEIform="l" part="N">Who safety sought at the Cherokee camp fires.</l>
+          <l TEIform="l" part="N">The name Tahlequah to this town was given</l>
+          <l TEIform="l" part="N">By the old Cherokees, when they were driven</l>
+          <l TEIform="l" part="N">From their eastern homes, afar to the west,</l>
+          <l TEIform="l" part="N">Till they reached this dear spot, "A haven of rest,"</l>
+          <l TEIform="l" part="N">Poor, sorrowing exiles, of their homes bereft</l>
+          <l TEIform="l" part="N">Grieving for the fire-sides which they had left.</l>
+          <l TEIform="l" part="N">God who takes care of those whom the strong oppress,</l>
+          <l TEIform="l" part="N">And pities them in their sore distress</l>
+          <l TEIform="l" part="N">Brought it to pass, that the land of the given,</l>
+          <l TEIform="l" part="N">By treaty as sacred and solemn as Heaven</l>
+          <l TEIform="l" part="N">Was better than that of which they had been despoiled,</l>
+          <l TEIform="l" part="N">Little the white brothers knew of this land</l>
+          <l TEIform="l" part="N">Which they gave to the remnant of this proud band.</l>
+          <l TEIform="l" part="N">Knew naught of the mineral wealth which hides</l>
+          <l TEIform="l" part="N">Its bounteous stores in the mountain sides;</l>
+          <l TEIform="l" part="N">Naught of the verdant fruitful plants,</l>
+          <l TEIform="l" part="N">Nor the varied resources this country contains.</l>
+          <l TEIform="l" part="N">Here the Cherokee rested, their long journey o'er,</l>
+          <l TEIform="l" part="N">And this wildwood was given to be theirs evermore,</l>
+          <l TEIform="l" part="N">Here they made the council-ground.</l>
+          <l TEIform="l" part="N">And here their Kihegas oft were found</l>
+          <l TEIform="l" part="N">In solemn assembly and council grave;</l>
+          <l TEIform="l" part="N">When laws to govern the nation they gave,</l>
+          <l TEIform="l" part="N">Here, Sequoyah, the Cadmus, his alpabet [sic] brought,</l>
+          <l TEIform="l" part="N">Whcih [sic] with infinite patience and skill he wrought,</l>
+          <l TEIform="l" part="N">Schools were established to teach the youth</l>
+          <l TEIform="l" part="N">And churches, to spread Christainity's [sic] truth.</l>
+          <l TEIform="l" part="N">Soon the wilderness was made to bloom</l>
+          <l TEIform="l" part="N">As homes were bulit [sic] dispelled its gloom.</l>
+          <l TEIform="l" part="N">And the town by the little woodland stream</l>
+          <l TEIform="l" part="N">Threw its light afar, like a diamond's gleam.</l>
+          <l TEIform="l" part="N">Such was the birth of this historic town,</l>
+          <l TEIform="l" part="N">Which for her beauty is of wide renown,</l>
+          <l TEIform="l" part="N">For her fountains that gush from the rough hillside,</l>
+          <l TEIform="l" part="N">And her halls of learning, the Nation's pride.</l>
+          <l TEIform="l" part="N">Like Athens of old, she is of learning the seat,</l>
+          <l TEIform="l" part="N">So peaceful and quiet, a sylvan retreat.</l>
+        </lg>
+        <note TEIform="note" anchored="yes" place="unspecified" type="inline">
+          <p TEIform="p" id="adair_1305"> Kihegas-Leading men </p>
+        </note>
+      </div>
+    </body>
+  </text>
 </TEI.2>

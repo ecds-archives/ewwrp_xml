@@ -1,96 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title><seg type="short-title">A True Testimony</seg> From the People of God: (Who by the world are called
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
+<TEI.2 id="fellfox_testimony_13056">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><seg type="short-title">A True Testimony</seg> From the People of God: (Who by the world are called
 Quakers) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Covenant, which brought again our Lord Jesus from the dead, an electronic edition</title>
-            <author><name type="person" reg="Fox, Margaret Askew Fell, 1614-1702">Margaret Askew Fell Fox</name></author>
-            <respStmt>
-               <resp>Compiled and edited by</resp>
-               <name>Beck Center</name>
-            </respStmt>
-         </titleStmt>
-         <extent>85kb</extent>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
-               <addrLine>Atlanta, Georgia</addrLine>
-            </address>
-            <availability>
-               <p>1996 Emory University. Permission is granted to
+        <author>
+          <name reg="Fox, Margaret Askew Fell, 1614-1702" type="person">Margaret Askew Fell Fox</name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        </respStmt>
+      </titleStmt>
+      <extent>85kb</extent>
+      <publicationStmt>
+        <publisher>Lewis H. Beck Center</publisher>
+        <pubPlace>Emory University</pubPlace>
+        <address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address>
+        <availability>
+          <p id="fellfox_testimony_1301">1996 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the contributions to
 the work claimed by Emory University for non-profit educational purposes, provided 
 this header is included in its entirety.  For inquiries about commercial uses, contact
 either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1996</date>
-         </publicationStmt>
-         <seriesStmt>
-            <title>Emory Women Writers Resource Project</title>
-         </seriesStmt>
-         <sourceDesc>
-            <bibl>Fell Fox, Margaret Askew: A True Testimony From the People of God: (Who by the world are called Quakers) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Covenant, which brought again our Lord Jesus from the dead. London, <publisher>Printed for Robert Wilson</publisher>, and are to be sold at his shop at the sign of the Black-spread-Eagle and Wind-Mill in Martins L' Grand, <date>1660</date>.  EEB 1592:32.</bibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
-         </projectDesc>
-	<classDecl>
-	  <taxonomy id="lcsh">
-	    <bibl>
-	      <title>Library of Congress Subject Headings</title>
-	    </bibl>
-	  </taxonomy>
-	</classDecl>
-      </encodingDesc>
-      <profileDesc>
-         <creation>
-	   <rs type="collection">Early Modern through the 18th Century</rs>
-	   <rs type="language">English</rs>
-            <rs type="ethnicity">Caucasian</rs>
-            <rs type="form">Unedited</rs>
-            <rs type="genre">Prose</rs>
-            <rs type="geography">Great Britain</rs>
-            <date>1600-1699</date>
-         </creation>
-	 <textClass>
-	   <keywords scheme="lcsh">
-	     <list>
-	       <item>Women authors, English--17th Century.</item>
-	       <item>Society of Friends--Doctrines.</item>
-	       <item>Christianity.</item>
-	       <item>Religiosity.</item>
-	       <item>Quakers.</item>
-	     </list>
-	   </keywords>
-	 </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change>
-            <date>1997</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-         </change>
-	 <change>
-	    <date>2006</date>
-	    <respStmt>
-	       <name>Alden Mahler</name>
-	       <resp>Staff</resp>
-	    </respStmt>
-	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
-	 </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <front>
-         <div id="fellfox_testimony.001" type="Introduction">
-            <head><seg type="short-title">A TRUE<lb/>
+        </availability>
+        <date>1996</date>
+      <idno type="ark">http://pid.emory.edu/ark:/25593/17c32</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Fell Fox, Margaret Askew: A True Testimony From the People of God: (Who by the world are called Quakers) of the Doctrines of the Prophets, Christ, and the Apostles, which is witnessed unto, by them who are now raised up by the same Power, and quickned by the same Spirit and Blood of the Everlasting Covenant, which brought again our Lord Jesus from the dead. London, <publisher>Printed for Robert Wilson</publisher>, and are to be sold at his shop at the sign of the Black-spread-Eagle and Wind-Mill in Martins L' Grand, <date>1660</date>.  EEB 1592:32.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p id="fellfox_testimony_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Prose</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list>
+            <item>Women authors, English--17th Century.</item>
+            <item>Society of Friends--Doctrines.</item>
+            <item>Christianity.</item>
+            <item>Religiosity.</item>
+            <item>Quakers.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>1997</date>
+        <respStmt>
+          <name>Scott Ellis</name>
+          <resp>Staff</resp>
+        </respStmt>
+        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
+      </change>
+      <change>
+        <date>2006</date>
+        <respStmt>
+          <name>Alden Mahler</name>
+          <resp>Staff</resp>
+        </respStmt>
+        <item>TEI header elements changed to conform to new Beck Center standards.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text id="fellfox_testimony_13055">
+    <front id="fellfox_testimony_13011">
+      <div id="fellfox_testimony_001" type="Introduction">
+        <head><seg type="short-title">A TRUE<lb/>
 TESTIMONY</seg><lb/>
 From the<lb/>
 People of God:<lb/>
@@ -102,27 +106,25 @@ the Apostles, which is witnessed unto, by them who<lb/>
 are now raised up by the same Power, and quickned by<lb/>
 the same Spirit and Blood of the Everlasting Cove-<lb/>
 nant, which brought again our LORD<lb/>
-JESUS from the dead.<lb/>
-            </head>
-            <p>Published for this End, (Viz.)<lb/>
+JESUS from the dead.<lb/></head>
+        <p id="fellfox_testimony_1303">Published for this End, (Viz.)<lb/>
 That all sober minded People may see the Unity and A-<lb/>
 greement of our Doctrine and Testimony, with the Testi-<lb/>
 mony of Jesus, and all the Holy Men of God.<lb/>
 With the Difference between Us, and Them that have<lb/>
-the Form of Words, but not the Power thereof.<lb/>
-            </p>
-            <p>Prove all things, and hold fast that which is good, I Thes. 5.21. 
+the Form of Words, but not the Power thereof.<lb/></p>
+        <p id="fellfox_testimony_1304">Prove all things, and hold fast that which is good, I Thes. 5.21. 
 Now we have received not the SPIRIT which is of the world, but the SPIRIT 
 which is of God; for the spirit searcheth all things, yea the deep things 
 of God, 
 I Cor. 10.32. </p>
-            <p>By M. F.</p>
-            <p>LONDON, Printed for Robert Wilson, and are to be sold 
+        <p id="fellfox_testimony_1305">By M. F.</p>
+        <p id="fellfox_testimony_1306">LONDON, Printed for Robert Wilson, and are to be sold 
 at his shop at the sign of the Black-spread-Eagle and Wind-Mill 
 in Martins L' Grand, 1660.</p>
-            <div id="fellfox_testimony.002" type="Letter">
-               <head>The Epistle to the Reader</head>
-               <p>FRIEND,<lb/>
+        <div id="fellfox_testimony_002" type="Letter">
+          <head>The Epistle to the Reader</head>
+          <p id="fellfox_testimony_1308">FRIEND,<lb/>
 Being that the day of the Lord is come, and he arisen 
 in his Eternal Light, and is arising in the Consciences of Men, the place where his Throne and 
 Scepter must Rule the Nations; and being that 
@@ -146,20 +148,20 @@ also a Light to the Gentiles, by which they can do the things contained in the L
 ten in their Hearts, their Consciences also bearing them witness of the 
 Justice and Righteousness of the Law, when God comes to judge the 
 secrets of their hearts by Jesus Christ, who is the end of the Law for 
-<pb/>
+<pb id="fellfox_testimony_1307"/>
 Righteousness, and who is the Light that is given to be the salvation 
 to the ends of the Earth.</p>
-<p>And now all people that comes to be guided by this Law, which is 
+          <p id="fellfox_testimony_13010">And now all people that comes to be guided by this Law, which is 
 Light, they by so doing comes into Gods Covenant and Promise; and 
 coming into this Light, and Covenant, and Spirit which God puts in 
 the inward parts, here all people meet together, Jews and Gentiles, 
 Barbarian, Scithian, Bond and Free in the Unity of the Spirit 
 which is in Christ Jesus our Lord, in which they come to be all one in 
-Christ; &#x0026; if they be Christ's, then are they Abraham's Seed, &#x0026; Heirs 
+Christ; &amp; if they be Christ's, then are they Abraham's Seed, &amp; Heirs 
 according to promise:Gal.3.29.This is the great Mystery that hath bin 
 hid from Ages and Generations past, by reason of the gross Darkness that hath covered men; and the great cause and reason of all this, 
 hath been because the worship that hath been set up in the Nations, 
-hath had its Foundation in the Darkness, &#x0026; the very root &#x0026; ground 
+hath had its Foundation in the Darkness, &amp; the very root &amp; ground 
 of it hath been Darkness it self, and the Teachers and Ministers 
 thereof, have been Ministers of Darkness, and have not turned people from darkness to the Light, but on the contrary have drawn 
 them from the Light and Spirit of God within them, unto their Inventions, Imaginations, Meanings, and Expositions of the Scriptures 
@@ -179,7 +181,7 @@ contained, and (according to the Scriptures) prove all things, and
 hold fast that which is good; and look not at Men, nor at the Times 
 as they stand in relation to men, for in do doing, the god of the world 
 will blind the eye; but look at the Lord and at his Truth; and eye his 
-dealing and dispensation of his will according to his wisdom, and let <pb/>
+dealing and dispensation of his will according to his wisdom, and let <pb id="fellfox_testimony_1309"/>
 him be thy fear, and let him be thy dread, and slight not thy Day of 
 Visitation of his love; For truly the Lord whom we seek, will suddenly come to his Temple, and who may abide the day of his coming? 
 Who will sift as a Refiners fire, and will be as Fullers Soap. Certainly 
@@ -208,14 +210,13 @@ that in they own bosom which will answer to the Truth of what is here
 written. So to the Lord I commit thee, and to his witness in thee 
 which will answer for his Truth. 
 M. F.</p>
-            </div>
-         </div>
-      </front>
-      <body>
-<pb n="1"/>
-         <div id="fellfox_testimony.003" type="Text">
-
-            <p>To all the professed Teachers in the whole world, who
+        </div>
+      </div>
+    </front>
+    <body id="fellfox_testimony_13054">
+      <pb id="fellfox_testimony_13012" n="1"/>
+      <div id="fellfox_testimony_003" type="Text">
+        <p id="fellfox_testimony_13013">To all the professed Teachers in the whole world, who
             go under the
 Name of Christians, and make a profession of Christ, who was 
 offered up at Jerusalem, which the Scriptures declares of, whether 
@@ -224,7 +225,7 @@ the Doctrine of the QUAKERS, which is the same with
 Christ, the Apostles, and Prophets; which doth prove your 
 Doctrine to be false, and out of the Doctrine of Christ. 
 </p>
-               <p>Your testimony which ye do bear of the coming of 
+        <p id="fellfox_testimony_13015">Your testimony which ye do bear of the coming of 
 Christ (who are called Christians by Name) is onely the Letter of the Scriptures, because that there are 
 Records left of Christs words which he spoke in the Mount, and 
 which he spoke at Jerusalem, and at Samaria, and which he 
@@ -241,7 +242,7 @@ in the work of God, converted thousand to the Faith, and
 did great and wonderful Works and Miracles by the Spirit 
 of Christ which they had received, and they travelled up 
 and down in several parts of the World, and turned Peo-
-<pb n="2"/>
+<pb id="fellfox_testimony_13014" n="2"/>
 ple from Darkness to the Light, and from the power of Satan unto God' 
 and there was a Record of their Words, Service, and Actions, 
 which are called, The Acts of the Apostles, which do testifie of 
@@ -252,21 +253,21 @@ Eternal Light and Spirit of God, and had begotten many
 into the faith, which could bear witness in the Spirit of God 
 of the Eternal Truth which they had received through the 
 Doctrine of the Spirit. </p>
-               <p>Now the Apostles when they were separated, and at a distance from those Churches, they wrote several Epistles to 
+        <p id="fellfox_testimony_13016">Now the Apostles when they were separated, and at a distance from those Churches, they wrote several Epistles to 
 the Saints, that were gathered and sanctified in Christ Jesus, and 
-made partakers of the precious Faith, &#x0026; such as were called 
+made partakers of the precious Faith, &amp; such as were called 
 to be Saints; the Apostles wrote not their Epistles to the worlds 
 nor to such as were not gathered by them, neither Jews nor Gentiles, but to the Churches of Christ, sanctified in Christ Jesus, called to be Saints, of what sort or denomination soever they were, or 
 went under, whether Corinthians, Ephesians, Romans, Galatians, 
-&#x0026;c.</p>
-               <p>Now the Apostacy and Darkness coming over, and the false 
+&amp;c.</p>
+        <p id="fellfox_testimony_13021">Now the Apostacy and Darkness coming over, and the false 
 Apostles getting up, being erred and gone from the Spirit, and 
 turned aside from the life and power, of the purity and innocency that the Apostles were in, and turning out of the Light of 
 the glorious Gospel which was in them, the darkness came over 
 them, and the Antichristian Spirit entred in amongst them; 
 for the Apostle John saw in his time, that the Antichrist was come 
 and entred into the World, whereby he said, He knew it was 
-the last time, &#x0026; that there were many Antichrists already; &#x0026; he 
+the last time, &amp; that there were many Antichrists already; &amp; he 
 knew it was the time that Christ had prophesied of, That false 
 Prophets should come in sheeps clothing, but inwardly were ravening 
 Wolves, ravened and erred from the Spirit of Truth, which 
@@ -276,14 +277,14 @@ the Beast rose out of the Sea, and out of the Earth, and all
 the world wondred after them, and fell down, and worshipped 
 the Beast, and Antichrist, and his Power, and so all nations 
 were made drunk with his Cup of Fornication and Abomination; 
-<pb n="3"/>
+<pb id="fellfox_testimony_13017" n="3"/>
 Yet this was not unseen nor undiscover'd before it came; For 
 Christ prophesied of it, that false Christs and Antichrists would 
 come in the later dayes, Wolves in sheepes clothing would come, and 
 by their fruits you should know them, Mat.7.15. And the Apostle Paul he knew that grievous Wolves would enter in amongst 
 them after his departure, that would not spare the flock, Acts 20.29. 
 And Peter he was sensible of false Prophets that was amongst 
-the People, &#x0026; did also foretell of false Teachers that should privily ] 
+the People, &amp; did also foretell of false Teachers that should privily ] 
 bring in damnable Heresies, even denying the Lord that bought them; 
 and he also saw, that many would follow their pernicious ways, and 
 that through Covetousness they with feigned words would make Merchandice of People; and Timothy saw that in the last Dayes perilous Times should come, that men should bee lovers of themselves, having a form of godliness, but denying the power; from such turn 
@@ -292,8 +293,8 @@ into houses (calling them Churches) and leads captive silly women, laden with si
 and never able to come to the knowledge of the Truth. Now as Jannes and Jambres withstood Moses, so do these also resist the Truth: 
 Men of corrupt minds, reprobate concerning the faith. And again, the 
 same Apostle saith, That the time would come, when the people would 
-not endure sound doctrine; but after their own lusts would heap to themselves Teachers, having itching ears, &#x0026; they would turn away their ears 
-from the Truth, &#x0026; should be turned unto Fables. New all these seeing 
+not endure sound doctrine; but after their own lusts would heap to themselves Teachers, having itching ears, &amp; they would turn away their ears 
+from the Truth, &amp; should be turned unto Fables. New all these seeing 
 that this Apostacy would come, This is a certain testimony that it 
 was to come, and is come, and hath over-spread the face of the 
 earth since the Apostles daies, as hath been clearly manifested 
@@ -307,7 +308,7 @@ risen through this Darkness and Apostacy, and they seeing that
 the Scripture speaks of false Prophets, they say, the false Prophets are but com'd now; and they call the Spirit of Truth the 
 false Prophet, because it bears testimony against the false worships 
 in the World. But I would ask such people, which of these 
-<pb n="4"/>
+<pb id="fellfox_testimony_13018" n="4"/>
 Sects, or Heads, or Horns that have been up since the daies of 
 the Apostles, which of them they look upon to be the true 
 Prophets? Whether it is the Pope, Luther, or Calvin? or which 
@@ -329,17 +330,17 @@ the Scriptures, and professed Christ for the Declaration
 thereof, and not from the Spirit of Truth in themselves, but because they have heard that there was such a Man which dyed at Jerusalem, and that there were such men after him as 
 the Apostles were; and they having their words and writings 
 upon record, do make these a sufficient Testimony for them of 
-their knowledge and worship of God, and so preach &#x0026; teach, 
+their knowledge and worship of God, and so preach &amp; teach, 
 and takes Texts out of these words, and adds thereunto 
 their own Inventions, and so feeds poor ignorant people with 
 these; and here hath been the Worship that hath been upon 
-the face of the Earth all the time of the dark night of Apostacy since the Apostles dayes. Now let any honest reasonable heart judge whether this can be a sure ground and true testimony for people, to trust their souls under such for teaching? for it was not Christ nor the Apostles practice to take others Records &#x0026; Writings that had been spoken from others; 
+the face of the Earth all the time of the dark night of Apostacy since the Apostles dayes. Now let any honest reasonable heart judge whether this can be a sure ground and true testimony for people, to trust their souls under such for teaching? for it was not Christ nor the Apostles practice to take others Records &amp; Writings that had been spoken from others; 
 but they spoke as the spirit gave them utterance, and as the holy Ghost 
 taught them, not with wisdom of words, but in the demonstration of 
-<pb n="5"/>
+<pb id="fellfox_testimony_13019" n="5"/>
 the spirit and of power. Yet they will bring a Scripture, and say 
 Christ took a Text when he spake of Esaiah's Prophesie, where 
-he said The Spirit of the Lord is upon me, &#x0026; he hath annointed me to 
+he said The Spirit of the Lord is upon me, &amp; he hath annointed me to 
 preach, and to open the blind eyes, and to preach liberty to the Captives; and when he had read these words, he closed the Book, and said, 
 This day this Scripture is fulfilled in your ears, for it was he that 
 the Prophet spoke of, who is the Annointing, and the Annointed, 
@@ -370,15 +371,15 @@ not of another) which witnessed a good confession before Pontius Pilate, and was
 which all the Christians in Christendom profess in words, do we 
 bear testimony of in the spirit of life and power, according to 
 the Scriptures. 
-<pb n="6"/>
+<pb id="fellfox_testimony_13020" n="6"/>
 Obj. But it may be objected and said, How came you to this 
 Spirit, seeing that you say, that darkness and Apostacy hath been 
 over the face of the Earth since the dayes of the Apostles, and that 
 all Worships and Professions have been but from the Letter of the Scriptures without them, this is but an upstart Religion, how is it that you 
 are attained to this that none are attained to in so many hundred years 
 before? And are you wiser then all our fore-fathers? What is become of all that is gone before? </p>
-               <p>Ans. This Objection is against the unlimited Spirit &#x0026; Power of 
-the living God, which did foresee the Apostacy before it came; &#x0026; 
+        <p id="fellfox_testimony_13023">Ans. This Objection is against the unlimited Spirit &amp; Power of 
+the living God, which did foresee the Apostacy before it came; &amp; 
 Christ and the Apostles did prophesie of it; for the same Objection might be against the Lord when he said unto Pharaoh, 
 I even for the same purpose have raise thee up, that I might shew 
 my power in thee, and that my power might be declared throughout all 
@@ -400,7 +401,7 @@ neither received it of man, neither were we caught it by man,
 but by the Revelation of Jesus Christ; for no man could teach 
 it us, but who had the Revelation of Jesus Christ, according 
 as the Apostle said to the Romans, If the spirit of him that raised up Jesus from the dead, dwell in you, he that raised up Christ from 
-<pb n="7"/>
+<pb id="fellfox_testimony_13022" n="7"/>
 the dead, shall also quicken your mortal bodies, because that his spirit 
 dwelleth in you, Rom.8.II. And again, Know ye not that ye are the 
 Temple of God, and that the spirit of God dwelleth in you? I Cor.3. 
@@ -410,7 +411,7 @@ our testimony in the same spirit as was in them that spoke forth
 the Scriptures; and these Scriptures bears testimony with us, and 
 we to them, and so are in unity with the same Spirit which gave 
 them forth.</p>
-               <p>And this is the Hope that we are to give an account of to every one that asketh with meekness &#x0026; fear; for god hath made 
+        <p id="fellfox_testimony_13024">And this is the Hope that we are to give an account of to every one that asketh with meekness &amp; fear; for god hath made 
 known unto us the Riches of the glory of this Mystery amongst the 
 Gentiles, which was Christ in them (and now in us) the hope of glory; 
 and this is the same Christ which was offered up at Jerusalem once 
@@ -424,13 +425,13 @@ even because people have been erred from the spirit of God in
 them, through which the Revelation is manifested, and they 
 have been erred in their hearts; therefore the way of God 
 hath not been known.</p>
-               <p>Christ said to the Woman of Samaria when he was on the 
+        <p id="fellfox_testimony_13026">Christ said to the Woman of Samaria when he was on the 
 Mountain where Jacobs Well was, where the Jews used to worship, he said, They worshipped they knew not what; and he also said, 
 that the time was coming that they should not worship at Jerusalem, 
 (which was a place commanded of god for the Jews to worship in) nor in this Mountain; and he further testified, That God 
 was a spirit, and that they worshipped him, must worship him in 
 
-<pb n="8"/>
+<pb id="fellfox_testimony_13025" n="8"/>
 spirit and in truth, saying, The Father was seeking such to worship 
 him, for they only are the true Worshippers of God. 
 Now I do ask all the Teachers and Professors in Christendom, 
@@ -441,7 +442,7 @@ man that cometh into the world, in whom is life, and this life is the
 light of men? And where this worship of God in the spirit is performed, if it be not in man? And Where Gods Throne is, (where 
 the ancient of dayes doth sit) if it be not in man? And where 
 the Scepter of Christ is swayed, which is a righteous Scepter, if it 
-be not in Man? And where the King is that shall reign &#x0026; prosper, whose Name shall be called, The Lord our Righteousness? 
+be not in Man? And where the King is that shall reign &amp; prosper, whose Name shall be called, The Lord our Righteousness? 
 And how and where must people come to worship god in the 
 spirit, which denies the Light of Christ to be their Leader and 
 Teacher, and say it is natural? and some say every one hath it not; 
@@ -450,7 +451,7 @@ heaps, and in confusion, who believe not in the Light which
 Christ Jesus hath enlightened them withall, who is the Light of every man; so denying the Light, and being erred from it, are 
 in darkness until now, and stumbles, and knows not whether 
 they go.</p>
-               <p>Christ saith, I am the light of the world, he that followeth me, 
+        <p id="fellfox_testimony_13027">Christ saith, I am the light of the world, he that followeth me, 
 shall now walk in Darkness, but shall have the Light of life: And again saith he, While ye have the Light, believe in the Light, that you 
 may be the children of the Light: I am come a Light into the world, 
 that whosoever believeth in me, shall not abide in darkness. Now I 
@@ -460,12 +461,12 @@ which he saith is the eye? seeing that he said to the Jews who
 talked with him, and he with them, They had not heard his 
 voice, nor seen his shape; for he whom God hath sent, they believed 
 not.</p>
-               <p>This may be the condition of the Priests of the World, 
+        <p id="fellfox_testimony_13030">This may be the condition of the Priests of the World, 
 and Teachers of the Letter, and they ought to own it, That 
 they have neither heard his voice at any time, nor seen his shape; for 
 how should they, when they deny the light of Christ that is 
 in them to be their Guide and Teacher, which Christ hath lighted 
-<pb n="9"/>
+<pb id="fellfox_testimony_13028" n="9"/>
 them withall, which is the Key of David, which opens and none shuts, 
 and shuts and none opens? And he told the Jews, That they did 
 search the Scriptures that did testifie of him, and in which they did 
@@ -498,16 +499,16 @@ according to the Gospel: And here the Apostle doth justifie the
 Gentiles, in that he saith, Not the hearers of the Law are justified, but the doers; and their uncircumcision, which did the Law, 
 he accounted circumcision, and said to the Jews, Shall not 
 their uncircumcision judge your circumcision, which breaks the Law; 
-&#x0026; he further saith, We are of the true circumcision, who worship God 
+&amp; he further saith, We are of the true circumcision, who worship God 
 in the spirit, and rejoice in Christ Jesus, and have no confidence in the 
-flesh; for he is not a Jew that is one outward, neither is that circumcision which is outward in the flesh; but he is a Jew which is one inward-<pb n="10"/>
+flesh; for he is not a Jew that is one outward, neither is that circumcision which is outward in the flesh; but he is a Jew which is one inward-<pb id="fellfox_testimony_13029" n="10"/>
 ly, and that is circumcision that is of the heart, in the spirit, and not 
 in the Letter, who praise is not of men, but of god, Rom. 2. And 
 this is the seal of the everlasting Covenant, that takes away 
 the foreskin of the heart, and washes away the filth of the 
 flesh; and here the knowledge of the true God is manifested in man, where God shews it unto him, according to the 
 Apostles Doctrine, Rom.I.9. </p>
-               <p>And when Paul came to Mars-Hill, ans saw the Athenians Altar, with the inscription upon it, to the unknown God, he 
+        <p id="fellfox_testimony_13031">And when Paul came to Mars-Hill, ans saw the Athenians Altar, with the inscription upon it, to the unknown God, he 
 said, God that made the world, and all things therein, seeing that he 
 is Lord of Heaven and Earth, he dwelleth no in Temples made with 
 hands, neither is he worshipped with mens hands, as though he needed 
@@ -516,7 +517,7 @@ and hath made of one blood all Nations of men, to dwell on the face
 of the Earth, and hath determined the times before appointed, and 
 the bounds of their habitation, that they should seek the Lord if haply 
 they might feel after him, and find him,, though he be not far from every 
-one of us, for in him we live, move, &#x0026; have our being Act.17.24. Here 
+one of us, for in him we live, move, &amp; have our being Act.17.24. Here 
 the Apostle did not lead them out to the Writings and Records of others without them, but he brought them to him 
 in whom they did live, and move, and had their being, that so they 
 might feel after him, and find him; for he said, He was not far 
@@ -529,11 +530,11 @@ know ye not that your bodyes are the Temple of the Holy Ghost which
 is in you, which ye have of god, and ye are not your own, but you are 
 bought with a price; therefore glorifie him in your body, and in your
 spirit, which are God's.</p>
-               <p>Here the Apostle clearly demonstrates, that the bodies of 
+        <p id="fellfox_testimony_13040">Here the Apostle clearly demonstrates, that the bodies of 
 God's People are his Temple, and God is the Spirit that is 
 in them; and this is the Teacher and Preacher, which the Apostle turns and brings People to, whom he teaches; he told 
 the Romans that the righteousness of Faith speaketh on this wife, 
-Say not in thy heart who shall ascend, or descend; but what faith is? <pb n="11"/>
+Say not in thy heart who shall ascend, or descend; but what faith is? <pb id="fellfox_testimony_13032" n="11"/>
 The word is very nigh thee, in thy mouth and in thy heart, and that is 
 the word of Faith that we preach, faith the Apostle, (mark) How 
 then (faith he) shall ye call on him on whom ye have not believed? 
@@ -557,7 +558,7 @@ that comes into this Path and Way, must come from the
 blind Teachers of the World; who are Leaders of the blind, 
 and keeps people in blindness and ignorance of God, and 
 his Truth, who denyes the Light to be sufficient Teacher, 
-which is the Eye of the whole body, &#x0026; if this Eye be single, the body is 
+which is the Eye of the whole body, &amp; if this Eye be single, the body is 
 full 
 of Light; But with this eye they do not see, neither can they 
 believe the Truth if it be declared unto them, except they 
@@ -567,10 +568,10 @@ voice he did not know that it was within him; and therefore
 he directed them to a more sure Word then that was which he heard 
 in the Mount, which Word was a Word of Prophesie, where unto he 
 said, they did well that they took heed, as unto a light that shined in 
-a dark place, until the day dawned, &#x0026; the day-star arose in their hearts; 
-<pb n="12"/>
+a dark place, until the day dawned, &amp; the day-star arose in their hearts; 
+<pb id="fellfox_testimony_13033" n="12"/>
 this testimony of Jesus, the which is the spirit of Prophesie: This the 
-Teachers of the World brings to blind people with, &#x0026; saith it 
+Teachers of the World brings to blind people with, &amp; saith it 
 the Scripture that the Apostle speaks of. Now let any that 
 have but common reason judge, whether the Apostle was 
 like to say, That the Scriptures were a more sure word, 
@@ -600,7 +601,7 @@ did say should come that Christ should suffer, and that he should be
 the first that should rise from the dead, and should shew Light unto the 
 people, and to the Gentiles. And this was the Witness and the Testimony which the Apostle held forth, who was a Minister of 
 God. But these Teachers of the World deny and gain-says 
-<pb n="13"/>
+<pb id="fellfox_testimony_13034" n="13"/>
 this Doctrine; and the Apostle saith, Therefore seeing we have 
 this Ministry, as we have received Mercy, we faint not, but have renounced the hidden things of dishonesty, not walking in craftiness, nor 
 handling the word of God deceitfully; but by the Minstration of the 
@@ -630,7 +631,7 @@ them meet to be partakers of the Inheritance, with the Saints in light,
 who had delivered them from the power of darkness, and had translated them into the Kingdom of his dear Son. This is not a new Doctrine, though it may seem so to many; because this Mystery 
 hath been hid, and the Spirit of god which opens this Mystery, erred from, and turned from, by those that have been 
 Teachers of people; and not onely so, but even their Doctrine hath been, and now is, That none must look for, nor 
-<pb n="14"/>
+<pb id="fellfox_testimony_13035" n="14"/>
 expect Revelation nor Inspiration by the Spirit of god; and so 
 they do what in them lyes, to stop this Current of Life and 
 Spirit, which Christ Jesus the Fountain of all life hath set open, who in the last day of the Feast stood up and said, If any many be a-thirst, let him come unto me, and drink; He that believeth on me, out of his belly shall flow Rivers of living Waters. And 
@@ -660,9 +661,9 @@ which he is rearing and setting up; and he hath put his hand
 to the work; and when he worketh, who can let it? Who 
 hath resisted his Will? Who hath directed the Spirit of the 
 Lord, or been his Counsellor? Or taught him? Of whom 
-took he Councel? Or who instructed and taught him know-<pb n="15"/>
+took he Councel? Or who instructed and taught him know-<pb id="fellfox_testimony_13036" n="15"/>
 ledge, and shewed him the way of understanding? Behold, the 
-Nations are but as the drop of a Bucket, &#x0026; as the small dust of the Ballance before him he taketh the Isles as a very little thing, Lebanon is 
+Nations are but as the drop of a Bucket, &amp; as the small dust of the Ballance before him he taketh the Isles as a very little thing, Lebanon is 
 not sufficient to burn, and the Beast thereof for a Burnt-offerings; it is 
 he 
 that sitteth upon the Circle of the Earth, and the Inhabitants thereof 
@@ -681,7 +682,7 @@ Lord of Hosts will hasten it in his time; so it is in vain to
 stand against the God of Heaven, or to resist his work which 
 he hath begun in the Earth, which he is working, and will 
 work by the Spirit, in this his day of Power he wil make all his 
-people willing and subject to him, &#x0026; every knee must bow to him, 
+people willing and subject to him, &amp; every knee must bow to him, 
 and every tongue confess to God; for the first Adam was made a living 
 soul, but the second is the Lord from Heaven, a quickning spirit which 
 doth quicken and raise up the just unto the resurrection of Life, 
@@ -691,7 +692,7 @@ part of man, and so brought the first Adam into the fall, and
 so under the Curse, that the very Earth is cursed for his sake; 
 but Christ Jesus, which the Apostle saw made a little lower then 
 Angels; for the suffering of death, through which he hath wrought the 
-Redemption of man Heb. 2. 6. Into a blessed and happy, &#x0026; perfect 
+Redemption of man Heb. 2. 6. Into a blessed and happy, &amp; perfect 
 condition; Though the Priests and Teachers of the World 
 makes it their Work to destroy this Work of Redemption 
 of the Son of God, who redeems out of sin and all evil, and from 
@@ -699,7 +700,7 @@ a vain conversation, to serve the living God in newness of spirit, and
 not in the oldness of the letter, which redeems from the Earth; and 
 from the pollutions of the world, and from all unrighteousness, all 
 those that believe on him, and trust in him, and obey him, and wait 
-for him, unto them shall he come the second time without sin unto sal-<pb n="16"/>
+for him, unto them shall he come the second time without sin unto sal-<pb id="fellfox_testimony_13037" n="16"/>
 vation; but this is a Mystery, which cannot be believed, by the 
 dark and ignorant sinning and transgressing Ministry and 
 Professors of the Nations, which lyes wallowing in their sins 
@@ -710,11 +711,11 @@ how it is possible that ever any should get out of this state
 and condition, being that they are quite ignorant of their 
 Redeemer living in them, and so goes about to perswade all 
 people of an impossibility of being freed from sin, but that 
-they must sin all the dayes of their lives, and so keeps people in the fall, in the transgression, under the curse, &#x0026; death 
+they must sin all the dayes of their lives, and so keeps people in the fall, in the transgression, under the curse, &amp; death 
 is the reward of sins; and so these Ministers are the Ministers 
 of death: But Christ Jesus redeems from under the Curse, 
 and from under the Bondage of sin and corruption, which all 
-the Creation hath long groaned under, &#x0026; waits for the blessed liberty of the Sons and Children of God, Glory &#x0026; honour be 
+the Creation hath long groaned under, &amp; waits for the blessed liberty of the Sons and Children of God, Glory &amp; honour be 
 unto his holy Name for ever, who hath sent his only begotten Son in the 
 likeness of sinful flesh, and for sin, condemned sin the flesh; for as by 
 one man's disobedience many were made sinners, so by the obedience of 
@@ -734,7 +735,7 @@ but there were some that believed not: Now those that deny the Light of the Spir
 pourings forth of the Spirit, or of the Manifestation of the 
 Spirit of God, which he hath given to every one to profit 
 withall; but the Ministers of the Letter, and of darkness, 
-<pb n="17"/>
+<pb id="fellfox_testimony_13038" n="17"/>
 which have erred from the Spirit, and endeavours to keep 
 all people back from the teaching, and leading, and guiding 
 of the spirit, they do not profit with it, but hides their talent in the Earth, and counts the Lord a hard Master; therefore he must needs take it from them, and give it unto those 
@@ -764,13 +765,13 @@ knits together, they are all one; for the body is not one member,
 but many; but they that denies this Spirit, and the teaching 
 thereof, are not of this body, nor do not drink of this Cup 
 of the New-Testament; but they are drinking of the Cup 
-<pb n="18"/>
+<pb id="fellfox_testimony_13039" n="18"/>
 of Fornication and Idolatry; for the Apostle said, They could 
 not sit at the Lords Table, and the Table of Devils; and they could 
 not drink the Cup of the Lord, and the Cup of Devils; and so they 
 that drink not of the Cup of the Spirit [new] in the Kingdom, let them read in their own bosomes what they are 
 drinking of. </p>
-               <p>The Apostle said, that the Corinthians were manifestly declared to be the Epistle of Christ ministred by him; written not with 
+        <p id="fellfox_testimony_13051">The Apostle said, that the Corinthians were manifestly declared to be the Epistle of Christ ministred by him; written not with 
 Ink, but with the spirit of the living God; not in Tables of stone, but 
 in the fleshly Tables of the heart. Here is the Ministration manifested by them that are ministers of the spirit of the living 
 God, who reach unto that of god in the hearts of people; 
@@ -793,13 +794,13 @@ the
 lust of the flesh; for the flesh lusteth against the spirit, and the spirit 
 against the flesh, and these are contrary the one to the other, Ga. 5. 5. 
 And this is the Teacher, Leader and Guider of God's People 
-who are called to be Saints, &#x0026; sanctified in Christ Jesus, through the 
-obedience of the spirit which subdues, &#x0026; brings down, &#x0026; subjecteth under 
+who are called to be Saints, &amp; sanctified in Christ Jesus, through the 
+obedience of the spirit which subdues, &amp; brings down, &amp; subjecteth under 
 in man and woman, that which is contrary; it working and operating in the inward man, and putting on, and adorning the 
 heart with a meek, and with a quiet spirit, which is with the Lord 
 of great price: This is precious in the sight of the Lord, when 
 the spirit beautifies with salvation, and sanctifies the heart 
-<pb n="19"/>
+<pb id="fellfox_testimony_13041" n="19"/>
 to the Lord by its powerful working, here the Lord is glorified in his Saints; and this eternal Spirit, and Substance, 
 and Word, which is quick and powerful, sharper then any two-edged 
 Sword, which separates betwixt the precious and the vile, betwixt the 
@@ -807,7 +808,7 @@ holy and profane, piercing to the dividing asunder of soul ans spirit,
 and of the joynts and marrow, and is a discerner of the thoughts and 
 intents of the heart, Heb. 4. 12. This is the sure Teacher that 
 layeth a true Foundation, on which the Prophets and Apostles 
-are built, the corner-stone, which all the wise Builders have disallowed and set at nought, which is now become the head of our Corner; glory &#x0026; honor be to the Highest for ever, according to Christs 
+are built, the corner-stone, which all the wise Builders have disallowed and set at nought, which is now become the head of our Corner; glory &amp; honor be to the Highest for ever, according to Christs 
 words, who saith, did you not read in the Scripture, The Stone 
 which all the Builders re[?] and set at nought, the same is become 
 the Head of the Corner; this is the Lords doings, and is marvelous in 
@@ -831,9 +832,9 @@ the Power of god, is the Cross of Christ; this the Apostle
 did not preach with the wisdom of Words, least the Crosse of 
 Christ should become of none effect, which is unto all that are saved, the Power of God; and he saith, After that in the wisdom 
 of god, the world by wisdom knew not God, it pleased God by the foolishness of Preaching, to save them that believe: this is the wisdom of God, and the Way of God, not to teach people by 
-<pb n="20"/>
+<pb id="fellfox_testimony_13042" n="20"/>
 that which man's Wisdom teacheth; and that which man's 
-dark heart invents and imagines, &#x0026; studies out of his brain, 
+dark heart invents and imagines, &amp; studies out of his brain, 
 but by that which the Holy Ghost teacheth in this his day in 
 which he is risen in his Eternal Spirit; and they that can believe in this foolishness of preaching, are saved; and they that 
 cannot believe, to them this Gospel is hid, because that the foolishness of God is wiser then men, and the weakness of God 
@@ -851,18 +852,18 @@ all. Eph. 2. 18.
 All people which comes unto this Eternal Spirit which is 
 in them, of what sort soever, if they come to this Light, Covenant, and Spirit, they are all one in Christ Jesus, and if they 
 be Christs, then are they Abrahams Seeds, and Heirs according to promise. All that doth endeavour to keep the Unity in the Spirit, and Bond of Peace, is strengthened by this Spirit in the 
-Inner-man; &#x0026; the eyes of their Understanding comes to be 
-enlightened, &#x0026; they do come to comprehend with all Saints, 
+Inner-man; &amp; the eyes of their Understanding comes to be 
+enlightened, &amp; they do come to comprehend with all Saints, 
 the heigth, and the breadth, and the depth of the love of 
 god, which passeth knowledge and is a mystery to the wise 
 Rabbies of the World, and all the disobedient ones, that 
-will not stoop to the Light of Christ, and his Power &#x0026; cross 
+will not stoop to the Light of Christ, and his Power &amp; cross 
 in them, but will live in the liberty of the flesh, where they 
 may exercise their fleshly liberty, Pride and ambition, Superfluity of Naughtiness, vain Glory and Arrogancy, Voluptuousness, Pomp and Vanity of the World, all which are 
 of the first man, fallen from God, and is of the Earth, earthly, which the cross of Christ, which is the power of God is to
 crucifie the affections and the lusts thereof, the World, and 
 the flesh, and the Devil, who is obedient and faithful to the 
-<pb n="21"/>
+<pb id="fellfox_testimony_13043" n="21"/>
 Witness and Testimony of the living God in them, and to 
 its Guiding, and Leading, and Teaching; puts off the old man 
 and his deeds, and puts on the new man, Christ Jesus, who is 
@@ -890,11 +891,11 @@ thereof, when God comes with his overflowing scourge, and breaks
 the Covenant with Death, and the agreement with Hell, and sweep 
 away the Refuge of Lyes? Matth. 7. Which many hundreds of 
 years have bin their strength; but god is coming to overturn 
-them, &#x0026; to confound them, &#x0026; to cut down the fruitless trees 
+them, &amp; to confound them, &amp; to cut down the fruitless trees 
 that brings not forth good fruit, and doth manifest that the 
 evil Tree cannot bring forth good fruit; for men do not gather 
 Grapes of Thorns, nor Figs of Thistles; for the best of them have 
-been but as a bryar, &#x0026; the most upright of them as a Thorn-<pb n="22"/>
+been but as a bryar, &amp; the most upright of them as a Thorn-<pb id="fellfox_testimony_13044" n="22"/>
 Hedge, as many will come to see then their eyes comes to 
 be opened; and they shall be as a bowed wall, and as a tottering 
 fence, Psal. 62. Let but the honest and the godly hearted 
@@ -916,15 +917,15 @@ And Paul was made an able Minister of the New-Testament, not
 of the Letter, but of the Spirit; and he turned People from the 
 darkness to the light, and from the power of Satan unto God, who is 
 light, in which whosoever walks, the blood of Jesus Christ his Son, 
-cleanseth him from all sin. Now these Ministers &#x0026; Teachers of the  
+cleanseth him from all sin. Now these Ministers &amp; Teachers of the  
 World, whose Ministry stands in the darkness where all sin is 
 committed, and all the fruits of the flesh acted, these cannot 
 clear themselves from none of the things before mentioned, for they stand in that ground which brings forth the 
-<pb n="23"/>
+<pb id="fellfox_testimony_13045" n="23"/>
 fruits of the flesh; and therefore is their Doctrine altogether 
 for sin, and against perfection and cleansing, and preacheth frequently that none can be free from sin while they are upon the earth; for 
 they are guilty in their hearts and consciences, that they sin 
-continually, &#x0026; so with their blind dark minds they can never 
+continually, &amp; so with their blind dark minds they can never 
 see that any can be cleansed or redeemed from sin, which is 
 wholly contrary to the Apostles Doctrine, who saith, that Christ 
 was manifest to take away sin, whosoever abideth in him, sinneth not; 
@@ -932,74 +933,74 @@ whosoever sinneth, hath not seen him, neither known him; he that committeth sin,
 for his Seed remaineth in him, and he cannot sin, because he is born of 
 God; in this is the children of god manifest, and the children of the 
 Devil, 1 Joh. 3. And now Reader, do but in soberness weigh 
-those things according to the truth of the Scriptures, &#x0026; this 
-will take away the prejudice, &#x0026; remove the Objection which 
+those things according to the truth of the Scriptures, &amp; this 
+will take away the prejudice, &amp; remove the Objection which 
 might arise in thy mind concerning the fruits of the flesh applyed to the Teachers and Professors. 
-And all that desire after godliness, &#x0026; the Truth as it is in 
-Jesus, they must turn from them that hath the Form, &#x0026; denies 
+And all that desire after godliness, &amp; the Truth as it is in 
+Jesus, they must turn from them that hath the Form, &amp; denies 
 the Power, who brings forth the fruits before-mentioned; for as 
 many as receives Christ Jesus, (the Light) to them he gives power to 
 become the Sons of God. It is the word of his Power by which all 
 things were created, by which he upholds all things; and 
-it is his power that brings his seed out of bondage, &#x0026; out of 
+it is his power that brings his seed out of bondage, &amp; out of 
 the house of darkness: and the Gospel of our Lord Jesus Christ, 
 which the Apostle was not ashamed of to preach, is the power of 
-god unto salvation, unto every one that believes, to the Jew first, &#x0026; also 
+god unto salvation, unto every one that believes, to the Jew first, &amp; also 
 to the Greek; and this Treasure the Apostle had in an earthen vessel, 
 that the excellency of the Power might be of God: and here was the 
 Apostles Doctrine established, in the mighty power of god, 
 whereof (saith he) I was made a Minister according to the gift of the 
 Grace of God given unto me, by the effectual working of his Power, that 
 so he might know the power of his resurrection, and the fellowship of his 
-sufferings: but this is a Mystery, and unknown to the Teachers &#x0026; 
-Ministers of the letter, who are in forms &#x0026; appearances, without the 
-Power, &#x0026; in the ordinations of men, &#x0026; receives their approbation from men &#x0026; are made Ministers by men, these deny and resist 
-the Power &#x0026; Spirit the Apostles were made Ministers of, &#x0026; even 
-denies immediate Revelation, &#x0026; saith it is ceased, &#x0026; so denies the 
-<pb n="24"/>
+sufferings: but this is a Mystery, and unknown to the Teachers &amp; 
+Ministers of the letter, who are in forms &amp; appearances, without the 
+Power, &amp; in the ordinations of men, &amp; receives their approbation from men &amp; are made Ministers by men, these deny and resist 
+the Power &amp; Spirit the Apostles were made Ministers of, &amp; even 
+denies immediate Revelation, &amp; saith it is ceased, &amp; so denies the 
+<pb id="fellfox_testimony_13046" n="24"/>
 gift of Gods grace which hath appeared unto all men, to teach the 
-denying of ungodliness &#x0026; allworldly lusts, &#x0026; teacheth (all that doth obey it, &#x0026; follow it) to live godly, righteously, &#x0026; soberly in this present 
+denying of ungodliness &amp; allworldly lusts, &amp; teacheth (all that doth obey it, &amp; follow it) to live godly, righteously, &amp; soberly in this present 
 evil world. And so those Teachers endeavours to limit the spirit 
-of the living God to Times &#x0026; Persons, which cannot be limited; 
+of the living God to Times &amp; Persons, which cannot be limited; 
 and saith, we must not look for it now, as in the Apostles time; we 
-must look to the Scripture, &#x0026; not to the spirit for Revelation; 
-&#x0026; so blasphemes the God of Heaven, &#x0026; gainsays his Truth, &#x0026; the 
-revelation of the Son of God, who said, The Father was a Spirit, &#x0026; 
-they that worship him, must worship him in spirit &#x0026; in truth, &#x0026; he was 
-seeking for such worshippers to worship him, &#x0026; who hath said, There 
+must look to the Scripture, &amp; not to the spirit for Revelation; 
+&amp; so blasphemes the God of Heaven, &amp; gainsays his Truth, &amp; the 
+revelation of the Son of God, who said, The Father was a Spirit, &amp; 
+they that worship him, must worship him in spirit &amp; in truth, &amp; he was 
+seeking for such worshippers to worship him, &amp; who hath said, There 
 is none that knows the Son but the father, neither doth any man know 
 the Father save the Son, and he to whom the son reveals him. 
-And so these Teachers that denies Revelation, &#x0026; the Spirits teaching, doth not desire that the Son should be known by the Fathers drawing; for there is none that can come to the Son, except the Father draw him; neither is it possible for them to bring people to 
+And so these Teachers that denies Revelation, &amp; the Spirits teaching, doth not desire that the Son should be known by the Fathers drawing; for there is none that can come to the Son, except the Father draw him; neither is it possible for them to bring people to 
 the knowledg of the Father who denies Revelation, being there is 
-none that knows the Father save the Son, &#x0026; he to whom the Son reveals 
-him; so the infinite mercy &#x0026; wisdom of the Lord God hath hid 
-these things from them, &#x0026; hath revealed them unto the faithful &#x0026; obedient, who walks in his Light, &#x0026; keeps in it, where the 
-revelation is manifested; &#x0026; so Christ Jesus saw great cause of thanking the Father, the Lord of Heaven and Earth, that he had hid those 
-things from the wise &#x0026; prudent, &#x0026; had revealed them unto Babes, children of the Light, which were begotten into the Light, &#x0026; were 
-translated into it, &#x0026; made one with it, &#x0026; abode in the Annointing which they received in the beginning, they had fellowship with the Son &#x0026; with the Father; he that believes on the Son, hath 
+none that knows the Father save the Son, &amp; he to whom the Son reveals 
+him; so the infinite mercy &amp; wisdom of the Lord God hath hid 
+these things from them, &amp; hath revealed them unto the faithful &amp; obedient, who walks in his Light, &amp; keeps in it, where the 
+revelation is manifested; &amp; so Christ Jesus saw great cause of thanking the Father, the Lord of Heaven and Earth, that he had hid those 
+things from the wise &amp; prudent, &amp; had revealed them unto Babes, children of the Light, which were begotten into the Light, &amp; were 
+translated into it, &amp; made one with it, &amp; abode in the Annointing which they received in the beginning, they had fellowship with the Son &amp; with the Father; he that believes on the Son, hath 
 everlasting life; he that believeth not on the Son, shall not see life; for 
-the Father loveth the Son, &#x0026; sheweth him all things that he doth; For 
-as the Father raiseth up the dead, &#x0026; quickneth them, even to 
-the Son quickneth whom h will; &#x0026; who believes in the Light, 
+the Father loveth the Son, &amp; sheweth him all things that he doth; For 
+as the Father raiseth up the dead, &amp; quickneth them, even to 
+the Son quickneth whom h will; &amp; who believes in the Light, 
 and walks in the light of the Son of God, is quickned by him, 
-&#x0026; hath the Father revealed to him, not in Parables, but he doth 
+&amp; hath the Father revealed to him, not in Parables, but he doth 
 shew him plainly of the Father; for he hath committed all judgment to the son, that all men might honor the Son, as they honor 
 the Father; he that honoreth not the Son, honoreth not the Father 
 that hath sent him; he that believeth not in the light of the Son 
-<pb n="25"/>
-of God, he honoreth not the Son; &#x0026; he whose mind is not turned unto the Light of God in him, he knows not the Son, nor him 
+<pb id="fellfox_testimony_13047" n="25"/>
+of God, he honoreth not the Son; &amp; he whose mind is not turned unto the Light of God in him, he knows not the Son, nor him 
 that sent him; Jesus cryed and said, He that believeth on me, believeth no on me, but on him that sent me; he that seeth me, seeth him 
 that sent me. I am come a Light into the World, that whosoever believeth on me, should not abide in darkness: Mark here now, Christ's 
 Words; He that sees him to be the light come into the world, sees 
-him that sent him; &#x0026; he that believes in Christ that is come a light 
+him that sent him; &amp; he that believes in Christ that is come a light 
 into the world, believes on him that sent him;and he that believes 
 on Christ Jesus who is come a Light into the world, abides not in the 
 darkness, but hath the Light of life; this is the great Work of God 
-that every one believe on him that God hath sent; &#x0026; he that 
+that every one believe on him that God hath sent; &amp; he that 
 believeth on him, hath the witness and testimony of him in himself; 
-&#x0026; he that knows not that Christ is in him, is a Reprobate; And 
+&amp; he that knows not that Christ is in him, is a Reprobate; And 
 this is the will of him that sent me (saith Christ) that everyone that 
-seeth the son, may have everlasting life, &#x0026; I will raise him up at the 
+seeth the son, may have everlasting life, &amp; I will raise him up at the 
 last Day: This is the portion and reward which the true believers receive from him who is the resurrection and the life, he that 
 believes on him, though he was dead, yet shall he live, and he that lives 
 and believes, shall never dye; (He that can receive it, let him.) This 
@@ -1009,39 +1010,39 @@ Prophets (saith he) They shall be all taught of God; every man therefore, that h
 So here now every one whose eye is single, may see, that none 
 cam come but whom the Father draws, and they that are taught of 
 God, comes to the Son, which he hath given a light into the world; and 
-this is the WAY, the TRUTH, and the LIFE; &#x0026; no man comes 
+this is the WAY, the TRUTH, and the LIFE; &amp; no man comes 
 to the Father but by him; And in not other way, nor by no other 
 Name under Heaven shall any one be saved, but by him, and he is able 
 to save to the utmost all those that comes unto God by him, and not other 
-Foundation can any man lay, then this which is already laid; but let every one take heed how he builds thereon; &#x0026; he which preacheth another Gospel, let him be accurst; for this is the rock and 
+Foundation can any man lay, then this which is already laid; but let every one take heed how he builds thereon; &amp; he which preacheth another Gospel, let him be accurst; for this is the rock and 
 Foundation on which the whole Church is built, CHRIST JESUS 
-the LIGHT, and precious Stone, which Jews &#x0026; Gentiles that are 
+the LIGHT, and precious Stone, which Jews &amp; Gentiles that are 
 saved, are built on; for he is their Peace who hath made both one, 
 and hath broken down the middle wall of Partition which was between, 
-for through him we have doth an access to the Father, &#x0026; are built up-<pb n="26"/>
+for through him we have doth an access to the Father, &amp; are built up-<pb id="fellfox_testimony_13048" n="26"/>
 on the Foundation of the Apostles and Prophets, JESUS CHRIST 
 himself being the chief Corner-stone, in whom all the Building fitly framed together, groweth unto a holy people in the Lord, who are builded together for an habitation of God, through the spirit; Here is the great 
 Work of the Mystery of God, which he is working in this his 
 day, whose Tabernacle is with men, and the Most High dwells in 
 the Kingdoms of men, he whose delight is with the sons of men, 
 is arisen, and wisdom lifteth up her voice, and cries, 
-Oh ye simple ones, understand wisdom; &#x0026; ye fools, be of an understanding heart; unto you, O men, I call, and my voice is to the Sons 
+Oh ye simple ones, understand wisdom; &amp; ye fools, be of an understanding heart; unto you, O men, I call, and my voice is to the Sons 
 of men. 
-CHRIST JESUS is coming to reign, &#x0026; the Scepter of his righteousness which is a right Scepter, will he sway the Nations with; &#x0026; those 
+CHRIST JESUS is coming to reign, &amp; the Scepter of his righteousness which is a right Scepter, will he sway the Nations with; &amp; those 
 his enemies that will not that he should reign, must even be broke, and 
 bound, and slain before him; therefore it is good for all people to 
-hear his voice, and to turn at his reproof, and to hearken diligently to the Word that is night in the heart, &#x0026; to encline their ears 
+hear his voice, and to turn at his reproof, and to hearken diligently to the Word that is night in the heart, &amp; to encline their ears 
 that their souls might live; there is a Word that saith, this is the 
 way; which way is for the wayfaring man; this TEACHER will 
 never more be removed into a corner; but their eyes must see their Teacher; this WAY which hath long been hid and hedged up, Now 
 hath the Lord opened and made manifest in this his Day, and the 
 Law and the Testimony which was sealed among the Disciplines, is 
 now opened, and the Word that speaks according to the Light is 
-now revealed, &#x0026; the Light is shining in the consciences of men, 
+now revealed, &amp; the Light is shining in the consciences of men, 
 and they are children of the Light, and of the Day, walks 
 in it, and it shines in their hearts, and gives them the light of the knowledge of the glory of God in the face of Jesus Christ, the express Image of 
 the Invisible God, the first-born of every creature; and this cleanseth 
-and purgeth the conscience from dead works, to serve the living God; &#x0026; 
+and purgeth the conscience from dead works, to serve the living God; &amp; 
 in this every one may draw near in full assurance of Faith, 
 having their hearts sprinkled from an evil conscience, and their bodies 
 washed with pure water; but it was impossible that the blood of Buls 
@@ -1050,7 +1051,7 @@ one sacrifice for sin, sate down at the right hand of God, expecting till
 his enemies be made his footstool; Which the high Priests that went 
 before him, were daily offring the same Sacrifice which could 
 never take away sin, nor make perfect as appertaining to the conscience; yet by one offering, Christ Jesus the everlasting High Priest, hath 
-<pb n="27"/>
+<pb id="fellfox_testimony_13049" n="27"/>
 perfected for ever them that are sanctified; this is he that doth the 
 will, who said, In the volume of thy book it is written of me, Lo I come 
 to do thy will, O God; by which Wil we are sanctified, whereof the 
@@ -1058,15 +1059,15 @@ Holy Ghost is a witness to us; for after that he said before,
 This is the covenant that I wil make with them, After these days (saith 
 the Lord) I will put my Law in their hearts; and in their minds, I will 
 write them; Here the Apostle witnesseth the holy Ghost to be the 
-Witness &#x0026; Testimony of Gods truth in the promise of the new Covenant of the Law written in the heart, &#x0026; of the spirit putting in 
+Witness &amp; Testimony of Gods truth in the promise of the new Covenant of the Law written in the heart, &amp; of the spirit putting in 
 the inward parts; Now these that denies the spirit of God which 
 gives testimony and witness of his everlasting Covenant, are 
-strangers to this life, &#x0026; Aliens to the Common wealth of Israel; for 
+strangers to this life, &amp; Aliens to the Common wealth of Israel; for 
 the Covenant of Promise is to the elect Seed of Abraham; not of 
 the Bond-woman, but of the Free; not of the SEEDS, which are 
 many, but of ONE, which is CHRIST, that is Elect according to the 
 fore-knowledge of God the Father, through sanctification of the spirit, 
-unto obedience, &#x0026; sprinkling of the blood of Christ, who doth purifie their 
+unto obedience, &amp; sprinkling of the blood of Christ, who doth purifie their 
 souls in obeying the Truth, through the spirit; For this cause is the 
 Gospel preached, that they may be judg'd according to men in 
 the flesh, but live according to God in the spirit; this is the chief 
@@ -1078,29 +1079,29 @@ wall of Partition taken away, and of twain, made one new man; this
 is the Ministration of the everlasting Gospel; for Christ also hath  
 once suffered, being put to death in the flesh, but quickned in 
 the spirit, by which also he went and preached unto the spirits 
-in prison; &#x0026; he that is annointed to preach glad tydings to the poor, 
-and liberty to the Captives, is now preaching to the spirits in prison, &#x0026; 
+in prison; &amp; he that is annointed to preach glad tydings to the poor, 
+and liberty to the Captives, is now preaching to the spirits in prison, &amp; 
 binding up the broken hearted, and raising up them that are fallen' 
-and he is enlightening the blind eyes and unstopping the deaf ears, &#x0026; 
+and he is enlightening the blind eyes and unstopping the deaf ears, &amp; 
 opening the Prison-doors, and bringing the Prisoners forth of the Prison houses, so that the Prisoners of hope doth rejoice, that have been in 
 the pit which is without water; For Christ calls, Come unto me every 
-one that is weary and heavy laden, &#x0026; they shall find rest for their souls, 
-who will make his yoake upon them, which is easie, &#x0026; his burthen, 
-which is light, to the obedient, and to the faithful, which are subjected unto him, &#x0026; &#x0026; waits for Him, they that love him, and keep his 
-<pb n="28"/>
-Commandments, who saith, He that hath my Commandments, &#x0026; keepeth them, he it is that loveth me; &#x0026; he that loveth me, shall be loved of 
-my Father, &#x0026; I will love him, &#x0026; will manifest my self unto him: Here 
-is an Infinite reward, which wil even satisfie the Eternal &#x0026; Immortal soul, which nothing can satisfie but the living God, who 
-saith, If any love me, &#x0026; keep my words, my Father will love him and 
-we shall come unto him, &#x0026; make our abode with him; Here the COMFORTER, which is the Holy Ghost, which proceeds from the Father &#x0026; the Son, is manifested, which doth teach all things, &#x0026; brings 
-all thinge to remembrance; &#x0026; this is the Inheritance which the Saints 
+one that is weary and heavy laden, &amp; they shall find rest for their souls, 
+who will make his yoake upon them, which is easie, &amp; his burthen, 
+which is light, to the obedient, and to the faithful, which are subjected unto him, &amp; &amp; waits for Him, they that love him, and keep his 
+<pb id="fellfox_testimony_13050" n="28"/>
+Commandments, who saith, He that hath my Commandments, &amp; keepeth them, he it is that loveth me; &amp; he that loveth me, shall be loved of 
+my Father, &amp; I will love him, &amp; will manifest my self unto him: Here 
+is an Infinite reward, which wil even satisfie the Eternal &amp; Immortal soul, which nothing can satisfie but the living God, who 
+saith, If any love me, &amp; keep my words, my Father will love him and 
+we shall come unto him, &amp; make our abode with him; Here the COMFORTER, which is the Holy Ghost, which proceeds from the Father &amp; the Son, is manifested, which doth teach all things, &amp; brings 
+all thinge to remembrance; &amp; this is the Inheritance which the Saints 
 in Light are made partakers of, even the spirit of Truth which the 
 world cannot receive, which leads into all truth all them which do 
-obey and follow the leading, &#x0026; guiding, &#x0026; teaching of it: The Apostle 
+obey and follow the leading, &amp; guiding, &amp; teaching of it: The Apostle 
 desired that Timothy might know how he ought to behave himself 
 in the house of God, which is the Church of the living God, the pillar 
 and ground of Truth; And without controversie (saith he) great is the 
-Mystery of godliness, GOD MANIFEST IN THE FLESH, justified in the spirit, seen of Angels, &#x0026;c. This mystery I have endeavoured in part to open, according to the Scriptures: and if any 
+Mystery of godliness, GOD MANIFEST IN THE FLESH, justified in the spirit, seen of Angels, &amp;c. This mystery I have endeavoured in part to open, according to the Scriptures: and if any 
 come to the Key of DAVID which opens this mystery, they 
 will see the Truth of it, and seal to it in that measure of the 
 Spirit which god hath given to every one to profit withall; 
@@ -1114,14 +1115,14 @@ Now let the Reader by what is here written, seriously search,
 examine, and try by the Scriptures, and the measure of the 
 Spirit of god in him, who are the true Prophets, and the false; 
 and who are the true Teachers, and who are the false, and what 
-is the true Worship of God, and the false; And let him venture his soul, as he dare answer before a just &#x0026; Righteous God. 
+is the true Worship of God, and the false; And let him venture his soul, as he dare answer before a just &amp; Righteous God. 
 </p>
-               <p>From a true Lover of the sols of all people, and who desires the 
+        <p id="fellfox_testimony_13052">From a true Lover of the sols of all people, and who desires the 
 good of all, and that all might come to the knowledge 
 of the Truth. M. F. 
 </p>
-               <p>THE END</p>
-            </div>
-      </body>
-   </text>
+        <p id="fellfox_testimony_13053">THE END</p>
+      </div>
+    </body>
+  </text>
 </TEI.2>
