@@ -1,23 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title><seg type="short-title">An Expostulatory Appeal</seg> to the Professors of Christianity, Joyned in Community with Samuel Ansley, an electronic edition</title>
-            <author><name type="person" reg="Bathurst, Elizabeth, d. 1691">Elizabeth Bathurst</name></author>
-            <respStmt>
-               <resp>Compiled and edited by</resp>
-               <name>Beck Center</name>
-            </respStmt>
-         </titleStmt>
-         <extent>15kb</extent>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
-               <addrLine>Atlanta, Georgia</addrLine>
-            </address>
-            <availability>
-               <p>1996 Emory
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
+<TEI.2 id="bathurst_13031">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><seg type="short-title">An Expostulatory Appeal</seg> to the Professors of Christianity, Joyned in Community with Samuel Ansley, an electronic edition</title>
+        <author>
+          <name reg="Bathurst, Elizabeth, d. 1691" type="person">Elizabeth Bathurst</name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        </respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt>
+        <publisher>Lewis H. Beck Center</publisher>
+        <pubPlace>Emory University</pubPlace>
+        <address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address>
+        <availability>
+          <p id="bathurst_1301">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -25,94 +29,94 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Women Writers Resource Project or
 Lewis H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1996</date>
-         </publicationStmt>
-         <seriesStmt>
-            <title>Emory Women Writers Resource Project</title>
-         </seriesStmt>
-         <sourceDesc>
-            <bibl>An Expostulatory Appeal to the Professors of Christianity,
+        </availability>
+        <date>1996</date>
+      <idno type="ark">http://pid.emory.edu/ark:/25593/179sm</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>An Expostulatory Appeal to the Professors of Christianity,
 Joyned in Community with Samuel Ansley.  London, <date>[1680]</date>. </bibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
-         </projectDesc>
-	<classDecl>
-	  <taxonomy id="lcsh">
-	    <bibl>
-	      <title>Library of Congress Subject Headings</title>
-	    </bibl>
-	  </taxonomy>
-	</classDecl>
-      </encodingDesc>
-      <profileDesc>
-         <creation>
-	   <rs type="collection">Early Modern through the 18th Century</rs>
-	   <rs type="language">English</rs>
-            <rs type="ethnicity">Caucasian</rs>
-            <rs type="form">Unedited</rs>
-            <rs type="genre">Prose</rs>
-            <rs type="geography">Great Britain</rs>
-            <date>1600-1699</date>
-         </creation>
-	 <textClass>
-	   <keywords scheme="lcsh">
-	     <list>
-	       <item>Women authors, American--17th Century.</item>
-	       <item>Annesley, Samuel, 1620-1696.</item>
-	       <item>Christianity.</item>
-	       <item>Quaker women.</item>
-	     </list>
-	   </keywords>
-	 </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change>
-            <date>1997</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p id="bathurst_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Prose</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list>
+            <item>Women authors, American--17th Century.</item>
+            <item>Annesley, Samuel, 1620-1696.</item>
+            <item>Christianity.</item>
+            <item>Quaker women.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>1997</date>
+        <respStmt>
+          <name>Scott Ellis</name>
+          <resp>Staff</resp>
+        </respStmt>
+        <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-         </change>
-	 <change>
-	    <date>2006</date>
-	    <respStmt>
-	       <name>Alden Mahler</name>
-	       <resp>Staff</resp>
-	    </respStmt>
-	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
-	 </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div id="bathurst.001" type="Text">
-            <head><seg type="short-title">An Expostulatory appeal</seg> to
+      </change>
+      <change>
+        <date>2006</date>
+        <respStmt>
+          <name>Alden Mahler</name>
+          <resp>Staff</resp>
+        </respStmt>
+        <item>TEI header elements changed to conform to new Beck Center standards.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text id="bathurst_13030">
+    <body id="bathurst_13029">
+      <div id="bathurst_001" type="Text">
+        <head><seg type="short-title">An Expostulatory appeal</seg> to
 the Professors of Christianity, Joyned in Community with 
 Samuel Ansley.</head>
-            <p>It having pleased the Lord (whose I am, and whom I serve) to call
+        <p id="bathurst_1303">It having pleased the Lord (whose I am, and whom I serve) to call
 me by his Grace, even in my tender Years; by which Grace he put me
 upon early seekings after himself, that so I might know him the only
 true God, and Jesus Christ whom he hath sent, whom savingly to know is
 Life Eternal. 
 </p>
-            <p>Many sore and weary steps hath my Anxious Soul troad in finding out
+        <p id="bathurst_1304">Many sore and weary steps hath my Anxious Soul troad in finding out
 the Path that leadeth thereunto, that so I might come to a certain
 knowledge of what God is, and how he ought to be Worshipped: and this
 made me go about from one Watch-man of the Night to another, inquiring
 after my Souls Beloved, to hear if they could tell me were his
 dwelling was, and where he maketh his Flocks to lie down in Rest.</p>
-            <p>But oh the uncertain sound which they gave! Some said Lo here, and
+        <p id="bathurst_1306">But oh the uncertain sound which they gave! Some said Lo here, and
 others said, Lo there is he whom thy Soul desireth: but alas! when I
 went out to seek him there, I could neither see his Shape, nor hear
 his Voice; then used I to retire into my Chamber to suplicate him in
 secret, whose Presence I could not meet with in those Publick
-Assemblies; But yet still I looked for that  <pb n="2"/>
+Assemblies; But yet still I looked for that  <pb id="bathurst_1305" n="2"/>
 that at a distance (viz.) the Appearance of the Son of God, which was to have
 been had nearer at hand: sometimes searching over the Records of
 Scripture, if there I could have found him substantially, whom my Soul
@@ -124,7 +128,7 @@ Whilst I knew him not myself Experimentally working down Sin and
 Iniquity in me, and removing that that did let, and would let till it
 was taken out of the way, that so his own Righteous Scepter might bear
 rule over me.  </p>
-            <p>And thus as I fought him sorrowing, in an acceptable
+        <p id="bathurst_1307">And thus as I fought him sorrowing, in an acceptable
 time was he pleased to appear unto me, (magnified be his Name forever)
 and to cast up a living way for me; though much contrary to the way I
 walked in formerly; yet by his good Spirit he so instructed me, that I
@@ -135,7 +139,7 @@ as well others stood by Nature. But now the Lord having pulled my Soul
 as a Brand out of the Fire, and made me willing in the day of his
 Power I can do no less then  speak to the praise of his Grace, whose
 own Arm hath wrought Salvation in and for me thus far.  </p>
-            <p>And now I
+        <p id="bathurst_1308">And now I
 say, this was the Grace by which I was called, and by which I am in
 measure saved; even that Grace of which the Apostle speaks,  Tit.
 2.11, 12, 13, 14. The Grace of God that bringeth Salvation hath
@@ -145,15 +149,15 @@ this present World: looking for  that blessed Hope and glorious
 appearing of the great God, and our Saviour Jesus Christ, who gave
 himself for us, that he might redeem us (mark) from all Iniquity, and
 purifie unto himself a peculiar People, zealous of good Works.  </p>
-            <p>And
+        <p id="bathurst_13010">And
 now being taught by this Grace, which is the only Principle by which
 every one may learn to know God savingly, which principle God hath
-raised up in me to publish and declare to other,  <pb n="3"/>
+raised up in me to publish and declare to other,  <pb id="bathurst_1309" n="3"/>
 thers,
 where they should look for the appearance of this saving Arm and Grace
 of God, which alone can burst the Bands of Death and set the Soul at
 Liberty.  </p>
-            <p>And besides the disposition which this gracious Principle
+        <p id="bathurst_13012">And besides the disposition which this gracious Principle
 hath wrought in me towards all my Fellow-creatures, that they might
 partake with me, and with the Remnant whom the Lord hath called out of
 the World; I say that all might partake with us of the rich Love of
@@ -183,17 +187,17 @@ Lord unto me, Go, invite them to the Feast of ingathering, that so
 they may be allured to turn  in  unto me, and be gathered by me, in
 this the Day of the Stretchings forth of the Arms of my Mercy, before
 I come to sift the Nations with the Sieve of Vanity, when such as are
-found Chaste shall  <pb n="4"/>
+found Chaste shall  <pb id="bathurst_13011" n="4"/>
 be blown away with the Whirlwind of my
 Wrath, and there shall be none to deliver you, Isa. 30. 18.  </p>
-            <p>This
+        <p id="bathurst_13013">This
 Word (in the fear and love of God, which he hath shed abroad in my
 Heart by Jesus Christ abundantly) did I come at that time to Proclaim
 unto you, with many more such like inviting Expressions, would you
 have had Patience to hear me, I should by divine Assistance have
 declared unto you, as I did to such tender-hearted Ones without your
 doors, whose Ears the Lord inclined to Hearken unto me.  </p>
-            <p>And now I
+        <p id="bathurst_13015">And now I
 find it upon me to write a few words by way of Appeal to you, and to
 expostulate the case a little with you: Whether or no you will all
 justifie that Action of haling of me, (who came in the Name and Power
@@ -212,32 +216,32 @@ him from so suddain a falling on to Prayers amongst you: But however,
 though that time was not so long as ordinary, but Prayers begun before
 I could so much as name my Message to you, upon request made me to be
 silent during Prayer time, and a promise of being heard afterwards, I
-tarried till your Worship was ended, &#x0026; then began my Mouth to open
+tarried till your Worship was ended, &amp; then began my Mouth to open
 unto you; but no sooner had I charged you with being out of the right
 way, but you made good that charge immediately, by shewing that
 persecuting Spirit, which infallibly marks out and deciphers the false
 Church; who hath ever violently handled and hardly used the Members of
-the true: and so it became my lot  <pb n="5"/>
+the true: and so it became my lot  <pb id="bathurst_13014" n="5"/>
 lot at that time to
 bear a measure of Sufferings form you; but the Lord upheld me by the
 right Hand of his Power, so that I feared not the wrath of the
 Adversary, though one more especially shewed himself mightily inraged
 against me.  </p>
-            <p>Oh! where was your patient Mind, that you could not
+        <p id="bathurst_13016">Oh! where was your patient Mind, that you could not
 hear what I had to say unto you, and have tried what Spirit I had been
 of, that so, if in Error, by sound Argument you might have convinced
 me.  </p>
-            <p>Oh! where was your Christian Moderation that ought to be
+        <p id="bathurst_13017">Oh! where was your Christian Moderation that ought to be
 shewed towards all, whereby you should have manifested the Lord to be
 at hand.  </p>
-            <p>Oh! where was your Lamb-like Meekness, by which you would
+        <p id="bathurst_13018">Oh! where was your Lamb-like Meekness, by which you would
 have instructed such as should have opposed you, had you been in the
 Truth? But whilst you profess the Name of Christ (who is Truth it
 self) your are found in the Spirit of Antichrist, otherwise you would
 not have so roughly treated the Guiltless; nay, if we had been guilty,
 we ought to have had a more fair Tryal and Examination before you, ere
 such hasty Execution should have proceeded from you.  </p>
-            <p>This
+        <p id="bathurst_13019">This
 therefore briefly is written in the Spirit of Love, and sent to you,
 that all sober inquirers may have a true Accompt of the Occasion of
 our coming amongst you that day; And let none be offended that I take
@@ -250,17 +254,17 @@ from him; in answer to which (he himself knows) I received not so much
 as one word to give me any Satisfaction, but had a hasty Put-by from
 him, which may very well excuse me in not making a second Application
 unto him.  </p>
-            <p>However, my Soul desires the real Welfare of all men,
+        <p id="bathurst_13021">However, my Soul desires the real Welfare of all men,
 and have written this neither in Envy nor Ostentation, but in answer
 to the Requirings of the Lord, before whom my Heart is broken at this
-time; and now in much godly Compassion have I  <pb n="6"/>
+time; and now in much godly Compassion have I  <pb id="bathurst_13020" n="6"/>
 I a Remembrance of such as have sincere Desires amongst you, and I doubt
 not but that the Lord in tender Mercy, and for his own Seed's sake,
 that cryeth to him for Deliverance in and amongst you, will in due
 time reach forth his powerful saving Arm unto such of you, whereby you
 shall be gathered into a place of Safety, before his Overflowing
 Scourge be made to pass over you.  </p>
-            <p>Let this therefore be a
+        <p id="bathurst_13022">Let this therefore be a
 Provocation unto you speedily to turn into the secret of your own
 Souls, to the Appearance of his Son Christ Jesus, who there speaks
 from Heaven unto you, reproving you for your Sin and Iniquity, and
@@ -268,12 +272,12 @@ exciting of you to Holiness and Purity; who by his Heavenly Light in
 your Consciences, if you give up to be led and guided by it will bring
 such of you as are now even as Lost Sheep of the House of Israel home
 to the Fold of Rest.  </p>
-            <p>Which is the hearty Desire and earnest
+        <p id="bathurst_13023">Which is the hearty Desire and earnest
 Breathing of her who is known to may of you by the Name of <lb/>
 ELIZABETH BATHURST</p>
-            <p> And now having invited you to turn unto the Lord, both by Word and
+        <p id="bathurst_13024"> And now having invited you to turn unto the Lord, both by Word and
 Writing, I am clear concerning you at this time.  </p>
-            <p>Unto <pb n="7"/>
+        <p id="bathurst_13026">Unto <pb id="bathurst_13025" n="7"/>
 Unto you, People unto whom this Message is sent, a few words doth lie
 with weight upon my Spirit, to put you in remembrance of dayes past,
 and that you may call to mind the Promises you did make to the Lord
@@ -286,10 +290,10 @@ him by Unfeigned Repentance? for whose sake the Lord hath put in my
 Heart to mind you, for the sake of your immortal Souls, that you may
 be awakened to a speedy turning to the Lord, that you may not provoke
 the Lord to with-hold his Spirit from striving with you.  </p>
-            <p> Written
+        <p id="bathurst_13027"> Written
 in Obedience to the Lord, <lb/> by your Friend <lb/> ANNE BATHURST</p>
-            <p>THE END.</p>
-         </div>
-      </body>
-   </text>
+        <p id="bathurst_13028">THE END.</p>
+      </div>
+    </body>
+  </text>
 </TEI.2>

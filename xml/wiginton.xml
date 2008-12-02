@@ -1,99 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title><seg type="short-title">The Confession and Execution of Letitia Wigington</seg>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
+<TEI.2 id="wiginton_13016">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><seg type="short-title">The Confession and Execution of Letitia Wigington</seg>
 	   of Ratclif, who suffered at Tyburn, on Fryday the 9 h of
 	   this instant September, 1681, written by her own hand in
 	   the Goal of Newgate two days before her death, being
 	   Condemned for whiping her Apprentice Girl to Death, an
 	   electronic edition</title>
-            <author><name type="person" reg="Wigington, Leticia, d. 1681">Leticia Wigington</name></author>
-            <respStmt>
-               <resp>Compiled and edited by</resp>
-               <name>Beck Center</name>
-            </respStmt>
-         </titleStmt>
-         <extent>25kb</extent>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
-               <addrLine>Atlanta, Georgia</addrLine>
-            </address>
-            <availability>
-               <p>1996 Emory University. Permission is granted to
+        <author>
+          <name reg="Wigington, Leticia, d. 1681" type="person">Leticia Wigington</name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        </respStmt>
+      </titleStmt>
+      <extent>25kb</extent>
+      <publicationStmt>
+        <publisher>Lewis H. Beck Center</publisher>
+        <pubPlace>Emory University</pubPlace>
+        <address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address>
+        <availability>
+          <p id="wiginton_1301">1996 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the contributions to
 the work claimed by Emory University for non-profit educational purposes, provided 
 this header is included in its entirety.  For inquiries about commercial uses, contact
 either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1996</date>
-         </publicationStmt>
-         <seriesStmt>
-            <title>Emory Women Writers Resource Project</title>
-         </seriesStmt>
-         <sourceDesc>
-            <bibl>Wiginton, Leticia.  The Confession and Execution of Letitia Wigington of Ratclif, who suffered at Tyburn, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days before her death, being Condemned for whiping her Apprentice Girl to Death. London: <publisher>Printed for Langley Curtis</publisher>, on Ludgate hill, <date>1681</date>. 4 pages. EEB 950:32</bibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
-         </projectDesc>
-	<classDecl>
-	  <taxonomy id="lcsh">
-	    <bibl>
-	      <title>Library of Congress Subject Headings</title>
-	    </bibl>
-	  </taxonomy>
-	</classDecl>
-      </encodingDesc>
-      <profileDesc>
-         <creation>
-	   <rs type="collection">Early Modern through the 18th Century</rs>
-	   <rs type="language">English</rs>
-            <rs type="ethnicity">Caucasian</rs>
-            <rs type="form">Unedited</rs>
-            <rs type="genre">Prose</rs>
-            <rs type="geography">Great Britain</rs>
-            <date>1600-1699</date>
-         </creation>
-	 <textClass>
-	   <keywords scheme="lcsh">
-	     <list>
-	       <item>Trials (Murder)--Great Britain--Early works to 1800.</item>
-	       <item>Women authors, English--17th Century.</item>
-	       <item>Crime.</item>
-	       <item>Murder.</item>
-	     </list>
-	   </keywords>
-	 </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change>
-            <date>1997</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-         </change>
-	 <change>
-	    <date>2006</date>
-	    <respStmt>
-	       <name>Alden Mahler</name>
-	       <resp>Staff</resp>
-	    </respStmt>
-	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
-	 </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div id="wiginton.001" type="Text">
-            <head><seg type="short-title">THE<lb/>
+        </availability>
+        <date>1996</date>
+      <idno type="ark">http://pid.emory.edu/ark:/25593/17fdh</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Wiginton, Leticia.  The Confession and Execution of Letitia Wigington of Ratclif, who suffered at Tyburn, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days before her death, being Condemned for whiping her Apprentice Girl to Death. London: <publisher>Printed for Langley Curtis</publisher>, on Ludgate hill, <date>1681</date>. 4 pages. EEB 950:32</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p id="wiginton_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Prose</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list>
+            <item>Trials (Murder)--Great Britain--Early works to 1800.</item>
+            <item>Women authors, English--17th Century.</item>
+            <item>Crime.</item>
+            <item>Murder.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>1997</date>
+        <respStmt>
+          <name>Scott Ellis</name>
+          <resp>Staff</resp>
+        </respStmt>
+        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
+      </change>
+      <change>
+        <date>2006</date>
+        <respStmt>
+          <name>Alden Mahler</name>
+          <resp>Staff</resp>
+        </respStmt>
+        <item>TEI header elements changed to conform to new Beck Center standards.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text id="wiginton_13015">
+    <body id="wiginton_13014">
+      <div id="wiginton_001" type="Text">
+        <head><seg type="short-title">THE<lb/>
 CONFESSION AND EXECUTION<lb/>
 OF<lb/>
 Letitia Wigington</seg><lb/>
@@ -102,7 +106,7 @@ on Fryday the 9 h of this instant September, 1681, written<lb/>
 by her own hand in the Goal of Newgate two days be-<lb/>
 fore her death, being Condemned for whiping her<lb/>
 Apprentice Girl to Death.</head>
-            <p>We are fully satisfied, that the following Paper was written by this
+        <p id="wiginton_1303">We are fully satisfied, that the following Paper was written by this
 unhappy womans own hand, a while before her Death, and though at her Tryal
 for this horrid fact, the Evidence against her, was full, clear and
 undeniable, yea which is more, though she was then so ingenious to confess
@@ -116,14 +120,14 @@ Treason against his Majesty, etc. who though they were Tried and condemned
 (as well well as her self) upon the clearest Evidence imaginable, yet
 Atheistically even with their last Breath affirmed, That they were as
 innocent as the Child newborn.</p>
-            <p>Micah the 7th Chapt and 8 9 Verses.</p>
-            <p>Rejoyce not against me, O mine Enemy : when I fall, I shall arise, when I
+        <p id="wiginton_1304">Micah the 7th Chapt and 8 9 Verses.</p>
+        <p id="wiginton_1305">Rejoyce not against me, O mine Enemy : when I fall, I shall arise, when I
 sit in darkness, the Lord shall be a Light unto me.</p>
-            <p>I will bear the
+        <p id="wiginton_1306">I will bear the
 Indignation of the Lord, because I have sinned against him, until he plead
 my cause, and excuse judgment for me : he will bring me forth to the Light,
 and I shall behold his Righteousness.</p>
-            <p>This place of Scripture I made choice of, as being somewhat pertinent to
+        <p id="wiginton_1309">This place of Scripture I made choice of, as being somewhat pertinent to
 the business, and troubles and afflictions that are inflicted on me,
 wherefore upon my bended Knees I humbly desire all you that have been my
 loving Neighbours and Friends, and all other good Christians, that have
@@ -141,7 +145,7 @@ small, that have any hand in my Death whoever you are, for you cannot, be
 ignorant of the great evil you have done me, (a poor friendless Creature)
 for you have made it your business to take away my life, who am as innocent
 as concerning the Murder for which I suffer as the Child unborn: but why
-should I reflect upon my Innocence and the abuse put upon <pb n="2"/>
+should I reflect upon my Innocence and the abuse put upon <pb id="wiginton_1307" n="2"/>
 on me who am a person full of sin and corruption, when our blessed Saviour
 who knew no sin, neither was Guilt found in him, and yet he was buffeted
 and spit on and falsly accused and crucified between two Thieves, and yet
@@ -207,14 +211,13 @@ as being the last request of a dying woman, humbly beseech all Masters and
 Mistresses of Families (that shall read this, that you will be careful and
 diligent in performing Family duties, and to pray with ferventness amongst
 them that are under your care and tuition knowing that if through your
-neglect any of them be lost, the Lord will require them at your hands.<pb n="3"/>
-            </p>
-            <p>I do think it my duty (and I doubt not but it will be matter of
+neglect any of them be lost, the Lord will require them at your hands.<pb id="wiginton_1308" n="3"/></p>
+        <p id="wiginton_13010">I do think it my duty (and I doubt not but it will be matter of
 satisfaction to some who are my friends) to declare unto them the whole
 circumstance of the thing for which I am to suffer, and I do here in the
 presence of Almighty God, who knows the secrets of all hearts (and know my
 innocence) declare nothing but the real truth, which is as follows, viz.</p>
-            <p>As for this John Sadler, I never saw him in all my Life, but a Week before
+        <p id="wiginton_13012">As for this John Sadler, I never saw him in all my Life, but a Week before
 he came to Lodge at my House, and that was at one Ann Thornby's Home, and
 she told me, That he was a very Civil Man, and his Wife a very Honest
 Woman, and she asked me. Whether they should Lodge at my House? And I poor
@@ -274,7 +277,7 @@ had hapned to me; and this John Sadler, told him how that I was clear, and
 how that he would perswade me to let him Bury it, but I said no, I would
 have him before a Justice, then came the Woman his Wife, and Ann Thornby's
 Mother, and would fain have him be gone away with them; but I said he
-should not stir till he had went before a Justice, with <pb n="4"/>
+should not stir till he had went before a Justice, with <pb id="wiginton_13011" n="4"/>
 with that he said, he would go up Stairs and fetch his Gloves and he went
 up and Leapt to that the Window, but I seeing the lower Window darkened, I
 look up and sow him leap out at the Window, and I run out and Cryed out,
@@ -302,7 +305,7 @@ were as free from Committing of all other Sins, as I am of that Murder,
 Adultery and Fornication or Swearing, four things which I was never guilty
 of in my Life, though I must confess I have been a great Sinner, but I am
 assured,, that they are washed away in the Blood of that Imaculate Lamb,
-which was shed to take away the Sins of all them that truly &#x0026; sinserely
+which was shed to take away the Sins of all them that truly &amp; sinserely
 repent, but the Lord suffered this great affliction to fall on me to draw
 me nearer to himself, for whom the Lord loveth he Chastiseth, even as a
 Father the Son in whom he delighteth, I desire all good Christians to Judge
@@ -340,8 +343,8 @@ as the Child yet unborn, and I can truly say, that I am in Charity with all
 the World, and do conclude with that excellent prayer of the Littany. That
 it may please the to forgive my enemies persecutors and Slanderers, and to
 turn their Hearts; I beseech thee to hear us good Lord.</p>
-            <p>LONDON, Printed for Langley Curtiss, on Ludgate -hill.</p>
-         </div>
-      </body>
-   </text>
+        <p id="wiginton_13013">LONDON, Printed for Langley Curtiss, on Ludgate -hill.</p>
+      </div>
+    </body>
+  </text>
 </TEI.2>

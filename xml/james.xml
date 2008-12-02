@@ -1,96 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title><seg type="short-title">Mrs. James's vindication of the Church of England</seg>, in an Answer to a
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
+<TEI.2 id="james_13028">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><seg type="short-title">Mrs. James's vindication of the Church of England</seg>, in an Answer to a
 Pamphlet entitled a New Test of the Church of England's Loyalty, an electronic edition</title>
-            <author><name type="person" reg="James, Elinor, ca. 1645-1719">Elinor James</name></author>
-            <respStmt>
-               <resp>Compiled and edited by</resp>
-               <name>Beck Center</name>
-            </respStmt>
-         </titleStmt>
-         <extent>50kb</extent>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
-               <addrLine>Atlanta, Georgia</addrLine>
-            </address>
-            <availability>
-               <p>1996 Emory University. Permission is granted to
+        <author>
+          <name reg="James, Elinor, ca. 1645-1719" type="person">Elinor James</name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        </respStmt>
+      </titleStmt>
+      <extent>50kb</extent>
+      <publicationStmt>
+        <publisher>Lewis H. Beck Center</publisher>
+        <pubPlace>Emory University</pubPlace>
+        <address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address>
+        <availability>
+          <p id="james_1301">1996 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the contributions to
 the work claimed by Emory University for non-profit educational purposes, provided 
 this header is included in its entirety.  For inquiries about commercial uses, contact
 either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1996</date>
-         </publicationStmt>
-         <seriesStmt>
-            <title>Emory Women Writers Resource Project</title>
-         </seriesStmt>
-         <sourceDesc>
-            <bibl>"Mrs. James's vindication of the Church of England, in an Answer to a
+        </availability>
+        <date>1996</date>
+      <idno type="ark">http://pid.emory.edu/ark:/25593/17cgk</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>"Mrs. James's vindication of the Church of England, in an Answer to a
 Pamphlet entitled a New Test of the Church of England's Loyalty."
 London: <publisher>Printed for me, Elinor James</publisher>, <date>1687</date>. 12 pages.  EEB 1150:34</bibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
-         </projectDesc>
-	<classDecl>
-	  <taxonomy id="lcsh">
-	    <bibl>
-	      <title>Library of Congress Subject Headings</title>
-	    </bibl>
-	  </taxonomy>
-	</classDecl>
-      </encodingDesc>
-      <profileDesc>
-         <creation>
-	   <rs type="collection">Early Modern through the 18th Century</rs>
-	   <rs type="language">English</rs>
-            <rs type="ethnicity">Caucasian</rs>
-            <rs type="form">Unedited</rs>
-            <rs type="genre">Prose</rs>
-            <rs type="geography">Great Britain</rs>
-            <date>1600-1699</date>
-         </creation>
-	 <textClass>
-	   <keywords scheme="lcsh">
-	     <list>
-	       <item>Religiosity.</item>
-	       <item>Christianity.</item>
-	       <item>Church of England.</item>
-	     </list>
-	   </keywords>
-	 </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change>
-            <date>1997</date>
-            <respStmt>
-               <name>Scott Ellis</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-         </change>
-	 <change>
-	    <date>2006</date>
-	    <respStmt>
-	       <name>Alden Mahler</name>
-	       <resp>Staff</resp>
-	    </respStmt>
-	    <item>TEI header elements changed to conform to new Beck Center standards.</item>
-	 </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div id="james.001" type="Text">
-            <head><seg type="short-title">Mrs. James's<lb/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p id="james_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Prose</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list>
+            <item>Religiosity.</item>
+            <item>Christianity.</item>
+            <item>Church of England.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>1997</date>
+        <respStmt>
+          <name>Scott Ellis</name>
+          <resp>Staff</resp>
+        </respStmt>
+        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
+      </change>
+      <change>
+        <date>2006</date>
+        <respStmt>
+          <name>Alden Mahler</name>
+          <resp>Staff</resp>
+        </respStmt>
+        <item>TEI header elements changed to conform to new Beck Center standards.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text id="james_13027">
+    <body id="james_13026">
+      <div id="james_001" type="Text">
+        <head><seg type="short-title">Mrs. James's<lb/>
 VINDICATION<lb/>
 OF THE<lb/>
 Church of England</seg>,<lb/>
@@ -102,17 +106,16 @@ ENTITLED<lb/>
 A New Test<lb/>
 OF THE<lb/>
 Church of England's<lb/>
-LOYALTY.<lb/>
-            </head>
-            <p>It is not Interest that moves me to this, for I never made Gain of anything
+LOYALTY.<lb/></head>
+        <p id="james_1303">It is not Interest that moves me to this, for I never made Gain of anything
 that ever I did, nor none I do desire; for it was nothing but the Fear of
 Gods Judgments that hath been the sole Cause of all my Actions for above
 these Twenty years.
 </p>
-            <p>LONDON, Printed for me Elinor James. 1687. </p>
-            <pb n="2"/>
-            <p>An advice to the CHURCH OF ENGLAND.</p>
-            <p>As for Conscience, I do not count it a sufficient Guide, because it is not
+        <p id="james_1304">LONDON, Printed for me Elinor James. 1687. </p>
+        <pb id="james_1305" n="2"/>
+        <p id="james_1306">An advice to the CHURCH OF ENGLAND.</p>
+        <p id="james_1307">As for Conscience, I do not count it a sufficient Guide, because it is not
 so Infallible, but it is subject to Err, and therefore it ought to be
 Guided by the Word of God; for I find those that will not be Guided by
 that, doth not yield Civil Obedience to Temporal Magistrates, and how can
@@ -141,21 +144,19 @@ ought we. I am very ambitious that you should exceed others, I have always
 Loved the Church of England, and therefore I would have them to be
 Dignified above all; and that the Love of God should be the Mover of all
 their Actions.</p>
-            <p>As for Mr. Dryden, though some blame him for using my Name, I do not;
+        <p id="james_1308">As for Mr. Dryden, though some blame him for using my Name, I do not;
 because he hath used it civilly. Indeed I do not know him, nor never read
 his Book, but I am told that he doth Abuse the CHURCH of ENGLAND, for which
 I blame him: For I count it not Wisdom for a Wit, to Reflect on that he so
 lately own'd.</p>
-            <p>I hear there are Queries Cried, but I have not seen them, but understand
+        <p id="james_13010">I hear there are Queries Cried, but I have not seen them, but understand
 they are of the same Nature. O that I were but a Man, I would study Night
 and Day, and I do not doubt but I should be more than a Conquerer, and so I
-hope to be nevertheless.<pb n="3"/>
-            </p>
-            <p>Mrs. JAMES's VINDICATION<lb/>
+hope to be nevertheless.<pb id="james_1309" n="3"/></p>
+        <p id="james_13011">Mrs. JAMES's VINDICATION<lb/>
 OF THE<lb/>
-CHURCH of ENGLAND, &#x0026;<lb/>
-            </p>
-            <p>SIR,<lb/>
+CHURCH of ENGLAND, &amp;<lb/></p>
+        <p id="james_13013">SIR,<lb/>
 I am very sorry to think that you should be always such a Subtle Adversary,
 but you say, You never had an Opportunity to show your Spite and Malice
 until now. You say you could never find a Convincing Reason, and what was
@@ -196,7 +197,7 @@ Divisions amongst his People, and (by such Doings) you made his Throne
 Uneasie. Indeed then you might be for the Dukes Interest, because it was
 your own, but I am sure it was His loss, for before He looked toward you
 all the People Lov'd and Admir'd Him: And who was the cause of the Change,
-was it not <seg type="catch">you</seg> <pb n="4"/>
+was it not <seg type="catch">you</seg> <pb id="james_13012" n="4"/>
 you, that went up and down Incensing the People of the great Proselites you
 had made (for I suppose you are a Priest, and they were of the same Nature)
 for they came to me, and I know what they said; therefore I find such as
@@ -231,7 +232,7 @@ Conscience toward all, and if you would have me to be your Friend, you must
 take New Measures, and Learn of Christ, for he did Good to all, and hurt to
 none; and if you would not have me to speak against you, you must not give
 me the Occasion.</p>
-            <p>I am sure my Soveraign will not allow you to Villifie and Abuse us; for He
+        <p id="james_13017">I am sure my Soveraign will not allow you to Villifie and Abuse us; for He
 is a Prince of Justice as well as Mercy, and hath promis'd, That He will
 Defend us, and not only so, but will venture as far as any in our
 Vindication, and the King was satisfied with our Loyalty, and declared it
@@ -244,7 +245,7 @@ to be made, I my self can Weigh you all down for Loyalty; and if I can do
 so much for that am but one, what shall we all do? Therefore I know the
 King will not be Angry with me if I Vindicate the Church of England, for in
 Vindicating of Her I Vindicate His Majesty, which I have always done; for
-when the Peers <seg type="catch">Speech</seg> <pb n="5"/>
+when the Peers <seg type="catch">Speech</seg> <pb id="james_13014" n="5"/>
 Speech Abused my Soveraign, I answered him(?) for I hate Rebellion, and the
 Church doth not hinder any one from that Singular Gift of Loyalty, for Her
 Desire is, That all should Fear God and Honour the King, and She is the
@@ -291,7 +292,7 @@ Pride, that caused the Difference, when you Compelled the Queen to
 bare-foot, and in the mean time such as you Rid in Her Coach; to the great
 Hazard of Her Life: For (as I was told) She Miscarried; who did you learn
 it of, I am sure not of Christ, nor of His Disciples: And for your Loyalty
-to <seg type="catch">King</seg> <pb n="6"/>
+to <seg type="catch">King</seg> <pb id="james_13015" n="6"/>
 King Charles I. was it not for your own Protection? For the wrath of God
 was so upon you for you Sins and Iniquities, that you might very well have
 the Fear of Cain upon you: and as for the Liturgy and Discipline, what made
@@ -337,14 +338,14 @@ Good Christian but may say Amen to them, and I could Wish our Hearts were
 as Holy as the Prayers are good, then I am sure there is no Body would be
 weary of them: But hath not such as you put the people out of Love with
 them, in saying, They came out of your Mass Book, and this you did to Wound
-the Church of England, for Her Good Will towards you; but <seg type="catch">you</seg> <pb n="7"/>
+the Church of England, for Her Good Will towards you; but <seg type="catch">you</seg> <pb id="james_13016" n="7"/>
 you may see how the people love you, for they will not accept of any thing
 from you, tho never so good; and if they will not accept of that they may,
 I hope they will not accept of that which they may not: for if they do,
 they will not deserve the name of Men, and how much less then, will they be
 worthy of the name of Christians, for if they do not own Christ now, they
 shall not be own'd hereafter.</p>
-            <p>Sir, I wonder how you dare Condemn the Church of England (I mean that part
+        <p id="james_13019">Sir, I wonder how you dare Condemn the Church of England (I mean that part
 of it, which is for the King, Common Prayer and Bishops) for her Faith
 Teaches Her Piety to Her God, and Loyalty to Her Prince, therefore She May
 appropriate to Her Self alone, The Principles of True Loyalty above all,
@@ -384,7 +385,7 @@ along, and Transforming your selves into all Shapes to bring it to pass?
 And who begins all Quarrels but you? And do you say, That the Church is a
 V(?)iper? No, no it is such as you are; for you envy our Happiness, and
 would H(?)ary us into a Confession, because you think the King Loves us too
-well, <seg type="catch">and</seg> <pb n="8"/>
+well, <seg type="catch">and</seg> <pb id="james_13018" n="8"/>
 and stands in the gap to hinder Your Intentions, and is like an Angel to
 keep Peace amongst us, that every Man should Enjoy His Right and Property:
 But this is contrary to your Temper, for you long to Enjoy what other Men
@@ -398,7 +399,7 @@ the Laws should not be put against them, not that I lov'd them so well, but
 I knew their Nature, and don't delight that any should be Afflicted; no not
 the Roman Catholicks: but you intend well to Reward us; and for my late
 Soveraign you have Abused Him sufficiently, but you got Money by it.</p>
-            <p>Sir, I am sorry for your ignorance, that you should think the Church was in
+        <p id="james_13024">Sir, I am sorry for your ignorance, that you should think the Church was in
 her infancy in Edward VI. Time. It is a clear Mistake, for She hath been
 ever since Man hath had a Being; and do not Despise King Edward, for he was
 a brave Prince, and I doubt not but that he is a Saint in Heaven; and
@@ -430,7 +431,7 @@ Rebellion; therefore let it be upon his own head, and to those that Advised
 him to such a wicked Thing: And for to Villifie Queen Elizabeth, is a thing
 I Abhor, for I hate any should speak Evil of any Bode that is Dead, but how
 much more of Queen Elizabeth: And do not all know that King Henry VIII. was
-lawfully Married to <seg type="catch">Her</seg> <pb n="9"/>
+lawfully Married to <seg type="catch">Her</seg> <pb id="james_13020" n="9"/>
 Her Mother, and if the Pope delayed the Divorce, it was no Fault of the
 King nor Kingdom; and did not John the Baptist lose his Head, because he
 told Herod it was not lawful for him to take his Brothers Wife? Therefore
@@ -476,7 +477,7 @@ false Accusations against us, for what do we do that you find so much Fault
 with us? for I am sure all Condemns us for doing so much, and as for the
 Dissenting Parliament, I was as much against them as any, but I wondered
 that they did do no more, when the late King said, He would Establish the
-Protestant Religion to the End of the World; but they were so Factious <seg type="catch">they</seg> <pb n="10"/>
+Protestant Religion to the End of the World; but they were so Factious <seg type="catch">they</seg> <pb id="james_13021" n="10"/>
 they could not agree; for there was a Duke stood in their Way; but did not
 we stand for Him, and overthrow all their Doings? And did not we value the
 Kings Life (that now is) above our own: We could not adhear to their fair
@@ -522,7 +523,7 @@ It was never known that the King did break his Word, but it is not
 God-a-mercy to you; and now You think you should be Happy if the Test and
 Wenal (?) Lamp (?) were Taken Away, but I hope the King will not satisfie
 your Desires; for though His Majesty doth not make use of them, They may
-stand as rods doth upon Mantle-Trees, <seg type="catch">to</seg> <pb n="11"/>
+stand as rods doth upon Mantle-Trees, <seg type="catch">to</seg> <pb id="james_13022" n="11"/>
 to keep Rebellious Children in Subjection. What have you done for the King
 that He should so much admire you? I am sure he hath been a great Sufferer
 for you, and why should you Condemn the Power of our Church for Chastizing
@@ -569,7 +570,7 @@ understand the Subtilty of the Spiritual and Temporal adversary, for God
 would not allow a Similitude of His own Presence, for God says, What will
 you liken me to? And when Moses Died, did not God hide him, and was it not
 because the People was naturally Inclin'd to Idolatry? And doth He not fill
-the <seg type="catch">Heavens</seg> <pb n="12"/>
+the <seg type="catch">Heavens</seg> <pb id="james_13023" n="12"/>
 Heavens and the Earth, and is He not in all Things else, and where was He
 before the Heavens were made? is He not Almighty, and His being is in
 Himself, and who can conceive Him? For when He moves the Angels flee, and
@@ -618,8 +619,8 @@ Resurections in this part of the World. And tho others may prompt you, to
 be an enemy to the Church of England, yet their Fall would be your Ruin.
 But God be thanked we have no need to Fear, for the King will not with-draw
 his Favour from us, neither shall Men or Devils prevent it.</p>
-            <p>And so GOD Save the KING.</p>
-         </div>
-      </body>
-   </text>
+        <p id="james_13025">And so GOD Save the KING.</p>
+      </div>
+    </body>
+  </text>
 </TEI.2>
