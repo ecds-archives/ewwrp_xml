@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
 <TEI.2 id="lkr_veterans_13040">
   <teiHeader>
     <fileDesc>
@@ -62,7 +61,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
         <rs type="language">American</rs>
         <rs type="ethnicity">Caucasian</rs>
         <rs type="form">Unedited</rs>
-        <rs type="genre">essay</rs>
+        <rs type="genre">Essay</rs>
         <rs type="geography">United States</rs>
         <date>1900-1999</date>
       </creation>

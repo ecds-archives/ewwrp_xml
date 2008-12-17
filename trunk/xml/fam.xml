@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
 <TEI.2 id="fam_130298">
   <teiHeader>
     <fileDesc>
@@ -94,6 +93,7 @@
       <div id="fam_000" type="critical introduction">
         <div id="fam_001" type="Introduction">
           <head> Introduction to <title>A Family Discussion</title></head>
+	  <docAuthor>Enright, Amy</docAuthor>
           <div id="fam_002" type="Section">
             <head>The Process of Edition and Translation  </head>
             <p id="fam_1303"> The hermeneutical disadvantage inherent in the edition and particularly in the translation of historical texts is the inevitable camouflaging of the differences between the culture of the author and that of the reader. The opening pages of this edition seek to redress that disadvantage by means of visual metaphor. On the cover page, the image of the original title page, creased and blurred, exhibits the age of this document. Moreover, the image fades into the blackness of the border, just as its context and contents are fading into the darkness of lost history. This is the true state of this document: aged, discarded, fading. The following page demonstrates the artificial transformation achieved by the processes of translation and edition. Suddenly, the text is in English, the fonts regular, and the borders straight. Here, the encroaching blackness of history is absent; the text is, to all appearances, accessible to the modern reader. Nevertheless, the cultural leap between early modern Paris and twentieth century America remains immense.</p>
