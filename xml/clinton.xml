@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
 <TEI.2 id="clinton_130168">
   <teiHeader>
     <fileDesc>
@@ -80,8 +79,9 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
   <text id="clinton_130167">
     <body id="clinton_130166">
       <div id="clinton_000" type="critical introduction">
-        <div id="clinton_001" type="Essay">
+        <div id="clinton_001" type="Introduction">
           <head><title>The Countess of Lincolnes Nurserie</title>: A Critical Edition</head>
+	  <docAuthor>McPherson, Kate</docAuthor>
           <div id="clinton_002" type="Contents">
             <head><seg type="short-title">Contents</seg> for <title>The Countess of Lincolnes Nurserie</title>: A Critical Edition</head>
             <p id="clinton_1304"><hi rend="bold">Introduction</hi>:</p>
