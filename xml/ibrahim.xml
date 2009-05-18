@@ -102,18 +102,18 @@ Digital page images are linked to the text file.</p>
 <front id="ibrahim.301">
 <pb entity="[i]"/>
    <div id="ibrahim.303" type="frontispiece">
-    <sigure id="ibrahim.304">
-      <sigDesc>coat of arms labled 'Wm Constable Esq. F. R. S. &#x0026; F. A. S.'</sigDesc>
-    </sigure>
+    <figure id="ibrahim.304">
+      <figDesc>coat of arms labled 'Wm Constable Esq. F. R. S. &#x0026; F. A. S.'</figDesc>
+    </figure>
    </div>
 <pb entity="[ii]"/>
 <pb entity="[iii]"/>
 <pb entity="[iv]"/>
 <pb entity="[v]"/>
    <div id="ibrahim.3010" type="frontispiece">
-    <sigure id="ibrahim.3011">
-      <sigDesc>Engraving labeled 'Ibrahim or The Illustrious Bassa.'</sigDesc>
-    </sigure>
+    <figure id="ibrahim.3011">
+      <figDesc>Engraving labeled 'Ibrahim or The Illustrious Bassa.'</figDesc>
+    </figure>
    </div>
 
 <pb entity="[vi]"/>
@@ -3837,7 +3837,7 @@ vvould satishe her better than he could. She cast her eyes then upon the Letter,
 vvhich assured her that it vvas <hi rend="italic"><sic>Iustinianoes</sic></hi> hand, so that in an instant she abandoned her self over vvholy to joy, and vvith an extreme precipitation broke up the
 seal of the Letter for to read that vvhich follovvs here.</p>
 
-<p><q><body><text>
+<p><q><text><body>
 <div id="ibrahim1.4b" type="letter" n="1.4b">
 <head type="sub"><hi rend="italic">The Letter of</hi> <sic>Iustiniano</sic> <hi rend="italic">to the Princess of</hi> MONACO.</head>
 <p rend="italic">AT Last fortune hath made a truce with me, and how constant soever she hath been
@@ -3862,7 +3862,7 @@ enough to keep you from according me the permission to come and render you an ac
 my misadventures, to comfort me with your sight for my past miseries; to let me understand from your own mouth, that absence hath not diminished your affection; that mine is still considerable with you; and that at last you desire I should eternally be your</p>
 <closer><signed>Justiniano.</signed></closer>
 </div>
-</text></body></q></p>
+</body></text></q></p>
 
 <p>Never was their heart more replinished with joy, than that of <hi rend="italic">Isabella</hi>, after she had read this Letter; nor never had an amorous spirit sweeter transports, than this Princess felt in thus understanding all at once the life, the return, and the fidelity of her Lover: But her satisfaction augmented yet more, when as she knew in what manner he had been received at <hi rend="italic">Genoua</hi>, no way doubting now but that her felicity was setled for the rest of her life. After she had spent two hours at least in hearing these persons relate unto her what they had known concerning <hi rend="italic">Justiniano</hi>, she gave order that they should be very well treated, and that the next morning the Counts Gentleman should repair unto her. As soon as she saw her self alone, she called a kinswoman of hers, which lived with her, and not able to contain her joy, she imparted the cause of it to her, but in such passionate terms, as it was easier to perceive, that she lived not so much in her self as in <hi rend="italic">Justiniano</hi>: And that she might no longer deferr her answer unto him, she caused paper and ink to be brought her: but though she had a fertile wit, though she were accustomed to express her self very easily, and not to have any need to correct her first by her second thoughts, yet was it almost impossible for her to satisfie her self in this 
 occasion: She could not conceive that the words of pleasure, of felicity, and joy, could
@@ -3889,7 +3889,7 @@ Count perceiving <hi rend="italic"><sic>Iustinianoes</sic></hi> diforder, caused
 <pb n="80" ed="digital"/>
 <milestone n="80     IBRAHIM, or     Part I." ed="1652"/>
 
-<p><q><body><text>
+<p><q><text><body>
 <div id="ibrahim1.4c" type="letter" n="1.4c">
 
 <head type="sub"><hi rend="italic">The Letter of</hi> Isabella <hi rend="italic">to</hi> <sic>Iustiniano.</sic></head>
@@ -3913,7 +3913,7 @@ dear</hi> Justiniano, <hi rend="italic">to testifie unto me, that my hopes are n
 </hi></p>
 <closer><signed>Isabella</signed>.</closer>
 </div>
-</text></body></q></p>
+</body></text></q></p>
 
 <p>They who know, by experience the effects of love, will easily imagine that
 which the sight of this Letter wrought in the soul of <hi rend="italic">Justiniano</hi>; he had for all that
@@ -4146,7 +4146,7 @@ be punished, resolved at length for the last cast, that of we three but one shou
 dye, and that according to the first order, chance should still be the absolute master
 of our life or of our death. The lot was not more favourable to me in this last
 incounter, than in all the former, and I was the sacrifice destined for the publique
-<unclear>s<gap extent="1 letter"> </gap>fety</unclear>; I was then presently bound more straitly than before; they made me my
+<unclear>s<gap extent="1 letter"/> fety</unclear>; I was then presently bound more straitly than before; they made me my
 self carry the preparations of my puniihment; and without boasting I can avow,
 that I faced death with tranquillity enough: I dare not almost say, that in this
 wofull estate you were the only object of my thought, yet it is true how I imagined, that this obstinacy of fortune, in chusing me still to be sacrifised, was an effect
@@ -4424,7 +4424,7 @@ he also let them charge themselves with booty, knowing well that the inriching o
 an Army is the destroying of it; so that to content them, he caused them to be told,
 that he was ready to keep his promise with them, but judging it not fit, <hi rend="italic">Zellebis</hi> having
 <unclear>escaped</unclear> from his revenge, that they should load themselves with unprofitable
-<unclear>lumb<gap extend="1 letter"> </gap>r</unclear>, since they could neither carry it away, nor sell it, being constrained to follow the enemy; he 
+<unclear>lumb<gap extent="1 letter"/> r</unclear>, since they could neither carry it away, nor sell it, being constrained to follow the enemy; he 
  offered to give each of them three monthes pay, and promised
 them besides not to return to <hi rend="italic">Constantinople</hi> without recompencing their courage.
 The souldiers accepting of this propofition, and that they might not have leisure to
@@ -4914,9 +4914,9 @@ of my life, did I not fear to importune you with so long a Narration. The Prince
 and to tell her, not only all that which had befallen him, but all that which he
 knew concerning the life of <hi rend="italic">Soliman</hi>; it seeming unto her, that this Princess loved him too well not to have his History joyned to his; whereupon <hi rend="italic">Justiniano</hi> began thus.
 </p>
-</div></body></text></q>
+</div></body></text></q></p>
 
-<q><body><text>
+<p><q><text><body>
 <div id="ibrahim1.5b" type="story" n="1.5b">
 <head type="sub"><hi rend="italic">The History of the Princess</hi> Axiamira.</head>
 <p>AS soon as <hi rend="italic">Rustan</hi>, after he had quitted his Vessell in <hi rend="italic">Mingrelia</hi>, and had taken
@@ -5256,9 +5256,9 @@ curiosity, and intreated <hi rend="italic">Justiniano</hi> to continue his disco
 sort.
 </p>
 </div>
-</text></body></q>
+</body></text></q></p>
 
-<q><body><text>
+<p><q><text><body>
 <div id="ibrahim1.5c" type="story" n="1.5c">
 <head type="sub"><hi rend="italic">The Sequele of the History of</hi> <sic>Iustiniano</sic>.</head>
 <p>I Will not stand. Madam, to relate unto you, how I imployed my self after my return from <hi rend="italic">Natolia</hi>, in regard I know that <hi rend="italic">Doria</hi> purposed to let you understand, that <hi rend="italic">Ibrahims</hi> Palace was built by my direction, and how it was in that intervall of peace, and <hi rend="italic">assoon</hi> as I was Grand Viser, that I caused the ornaments thereof to be made, having seen that work finished but a little before <hi rend="italic">Doriaes</hi> arrivall at <hi rend="italic">Constantinople</hi>. It is true, said <hi rend="italic">Doria</hi>, that I have a desire to describe that inchanted Palace to her Excellency, and to acquaint her with all the magnificences, and all the grandeurs which you have quitted for her sake; and to make her comprehend a part of what I say, I am but to present her with that which the Grand Signior hath sent her; saying so, he drew out of his pocket a box of gold which <hi rend="italic">Soliman</hi> had delivered unto him, and having opened it, he let her see one of the goodliest things in the world. <hi rend="italic">Isabella</hi> was so surprised with the richness of this present, as she would not have received it, but at length <hi rend="italic">Doria</hi> having told her laughing, that he was not determined either to keep it, or to carry it back to <hi rend="italic">Constantinople</hi>, she was constrained to accept of it. <hi rend="italic">Doriaes</hi> jesting made <hi rend="italic">Justiniano</hi> fetch a great sigh, beginning
@@ -5462,7 +5462,7 @@ magnificently, as is she had been prepared of a long
 time to receive them.
 </p>
 </div>
-</text></body></q></p>
+</body></text></q></p>
 
 <p rend="italic">Here ends tbe first Part.
 </p>
@@ -6320,7 +6320,7 @@ were of cristall glass from the top to the bottom, that so the prospect might be
 more free. After they were set down there on seates of ebony, covered with carnation and silver tinsell, the Marquis began his History in this sort.
 </p>
 
-<p><q><body><text>
+<p><q><text><body>
 <div id="ibrahim2.2a" type="story" n="2.2a">
 <head rend="italic">The History of the feigned Astrologer.</head>
 
@@ -7419,7 +7419,7 @@ to them therein. <hi rend="italic">Isabella</hi> likewise caused her kinswoman, 
 voyce, to sing; the Marquis plaid on the Lute, and sung also with the beautisul <hi rend="italic">&#x00C6;milia</hi>; so that concluding this day with Musick, they bid the Princess good night,
 and retired to their lodgings.
 </p>
-</div></text></body></q></p>
+</div></body></text></q></p>
 </div>
 
 
@@ -7959,7 +7959,7 @@ great sum of money, which he gave him. And that which made him not doubt but
 that the Gentleman, whom he had sent, would bring him Troopes, was, because
 he knew the Armies of <hi rend="italic">Spain</hi> were very powerfull in <hi rend="italic">Italy</hi>, and that if he could
 once render himself Master of this place, she should not only be justified, but quickly succoured; the Councell of <hi rend="italic">Spain</hi> never wanting pretexts to invade the territories of their Neighbors, when as they find occasion for it. During this expectation,
-the Princess had had her unqu<gap extent="1 letter"> </gap>etness, as well as her Lovers; for that Lieutenant of
+the Princess had had her unqu<gap extent="1 letter"/> etness, as well as her Lovers; for that Lieutenant of
 her Guard, whom she had sent to seek you, seemed too long to her in returning:
 and whereas she had made it a secret, I was she alone to whom she complayned of it;
 Nevertheless one of her women chancing upon a day to overhear somewhat confusedly what she said unto me, believed that you were suddenly to return, and her
@@ -16485,7 +16485,7 @@ who notwithstanding his natural timidity had
 not left following him, to render themseves Masters of Saint <hi rend="italic">Thomas</hi> Gate. He descended
 afterwards through S. <hi rend="italic">Andrews</hi> street to S. <hi rend="italic">Donat</hi>, and passing by the place of the <hi rend="italic">Salvages</hi>
 with his companions, he arrived at the point of <hi rend="italic">Catana. Baptista Verrin</hi> went aboard the
-Gally, and <hi rend="italic">Thomaso Assereto</hi> did what he could to seize upon the gate of <hi rend="italic">Darsene</hi>; at first, in regard he was one o<gap extend="1 letter"/> <hi rend="italic">Jannetin</hi>'s Officers, and had the word, the Guards suffered him to
+Gally, and <hi rend="italic">Thomaso Assereto</hi> did what he could to seize upon the gate of <hi rend="italic">Darsene</hi>; at first, in regard he was one o<gap extent="1 letter"/> <hi rend="italic">Jannetin</hi>'s Officers, and had the word, the Guards suffered him to
 enter; but perceiving so great a number of armed man, wherewith he was followed, they
 rudely repulsed him: Nevertheless seeing it was necessary, that some one should enter to open
 the gate unto the <hi rend="italic">Count</hi>, it was resolved that <hi rend="italic">Scipio</hi>, one of his subjects, and a Cap<gap extent="1 letter"/> ain of
@@ -18079,7 +18079,7 @@ conceived that his opinion was not ill grounded; wherefore, to clear himself the
 made shew of being perswaded by the intreaties of this man who desired to be let forth;
 but whil'st to gain time he made yet some new difficulties, he sent for three horses, to the end
 he might follow him a far off with two of his companions; which were no sooner come, but
-having let him go out, and set them<gap extent="1 letter"> </gap>elves to follow him, they saw that contrary to the custom
+having let him go out, and set them<gap extent="1 letter"/> elves to follow him, they saw that contrary to the custom
 of all such as fear to be followed, he went on still without turning his head to the place from
 whence he parted, so great a desire he had to arrive where the unhappy <hi rend="italic">Aly</hi> waited for him.
 Seeing then that they might follow him without his being aware of it, they approached neerer
