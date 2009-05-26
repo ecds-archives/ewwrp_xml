@@ -4923,7 +4923,7 @@ knew concerning the life of <hi rend="italic">Soliman</hi>; it seeming unto her,
 </p>
 </div>
 </body></text></q></p>
-
+<p/>
 <p><q><text><body>
 <div id="ibrahim1.5b" type="story" n="1.5b">
 <head type="sub"><hi rend="italic">The History of the Princess</hi> Axiamira.</head>
@@ -5265,7 +5265,7 @@ sort.
 </p>
 </div>
 </body></text></q></p>
-
+<p/>
 <p><q><text><body>
 <div id="ibrahim1.5c" type="story" n="1.5c">
 <head type="sub"><hi rend="italic">The Sequele of the History of</hi> <sic>Iustiniano</sic>.</head>
@@ -5471,8 +5471,7 @@ time to receive them.
 </p>
 </div>
 </body></text></q></p>
-
-<p rend="italic">Here ends tbe first Part.
+<p rend="italic">Here ends the first Part.
 </p>
 </div>
 </div>
@@ -5549,7 +5548,7 @@ verses to express his passion. The Count being of <hi rend="italic">Doriaes</hi>
 request which the Princess had made him, and began to speak in these termes.
 </p>
 
-
+<p><q><text><body>
 <div id="ibrahim2.1a" type="story" n="2.1a">
 <head type="sub" rend="italic">The History of the French Marquis</head>
 <p>I shall tell you then, Madam, that the Marquis is of an illustrious House, and of a
@@ -6196,6 +6195,7 @@ that which seems amiable to me; neither in leaving that liberty to others, which
 I give unto my self.
 </p>
 </div>
+</body></text></q></p>
 <p>After the Marquis had given over speaking, and left the company very much
 satisfied with his wit, <hi rend="italic">Justiniano</hi>, who would not abandon reasons party, and who
 desired the Princess should think it was not out of caprichiousness and fancy that
