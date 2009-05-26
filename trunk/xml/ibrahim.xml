@@ -1,4 +1,4 @@
-<TEI.2 id="ibrahim.0001">
+<TEI.2 id="ibrahim.001">
 <teiHeader id="ibrahim.0002">
 <fileDesc>
    <titleStmt>
@@ -100,24 +100,24 @@ Digital page images are linked to the text file.</p>
 
 <text id="ibrahim.300">
 <front id="ibrahim.301">
-<pb entity="[i]"/>
+<pb n="[i]"/>
    <div id="ibrahim.303" type="frontispiece">
-    <figure id="ibrahim.304">
+    <figure id="ibrahim.304" entity="fig1"> <!-- FIX ME: need actual figure entity names *** -->
       <figDesc>coat of arms labled 'Wm Constable Esq. F. R. S. &#x0026; F. A. S.'</figDesc>
     </figure>
    </div>
-<pb entity="[ii]"/>
-<pb entity="[iii]"/>
-<pb entity="[iv]"/>
-<pb entity="[v]"/>
+<pb n="[ii]"/>
+<pb n="[iii]"/>
+<pb n="[iv]"/>
+<pb n="[v]"/>
    <div id="ibrahim.3010" type="frontispiece">
-    <figure id="ibrahim.3011">
+    <figure id="ibrahim.3011" entity="fig2">  <!-- FIX ME: need actual figure entity names ***-->
       <figDesc>Engraving labeled 'Ibrahim or The Illustrious Bassa.'</figDesc>
     </figure>
    </div>
 
-<pb entity="[vi]"/>
-   <titlePage id="ibrahim.305" type="sull">
+<pb n="[vi]" rend="inline" entity="fig3" pages="Title page"/>  <!-- FIX ME: need actual figure entity names ***-->
+   <titlePage id="ibrahim.305" type="full">
      <docTitle>
        <titlePart type="main">IBRAHIM.</titlePart>
        <titlePart type="sub">OR THE ILLVSTRIOUS BASSA.</titlePart>
@@ -132,7 +132,7 @@ Digital page images are linked to the text file.</p>
        </docImprint>
    </titlePage>
 
-<pb entity="[vii]"/>
+<pb n="[vii]"/>
 
 <pb n="[viii]"/>
 <div id="ibrahim0001" type="dedication" n="1">
@@ -14699,7 +14699,7 @@ wherein I may contradict you in this encounter, and I am resolved never to conse
 I will not go into <hi rend="italic">Persia</hi>, if you enjoyn me to it: I will go and make <hi rend="italic">Soliman</hi> deny me our
 liberty in demanding it of him; I will even endevor to think of our flight if you will; and
 by all these ways expose you, it may be, to strange misadventures: I will notwithstanding
-consent to all these things, if you command me; but I will never endure that you shall undertake a warlike voyage. For, Madam, there is a great de»l of difference beeween living at <hi rend="italic">Constantinople</hi> under the protection of one of the excellentest Princes of the world, and following an Army of an hundred thousand men, who delight in nothing but fire and sword; and
+consent to all these things, if you command me; but I will never endure that you shall undertake a warlike voyage. For, Madam, there is a great deal of difference between living at <hi rend="italic">Constantinople</hi> under the protection of one of the excellentest Princes of the world, and following an Army of an hundred thousand men, who delight in nothing but fire and sword; and
 against whom you would have but one to protect you, if your beauty should happen to give
 me Rivals, or the misfortune of war should make me be vanquished by mine Enemies.
 </p>
