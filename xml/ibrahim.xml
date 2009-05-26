@@ -2,8 +2,9 @@
 <teiHeader id="ibrahim.0002">
 <fileDesc>
    <titleStmt>
-        <title>*****</title>
-        <author><name type="person" reg="*****">******</name></author>
+        <title>Ibrahim, or the Illustrious Bassa, an electronic edition</title>
+        <author><name type="person" reg="Cogan, Henry">Henry Cogan</name></author>
+		<author><name type="person" reg="Scudery, Madeleine de, 1607-1701">Madeleine de Scudery</name></author>
       </titleStmt>
       <extent></extent>
       <publicationStmt>
@@ -29,7 +30,7 @@ inquiries about this text's availability, please contact:<address><addrLine>Lewi
         </respStmt>
       </seriesStmt>
       <sourceDesc>
-        <bibl><author>****</author> <title>***</title><pubPlace>***</pubPlace>: <publisher>***</publisher><date>***</date></bibl>
+        <bibl><author>Scudery, Madeleine de and Henry Cogan</author> <title>Ibrahim, or the Illustrious Bassa</title><pubPlace>London</pubPlace>: <publisher>Humphrey Mossley, William Bentley, and Thomas Heath</publisher><date>1652</date></bibl>
       </sourceDesc>
     </fileDesc>
  <encodingDesc>
@@ -68,27 +69,27 @@ Digital page images are linked to the text file.</p>
     </encodingDesc>
 <profileDesc>
       <creation>
-        <rs type="collection">***</rs>
+        <rs type="collection">Early Modern through the 18th Century</rs>
         <rs type="language">English</rs>
         <rs type="ethnicity">Caucasian</rs>
-        <rs type="form">***</rs>
-        <rs type="genre">***</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Prose</rs>
         <rs type="geography">Great Britain</rs>
-        <date>***</date>
+        <date>1600=1699</date>
       </creation>
       <textClass>
         <keywords scheme="lcsh">
           <list>
-            <item>***.</item>
-            <item>***. </item>
-            <item>***.</item>
+            <item>English literature--Early modern, 1500-1700.</item>
+            <item>Women--France--History--17th century--Sources.</item>
+            
 	    </list>
         </keywords>
       </textClass>
     </profileDesc>
     <revisionDesc>
       <change>
-        <date>***[date finished]</date>
+        <date>May 26, 2009</date>
         <respStmt>
           <name>Irene Middleton</name>
           <resp>Beck Center Fellow.</resp>
@@ -164,14 +165,14 @@ out of that innated goodness, and sweetness of disposition, which is naturally i
 <hi rend="italic">Madam</hi><lb/>
 Your Graces most humbly<lb/>
 devoted servant<lb/>
-<name rend="italic">>Henry Cogan</name>.
+<name rend="italic">Henry Cogan</name>.
 </salute></closer></div>
 
 
 <pb n="[x]"/>
 <div id="ibrahim0002" type="preface" n="2">
 <head>THE PREFACE.</head>
-<p rend="italic">I Do not know what kind of praise the Antients thought they
+<p><hi rend="italic">I Do not know what kind of praise the Antients thought they
 gave to that Painter, who not able to end his work, finished
 it accidently by throwing his pencill against his Picture; but
 I know very well, that it should not have obliged me, and
@@ -190,7 +191,7 @@ never fail; nor doe I make this discourse but to shew you, that is I have lest
 some faults in my Book, they are the effects of my weakeness, and not of my
 negligence. Suffer mee then to discover unto you all the resorts of this
 frame, and let you see, is not all that I have done, at leastwise all that I have
-indevored to doe.
+indevored to doe.</hi>
 </p>
 
 <p><hi rend="italic">Whereas we cannot be knowing but of that which others do teach us, &#x0026; that it
@@ -392,7 +393,7 @@ Torrents; that that the less constraint it hath, the more perfection it hath; I 
 <pb n="[xvii]"/>
 
 <pb n="1" ed="digital"/>
-<milestone n="[1]" ed="1652" unit="page"/>
+<!-- <milestone n="[1]" ed="1652" unit="page"/> -->
 
 <div id="ibrahim1.0" type="part" n="1.0">
 <div id="ibrahim1.1" type="book" n="1.1">
@@ -417,7 +418,7 @@ taken his place, the Governor of <hi rend="italic">Constantinople</hi>, whom the
 advertise his Higness, who was come thither the night before, that all things were in a readiness to receive him. <hi rend="italic">Soliman</hi> gets imediately to horse, and this great Emperour after so glorious a conquest goes to revive the stately seat of his Empire. Fifty Trumpets, and fifty Atabales, attired in Cassocks of Damask, imbroidered with gold, appeared first in the <hi rend="italic">Hipodrome</hi>, and made all the Cittie to ring with
 
 <pb n="2" ed="digital"/>
-<milestone n="2     IBRAHIM, or     Part 2." ed="1652" unit="page"/>
+<!-- <milestone n="2     IBRAHIM, or     Part 2." ed="1652" unit="page"/> -->
 the warlike harmony of their silver instruments. They were followed by two thousand Archers on horsback, in liveries of carnation sattin, laid thick with gold lace.
 Bowes of ebony in their left hands, and ivory quivers hanging on skarfes. Fifty
 Hoboys, and fifty players on Cimballs, followed this first troup, habited after the
@@ -470,7 +471,7 @@ and as many great jevvells of rich stones; and the furniture of his Horse vvas a
 
 
 <pb n="3" ed="digital"/>
-<milestone n="3     The Illustrious BASSA.     Book I." ed="1652" unit="page"/>
+<!-- <milestone n="3     The Illustrious BASSA.     Book I." ed="1652" unit="page"/> -->
 
 covered over with Emeraulds and Rubies. He was followed by all the Bassaes and Beglierbies of the Empire. After whom a Boluch Bassa marched in the head of two thousand Janizaries, which were the last Troops of this stately Entrie. After that this marvelous Triumph had made a turn about the Hipodrome, all ranked themselves on the right and left hand, and the Sultan went and lighted at the Tent 
 of cloth of Gold, which had been pitched for him under the windows
@@ -583,8 +584,10 @@ could not permit one to doubt of her words. After that by <hi rend="italic">Osma
 she knew he had permitted her to speak, she began in these terms; for though she
 was originally of <hi rend="italic">Persia</hi>, yet spake she perfectly the <hi rend="italic">Turkish</hi> tongue, which she made use of in this occasion.
 </p>
-<p><hi rend="italic">The History of</hi> Osman <hi rend="italic">and</hi> Alibech.
-</p>
+
+<div id="ibrahim1.1a" type="story" n="1.1a">
+<head><hi rend="italic">The History of</hi> Osman <hi rend="italic">and</hi> Alibech.</head>
+
 <p>I doubt not, my Lord, but thy Highness will find it strange, said this woman, her
 eyes full of tears, that in a day wherein tears of joy are to be shed, I begin my
 discourse with tears of sorrow; but the cause of it is so pressing, that it is impossible for me to retain them; for, my Lord, thou seest before thine eyes, sayd she,
@@ -929,6 +932,7 @@ at the standing, where she had seen the Triumph. In the mean time, the day being
 near to an end, the magnificences of this Triumph ended also by a volley of Musket-shot discharged by the Janizaries, which was answered by all the great Ordnance of the seven Towers, and that of all the Gallies. Great <hi rend="italic">Soliman</hi> then retired to the Seraglio, with the Sultana Queen, attended upon by all the Troups, 
 which afterwards conducted the Grand Visier to his, he that by his valour and 
 prudence had been the only cause of <hi rend="italic">Solimans</hi> Triumph.</p>
+</div>
 </div>
 
 
@@ -4093,7 +4097,7 @@ make some at any time in his discourse, began to speak in this sort.</p>
 <pb n="85" ed="digital"/>
 <milestone n="85     The Illustrious BASSA.     Book 5." ed="1652" unit="page"/>
 
-<p><q><text><body>
+
 <div id="ibrahim1.5a" type="story" n="1.5a">
 <head type="sub"><hi rend="italic">The Sequele of the History of</hi> Justiniano.</head>
 
@@ -4914,9 +4918,9 @@ of my life, did I not fear to importune you with so long a Narration. The Prince
 and to tell her, not only all that which had befallen him, but all that which he
 knew concerning the life of <hi rend="italic">Soliman</hi>; it seeming unto her, that this Princess loved him too well not to have his History joyned to his; whereupon <hi rend="italic">Justiniano</hi> began thus.
 </p>
-</div></body></text></q></p>
+</div>
 
-<p><q><text><body>
+
 <div id="ibrahim1.5b" type="story" n="1.5b">
 <head type="sub"><hi rend="italic">The History of the Princess</hi> Axiamira.</head>
 <p>AS soon as <hi rend="italic">Rustan</hi>, after he had quitted his Vessell in <hi rend="italic">Mingrelia</hi>, and had taken
@@ -5256,9 +5260,9 @@ curiosity, and intreated <hi rend="italic">Justiniano</hi> to continue his disco
 sort.
 </p>
 </div>
-</body></text></q></p>
 
-<p><q><text><body>
+
+
 <div id="ibrahim1.5c" type="story" n="1.5c">
 <head type="sub"><hi rend="italic">The Sequele of the History of</hi> <sic>Iustiniano</sic>.</head>
 <p>I Will not stand. Madam, to relate unto you, how I imployed my self after my return from <hi rend="italic">Natolia</hi>, in regard I know that <hi rend="italic">Doria</hi> purposed to let you understand, that <hi rend="italic">Ibrahims</hi> Palace was built by my direction, and how it was in that intervall of peace, and <hi rend="italic">assoon</hi> as I was Grand Viser, that I caused the ornaments thereof to be made, having seen that work finished but a little before <hi rend="italic">Doriaes</hi> arrivall at <hi rend="italic">Constantinople</hi>. It is true, said <hi rend="italic">Doria</hi>, that I have a desire to describe that inchanted Palace to her Excellency, and to acquaint her with all the magnificences, and all the grandeurs which you have quitted for her sake; and to make her comprehend a part of what I say, I am but to present her with that which the Grand Signior hath sent her; saying so, he drew out of his pocket a box of gold which <hi rend="italic">Soliman</hi> had delivered unto him, and having opened it, he let her see one of the goodliest things in the world. <hi rend="italic">Isabella</hi> was so surprised with the richness of this present, as she would not have received it, but at length <hi rend="italic">Doria</hi> having told her laughing, that he was not determined either to keep it, or to carry it back to <hi rend="italic">Constantinople</hi>, she was constrained to accept of it. <hi rend="italic">Doriaes</hi> jesting made <hi rend="italic">Justiniano</hi> fetch a great sigh, beginning
@@ -5462,7 +5466,7 @@ magnificently, as is she had been prepared of a long
 time to receive them.
 </p>
 </div>
-</body></text></q></p>
+
 
 <p rend="italic">Here ends tbe first Part.
 </p>
@@ -5541,7 +5545,7 @@ verses to express his passion. The Count being of <hi rend="italic">Doriaes</hi>
 request which the Princess had made him, and began to speak in these termes.
 </p>
 
-<p><q><text><body>
+
 <div id="ibrahim2.1a" type="story" n="2.1a">
 <head type="sub" rend="italic">The History of the French Marquis</head>
 <p>I shall tell you then, Madam, that the Marquis is of an illustrious House, and of a
@@ -6187,7 +6191,7 @@ so difficult to find; nor in following, as I doe, that which pleaseth me, and al
 that which seems amiable to me; neither in leaving that liberty to others, which
 I give unto my self.
 </p>
-</div></body></text></q></p>
+</div>
 <p>After the Marquis had given over speaking, and left the company very much
 satisfied with his wit, <hi rend="italic">Justiniano</hi>, who would not abandon reasons party, and who
 desired the Princess should think it was not out of caprichiousness and fancy that
@@ -7499,7 +7503,7 @@ speak in this sort to <hi rend="italic">Justiniano</hi>.
 </p>
 
 
-
+<p><q><text><body>
 <div id="ibrahim2.3a" type="story" n="2.3a">
 <head><hi rend="italic">The History of</hi> Isabella.</head>
 
@@ -7537,7 +7541,7 @@ love, and that in this occasion I ought to give you some marks of it. I will soo
 make it cease, continued <hi rend="italic">&#x00C6;milia</hi>, but prepare your self to understand the most fantastick adventure, and the strangest incounter, that ever you heard off: You are to
 know then, said she going on, how that great reputation of beauty which the Princess had all over <hi rend="italic">Italy</hi>, begot a curiosity at one and the same time in the mindes of the
 young Prince of <hi rend="italic">Salerno</hi>, and <hi rend="italic">Don Fernando de Mendoza</hi>, vvho for a long time had
-been in the War of <hi rend="italic">Milan</hi> under the Marquis of <hi rend="italic">Guast; and albeit they knevv not
+been in the War of <hi rend="italic">Milan</hi> under the Marquis of <hi rend="italic">Guast</hi>; and albeit they knevv not
 one another; though the one vvas of <hi rend="italic">Italy</hi>, and the other of <hi rend="italic">Spain</hi>; though the first
 vvas at <hi rend="italic">Naples</hi>, and the other at <hi rend="italic">Milan</hi>; yet took they both of them the same resolution. The Prince of <hi rend="italic">Salerno</hi> vvas handsom, of a good mine, and full of spirit; and
 whereas in studying the Mathematicks, he had learned to design, he had afterwards
@@ -7657,7 +7661,7 @@ Master of his Horse, who came into the Town in the habit of a Fisher-man, to
 know if he wanted anything, gave order to have a vessell of War brought near to
 <hi rend="italic">Monaco</hi>, for the design which he premeditated: And <hi rend="italic">Don Fernando</hi>, who knew well
 enough that the <hi rend="italic">Spaniards</hi> do not disapprove of those who augment their dominion
-by any way whatsoever, sent a Gendeman, whom he had dravvn disguised disguised into the
+by any way whatsoever, sent a Gentleman, whom he had dravvn disguised disguised into the
 town, to fetch him mony, and some troops of the <hi rend="italic">Milanese</hi>, by the permission of
 the Marquis of <hi rend="italic">Guast</hi>, to whom he wrote about it, for the executing of that which
 he thought on. During these preparations, the Painter and the Musician continued their endeavours still about the Princess; the one always made mysterious
@@ -7738,8 +7742,7 @@ continued not long with him; and considering how much men of this profession are
 caressed by great persons, he no longer mervailed at his boldness; he found likewise that his observations upon his songs were ridiculous; for, said he, as we understood since, upon what subject would I have them made,  that they should not
 suit with the Princess? All songs for the most part are of love, they speak of
 beauty, of dispair, of respect, of fear, of Jealousie; they say that they dare not discover themselves; that love would have them, and that respest will not suffer them
-to do so: And whereas few songs are made upon giving of thanks, I am not to wonder if xit
-Don Fernando</hi> sings that, which is sung every where, and in all languages. Whilst the Prince of <hi rend="italic">Salerno</hi> deceived himself in this sort, the Musician reasoned with himself about that which had passed between them; but that which he stood most upon, was his observation, that in all the designes which this Painter had drawen at <hi rend="italic">Monaco</hi>, there was alwaies some disguisement in them. Howbeit he himself destroyed his own reasonings, as well as the Prince of <hi rend="italic">Salerno</hi>; and coming to consider, that Fiction is one of the greatest sciences of Painters, he changed his opinion: And that which prevailed yet more with him vvas to see him, whom he be-
+to do so: And whereas few songs are made upon giving of thanks, I am not to wonder if <hi rend="italic">Don Fernando</hi> sings that, which is sung every where, and in all languages. Whilst the Prince of <hi rend="italic">Salerno</hi> deceived himself in this sort, the Musician reasoned with himself about that which had passed between them; but that which he stood most upon, was his observation, that in all the designes which this Painter had drawen at <hi rend="italic">Monaco</hi>, there was alwaies some disguisement in them. Howbeit he himself destroyed his own reasonings, as well as the Prince of <hi rend="italic">Salerno</hi>; and coming to consider, that Fiction is one of the greatest sciences of Painters, he changed his opinion: And that which prevailed yet more with him vvas to see him, whom he be-
 
 
 
@@ -8243,6 +8246,9 @@ publish every where, that she was the admirablest creature on the whole earth.
 <milestone n="63     The Illustrious BASSA.     Book 3." ed="1652" unit="page"/>
 The Princess answered with much discretion both to the one and to the other; and in this sort ended the adventure which she would not recount unto you, and which possessed me with so much fear, that though it be now three months since it hapned, I am not yet well recovered of it. <hi rend="italic">Justiniano</hi> thanked <hi rend="italic">&#x00C6;milia</hi> for the paines she had taken, commended her wit and her address; and after he had ended this complement, he saw the Princess come out of her Cabinet, who having heard <hi rend="italic">Justiniano</hi> talk, judged rightly that <hi rend="italic">&#x00C6;milia</hi> had finished her relation. This faithfull Lover no sooner saw her, but he complayned for that she would have concealed an adventure from him, where things had past, which heaped glory and confusion on him; how it was almost as much as to say, that she repented the having of too advantagious thoughts for him, in that she would not have let him have known them; but she answered him very obligingly, that the remembrance of others misfortunes alwaies touched her so sensibly, when as she esteemed herself the cause of them, as she thought she should render herself guilty of those of the Prince of <hi rend="italic">Salerno</hi> and <hi rend="italic">Don Fernando de Mendoza</hi>, if she should hear them without grief, and that having desired to avoyd all occasions that might bring her to a sense of sadness, in a time when she had the pleasure to see him, she had withdrawn herself. In this sort is was that <hi rend="italic">Isabella</hi> entertained <hi rend="italic">Justiniano</hi>, who ordered the conversation so dextrously, as he bad the Princess good night, without her pressing him to acquaint her vvith the end of his History.</p>
 </div>
+
+</body></text></q></p>
+
 </div>
 
 
