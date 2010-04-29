@@ -1,32 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
-<TEI.2 id="lkr_faith_1308">
-  <teiHeader>
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_faith_1308">
+  <teiHeader><fileDesc>
       <titleStmt>
         <title>A Soldiers Victory of Faith</title>
         <author>
-          <name reg="Rogers, Loula Kendall, 1838-1931" type="person">Mrs. Loula Kendall Rogers</name>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
         </author>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>Beck Center</name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent>10k</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
-        </address>
-        <availability>
-          <p id="lkr_faith_1301">2008 Emory University. Permission is granted to
+        </address><availability>
+          <p xml:id="lkr_faith_1301">2008 Emory University. Permission is granted to
 
 download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2008</date>
-      <idno type="ark">http://pid.emory.edu/ark:/25593/17cv3</idno></publicationStmt>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17cv3</idno></publicationStmt>
       <seriesStmt>
         <title>Emory Women Writers Resource Project</title>
       </seriesStmt>
@@ -39,24 +30,22 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
 
 	   Library, Emory University</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
+    </fileDesc><encodingDesc>
       <projectDesc>
-        <p id="lkr_faith_1302">This digital text is produced from the Loula Kendall
+        <p xml:id="lkr_faith_1302">This digital text is produced from the Loula Kendall
 
 	   Rogers Papers, generously loaned to the Beck Center by    	
 
 The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
       </projectDesc>
       <classDecl>
-        <taxonomy id="lcsh">
+        <taxonomy xml:id="lcsh">
           <bibl>
             <title>Library of Congress Subject Headings</title>
           </bibl>
         </taxonomy>
       </classDecl>
-    </encodingDesc>
-    <profileDesc>
+    </encodingDesc><profileDesc>
       <creation>
         <rs type="collection">Early 20th Century Literature</rs>
         <rs type="language">American</rs>
@@ -67,7 +56,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
         <date>1900-1999</date>
       </creation>
       <textClass>
-        <keywords scheme="lcsh">
+        <keywords scheme="#lcsh">
           <list>
             <item>Women poets, American--Georgia.</item>
             <item>Women authors, American--19th Century</item>
@@ -78,22 +67,11 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
           </list>
         </keywords>
       </textClass>
-    </profileDesc>
-    <revisionDesc>
-      <change>
-        <date>2008</date>
-        <respStmt>
-          <name>Stewart Varner</name>
-          <resp>Woodruff Graduate Fellow</resp>
-        </respStmt>
-        <item>XML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-    </revisionDesc>
-  </teiHeader>
-  <text id="lkr_faith_1307">
-    <body id="lkr_faith_1306">
-      <pb entity="lkr_faith001" id="lkr_faith_1303" n="[1]" pages="1"/>
-      <div id="lkr_faith_1305" type="poem">
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_faith_1307">
+    <body xml:id="lkr_faith_1306">
+      <pb facs="lkr_faith001" xml:id="lkr_faith_1303" n="[1]"/>
+      <div xml:id="lkr_faith_1305" type="poem">
         <head>A Soldier's Victory Of Faith</head>
         <epigraph>
           <cit>
@@ -108,7 +86,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
           </cit>
         </epigraph>
         <dateline rend="center">
-          <date value="1929-10-15">Read at the opening of the 35<hi rend="super">th</hi> Convention of United<lb/>
+          <date when="1929-10-15">Read at the opening of the 35<hi rend="super">th</hi> Convention of United<lb/>
 
       Daughters of the Confederacy at Moultrie, Georgia,Oct. 15<hi rend="super">th</hi>1929</date>
         </dateline>
@@ -134,7 +112,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
           <l>Whose banners wave in triumph o'er the Free;</l>
           <l>For Heaven has cast great blessings on our land</l>
           <l>Of Peace and Plenty by Divine command.</l>
-          <pb entity="lkr_faith002" id="lkr_faith_1304" n="2" pages="2"/>
+          <pb facs="lkr_faith002" xml:id="lkr_faith_1304" n="2"/>
         </lg>
         <lg type="stanza">
           <l>Years pass - Then o'er the plains of Mexico</l>
@@ -177,4 +155,4 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
       </div>
     </body>
   </text>
-</TEI.2>
+</TEI>

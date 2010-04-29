@@ -1,55 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
-<TEI.2 id="behn_looking_13053">
-  <teiHeader type="text">
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="behn_looking_13053">
+  <teiHeader><fileDesc>
       <titleStmt n=" The Lady's Looking-Glass, To Dress Herself by: Or, The Whole Art of Charming.">
         <title>The Lady's Looking-Glass, To Dress Herself by: Or, The Whole Art of Charming, an electronic edition</title>
         <author>
-          <name reg="Behn, Aphra, 1640-1689" type="person">Aphra Behn</name>
+          <name type="person"><choice><reg>Behn, Aphra, 1640-1689</reg><orig>Aphra Behn</orig></choice></name>
+         
         </author>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>Beck Center </name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent>45kb</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
-        </address>
-        <availability>
-          <p id="behn_looking_1301">1996 Emory University. Permission is granted to
+        </address><availability>
+          <p xml:id="behn_looking_1301">1996 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the contributions to
 the work claimed by Emory University for non-profit educational purposes, provided 
 this header is included in its entirety.  For inquiries about commercial uses, contact
 either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      <idno type="ark">http://pid.emory.edu/ark:/25593/179w1</idno></publicationStmt>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/179w1</idno></publicationStmt>
       <seriesStmt>
         <title>Emory Women Writers Resource Project</title>
       </seriesStmt>
       <sourceDesc>
         <bibl>Behn, Aphra.  The Lady's Looking-Glass, To Dress Herself by: Or, The Whole Art of Charming.  London: <publisher>Printed by W. Onley for S. Briscoe</publisher>. <date>1697</date>.</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
+    </fileDesc><encodingDesc>
       <projectDesc>
-        <p id="behn_looking_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+        <p xml:id="behn_looking_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
       </projectDesc>
       <classDecl>
-        <taxonomy id="lcsh">
+        <taxonomy xml:id="lcsh">
           <bibl>
             <title>Library of Congress Subject Headings</title>
           </bibl>
         </taxonomy>
       </classDecl>
-    </encodingDesc>
-    <profileDesc>
+    </encodingDesc><profileDesc>
       <creation>
         <rs type="collection">Early Modern through the 18th Century</rs>
         <rs type="language">English</rs>
@@ -60,7 +50,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <date>1600-1699</date>
       </creation>
       <textClass>
-        <keywords scheme="lcsh">
+        <keywords scheme="#lcsh">
           <list>
             <item>English poetry--Women authors--17th Century.</item>
             <item>Feminine beauty (Aesthetics)--Poetry.</item>
@@ -68,32 +58,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </keywords>
       </textClass>
-    </profileDesc>
-    <revisionDesc>
-      <change>
-        <date>1997</date>
-        <respStmt>
-          <name>Scott Ellis</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
-        <date>2006</date>
-        <respStmt>
-          <name>Alden Mahler</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>TEI header elements changed to conform to new Beck Center standards.</item>
-      </change>
-    </revisionDesc>
-  </teiHeader>
-  <text id="behn_looking_13052">
-    <body id="behn_looking_13051">
-      <div id="behn_looking_001" type="Text">
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="behn_looking_13052">
+    <body xml:id="behn_looking_13051">
+      <div xml:id="behn_looking_001" type="Text">
         <head><seg type="short-title">The Lady's Looking-Glass</seg>, To Dress 
 Herself by: or The Art of Charming</head>
-        <p id="behn_looking_1303">
+        <p xml:id="behn_looking_1303">
           <hi rend="bold">THE<lb/>
 Lady's Looking-Glass,<lb/>
 To<lb/>
@@ -102,21 +73,21 @@ OR, THE<lb/>
 ART of Charming.</hi>
           <lb/>
         </p>
-        <p id="behn_looking_1305">How long, O charming Iris! shall I speak in vain of your adorable Beauty?
+        <p xml:id="behn_looking_1305">How long, O charming Iris! shall I speak in vain of your adorable Beauty?
 You have been just, and believe I love you with a Passion perfectly tender
 and extream; and yet you will not allow your Charms to be infinite: You
 must either accuse my Flames to be unreasonable, and that my Eyes and Heart
 are false Judges of Wit and Beauty; or allow, that You are the most perfect
 of your Sex. But instead of that, you always accuse of me Flattery, when I
 speak of your infinite Merit; and when I refer you to your Glass, you tell
-me, that flatters, as well as Damon; though one wou'd <pb id="behn_looking_1304" n="3"/>
+me, that flatters, as well as Damon; though one wou'd <pb xml:id="behn_looking_1304" n="3"/>
 imagine, that
 shou'd be a good Witness for the Truth of what I say, and undeceive you of
 the Opinion of my Injustice. Look---- and confirm yourself, that nothing
 can equal your Perfections. All the World says it, and you must doubt it no
 longer. O Iris! Will you dispute against the Whole World?
 </p>
-        <p id="behn_looking_1306">But since you have so long distrusted your own Glass, I have here presented
+        <p xml:id="behn_looking_1306">But since you have so long distrusted your own Glass, I have here presented
 you with one, which I know is very true; and having been made for you only,
 can serve only you. All other Glasses present all Objects, but this
 reflects only Iris; whenever you consult it, it will convince you; and tell
@@ -144,29 +115,29 @@ nothing to their Advantage.</p>
           <l>Where the Belle Taille and Motion still afford</l>
           <l>Graces to be eternally ador'd.</l>
         </lg>
-        <p id="behn_looking_1307">But I will be silent now, and let your Glass speak.</p>
-        <pb id="behn_looking_1308" n="4"/>
-        <div id="behn_looking_002" type="Section">
+        <p xml:id="behn_looking_1307">But I will be silent now, and let your Glass speak.</p>
+        <pb xml:id="behn_looking_1308" n="4"/>
+        <div xml:id="behn_looking_002" type="Section">
           <head>
             <hi rend="italic">The Lady's Looking-Glass</hi>
           </head>
-          <p id="behn_looking_1309">Damon, (O charming Iris!) has given me to you, that you may sometimes give
+          <p xml:id="behn_looking_1309">Damon, (O charming Iris!) has given me to you, that you may sometimes give
 your self the Trouble, and me the Honour of Consulting me in the great and
 weighty Affairs of Beauty: I am, my adorable Mistress! a faithful Glass;
 and you ought to believe all I say to you.</p>
         </div>
-        <div id="behn_looking_003" type="Section">
+        <div xml:id="behn_looking_003" type="Section">
           <head>
             <hi rend="italic">The Shape of Iris.</hi>
           </head>
-          <p id="behn_looking_13011">I must begin with your Shape, and tell you, without flattery, 'tis the
+          <p xml:id="behn_looking_13011">I must begin with your Shape, and tell you, without flattery, 'tis the
 finest in the World, and gives Love and Admiration to all that see you.
 Pray observe how free and easie it is, without Constraint, Stiffness, or
 Affectation; those mistaken Graces of the Fantastick, and the Formal; who
 give themselves Pain to shew their Will to please; and whose Dressing makes
 the greatest part of its Fineness, when they are more oblig'd to the
 Taylor, than to Nature; who add, or diminish, as occasion serves, to form a
-Grace, where heaven never gave it: And while they remain on this Wreck <pb id="behn_looking_13010" n="5"/>
+Grace, where heaven never gave it: And while they remain on this Wreck <pb xml:id="behn_looking_13010" n="5"/>
 of Pride, they are eternally uneasie, without pleasing any Body. Iris, I
 have seen a Woman of your Acquaintance, who, having a greater Opinion of
 her own Person, than any Body else, has screw'd her Body into so fine a
@@ -191,7 +162,7 @@ extreamly. and which has not given Damon a thousand Rivals.</p>
             <l>Still sighing Iris! lovely charming Maid!</l>
             <l>See, in thy Absence, how thy Lover dies;</l>
             <l>While to his Sighs, the Eccho still replies.</l>
-            <pb id="behn_looking_13012" n="6"/>
+            <pb xml:id="behn_looking_13012" n="6"/>
             <l>Then with the Stream he holds discourse:</l>
             <l>O thou that bend'st thy liquid force</l>
             <l>To lovely Tames! upon whose Shore</l>
@@ -218,13 +189,13 @@ extreamly. and which has not given Damon a thousand Rivals.</p>
             <l>'Tis Incense of that Excellence,</l>
             <l>That as thou mount'st, 'twill perfume all the Skies.</l>
           </lg>
-          <pb id="behn_looking_13013" n="7"/>
+          <pb xml:id="behn_looking_13013" n="7"/>
         </div>
-        <div id="behn_looking_004" type="Section">
+        <div xml:id="behn_looking_004" type="Section">
           <head>
             <hi rend="italic">Iris's Complexion</hi>
           </head>
-          <p id="behn_looking_13014">Say what you will, I am confident, if you will confess your Heart, you are,
+          <p xml:id="behn_looking_13014">Say what you will, I am confident, if you will confess your Heart, you are,
 every time you view yourself in me, surpriz'd at the Beauty of your
 Complexion; and will secretly own, you never saw any thing so fair. I am
 not the first Glass, by a thousand, that has assur'd you of this. If you
@@ -244,12 +215,12 @@ your Face, and gives you a thousand new Graces.</p>
             <l>And makes the gen'rous Crimson pale.</l>
           </lg>
         </div>
-        <div id="behn_looking_005" type="Section">
+        <div xml:id="behn_looking_005" type="Section">
           <head>
             <hi rend="italic">IRIS'S Hair</hi>
           </head>
-          <p id="behn_looking_13016">Oh, the beautiful Hair of Iris! It seems, as if Nature had crown'd you with
-a great Quantity <pb id="behn_looking_13015" n="8"/>
+          <p xml:id="behn_looking_13016">Oh, the beautiful Hair of Iris! It seems, as if Nature had crown'd you with
+a great Quantity <pb xml:id="behn_looking_13015" n="8"/>
 of lovely fair brown Hair, to make us know, that you
 were born to Rule; and to repair the Faults of Fortune, that has not given
 you a Diadem: And do not bewail the Want of that (so much your Merit's due)
@@ -268,7 +239,7 @@ admiring Slaves.</p>
             <l>Here Fortune wou'd inconstant be in vain:</l>
             <l>Iris, and Love, eternally shall reign.</l>
           </lg>
-          <p id="behn_looking_13018">Love does not make less use of your Hair for new Conquests, than of all the
+          <p xml:id="behn_looking_13018">Love does not make less use of your Hair for new Conquests, than of all the
 rest of your Beauties that adorn you. If he takes our Hearts with your fine
 Eyes, it ties 'em fast with your Hair; and if it weaves a Chain, not easily
 broken. It is not of those sorts of Hair, whose harshness discovers ill
@@ -276,7 +247,7 @@ Nature; nor of those, whose Softness shews us the Weakness of the Mind: Not
 that either of these are Arguments without Exception; but 'tis such as
 bears the Character of a perfect Mind, and a delicate Wit; and for its
 Colour, the most faithful, discreeet, and beautiful in the World; such as
-shews a Complexion and Constitution, neither so <pb id="behn_looking_13017" n="9"/>
+shews a Complexion and Constitution, neither so <pb xml:id="behn_looking_13017" n="9"/>
 cold, to be insensible;
 nor so hot, to have too much Fire; that is, neither too white, nor too
 black; but such a mixture of the two Colours, as makes it the most
@@ -294,11 +265,11 @@ agreeable in the World.</p>
             <l>It never mist the destin'd Heart.</l>
           </lg>
         </div>
-        <div id="behn_looking_006" type="Section">
+        <div xml:id="behn_looking_006" type="Section">
           <head>
             <hi rend="italic">IRIS'S Eyes</hi>
           </head>
-          <p id="behn_looking_13019">I believe, my fair Mistress, I shall dazle you with the Lustre of your own
+          <p xml:id="behn_looking_13019">I believe, my fair Mistress, I shall dazle you with the Lustre of your own
 Eyes. They are the finest Blue in the World: They have all the Sweetness,
 that ever charm'd the Heart; with a certain Languishment that's
 irresistable; and never any look'd on 'em, that did not sigh after 'em.
@@ -310,7 +281,7 @@ expose themselves to their Dangers, pay for their Imprudence.</p>
             <l>Yet I am sensible of Bliss,</l>
             <l>When your charming Eyes I view:</l>
             <l>R</l>
-            <pb id="behn_looking_13020" n="10"/>
+            <pb xml:id="behn_looking_13020" n="10"/>
             <l>Even by me, their Flames are felt;</l>
             <l>And at each Glance, I fear to melt.</l>
             <l>Ah, how pleasant are my Days!</l>
@@ -338,8 +309,8 @@ expose themselves to their Dangers, pay for their Imprudence.</p>
             <l>And Damon wou'd with Envy die,</l>
             <l>Who hopes, one Day, to be as blest as I.</l>
           </lg>
-          <p id="behn_looking_13022">Extravagant with my Joys, I have stray'd beyond my Limits; for I was
-telling you of the wondrous Finess of your Eyes; which no Mortal <pb id="behn_looking_13021" n="11"/>
+          <p xml:id="behn_looking_13022">Extravagant with my Joys, I have stray'd beyond my Limits; for I was
+telling you of the wondrous Finess of your Eyes; which no Mortal <pb xml:id="behn_looking_13021" n="11"/>
 can 
 resist, nor any Heart stand the force of their Charms; and the most
 difficult Conquests they gain, scarce cost 'em the Expence of a Look. They
@@ -366,12 +337,12 @@ wishes, may perpetually accompany them, during their Absence from him; for
             <l>R</l>
           </lg>
         </div>
-        <pb id="behn_looking_13023" n="12"/>
-        <div id="behn_looking_007" type="Section">
+        <pb xml:id="behn_looking_13023" n="12"/>
+        <div xml:id="behn_looking_007" type="Section">
           <head>
             <hi rend="italic">The Mouth of IRIS</hi>
           </head>
-          <p id="behn_looking_13024">I perceive your Modesty wou'd impose Silence on me: But, O fair Iris, Do
+          <p xml:id="behn_looking_13024">I perceive your Modesty wou'd impose Silence on me: But, O fair Iris, Do
 not think to present yourself before a Glass, if you wou'd not have it tell
 you all your Beauties: Content yourself, that I only speak of 'em, en
 Passant; for thou'd I speak what I wou'd, I shou'd dwell all Day upon each
@@ -397,12 +368,12 @@ what I so admire; and 'tis in vain to those, who have not seen Iris.</p>
             <l>Your Lips immortal Beauties were.</l>
           </lg>
         </div>
-        <pb id="behn_looking_13025" n="13"/>
-        <div id="behn_looking_008" type="Section">
+        <pb xml:id="behn_looking_13025" n="13"/>
+        <div xml:id="behn_looking_008" type="Section">
           <head>
             <hi rend="italic"> The Neck of IRIS</hi>
           </head>
-          <p id="behn_looking_13026">All your Modesty, all your nice Care, cannot hide the ravishing Beauties of
+          <p xml:id="behn_looking_13026">All your Modesty, all your nice Care, cannot hide the ravishing Beauties of
 your Neck; we must see it, Coy as you are; and see it the whitest, and
 finest shap'd, that ever was form'd. Oh! Why will you cover it? You know,
 all handsome things wou'd be seen. And Oh! how often have you made your
@@ -425,12 +396,12 @@ repel the malicious Cloud, that wou'd obscure their Brightness.</p>
             <l>R</l>
           </lg>
         </div>
-        <pb id="behn_looking_13027" n="14"/>
-        <div id="behn_looking_009" type="Section">
+        <pb xml:id="behn_looking_13027" n="14"/>
+        <div xml:id="behn_looking_009" type="Section">
           <head>
             <hi rend="italic"> The Arms and Hands of IRIS</hi>
           </head>
-          <p id="behn_looking_13028">I shall not be put to much trouble to shew you your Hands and Arms, because
+          <p xml:id="behn_looking_13028">I shall not be put to much trouble to shew you your Hands and Arms, because
 you may view them without my help; and you are very unjust, if you have not
 admir'd 'em a Thousand times. Tho beautiful Colour and Proportion of your
 Arm is unimitable, and your Hand is dazling, fine, small, and plump;
@@ -452,7 +423,7 @@ double; his Blushes rise, and his very Soul dance.</p>
             <l>And doting on the lovely Face.</l>
             <l>The Unconfid'ring little knows,</l>
             <l>How much he to this Beauty owes.</l>
-            <pb id="behn_looking_13029" n="15"/>
+            <pb xml:id="behn_looking_13029" n="15"/>
             <l>That when the Lover absent is,</l>
             <l>Informs him of his Mistress Heart.</l>
             <l>'Tis that, which gives him all his Bliss,</l>
@@ -467,12 +438,12 @@ double; his Blushes rise, and his very Soul dance.</p>
             <l>Ev'n Iris 'twill to Damon give at last.</l>
           </lg>
         </div>
-        <div id="behn_looking_010" type="Section">
+        <div xml:id="behn_looking_010" type="Section">
           <head>
             <hi rend="italic"> The Grace and Air of IRIS</hi>
           </head>
-          <p id="behn_looking_13030">The Grace and Air of IRIS.</p>
-          <p id="behn_looking_13032">'Tis I alone, O charming Maid! that can shew you that noble part of your
+          <p xml:id="behn_looking_13030">The Grace and Air of IRIS.</p>
+          <p xml:id="behn_looking_13032">'Tis I alone, O charming Maid! that can shew you that noble part of your
 Beauty: That generous Air, that adorns all your lovely Person, and renders
 every Motion and Action perfectly adorable. With what a Grace you walk! ---How
 free, how easie, and how unaffected! See how you move; ---for only here you
@@ -482,7 +453,7 @@ even what he said; but with a careless Smile, pass it off for the Flattery
 of a Lover. But here behold, and be convinc'd; and know, no part of your
 Beauty can charm more than this. O Iris, confess, Love has adorn'd you with
 all his Art and Care. Your Beauties are the Themes of all the Muses; who
-tell you in daily songs, that the Graces themselves have not R4 <pb id="behn_looking_13031" n="16"/>
+tell you in daily songs, that the Graces themselves have not R4 <pb xml:id="behn_looking_13031" n="16"/>
 more 
 than Iris. And one may truly say, that you alone know how to joyn the
 Ornaments and Dress, with Beauty; and you are still adorn'd, as if that
@@ -517,12 +488,12 @@ never gawdy; but always suiting with your Quality.</p>
             <l>O ye mistaken Fair! Dress ye by Iris Mien.</l>
           </lg>
         </div>
-        <pb id="behn_looking_13033" n="17"/>
-        <div id="behn_looking_011" type="Section">
+        <pb xml:id="behn_looking_13033" n="17"/>
+        <div xml:id="behn_looking_011" type="Section">
           <head>
             <hi rend="italic"> The Discretion of IRIS</hi>
           </head>
-          <p id="behn_looking_13035">But O Iris! The Beauties of the Body are imperfect, if the Beauties of the
+          <p xml:id="behn_looking_13035">But O Iris! The Beauties of the Body are imperfect, if the Beauties of the
 Soul do not advance themselves to an equal height. But, O Iris! What Mortal
 is there so damned to Malice, that does not, with Adoration, confess, that
 you (O charming Maid!) have an equal Portion of all the braveries and
@@ -540,10 +511,10 @@ you, O lovely Maid! never make use of these affected Arts; but without
 being too brisk, or too severe; too silent, or too talkative; you aspire in
 all your Hearers, a Joy, and a Respect. Your Soul is an Enemy to that usual
 Vice of your Sex, of using little Arguments against the Fair; or by a Word,
-<pb id="behn_looking_13034" n="18"/>
+<pb xml:id="behn_looking_13034" n="18"/>
 or Jest, make your self and Hearers pleasant, at the Expence of the
 Fame of others.</p>
-          <p id="behn_looking_13036">Your Heart is an Enemy to all Passions, but that of Love. And this is one
+          <p xml:id="behn_looking_13036">Your Heart is an Enemy to all Passions, but that of Love. And this is one
 of your noble Maxims: That every one ought to love, in some part of his
 Life: And that, in a Heart truly brave, Love is without Folly: that Wisdom
 is a Friend in Love, and Love to perfect Wisdom. Since these Maxims are
@@ -565,20 +536,20 @@ unreasonable fair Ones.</p>
             <l>Your Prudence never acts in vain.</l>
           </lg>
         </div>
-        <div id="behn_looking_012" type="Section">
+        <div xml:id="behn_looking_012" type="Section">
           <head>
             <hi rend="italic"> The Goodness and Complaisance of Iris</hi>
           </head>
-          <p id="behn_looking_13038">Who but your Lovers (fair Iris!) doubts, but you are the most complaisant
+          <p xml:id="behn_looking_13038">Who but your Lovers (fair Iris!) doubts, but you are the most complaisant
 Person in the World: And that with so much Sweetness you oblige all, that
-you command <pb id="behn_looking_13037" n="19"/>
+you command <pb xml:id="behn_looking_13037" n="19"/>
 in yielding; and as you gain the Heart of both Sexes, with the
 Affability of your noble Temper; so all are proud and vain of obliging you.
 And Iris, you may live assur'd that your Empire is eternally establish'd,
 by your Beauty, and your Goodness: Your Power is confirm'd, and you grow in
 Strength every Minute: Your Goodness gets you Friends, and your Beauty
 Lovers.</p>
-          <p id="behn_looking_13039">This Goodness is not one of those, whose Folly renders it easie to every
+          <p xml:id="behn_looking_13039">This Goodness is not one of those, whose Folly renders it easie to every
 Desirer; but a pure Effect of the Generosity of your Soul; such as Prudence
 alone manages, according to the Merit of the Person, to whom it is
 extended; and those whom you esteem, receive the sweet Marks of it; and
@@ -587,13 +558,13 @@ you can be a little disturb'd, yet through your Anger, your Goodness
 shines; and you are but too much afraid, that that may bear a false
 Interpretation: For oftentimes Scandal makes that pass for an Effect of
 Love, which is purely that of Complaisance.</p>
-          <p id="behn_looking_13041">Never had any Body more Tenderness for their Friends, than Iris: Their
+          <p xml:id="behn_looking_13041">Never had any Body more Tenderness for their Friends, than Iris: Their
 Presence gives her Joy; their Absence, Trouble; and when she cannot see
 them, she finds no Pleasure, like speaking of them obligingly. Friendship
 reigns in your Heart, and Sincerity on your Tongue. Your Friendship is so
 strong, so constant, and so tender, that it charms, plseases, and satisfies
 all, that are not your Adorers. 'Tis therefore, Damon is excusable, if he
-be not contented with your noble Friendship <pb id="behn_looking_13040" n="20"/>
+be not contented with your noble Friendship <pb xml:id="behn_looking_13040" n="20"/>
  
 alone; for he is the most
 tender of that Number.</p>
@@ -618,15 +589,15 @@ tender of that Number.</p>
             <l>Distance in Love more cruel is, than Hate.</l>
           </lg>
         </div>
-        <div id="behn_looking_013" type="Section">
+        <div xml:id="behn_looking_013" type="Section">
           <head>
             <hi rend="italic">The Wit of Iris</hi>
           </head>
-          <p id="behn_looking_13043">You are deciev'd in me, fair Iris, if you take me for one of those ordinary
+          <p xml:id="behn_looking_13043">You are deciev'd in me, fair Iris, if you take me for one of those ordinary
 Glasses, that represent the Beauty only of the Body; I remark to you also
 the Beauties of the Soul: And all about you declares yours the finest that
 ever was formed; that you have a Wit that surprizes, and is always new:
-'Tis none of those that loses its Lustre, when one considers it; <pb id="behn_looking_13042" n="21"/>
+'Tis none of those that loses its Lustre, when one considers it; <pb xml:id="behn_looking_13042" n="21"/>
 the 
 more we examine yours; the more adorable we find it. You say nothing, that
 is not at once agreeable and solid; 'tis always quick and ready, without
@@ -652,7 +623,7 @@ Heart? For all great Wits are Prophets too:</p>
             <l>Whom I, with Sighs and Vows, pursue.</l>
             <l>Oh, tell me, charming Prophetess! </l>
             <l>Shall I this lovely Maid possess?</l>
-            <pb id="behn_looking_13044" n="22"/>
+            <pb xml:id="behn_looking_13044" n="22"/>
             <l>A thousand Rivals do obstruct my Way;</l>
             <l>A thousand Fears they do create:</l>
             <l>They throng about her all the Day,</l>
@@ -667,11 +638,11 @@ Heart? For all great Wits are Prophets too:</p>
             <l>Say rather, I shall die by her Disdain.</l>
           </lg>
         </div>
-        <div id="behn_looking_014" type="Section">
+        <div xml:id="behn_looking_014" type="Section">
           <head>
             <hi rend="italic"> The Modesty of Iris</hi>
           </head>
-          <p id="behn_looking_13046">I Perceive, fair Iris, you have a Mind to tell me, I have entertain'd you
+          <p xml:id="behn_looking_13046">I Perceive, fair Iris, you have a Mind to tell me, I have entertain'd you
 too long, with a Discourse on yourself. I know, your Modesty makes this
 Declaration an offence, and you suffer me, with Pain, to unveil those
 Treasures you wou'd hide. Your Modesty, that so commendable a Vertue in the
@@ -681,12 +652,12 @@ Speaking finely, you might chide. But, O Iris! I say nothing, but such
 plain Truths, as all the World can witness are so. And so far I am from
 Flattery, that I seek no Ornament of Words. Why do you take such Care to
 conceal your Vertues? They have too much Lustre, not to be seen, in spight
-of all your Modesty: Your Wit, your Youth, and Reason <pb id="behn_looking_13045" n="23"/>
+of all your Modesty: Your Wit, your Youth, and Reason <pb xml:id="behn_looking_13045" n="23"/>
 oppose
 themselves against this dull Obstructer of our Happiness. Abate, O Iris, a
 little of this Vertue, since you have so many other, to defend yourself
 against the Attacks of your Adorers.</p>
-          <p id="behn_looking_13047">You yourself have the least Opinion of your own Charms: And being the only
+          <p xml:id="behn_looking_13047">You yourself have the least Opinion of your own Charms: And being the only
 Person in the World, that is not in love with 'em, you hate to pass whole
 Hours before your Looking-Glass; and to pass your time, like most of the
 idle Fair, in dressing, and setting off those Beauties, which need so
@@ -695,21 +666,21 @@ Dressing, which you know so well how to employ a thousand Ways. The Muses
 have blest you, above your Sex; and you know how to gain a Conquest with
 your Pen, more ablsolutely, than all the industrious Fair, who trust to
 Dress and Equipage.</p>
-          <p id="behn_looking_13048">I have a thousand things to tell you more, but willingly resign my place to
+          <p xml:id="behn_looking_13048">I have a thousand things to tell you more, but willingly resign my place to
 Damon, that faithful Lover; he will speak more ardently than I. For, let a
 Glass use all its Force, yet, when it speaks its best, it speaks but
 coldly.</p>
-          <p id="behn_looking_13050">If my Glass, O charming Iris! have the good Fortune (which I cou'd never
+          <p xml:id="behn_looking_13050">If my Glass, O charming Iris! have the good Fortune (which I cou'd never
 entirely boast) to be believ'd, 'twill serve, at least, to convince you, I
 have not been so guilty of Flattery, as I have a thousand times been
 charg'd. Since then my Passion is equal to your Beauty (without Comparison,
 or End) believe, O lovely Maid! how I sigh in your Absence: And be
-perswaded to lessen my pain, and restore me to my Joys; for <pb id="behn_looking_13049" n="24"/>
+perswaded to lessen my pain, and restore me to my Joys; for <pb xml:id="behn_looking_13049" n="24"/>
 there is
 no Torment so great, as the Absence of a Lover from his Mistress; of which,
 this is the Idea.</p>
         </div>
-        <div id="behn_looking_015" type="Section">
+        <div xml:id="behn_looking_015" type="Section">
           <head>
             <hi rend="italic"> The Effects of Absence from what we love</hi>
           </head>
@@ -737,4 +708,4 @@ this is the Idea.</p>
       </div>
     </body>
   </text>
-</TEI.2>
+</TEI>

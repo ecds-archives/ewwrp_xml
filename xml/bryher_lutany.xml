@@ -1,35 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
-<TEI.2 id="bryher_lutany_13052">
-  <teiHeader>
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bryher_lutany_13052">
+  <teiHeader><fileDesc>
       <titleStmt>
         <title>Region of Lutany, an electronic edition</title>
         <author>
-          <name reg="Bryher, Annie Winifred Ellerman" type="person">W. Bryher</name>
+          <name type="person"><choice><reg>Bryher, Annie Winifred Ellerman</reg><orig>W. Bryher</orig></choice></name>
+         
         </author>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>Beck Center</name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent>35kb</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
-        </address>
-        <availability>
-          <p id="bryher_lutany_1301">1996 Emory University. Permission is granted to
+        </address><availability>
+          <p xml:id="bryher_lutany_1301">1996 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the contributions to
 the work claimed by Emory University for non-profit educational purposes, provided 
 this header is included in its entirety.  For inquiries about commercial uses, contact
 either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      <idno type="ark">http://pid.emory.edu/ark:/25593/17b3z</idno></publicationStmt>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17b3z</idno></publicationStmt>
       <seriesStmt>
         <title>Emory Women Writers Resource Project</title>
       </seriesStmt>
@@ -37,20 +29,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl>Bryher, W. [Annie Winifred Ellerman]. Region of
 	   Lutany. <publisher>Chapman &amp; Hall</publisher>, <date>1914</date>.</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
+    </fileDesc><encodingDesc>
       <projectDesc>
-        <p id="bryher_lutany_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+        <p xml:id="bryher_lutany_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
       </projectDesc>
       <classDecl>
-        <taxonomy id="lcsh">
+        <taxonomy xml:id="lcsh">
           <bibl>
             <title>Library of Congress Subject Headings</title>
           </bibl>
         </taxonomy>
       </classDecl>
-    </encodingDesc>
-    <profileDesc>
+    </encodingDesc><profileDesc>
       <creation>
         <rs type="collection">Early 20th Century Literature</rs>
         <rs type="language">English</rs>
@@ -61,39 +51,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <date>1900-1999</date>
       </creation>
       <textClass>
-        <keywords scheme="lcsh">
+        <keywords scheme="#lcsh">
           <list>
             <item>English poetry--Women authors--20th Century.</item>
             <item>Lesbians' writings--Poetry.</item>
           </list>
         </keywords>
       </textClass>
-    </profileDesc>
-    <revisionDesc>
-      <change>
-        <date>1999</date>
-        <respStmt>
-          <name>Jennifer Poulos Nesbitt</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
-        <date>2006</date>
-        <respStmt>
-          <name>Alden Mahler</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>TEI header elements changed to conform to new Beck Center standards.</item>
-      </change>
-    </revisionDesc>
-  </teiHeader>
-  <text id="bryher_lutany_13051">
-    <body id="bryher_lutany_13050">
-      <div id="bryher_lutany_001" type="Book">
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Staff</label><name>Jennifer Poulos Nesbitt</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="bryher_lutany_13051">
+    <body xml:id="bryher_lutany_13050">
+      <div xml:id="bryher_lutany_001" type="Book">
         <head>REGION OF LUTANY<lb/>By WINIFRED ELLERMAN</head>
-        <pb id="bryher_lutany_1303"/>
-        <p id="bryher_lutany_1305">CONTENTS<lb/>
+        <pb xml:id="bryher_lutany_1303"/>
+        <p xml:id="bryher_lutany_1305">CONTENTS<lb/>
 Region of Lutany	       5<lb/>
 Corfu		       7<lb/>
 Leaderless		       8<lb/>
@@ -107,11 +78,11 @@ Pontikonisi		     25<lb/>
 Bluebells		     26<lb/>
 The Pages of the Flowers     27<lb/>
 Song			    29<lb/>
-Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
+Tristfulness		     31<pb xml:id="bryher_lutany_1304" n="5"/>
 5<lb/></p>
-        <div id="bryher_lutany_002" type="Book">
+        <div xml:id="bryher_lutany_002" type="Book">
           <head>Region of Lutany</head>
-          <div id="bryher_lutany_003" type="Poem">
+          <div xml:id="bryher_lutany_003" type="Poem">
             <head>REGION OF LUTANY</head>
             <lg type="stanza">
               <l n="1">Where is the way to thee,</l>
@@ -132,7 +103,7 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>I sought if in pleasure the dream-city lay,</l>
               <l>I roamed in my thought to the future and past,</l>
             </lg>
-            <pb id="bryher_lutany_1306" n="6"/>
+            <pb xml:id="bryher_lutany_1306" n="6"/>
             <lg type="stanza">
               <l>Hoping in dreaming to find it at last,</l>
               <l>	I cannot reach to thee,</l>
@@ -140,10 +111,10 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>	O thou mysterious,</l>
               <l>	Region of Lutany.</l>
             </lg>
-            <p id="bryher_lutany_1307">1912.</p>
-            <pb id="bryher_lutany_1308" n="7"/>
+            <p xml:id="bryher_lutany_1307">1912.</p>
+            <pb xml:id="bryher_lutany_1308" n="7"/>
           </div>
-          <div id="bryher_lutany_004" type="Poem">
+          <div xml:id="bryher_lutany_004" type="Poem">
             <head>CORFU</head>
             <lg type="stanza">
               <l n="1">Wrapt in the dreaming Ionian sea,</l>
@@ -166,11 +137,11 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>  Or is it thy poppies that lull me to rest,</l>
               <l>	Corfu?</l>
             </lg>
-            <p id="bryher_lutany_1309">Corfu, </p>
-            <p id="bryher_lutany_13010">1913</p>
-            <pb id="bryher_lutany_13011" n="8"/>
+            <p xml:id="bryher_lutany_1309">Corfu, </p>
+            <p xml:id="bryher_lutany_13010">1913</p>
+            <pb xml:id="bryher_lutany_13011" n="8"/>
           </div>
-          <div id="bryher_lutany_005" type="Poem">
+          <div xml:id="bryher_lutany_005" type="Poem">
             <head>LEADERLESS</head>
             <lg type="stanza">
               <l n="1">(<hi rend="italic">To an imaginary poet.</hi>)</l>
@@ -196,7 +167,7 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l n="1">We rhymed our little songs, and laughed at thee,</l>
               <l>We scorned thy visions, scorned thy leadership.</l>
             </lg>
-            <pb id="bryher_lutany_13012" n="9"/>
+            <pb xml:id="bryher_lutany_13012" n="9"/>
             <lg type="stanza">
               <l>A dreaming child, thou wandered long ago,</l>
               <l>Until the music of the eastern sky</l>
@@ -224,7 +195,7 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>And thy gold-wingèd soul</l>
               <l>Grew tired.</l>
             </lg>
-            <pb id="bryher_lutany_13013" n="10"/>
+            <pb xml:id="bryher_lutany_13013" n="10"/>
             <lg type="stanza">
               <l>But still thou wovest greater-soulèd songs,</l>
               <l>From out the desolation of thine heart,</l>
@@ -255,7 +226,7 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>Amber, and argent, and azure,</l>
               <l>In one cloud over thee.</l>
             </lg>
-            <pb id="bryher_lutany_13014" n="11"/>
+            <pb xml:id="bryher_lutany_13014" n="11"/>
             <lg type="stanza">
               <l>There is thy soul freer than the salt air,</l>
               <l>Lighter than wind-swept spray,</l>
@@ -283,7 +254,7 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>If any remember</l>
               <l>The days of thy leadership?</l>
             </lg>
-            <pb id="bryher_lutany_13015" n="12"/>
+            <pb xml:id="bryher_lutany_13015" n="12"/>
             <lg type="stanza">
               <l>O dreamer of unutterable dreams,</l>
               <l>Leave thou the sunset-fire,</l>
@@ -296,10 +267,10 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>So lead us by thine own dream-woven way,</l>
               <l>Back to the golden realms of Lutany.</l>
             </lg>
-            <p id="bryher_lutany_13016">1913. </p>
-            <pb id="bryher_lutany_13017" n="13"/>
+            <p xml:id="bryher_lutany_13016">1913. </p>
+            <pb xml:id="bryher_lutany_13017" n="13"/>
           </div>
-          <div id="bryher_lutany_006" type="Poem">
+          <div xml:id="bryher_lutany_006" type="Poem">
             <head>PALÆOKASTRIZZA</head>
             <lg type="stanza">
               <l n="1">Beyond the olive slopes, a sun-crowned peak</l>
@@ -321,11 +292,11 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>And I had reached a long desirèd realm,</l>
               <l>The Land of Greece.</l>
             </lg>
-            <p id="bryher_lutany_13018">CORFU,</p>
-            <p id="bryher_lutany_13019">1913. </p>
-            <pb id="bryher_lutany_13020" n="14"/>
+            <p xml:id="bryher_lutany_13018">CORFU,</p>
+            <p xml:id="bryher_lutany_13019">1913. </p>
+            <pb xml:id="bryher_lutany_13020" n="14"/>
           </div>
-          <div id="bryher_lutany_007" type="Poem">
+          <div xml:id="bryher_lutany_007" type="Poem">
             <head>TO FRANCIS THOMPSON</head>
             <lg type="stanza">
               <l n="1">Enwrapt  within the amethystine fold</l>
@@ -354,18 +325,18 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>one struggle, and thy dream-enchanted eyes</l>
               <l>Closed Slumber-sealed.</l>
             </lg>
-            <pb id="bryher_lutany_13021" n="15"/>
+            <pb xml:id="bryher_lutany_13021" n="15"/>
             <lg type="stanza">
               <l n="1">We cannot soothe one sorrow, right one wrong,</l>
               <l>We cannot add  a bud to thy renown,</l>
               <l>Within the star-lit garden of thy song</l>
               <l>Thou hast thy crown.</l>
             </lg>
-            <p id="bryher_lutany_13022">Palermo,</p>
-            <p id="bryher_lutany_13023">June, 1913. </p>
-            <pb id="bryher_lutany_13024" n="16"/>
+            <p xml:id="bryher_lutany_13022">Palermo,</p>
+            <p xml:id="bryher_lutany_13023">June, 1913. </p>
+            <pb xml:id="bryher_lutany_13024" n="16"/>
           </div>
-          <div id="bryher_lutany_008" type="Poem">
+          <div xml:id="bryher_lutany_008" type="Poem">
             <head>PANSIES</head>
             <lg type="stanza">
               <l n="1">O my glimmering petalled pansies,</l>
@@ -386,18 +357,18 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>Carolled in March when the winter is dying,</l>
               <l>  And April stirs in the primrose root.</l>
             </lg>
-            <pb id="bryher_lutany_13025" n="17"/>
+            <pb xml:id="bryher_lutany_13025" n="17"/>
             <lg type="stanza">
               <l>O I would weave such a song for you,</l>
               <l>	That your buds would keep,</l>
               <l>	From the land of sleep,</l>
               <l>To list my singing the whole night through.</l>
             </lg>
-            <p id="bryher_lutany_13026">Siracusa,</p>
-            <p id="bryher_lutany_13027">1913. </p>
-            <pb id="bryher_lutany_13028" n="18"/>
+            <p xml:id="bryher_lutany_13026">Siracusa,</p>
+            <p xml:id="bryher_lutany_13027">1913. </p>
+            <pb xml:id="bryher_lutany_13028" n="18"/>
           </div>
-          <div id="bryher_lutany_009" type="Poem">
+          <div xml:id="bryher_lutany_009" type="Poem">
             <head>DWELT A MAID IN LUTANY</head>
             <lg type="stanza">
               <l n="1">Long ago there dwelt a maid,</l>
@@ -426,7 +397,7 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>Flitting like an umbered bee,</l>
               <l>To a dawn-sweet melody.</l>
             </lg>
-            <pb id="bryher_lutany_13029" n="19"/>
+            <pb xml:id="bryher_lutany_13029" n="19"/>
             <lg type="stanza">
               <l>Yet the maiden, tired of dreaming,</l>
               <l>Longed to flit away,</l>
@@ -448,9 +419,9 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>Where dawn-radiant visions throng,</l>
               <l>In the Land of Lutany.</l>
             </lg>
-            <pb id="bryher_lutany_13030" n="20"/>
+            <pb xml:id="bryher_lutany_13030" n="20"/>
           </div>
-          <div id="bryher_lutany_010" type="Poem">
+          <div xml:id="bryher_lutany_010" type="Poem">
             <head>SICILY</head>
             <lg type="stanza">
               <l n="1">When songs were but the winds that swept thy seas,</l>
@@ -475,7 +446,7 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>Enfolded are for me</l>
               <l>In memory.</l>
             </lg>
-            <pb id="bryher_lutany_13031" n="21"/>
+            <pb xml:id="bryher_lutany_13031" n="21"/>
             <lg type="stanza">
               <l n="1">Though now I seek the tiny Grecian bays,</l>
               <l>O Playfellow of those unsaddened days</l>
@@ -483,9 +454,9 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>I still shall think of thee,</l>
               <l>My Sicily.</l>
             </lg>
-            <pb id="bryher_lutany_13032" n="22"/>
+            <pb xml:id="bryher_lutany_13032" n="22"/>
           </div>
-          <div id="bryher_lutany_012" type="Poem">
+          <div xml:id="bryher_lutany_012" type="Poem">
             <head>ODE TO THE SEA</head>
             <lg type="stanza">
               <l n="1">How shall I tune my lute to sing thy praise</l>
@@ -510,7 +481,7 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>On the desolate curve of a wind-swayed wave.  </l>
               <l>O, I will pierce thy soul's most secret cave,</l>
             </lg>
-            <pb id="bryher_lutany_13033" n="23"/>
+            <pb xml:id="bryher_lutany_13033" n="23"/>
             <lg type="stanza">
               <l>	Laugh not, song-wingèd Sea,</l>
               <l>	Thou shalt not fly form me,</l>
@@ -539,7 +510,7 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>	Only a hap of seed,</l>
               <l>	Of some engloomèd weed,</l>
             </lg>
-            <pb id="bryher_lutany_13034" n="24"/>
+            <pb xml:id="bryher_lutany_13034" n="24"/>
             <lg type="stanza">
               <l>Remaineth of my utterance unborn,</l>
               <l>	Yet, is the rose forbid,</l>
@@ -553,11 +524,11 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>With awe-struck, silent lips, I list to thee,</l>
               <l>to thee, and thine unending lutany.</l>
             </lg>
-            <p id="bryher_lutany_13035">Cattero,</p>
-            <p id="bryher_lutany_13036">1913. </p>
-            <pb id="bryher_lutany_13037" n="25"/>
+            <p xml:id="bryher_lutany_13035">Cattero,</p>
+            <p xml:id="bryher_lutany_13036">1913. </p>
+            <pb xml:id="bryher_lutany_13037" n="25"/>
           </div>
-          <div id="bryher_lutany_013" type="Poem">
+          <div xml:id="bryher_lutany_013" type="Poem">
             <head>PONTIKONISI</head>
             <lg type="stanza">
               <l n="1">Dream-ceintured isle amid June-sleepy seas,</l>
@@ -572,10 +543,10 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>Wherein my soul would seek a sanctuary,</l>
               <l>For silent noon has hushed the world to sleep.</l>
             </lg>
-            <p id="bryher_lutany_13038">CORFU, 1913. </p>
-            <pb id="bryher_lutany_13039" n="26"/>
+            <p xml:id="bryher_lutany_13038">CORFU, 1913. </p>
+            <pb xml:id="bryher_lutany_13039" n="26"/>
           </div>
-          <div id="bryher_lutany_014" type="Poem">
+          <div xml:id="bryher_lutany_014" type="Poem">
             <head>BLUEBELLS</head>
             <lg type="stanza">
               <l n="1">In the wildest melodies</l>
@@ -594,10 +565,10 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>All we knew not how to say,</l>
               <l>Floating in your April lay.</l>
             </lg>
-            <p id="bryher_lutany_13040">1911. </p>
-            <pb id="bryher_lutany_13041" n="27"/>
+            <p xml:id="bryher_lutany_13040">1911. </p>
+            <pb xml:id="bryher_lutany_13041" n="27"/>
           </div>
-          <div id="bryher_lutany_015" type="Poem">
+          <div xml:id="bryher_lutany_015" type="Poem">
             <head>THE PAGES OF THE FLOWERS</head>
             <lg type="stanza">
               <l n="1">Gay tinted pages, fly away,</l>
@@ -625,7 +596,7 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>	Creep, creep,</l>
               <l>Where the bronzèd pansies sleep.</l>
             </lg>
-            <pb id="bryher_lutany_13042" n="28"/>
+            <pb xml:id="bryher_lutany_13042" n="28"/>
             <lg type="stanza">
               <l n="1">Would you know who are these pages?</l>
               <l>	Ask the Sages,</l>
@@ -634,10 +605,10 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>	They are pages</l>
               <l>Of the flowers, though all the ages.</l>
             </lg>
-            <p id="bryher_lutany_13043">191[3]</p>
-            <pb id="bryher_lutany_13044" n="29"/>
+            <p xml:id="bryher_lutany_13043">191[3]</p>
+            <pb xml:id="bryher_lutany_13044" n="29"/>
           </div>
-          <div id="bryher_lutany_016" type="Poem">
+          <div xml:id="bryher_lutany_016" type="Poem">
             <head>SONG</head>
             <lg type="stanza">
               <l n="1">The sunset glows</l>
@@ -659,18 +630,18 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>O dreams die not,</l>
               <l>  Nor fade away,</l>
             </lg>
-            <pb id="bryher_lutany_13045" n="30"/>
+            <pb xml:id="bryher_lutany_13045" n="30"/>
             <lg type="stanza">
               <l n="1">O come not night,</l>
               <l>  O waves drift on,-</l>
               <l>The sun takes flight,</l>
               <l>  The day has gone.</l>
             </lg>
-            <p id="bryher_lutany_13046">Norway, </p>
-            <p id="bryher_lutany_13047">1912. </p>
-            <pb id="bryher_lutany_13048" n="31"/>
+            <p xml:id="bryher_lutany_13046">Norway, </p>
+            <p xml:id="bryher_lutany_13047">1912. </p>
+            <pb xml:id="bryher_lutany_13048" n="31"/>
           </div>
-          <div id="bryher_lutany_017" type="Poem">
+          <div xml:id="bryher_lutany_017" type="Poem">
             <head>TRISTFULNESS</head>
             <lg type="stanza">
               <l n="1">O azure-wingèd dream, why flit from me?</l>
@@ -693,10 +664,10 @@ Tristfulness		     31<pb id="bryher_lutany_1304" n="5"/>
               <l>So fearfully,</l>
               <l>How wilt thou fly away?</l>
             </lg>
-            <p id="bryher_lutany_13049">1913. </p>
+            <p xml:id="bryher_lutany_13049">1913. </p>
           </div>
         </div>
       </div>
     </body>
   </text>
-</TEI.2>
+</TEI>

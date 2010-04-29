@@ -1,31 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
-<TEI.2 id="griffith_poems_130166">
-  <teiHeader type="text">
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="griffith_poems_130166">
+  <teiHeader><fileDesc>
       <titleStmt>
         <title>Poems, By Mattie Griffith, an electronic edition</title>
         <author>
-          <name reg="Browne, Martha Griffith, d. 1906" type="person">Mattie Griffith</name>
+          <name type="person"><choice><reg>Browne, Martha Griffith, d. 1906</reg><orig>Mattie Griffith</orig></choice></name>
         </author>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>Beck Center</name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent>200kb</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
-        </address>
-        <availability>
-          <p id="griffith_poems_1301">1996 Emory University. Permission is granted to
+        </address><availability>
+          <p xml:id="griffith_poems_1301">1996 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      <idno type="ark">http://pid.emory.edu/ark:/25593/17c9w</idno></publicationStmt>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17c9w</idno></publicationStmt>
       <seriesStmt>
         <title>Emory Women Writers Resource Project</title>
       </seriesStmt>
@@ -33,20 +24,18 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
         <bibl>Griffith, Mattie [Martha], Poems, By Mattie Griffith. New York:
 <publisher>D. Appleton &amp; Co.</publisher>, 200 Broadway, AND 16 Little Britain, London. <date>1852</date></bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
+    </fileDesc><encodingDesc>
       <projectDesc>
-        <p id="griffith_poems_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+        <p xml:id="griffith_poems_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
       </projectDesc>
       <classDecl>
-        <taxonomy id="lcsh">
+        <taxonomy xml:id="lcsh">
           <bibl>
             <title>Library of Congress Subject Headings</title>
           </bibl>
         </taxonomy>
       </classDecl>
-    </encodingDesc>
-    <profileDesc>
+    </encodingDesc><profileDesc>
       <creation>
         <rs type="collection">Abolition, Freedom, and Rights</rs>
         <rs type="language">English</rs>
@@ -57,45 +46,26 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
         <date>1800-1899</date>
       </creation>
       <textClass>
-        <keywords scheme="lcsh">
+        <keywords scheme="#lcsh">
           <list>
             <item>Women authors, American--19th Century.</item>
             <item>American poetry--Women authors--19th Century.</item>
           </list>
         </keywords>
       </textClass>
-    </profileDesc>
-    <revisionDesc>
-      <change>
-        <date>2001</date>
-        <respStmt>
-          <name>Natalie Prestwich</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
-        <date>2006</date>
-        <respStmt>
-          <name>Alden Mahler</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>TEI header elements changed to conform to new Beck Center standards.</item>
-      </change>
-    </revisionDesc>
-  </teiHeader>
-  <text id="griffith_poems_130165">
-    <body id="griffith_poems_130164">
-      <div id="griffith_poems_00" type="Book">
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2001</date><label>Staff</label><name>Natalie Prestwich</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="griffith_poems_130165">
+    <body xml:id="griffith_poems_130164">
+      <div xml:id="griffith_poems_00" type="Book">
         <docAuthor>Griffith, Mattie [Martha]</docAuthor>
         <docAuthor>Browne, Mattie Griffith</docAuthor>
         <head><title>POEMS, BY MATTIE GRIFFITH.</title><lb/>
 Now first Collected.</head>
-        <docDate>1852</docDate>
+        
         <bibl>NEW YORK:  D. APPLETON &amp; COMPANY, 200 BROADWAY, AND 16 LITTLE BRITAIN, LONDON.  M.DCCC.LIII.</bibl>
-        <p id="griffith_poems_1303">TO THE GREAT PEOPLE OF KENTUCKY, THIS LITTLE VOLUME IS AFFECTIONATELY INSCRIBED BY THE HUMBLEST AND MOST DEVOTED OF KENTUCKY'S DAUGHTERS.</p>
-        <p id="griffith_poems_1304">THE AUTHOR.</p>
-        <p id="griffith_poems_1305"><hi rend="bold">CONTENTS.</hi><lb/>
+        <p xml:id="griffith_poems_1303">TO THE GREAT PEOPLE OF KENTUCKY, THIS LITTLE VOLUME IS AFFECTIONATELY INSCRIBED BY THE HUMBLEST AND MOST DEVOTED OF KENTUCKY'S DAUGHTERS.</p>
+        <p xml:id="griffith_poems_1304">THE AUTHOR.</p>
+        <p xml:id="griffith_poems_1305"><hi rend="bold">CONTENTS.</hi><lb/>
 THE DYING GIRL, . . . . . . . . . . 9<lb/>
 THE LOVERS' LAST MEETING . . . . . . . . . . 16<lb/>
 LOOK AMD LIST, LOVE, . . . . . . . . . . 25<lb/>
@@ -132,7 +102,7 @@ A TRIFLE TO A FRIEND, . . . . . . . . . . 153<lb/>
 THE URN OF THE HEART, . . . . . . . . . . 156<lb/>
 RECOLLECTIONS, . . . . . . . . . . 159<lb/>
 TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
-        <div id="griffith_poems_01" type="Poem">
+        <div xml:id="griffith_poems_01" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>The Dying Girl.</head>
@@ -151,7 +121,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Where dwell the blest, a bright, angelic band,</l>
             <l>Where radiant spirits chant their burning lay,</l>
             <l>Their song of immortality, and stray</l>
-            <pb id="griffith_poems_1306" n="10"/>
+            <pb xml:id="griffith_poems_1306" n="10"/>
             <l>Beside the streams soft-gleaming 'mid the flowers</l>
             <l>And rainbow-groves of Eden's blessed bowers,</l>
             <l>And there I shall behold our mother's face,</l>
@@ -175,7 +145,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Gay as the singing birds, and never felt</l>
             <l>The care, the grief, the agony, the strife,</l>
             <l>That lurk like fiends along the paths of life.</l>
-            <pb id="griffith_poems_1307" n="11"/>
+            <pb xml:id="griffith_poems_1307" n="11"/>
             <l>There round our home the rose with crimson dye</l>
             <l>Bared its young heart of beauty to the eye,</l>
             <l>There sprang the violets, and the lilies there,</l>
@@ -198,7 +168,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Their silent vigils o'er each place of sleep,</l>
             <l>And where at times we wander'd with hushed breath</l>
             <l>To view the sad memorials of death.</l>
-            <pb id="griffith_poems_1308" n="12"/>
+            <pb xml:id="griffith_poems_1308" n="12"/>
             <l>There, sister, sleep our old ancestral line,</l>
             <l>And I would lay this weary head of mine</l>
             <l>Beside their forms, and I would have a rose</l>
@@ -221,7 +191,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>From all I knew and loved in life's young day,</l>
             <l>Far from the ashes of the brave and fair</l>
             <l>Who bore the name that we are proud to bear,</l>
-            <pb id="griffith_poems_1309" n="13"/>
+            <pb xml:id="griffith_poems_1309" n="13"/>
             <l>And who have gone before me to their home</l>
             <l>In the high halls of you star-lighted dome.</l>
             <l>Forms all unknown will slumber near my side,</l>
@@ -244,7 +214,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>As a rapt poet's holiest dreams.  The dull</l>
             <l>Cold film of death was soon to dim her eye,</l>
             <l>Still bright as yon clear jewel of the sky;</l>
-            <pb id="griffith_poems_13010" n="14"/>
+            <pb xml:id="griffith_poems_13010" n="14"/>
             <l>Bright with the visions of her vanished years,</l>
             <l>Bright with the rainbow pictured on her tears</l>
             <l>By love's and memory's pure and tender beams,</l>
@@ -267,17 +237,17 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>She seemed to see a spirit in the air.</l>
             <l>Half-rising on her couch, with sudden start,</l>
             <l>She strove to clasp the vision to her heart,</l>
-            <pb id="griffith_poems_13011" n="15"/>
+            <pb xml:id="griffith_poems_13011" n="15"/>
             <l>And with a feeble cry of ecstasy,</l>
             <l>"Oh! mother, stay, I come, I come to thee!</l>
             <l>Her young soul passed, her dream of earth 'was o'er,</l>
             <l>Her pulse was still, her heart beat nevermore.</l>
             <lb/>
             <l>UNIONTOWN, PA., July 11.</l>
-            <pb id="griffith_poems_13012" n="16"/>
+            <pb xml:id="griffith_poems_13012" n="16"/>
           </lg>
         </div>
-        <div id="griffith_poems_02" type="Poem">
+        <div xml:id="griffith_poems_02" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>The Lovers' Last Meeting.</head>
@@ -296,7 +266,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>And worn in soul.  Her pale and withering cheek</l>
             <l>Told to the heart the tale of many a wild,</l>
             <l>Fierce struggle of a spirit unsubdued.</l>
-            <pb id="griffith_poems_13013" n="17"/>
+            <pb xml:id="griffith_poems_13013" n="17"/>
             <l>Her dark eyes gleamed with the intensity</l>
             <l>Of strange, unspoken griefs, and in their calm,</l>
             <l>Mysterious fixedness there seemed a high,</l>
@@ -319,7 +289,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Drooped to his heaving bosom, as a dove,</l>
             <l>Weary and broken wing'd, sinks to its own</l>
             <l>Dear parent nest.  Her little trembling hand</l>
-            <pb id="griffith_poems_13014" n="18"/>
+            <pb xml:id="griffith_poems_13014" n="18"/>
             <l>Was clasped within his own, her upturned eye</l>
             <l>Met his, and drank again the heavenly bliss</l>
             <l>Of dear and sweet reunion.  On each pale</l>
@@ -343,7 +313,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Of crimson to her temples, or perchance</l>
             <l>It may have been the deep reflection caught</l>
             <l>From the wild burning thoughts that raged within</l>
-            <pb id="griffith_poems_13015" n="19"/>
+            <pb xml:id="griffith_poems_13015" n="19"/>
             <l>Her shut and silent heart.  She did not look</l>
             <l>Upon the many flowers, she did not hear</l>
             <l>The music of the stream--the fairy tints</l>
@@ -365,7 +335,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>They saw not sunset's glorious roses fade</l>
             <l>Within the west's sky-garden, they but felt</l>
             <l>They loved and were supremely blest.</l>
-            <pb id="griffith_poems_13016" n="20"/>
+            <pb xml:id="griffith_poems_13016" n="20"/>
           </lg>
           <lg type="stanza">
             <l n="1">	At length</l>
@@ -389,7 +359,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>And bade her turn her thoughts from earth, and look</l>
             <l>Above life's clouds for perfect happiness</l>
             <l>Within the skies. He told her how they two</l>
-            <pb id="griffith_poems_13017" n="21"/>
+            <pb xml:id="griffith_poems_13017" n="21"/>
             <l>Would wander there, twin-spirits, hand in hand,</l>
             <l>Beside the lovely Eden streams that glass</l>
             <l>The blessed rainbow skies, how they would cull</l>
@@ -411,7 +381,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
           <lg type="stanza">
             <l n="1">	But though</l>
             <l>By soft and low and gentle words like these,</l>
-            <pb id="griffith_poems_13018" n="22"/>
+            <pb xml:id="griffith_poems_13018" n="22"/>
             <l>Breathed in the rich tones that first won her love,</l>
             <l>He calmed the fiery lava-flood that raged</l>
             <l>Within her tortured heart, he could not soothe</l>
@@ -433,7 +403,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>As if his heart were broken.  And <hi rend="italic">her</hi> tears</l>
             <l>Gushed forth to blend with his, and thus they wept</l>
             <l>Together long and wildly.</l>
-            <pb id="griffith_poems_13019" n="23"/>
+            <pb xml:id="griffith_poems_13019" n="23"/>
           </lg>
           <lg type="stanza">
             <l n="1">	On their ears</l>
@@ -458,7 +428,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Pale, faint, and weak, with faltering footsteps sought</l>
             <l>Her chamber's silent solitude, to pour</l>
             <l>Her sad soul forth in earnest prayer to God</l>
-            <pb id="griffith_poems_13020" n="24"/>
+            <pb xml:id="griffith_poems_13020" n="24"/>
             <l>For strength to quell the fierce, rebellions thoughts</l>
             <l>That seemed for ever sweeping like a tide</l>
             <l>Of burning waters o'er her heart.  <hi rend="italic">He</hi> sought</l>
@@ -474,10 +444,10 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>And lo! a pitying angel came from Heaven</l>
             <l>And joined their fates forever.  'Twas the kind</l>
             <l>Death-angel--they are all each other's now.</l>
-            <pb id="griffith_poems_13021" n="25"/>
+            <pb xml:id="griffith_poems_13021" n="25"/>
           </lg>
         </div>
-        <div id="griffith_poems_03" type="Poem">
+        <div xml:id="griffith_poems_03" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>Look and List, Love.</head>
@@ -497,7 +467,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>The far-off waterfall,</l>
             <l>And in its low tones thou wilt hear</l>
             <l>My spirit's earnest call</l>
-            <pb id="griffith_poems_13022" n="26"/>
+            <pb xml:id="griffith_poems_13022" n="26"/>
             <l>To thine, to meet me at the soft</l>
             <l>And blessed twilight hour,</l>
             <l>Where we so oft have loved to meet</l>
@@ -520,7 +490,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>So beautiful and fair,</l>
             <l>And think of all our earnest vows</l>
             <l>That have their record there.</l>
-            <pb id="griffith_poems_13023" n="27"/>
+            <pb xml:id="griffith_poems_13023" n="27"/>
             <l>And see! the priest of Nature now</l>
             <l>Seems bending from above,</l>
             <l>With his own gentle hand to set</l>
@@ -543,7 +513,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>That steals from you bright stars,</l>
             <l>As in their watch of love they float</l>
             <l>High on their golden ears;</l>
-            <pb id="griffith_poems_13024" n="28"/>
+            <pb xml:id="griffith_poems_13024" n="28"/>
             <l>And they will tell thee that the love</l>
             <l>To our young spirits given,</l>
             <l>Like theirs, shines sweetly on the earth</l>
@@ -566,7 +536,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>And holy midnight hour,</l>
             <l>When love's deep charm o'er human souls</l>
             <l>Hath strong and mystic power;</l>
-            <pb id="griffith_poems_13025" n="29"/>
+            <pb xml:id="griffith_poems_13025" n="29"/>
             <l>And thou wilt see my spirit stand</l>
             <l>Beside thee where thou art,</l>
             <l>And hear it breathe love's burning words</l>
@@ -574,10 +544,10 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l rend="right">Look and list, love.</l>
             <lb/>
             <l>LOUISVILLE, KY., 1852.</l>
-            <pb id="griffith_poems_13026" n="30"/>
+            <pb xml:id="griffith_poems_13026" n="30"/>
           </lg>
         </div>
-        <div id="griffith_poems_04" type="Poem">
+        <div xml:id="griffith_poems_04" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>The Close of the Year.</head>
@@ -596,7 +566,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>The ear that Nature lives.  The holy stars,</l>
             <l>The watchers of the night, are burning faint,</l>
             <l>Like funeral lamps; the dark cloud-shadows rest</l>
-            <pb id="griffith_poems_13027" n="31"/>
+            <pb xml:id="griffith_poems_13027" n="31"/>
             <l>Upon the still earth like a pall; the hills</l>
             <l>And mountains stand like mourners; the tall trees,</l>
             <l>Leafless and solemn, bend their tops like plumes</l>
@@ -618,7 +588,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Whose dark and dread and shoreless waters hide</l>
             <l>The wrecks of empires and the wrecks of worlds</l>
             <l>From every eye but God's.</l>
-            <pb id="griffith_poems_13028" n="32"/>
+            <pb xml:id="griffith_poems_13028" n="32"/>
           </lg>
           <lg type="stanza">
             <l n="1">  Ah! gazing back</l>
@@ -643,7 +613,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>And deeply muse upon the two vast worlds,</l>
             <l>Spread out on either hand before our eyes,</l>
             <l>The Past and Future.  From this lonely height,</l>
-            <pb id="griffith_poems_13029" n="33"/>
+            <pb xml:id="griffith_poems_13029" n="33"/>
             <l>Straining our gaze far backward o'er the plain</l>
             <l>That we have swiftly traversed, we behold,</l>
             <l>All thickly scattered o'er the dreary space,</l>
@@ -665,7 +635,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>From the lone desolations of the past,</l>
             <l>To gaze upon Futurity, and there,</l>
             <l>Through the long vista of the years, we see,</l>
-            <pb id="griffith_poems_13030" n="34"/>
+            <pb xml:id="griffith_poems_13030" n="34"/>
             <l>With fancy's eye, rich vales, as beautiful</l>
             <l>As those through which in childhood's hours we roved;</l>
             <l>And there, joys, hopes, and loves, as fresh and bright</l>
@@ -688,7 +658,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Of Faith divine.  We feel, we know that He,</l>
             <l>Who hath preserved us 'mid the thousand ills,</l>
             <l>The countless dangers lurking in our paths,</l>
-            <pb id="griffith_poems_13031" n="35"/>
+            <pb xml:id="griffith_poems_13031" n="35"/>
             <l>Still holds us in the hollow of His hand,</l>
             <l>And bids us trust in Him.</l>
           </lg>
@@ -703,10 +673,10 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>And seraph songs are poured from rainbow clouds,</l>
             <l>Once more embrace the loved and lost whom thou</l>
             <l>Hast taken from us in thy silent flight.</l>
-            <pb id="griffith_poems_13032" n="36"/>
+            <pb xml:id="griffith_poems_13032" n="36"/>
           </lg>
         </div>
-        <div id="griffith_poems_05" type="Poem">
+        <div xml:id="griffith_poems_05" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>Moonlight.</head>
@@ -725,7 +695,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Beside me as they moved in life; they breathe</l>
             <l>Sweet accents in my ear; they rise from earth</l>
             <l>On angel plumes, and gently beckon me</l>
-            <pb id="griffith_poems_13033" n="37"/>
+            <pb xml:id="griffith_poems_13033" n="37"/>
             <l>Through the soft, silvery mists that float around,</l>
             <l>To follow them upon their long</l>
             <l>And shining trail of glory.</l>
@@ -749,7 +719,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Like a pale nun in heaven.  Lone-musing here</l>
             <l>Amid the shadows of my curtained room,</l>
             <l>I saw it not, but yet I felt its spell</l>
-            <pb id="griffith_poems_13034" n="38"/>
+            <pb xml:id="griffith_poems_13034" n="38"/>
             <l>Steal through the air and sink into my soul,</l>
             <l>As with an angel power.  And lo! as now</l>
             <l>I gaze out from my window on the earth,</l>
@@ -772,7 +742,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l n="1">	There is a pure</l>
             <l>Sweet moonlight of the soul, that from the sky</l>
             <l>Shines on our earthly spirits, silvering o'er</l>
-            <pb id="griffith_poems_13035" n="39"/>
+            <pb xml:id="griffith_poems_13035" n="39"/>
             <l>Each depth of doubt, and sin, and agony</l>
             <l>With the celestial beauty of its beams,</l>
             <l>And bidding every shadow melt away;</l>
@@ -781,10 +751,10 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Mirror the wondrous glories of the heavens.</l>
             <lb/>
             <l>LOUISVILLIE, MARCH 15.</l>
-            <pb id="griffith_poems_13036" n="40"/>
+            <pb xml:id="griffith_poems_13036" n="40"/>
           </lg>
         </div>
-        <div id="griffith_poems_06" type="Poem">
+        <div xml:id="griffith_poems_06" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>To Sir Edward Bulwer Lytton, Bart.</head>
@@ -801,7 +771,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>At will on passion's maddening storm of fire,</l>
             <l>My young heart, faint and weak with its excess</l>
             <l>Of voiceless adoration, has sunk down</l>
-            <pb id="griffith_poems_13037" n="41"/>
+            <pb xml:id="griffith_poems_13037" n="41"/>
             <l>Before thee, its deep pride, its strength, its life,</l>
             <l>All, all forgotten in its silent awe</l>
             <l>Toward a bright being of the earth so high,</l>
@@ -825,7 +795,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Art a magician of strange power; thou canst</l>
             <l>Draw healing sweets from poisons; thou canst make</l>
             <l>The darkest, deadliest passions wear the hues</l>
-            <pb id="griffith_poems_13038" n="42"/>
+            <pb xml:id="griffith_poems_13038" n="42"/>
             <l>Of beauty and religion; all things, glassed</l>
             <l>Within thy fancy's mirror-wave, assume</l>
             <l>The holy tints of heaven.  With wizard spell</l>
@@ -848,7 +818,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>And the fierce vulture at the heart, for Jove,</l>
             <l>The Tyrant, rules no more in heaven, and God</l>
             <l>Is justice, love, and mercy.</l>
-            <pb id="griffith_poems_13039" n="43"/>
+            <pb xml:id="griffith_poems_13039" n="43"/>
           </lg>
           <lg type="stanza">
             <l n="1">	Cousin, thou</l>
@@ -872,7 +842,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>As a soft, blessed tone of melody</l>
             <l>To stir with gentleness the passion-depths</l>
             <l>Of thy great soul; and when on some lone eve</l>
-            <pb id="griffith_poems_13040" n="44"/>
+            <pb xml:id="griffith_poems_13040" n="44"/>
             <l>I send, as now, my spirit to commune</l>
             <l>With thine, oh give it one sweet, dewy flower</l>
             <l>From out the rich rose-garden of thy soul,</l>
@@ -895,7 +865,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Visions of love and immortality.</l>
             <l>In musings I have ofttimes stood with thee</l>
             <l>In ancient Knebworth, and with thee have strayed</l>
-            <pb id="griffith_poems_13041" n="45"/>
+            <pb xml:id="griffith_poems_13041" n="45"/>
             <l>Through its time-honored shades, while thy rich tones</l>
             <l>Have thrilled my spirit's lyre, and wakened thoughts</l>
             <l>To sleep no more for ever.</l>
@@ -907,10 +877,10 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Oh do not scorn the chaplet, for 'tis fresh,</l>
             <l>And pure, and softly glowing with the heart's</l>
             <l>First morning dews.  My cousin, fare thee well.</l>
-            <pb id="griffith_poems_13042" n="46"/>
+            <pb xml:id="griffith_poems_13042" n="46"/>
           </lg>
         </div>
-        <div id="griffith_poems_07" type="Poem">
+        <div xml:id="griffith_poems_07" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>On the Death of Miss Nannie C*****.</head>
@@ -923,7 +893,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Thy soft black eye, thy rosy lip, and all thy witching grace,</l>
             <l>And hear the cadence of thy voice come sweetly stealing by,</l>
             <l>Like music from some fairy fount beneath the moonlight sky.</l>
-            <pb id="griffith_poems_13043" n="47"/>
+            <pb xml:id="griffith_poems_13043" n="47"/>
             <l>Oh couldst thou, sweet and gentle girl, on earth no longer dwell?</l>
             <l>Had thy dear mother's love no power to hold thee with its spell?</l>
             <l>Had thy sweet sister's pleading voice no tone to keep thee here?</l>
@@ -936,7 +906,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Blend with thy own soul melodies through God's eternal years.</l>
             <l>But oh! does deeper, tenderer love in those high realms have birth,</l>
             <l>Than that which lives and throbs and weeps in human hearts on earth?</l>
-            <pb id="griffith_poems_13044" n="48"/>
+            <pb xml:id="griffith_poems_13044" n="48"/>
             <l>The thousand blossoms that have died beneath thee Autumn blast,</l>
             <l>Will bloom in future Springs as bright as in the Springs long past;</l>
             <l>The rose and violet will lift their cups of white and blue,</l>
@@ -951,13 +921,13 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>Were beauteous as an Angel's dream asleep in Paradise.</l>
             <l>And, oh I ask that when thy hymns of ecstasy ascend,</l>
             <l>Thoul't breathe one deep and holy prayer for thy poor, erring friend,</l>
-            <pb id="griffith_poems_13045" n="49"/>
+            <pb xml:id="griffith_poems_13045" n="49"/>
             <l>Who still, with weary step must tread, in loneliness and gloom,</l>
             <l>Uncheered by flower or blessed star, her pathway to the tomb.</l>
-            <pb id="griffith_poems_13046" n="50"/>
+            <pb xml:id="griffith_poems_13046" n="50"/>
           </lg>
         </div>
-        <div id="griffith_poems_08" type="Poem">
+        <div xml:id="griffith_poems_08" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>The Hermit.</head>
@@ -977,7 +947,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l n="1">	Beside him lay</l>
             <l>The rosary, the missal, and the scourge;</l>
             <l>No fire was on his cold and cheerless hearth;</l>
-            <pb id="griffith_poems_13047" n="51"/>
+            <pb xml:id="griffith_poems_13047" n="51"/>
             <l>The bread and water on table stood</l>
             <l>Untasted; his thin, bloodless hands were clasped</l>
             <l>Upon his breast; his blue, beseeching eye,</l>
@@ -1000,7 +970,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>The hermit passed in meditation, prayer,</l>
             <l>And fierce and bitter penance for the sins</l>
             <l>Of early youth.  But HER dear image still,</l>
-            <pb id="griffith_poems_13048" n="52"/>
+            <pb xml:id="griffith_poems_13048" n="52"/>
             <l>The image of the sweet and gentle one</l>
             <l>That he had loved so passionately, rose</l>
             <l>'Mid all his maddening tortures and his prayers</l>
@@ -1023,7 +993,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
           </lg>
           <lg type="stanza">
             <l n="1">	The sun arose,</l>
-            <pb id="griffith_poems_13049" n="53"/>
+            <pb xml:id="griffith_poems_13049" n="53"/>
             <l>And then the hermit's sleep was dreamless; bright</l>
             <l>The beam lay on the rigid brow of death.</l>
             <l>But on his breast, beneath the sackcloth robe,</l>
@@ -1035,10 +1005,10 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>And planted flowers upon his lonely grave!</l>
             <lb/>
             <l>LOUISVILLE, KY.</l>
-            <pb id="griffith_poems_13050" n="54"/>
+            <pb xml:id="griffith_poems_13050" n="54"/>
           </lg>
         </div>
-        <div id="griffith_poems_09" type="Poem">
+        <div xml:id="griffith_poems_09" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>To My Sister.</head>
@@ -1057,7 +1027,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>The waving wealth of midnight hair that floats</l>
             <l>Around thy forehead, like a stormy cloud</l>
             <l>Round a white monument; thy parting lips</l>
-            <pb id="griffith_poems_13051" n="55"/>
+            <pb xml:id="griffith_poems_13051" n="55"/>
             <l>So red, so rich, so like the opening rose</l>
             <l>While yet the soft and early dew-drop blends</l>
             <l>With its wild perfume; thy bewitching smile</l>
@@ -1080,7 +1050,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l n="1">	Thou, sister dear,</l>
             <l>Art on the earth, not of it.  Thy pure wing</l>
             <l>Is here chained back from thy own native heaven.</l>
-            <pb id="griffith_poems_13052" n="56"/>
+            <pb xml:id="griffith_poems_13052" n="56"/>
             <l>Thou art a gentle angel that my God</l>
             <l>Hath sent to soften, purify, and soothe</l>
             <l>My soul of fierce unrest.  To me thy love</l>
@@ -1103,7 +1073,7 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
           <lg type="stanza">
             <l n="1">	Sister mine!</l>
             <l>I've marked with bitter, bitter agony</l>
-            <pb id="griffith_poems_13053" n="57"/>
+            <pb xml:id="griffith_poems_13053" n="57"/>
             <l>Thy fast decline--yet ah! it cannot be</l>
             <l>That thou wilt leave me here alone, <hi rend="italic">alone</hi>,</l>
             <l>Upon the cold dull earth.  Alas! I fear</l>
@@ -1118,10 +1088,10 @@ TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
             <l>E'en now bids me be calm, and lo! the waves</l>
             <l>Of maddening fear are slowly ebbing back,</l>
             <l>To Heaven's own music-tone of "Peace! be still"</l>
-            <pb id="griffith_poems_13054" n="58"/>
+            <pb xml:id="griffith_poems_13054" n="58"/>
           </lg>
         </div>
-        <div id="griffith_poems_10" type="Poem">
+        <div xml:id="griffith_poems_10" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head><seg type="short-title">To Miss Julia Dean</seg>,<lb/>
@@ -1138,7 +1108,7 @@ ON SEEING HER AS JULIET.</head>
             <l>Life, grace, and beauty brighter than her own.</l>
             <l>Oh who would not weep gushing tears with thee,</l>
             <l>Thou lovely being with a heart of flame,</l>
-            <pb id="griffith_poems_13055" n="59"/>
+            <pb xml:id="griffith_poems_13055" n="59"/>
             <l>When in the maddening burst of thy young grief,</l>
             <l>Thy own dear Romeo from thee torn, thy arms</l>
             <l>Are thrown out wildly in a frantic prayer</l>
@@ -1161,7 +1131,7 @@ ON SEEING HER AS JULIET.</head>
             <l>Deep poetry of passion, they are breathed</l>
             <l>From thy young lips--all touch the soul with power</l>
             <l>Mysterious and resistless.</l>
-            <pb id="griffith_poems_13056" n="60"/>
+            <pb xml:id="griffith_poems_13056" n="60"/>
           </lg>
           <lg type="stanza">
             <l n="1">	Lady bright,</l>
@@ -1185,7 +1155,7 @@ ON SEEING HER AS JULIET.</head>
             <l>Thy pure white brow, serene and beautiful,</l>
             <l>And calm as infant sleep; thy floating wealth</l>
             <l>Of fleecy, golden hair; thy liquid eyes,</l>
-            <pb id="griffith_poems_13057" n="61"/>
+            <pb xml:id="griffith_poems_13057" n="61"/>
             <l>Through which thy thoughts glow ever, as the stars</l>
             <l>Shine through the soft, blue glories of the sky;</l>
             <l>The eloquent rich blood that proudly mounts</l>
@@ -1208,15 +1178,15 @@ ON SEEING HER AS JULIET.</head>
             <l n="1">	Lovely lady, thou</l>
             <l>Wilt leave us soon perchance for distant climes,</l>
             <l>To wake the loud applause of stranger lips,</l>
-            <pb id="griffith_poems_13058" n="62"/>
+            <pb xml:id="griffith_poems_13058" n="62"/>
             <l>And win a deathless garland for thy brow,</l>
             <l>And I may see thee never more.  Oh take</l>
             <l>With thee the blessings of a heart, that thou</l>
             <l>Hast ofttimes thrilled to ecstasy and tears.</l>
-            <pb id="griffith_poems_13059" n="63"/>
+            <pb xml:id="griffith_poems_13059" n="63"/>
           </lg>
         </div>
-        <div id="griffith_poems_11" type="Poem">
+        <div xml:id="griffith_poems_11" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>Starlight Musings.</head>
@@ -1236,7 +1206,7 @@ ON SEEING HER AS JULIET.</head>
             <l>Than when in childhood's happy years she gazed</l>
             <l>Enchanted on your lovely light, and dreamed</l>
             <l>Had she but wings, that she could rise and grasp</l>
-            <pb id="griffith_poems_13060" n="64"/>
+            <pb xml:id="griffith_poems_13060" n="64"/>
             <l>Your shining forms and twine them round her brow,</l>
             <l>A band of glorious jewels.  Now she comes</l>
             <l>Wiser, but oh, less happy, bent in soul</l>
@@ -1259,7 +1229,7 @@ ON SEEING HER AS JULIET.</head>
             <l>And years and sorrows vanish from her life,</l>
             <l>And leave her in her pure and innocent</l>
             <l>And joyous childhood.  Once again she treads</l>
-            <pb id="griffith_poems_13061" n="65"/>
+            <pb xml:id="griffith_poems_13061" n="65"/>
             <l>Where roses bloom, and no dark serpent coils</l>
             <l>Beneath their leaves; again she looks abroad</l>
             <l>O'er nature, with a soul that leaps to blend</l>
@@ -1282,7 +1252,7 @@ ON SEEING HER AS JULIET.</head>
             <l>And that her eyes would strain through gushing tears</l>
             <l>To search its glittering orb, and see if 'twere</l>
             <l>His spirit's dwelling-place.</l>
-            <pb id="griffith_poems_13062" n="66"/>
+            <pb xml:id="griffith_poems_13062" n="66"/>
           </lg>
           <lg type="stanza">
             <l n="1">	Ye glorious stars!</l>
@@ -1306,7 +1276,7 @@ ON SEEING HER AS JULIET.</head>
             <l>To bear His message to a fallen world,</l>
             <l>And on the dark brows and the gleaming steel</l>
             <l>Of the fierce hosts that spread their prophet's creed</l>
-            <pb id="griffith_poems_13063" n="67"/>
+            <pb xml:id="griffith_poems_13063" n="67"/>
             <l>Abroad by sword and wasting flame; ye shone</l>
             <l>On Egypt's plains ere yet the pyramids</l>
             <l>Lifted their bald and solemn heads to heaven;</l>
@@ -1329,7 +1299,7 @@ ON SEEING HER AS JULIET.</head>
             <l>And holy stars! ye seem in Paradise;</l>
             <l>Ay, when your beams are resting on our brows,</l>
             <l>We feel that we are bathed in what has been</l>
-            <pb id="griffith_poems_13064" n="68"/>
+            <pb xml:id="griffith_poems_13064" n="68"/>
             <l>A part of Heaven itself.  We know that ye</l>
             <l>Are God's own thoughts writ by His mighty hand,</l>
             <l>And that our winged souls, by mounting up</l>
@@ -1342,10 +1312,10 @@ ON SEEING HER AS JULIET.</head>
             <l>Yet, with our listening spirits we can hear</l>
             <l>Its echoes sounding nightly o'er the earth,</l>
             <l>The solemn music of eternity.</l>
-            <pb id="griffith_poems_13065" n="69"/>
+            <pb xml:id="griffith_poems_13065" n="69"/>
           </lg>
         </div>
-        <div id="griffith_poems_12" type="Poem">
+        <div xml:id="griffith_poems_12" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>The Deserted.</head>
@@ -1364,7 +1334,7 @@ ON SEEING HER AS JULIET.</head>
             <l>'Twill linger there for ever.  Even now</l>
             <l>In our own dear, sweet sunset time, the hour</l>
             <l>Of passion's unforgotten tryst, I hush</l>
-            <pb id="griffith_poems_13066" n="70"/>
+            <pb xml:id="griffith_poems_13066" n="70"/>
             <l>The raging tumult of my soul, and still</l>
             <l>The fierce strife in my lonely breast where pride</l>
             <l>Is fiercely struggling for control.  Each hue</l>
@@ -1387,7 +1357,7 @@ ON SEEING HER AS JULIET.</head>
             <l>There thou didst twine a wreath of sweetest flowers</l>
             <l>To shine amid my dark brown locks, and now</l>
             <l>Beside me lies a bud, the little bud</l>
-            <pb id="griffith_poems_13067" n="71"/>
+            <pb xml:id="griffith_poems_13067" n="71"/>
             <l>Thou gav'st me in the glad, bright Summer-time,</l>
             <l>Telling me 'twas the emblem of a hope</l>
             <l>That soon would burst to glorious life within</l>
@@ -1410,7 +1380,7 @@ ON SEEING HER AS JULIET.</head>
             <l>To bloom a moment there, and cast around</l>
             <l>Its sweet and gentle fragrance, but anon</l>
             <l>It vanishes away, as if it were</l>
-            <pb id="griffith_poems_13068" n="72"/>
+            <pb xml:id="griffith_poems_13068" n="72"/>
             <l>A mockery, the spectre of a flower.</l>
             <l>I quell my struggling sighs, and wear a smile;</l>
             <l>But ah! that smile, more eloquent than sighs,</l>
@@ -1433,7 +1403,7 @@ ON SEEING HER AS JULIET.</head>
             <l>I marked a figure stealing thence away,</l>
             <l>And my poor heart beat quick; for oh! I saw,</l>
             <l>Despite the closely muffled cloak, 'twas thou.</l>
-            <pb id="griffith_poems_13069" n="73"/>
+            <pb xml:id="griffith_poems_13069" n="73"/>
             <l>Then, then I knew that thou in secrecy</l>
             <l>Hadst sought that spot, like me, to muse and weep</l>
             <l>O'er blighted memories.  Thou art, like me,</l>
@@ -1455,7 +1425,7 @@ ON SEEING HER AS JULIET.</head>
             <l>The wreath of orange blossoms on <hi rend="italic">her</hi> brow,</l>
             <l>Oh! it will seem a fiery scorpion coiled</l>
             <l>Wildly around thine own.</l>
-            <pb id="griffith_poems_13070" n="74"/>
+            <pb xml:id="griffith_poems_13070" n="74"/>
           </lg>
           <lg type="stanza">
             <l n="1">	I'm dying now;</l>
@@ -1476,10 +1446,10 @@ ON SEEING HER AS JULIET.</head>
             <l>That I may learn in Heaven, will charm away</l>
             <l>All evil thoughts and passions from thy breast,</l>
             <l>And calm the raging tumult of thy soul.</l>
-            <pb id="griffith_poems_13071" n="75"/>
+            <pb xml:id="griffith_poems_13071" n="75"/>
           </lg>
         </div>
-        <div id="griffith_poems_13" type="Poem">
+        <div xml:id="griffith_poems_13" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>Thou Lovest Me No More.</head>
@@ -1498,7 +1468,7 @@ ON SEEING HER AS JULIET.</head>
             <l>I utter no reproaches.  Slowly now</l>
             <l>And silently and mournfully I ope</l>
             <l>My spirit's rosy-gate, and drive from thence</l>
-            <pb id="griffith_poems_13072" n="76"/>
+            <pb xml:id="griffith_poems_13072" n="76"/>
             <l>Each dear and starwinged hope that I have loved</l>
             <l>Through long, long years to cherish.</l>
           </lg>
@@ -1520,7 +1490,7 @@ ON SEEING HER AS JULIET.</head>
             <l>The keen reply, the free and buoyant tread,</l>
             <l>And none may ever rend the veil, and see</l>
             <l>What darkly lies beneath.</l>
-            <pb id="griffith_poems_13073" n="77"/>
+            <pb xml:id="griffith_poems_13073" n="77"/>
           </lg>
           <lg type="stanza">
             <l n="1">	But think thou not,</l>
@@ -1545,7 +1515,7 @@ ON SEEING HER AS JULIET.</head>
             <l>I'm gazing on thy picture, but I see</l>
             <l>No smile of sweet endearment on these lips,</l>
             <l>No high devotion on this pale, stern brow,</l>
-            <pb id="griffith_poems_13074" n="78"/>
+            <pb xml:id="griffith_poems_13074" n="78"/>
             <l>No gleam of love-light beaming in these eyes</l>
             <l>Of midnight fire--nay even <hi rend="italic">here</hi> is change.</l>
             <l>I send thee back thy vain and worthless gifts--</l>
@@ -1568,7 +1538,7 @@ ON SEEING HER AS JULIET.</head>
             <l>And lo! the twilight soft comes stealing on</l>
             <l>With its one star, the star of memory,</l>
             <l>Pale, pale, but very beautiful.</l>
-            <pb id="griffith_poems_13075" n="79"/>
+            <pb xml:id="griffith_poems_13075" n="79"/>
           </lg>
           <lg type="stanza">
             <l n="1">	I count</l>
@@ -1583,10 +1553,10 @@ ON SEEING HER AS JULIET.</head>
             <l>Within the dark and solitary depths</l>
             <l>Of Eastern tombs, forever shining on</l>
             <l>Where all around is death and dull decay.</l>
-            <pb id="griffith_poems_13076" n="80"/>
+            <pb xml:id="griffith_poems_13076" n="80"/>
           </lg>
         </div>
-        <div id="griffith_poems_14" type="Poem">
+        <div xml:id="griffith_poems_14" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>My Birth-Day.</head>
@@ -1604,7 +1574,7 @@ ON SEEING HER AS JULIET.</head>
             <l>Clasping my hand, or sitting at my side,</l>
             <l>And murmuring in my ear their gentle tones</l>
             <l>Of melody and love.</l>
-            <pb id="griffith_poems_13077" n="81"/>
+            <pb xml:id="griffith_poems_13077" n="81"/>
           </lg>
           <lg type="stanza">
             <l n="1">	My natal day!</l>
@@ -1629,7 +1599,7 @@ ON SEEING HER AS JULIET.</head>
             <l n="1">	My birth-day! Years</l>
             <l>Have flown and left me a lone mourner.  One</l>
             <l>By one I've seen the deeply, dearly loved,</l>
-            <pb id="griffith_poems_13078" n="82"/>
+            <pb xml:id="griffith_poems_13078" n="82"/>
             <l>The friends and guardians of my childhood, fade</l>
             <l>And wither like the leaves when Autumn sets</l>
             <l>His many-tinted signet on the woods.</l>
@@ -1652,7 +1622,7 @@ ON SEEING HER AS JULIET.</head>
             <l n="1">	My natal day!</l>
             <l>'Tis slowly melting in the twilight now,</l>
             <l>And soon its tints along the western sky</l>
-            <pb id="griffith_poems_13079" n="83"/>
+            <pb xml:id="griffith_poems_13079" n="83"/>
             <l>That seem a rose-wreath on the brow of death,</l>
             <l>Will pass away.  My natal day, farewell!</l>
             <l>Oh may'st thou, if thy light shall ever come</l>
@@ -1662,10 +1632,10 @@ ON SEEING HER AS JULIET.</head>
             <l>And revel, 'mid the glories of the sky.</l>
             <lb/>
             <l>LOUISVILLE KY.</l>
-            <pb id="griffith_poems_13080" n="84"/>
+            <pb xml:id="griffith_poems_13080" n="84"/>
           </lg>
         </div>
-        <div id="griffith_poems_15" type="Poem">
+        <div xml:id="griffith_poems_15" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>The Student.</head>
@@ -1686,7 +1656,7 @@ ON SEEING HER AS JULIET.</head>
             <l>He sat and mused upon his far-off home,</l>
             <l>His happy childhood's faded years, and all</l>
             <l>The beauty and the glory that had passed</l>
-            <pb id="griffith_poems_13081" n="85"/>
+            <pb xml:id="griffith_poems_13081" n="85"/>
             <l>With them for evermore.  He sadly thought</l>
             <l>Of his sweet sister, with her golden hair</l>
             <l>Streaming and waving on the morning wind--</l>
@@ -1708,7 +1678,7 @@ ON SEEING HER AS JULIET.</head>
             <l>And distant future might make melody,</l>
             <l>Dear melody for his now lonely ear;</l>
             <l>And then he bowed his strong and lofty heart,</l>
-            <pb id="griffith_poems_13082" n="86"/>
+            <pb xml:id="griffith_poems_13082" n="86"/>
             <l>And, 'mid his sad and holy memories, wept</l>
             <l>His stern, dark pride away.</l>
           </lg>
@@ -1732,7 +1702,7 @@ ON SEEING HER AS JULIET.</head>
             <l>Among the foremost of his country's sons</l>
             <l>That student stands.  The wild and stormy souls</l>
             <l>Of multitudes bow to his master-will,</l>
-            <pb id="griffith_poems_13083" n="87"/>
+            <pb xml:id="griffith_poems_13083" n="87"/>
             <l>Even as the sheaves the dreaming patriarch saw</l>
             <l>Bow to the master sheaf.  Each lightning flash</l>
             <l>Of his sublime and glorious intellect</l>
@@ -1749,10 +1719,10 @@ ON SEEING HER AS JULIET.</head>
             <l>When, 'mid the holy stillness of the night,</l>
             <l>He turns from all life's glittering pomp away,</l>
             <l>And weeps and sobs, ay, like a very child.</l>
-            <pb id="griffith_poems_13084" n="88"/>
+            <pb xml:id="griffith_poems_13084" n="88"/>
           </lg>
         </div>
-        <div id="griffith_poems_16" type="Poem">
+        <div xml:id="griffith_poems_16" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head><seg type="short-title">In Memory of Mrs. Adeline K. O'Brien</seg>,<lb/>
@@ -1770,7 +1740,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>The shadow of deep gloom hath settled round</l>
             <l>The holy hearth where joy was wont to ring.</l>
             <l>The lovely Spring-time is again on earth,</l>
-            <pb id="griffith_poems_13085" n="89"/>
+            <pb xml:id="griffith_poems_13085" n="89"/>
             <l>Kissing the thousand wild-flowers into bloom</l>
             <l>And fairy life; upon the rosy gale</l>
             <l>The wild-bird's song is floating; a bright robe</l>
@@ -1793,7 +1763,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>I gaze upon her partner's grief-bow'd form,</l>
             <l>And mark the deepened silver of his locks,</l>
             <l>And my heart checks its selfish sighs.  Her child,</l>
-            <pb id="griffith_poems_13086" n="90"/>
+            <pb xml:id="griffith_poems_13086" n="90"/>
             <l>Her cherub-child, is sporting in the bloom</l>
             <l>Of infancy, but yet her very mirth</l>
             <l>Seems strangely sad, as if her spirit felt</l>
@@ -1816,7 +1786,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>To whisper hope and comfort to my bruised</l>
             <l>And broken spirit.  Can it be?  Ah yes,</l>
             <l>O'er this lone spot thy bright and guardian wings</l>
-            <pb id="griffith_poems_13087" n="91"/>
+            <pb xml:id="griffith_poems_13087" n="91"/>
             <l>Are hovering, and at night thy angel-arms</l>
             <l>Enfold again the loved of earth, and guard</l>
             <l>From coming ills the children of thy heart.</l>
@@ -1827,10 +1797,10 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>Thy God and mine, that I am not alone.</l>
             <lb/>
             <l>BEDFORD, APRIL 12th, 1851.</l>
-            <pb id="griffith_poems_13088" n="92"/>
+            <pb xml:id="griffith_poems_13088" n="92"/>
           </lg>
         </div>
-        <div id="griffith_poems_17" type="Poem">
+        <div xml:id="griffith_poems_17" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>Close of the Year.</head>
@@ -1849,7 +1819,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>The princess of the sky, and in her pale</l>
             <l>Sweet light a spell of mournful love seems thrown</l>
             <l>Upon the plain, the forest, and the vale:</l>
-            <pb id="griffith_poems_13089" n="93"/>
+            <pb xml:id="griffith_poems_13089" n="93"/>
             <l>It is the old year's death-hour, but no sob</l>
             <l>Comes on the night-air from his dying breast;</l>
             <l>Serene, and calm, and still, without one throb</l>
@@ -1872,7 +1842,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>Around the dearest idols of the heart;</l>
             <l>We learn in youth the stern and bitter lore</l>
             <l>That comes of ruined hopes and darkened dreams,</l>
-            <pb id="griffith_poems_13090" n="94"/>
+            <pb xml:id="griffith_poems_13090" n="94"/>
             <l>And Nature has no magic to restore</l>
             <l>The glory of the spirit's shadowed gleams.</l>
           </lg>
@@ -1895,7 +1865,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>The mounting spirits of the pure will rove</l>
             <l>Above the cloud, the whirlwind, and the blast,</l>
             <l>In the bright Eden of immortal love.</l>
-            <pb id="griffith_poems_13091" n="95"/>
+            <pb xml:id="griffith_poems_13091" n="95"/>
           </lg>
           <lg type="stanza">
             <l n="1">Farewell, old year! while sorrow dims our eyes,</l>
@@ -1920,17 +1890,17 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
           <lg type="stanza">
             <l n="1">Farewell, for ever fare thee well, old year!</l>
             <l>The gentle angel, missioned at thy birth</l>
-            <pb id="griffith_poems_13092" n="96"/>
+            <pb xml:id="griffith_poems_13092" n="96"/>
             <l>To keep life's records through thy sojourn here,</l>
             <l>Has poised his shining wing and left the earth;</l>
             <l>Oh, may the words of love and mercy fall,</l>
             <l>Heaven's own blest music, on each erring soul,</l>
             <l>When, on His burning throne, the Judge of all</l>
             <l>Shall to our eyes unfold the awful scroll!</l>
-            <pb id="griffith_poems_13093" n="97"/>
+            <pb xml:id="griffith_poems_13093" n="97"/>
           </lg>
         </div>
-        <div id="griffith_poems_18" type="Poem">
+        <div xml:id="griffith_poems_18" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>To My Georgie.</head>
@@ -1949,7 +1919,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>Like gems from ocean-caves--thy lofty brow</l>
             <l>O'er which the blue veins stray like tranquil streams,</l>
             <l>Along a lovely plain--thy temples pale,</l>
-            <pb id="griffith_poems_13094" n="98"/>
+            <pb xml:id="griffith_poems_13094" n="98"/>
             <l>Where thy brown wealth of waving tresses floats</l>
             <l>In beautiful luxuriance--thy lips</l>
             <l>Of richest coral, where a thousand smiles</l>
@@ -1972,7 +1942,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>The angel-charm on which our God in heaven</l>
             <l>Set His own signet of unchanging truth.</l>
             <l>I love thee, and I reverence thy high</l>
-            <pb id="griffith_poems_13095" n="99"/>
+            <pb xml:id="griffith_poems_13095" n="99"/>
             <l>And holy strength of purpose.  Gentleness,</l>
             <l>And loftiness, and virtue are in all</l>
             <l>Thy feelings, and they stamp thy mortal life</l>
@@ -1995,7 +1965,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>And the refreshing dew-drop to the parched</l>
             <l>And desert earth.  Ay, thou art blest with all</l>
             <l>That makes life beautiful, with not one cloud</l>
-            <pb id="griffith_poems_13096" n="100"/>
+            <pb xml:id="griffith_poems_13096" n="100"/>
             <l>To dim thy heaven.  Thus may it ever be,</l>
             <l>Dear friend, with thee.  May no dark sorrows e'er</l>
             <l>Come o'er thy tranquil life, like those that frown</l>
@@ -2017,10 +1987,10 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>With their bright wreath of immortality.</l>
             <lb/>
             <l>OHIO RIVER, JUNE 23.</l>
-            <pb id="griffith_poems_13097" n="101"/>
+            <pb xml:id="griffith_poems_13097" n="101"/>
           </lg>
         </div>
-        <div id="griffith_poems_19" type="Poem">
+        <div xml:id="griffith_poems_19" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>In Memory of my Father.</head>
@@ -2040,7 +2010,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>Within my soul there is a holy flower,</l>
             <l>A flower perennial, watered with my tears,</l>
             <l>And kissed to bloom by the sweet beam of love--</l>
-            <pb id="griffith_poems_13098" n="102"/>
+            <pb xml:id="griffith_poems_13098" n="102"/>
             <l>Father, that flower is memory of thee.</l>
             <l>Years, weary, anxious years have passed o'er earth,</l>
             <l>And shadowed in their course young, loving hearts,</l>
@@ -2063,7 +2033,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>Sweet instinct of a daughter, she placed flowers</l>
             <l>Upon thy lonely grave.  My deep heart breathes</l>
             <l>A blessing upon hers.  Oh may no griefs</l>
-            <pb id="griffith_poems_13099" n="103"/>
+            <pb xml:id="griffith_poems_13099" n="103"/>
             <l>E'er fall upon her life like those which rest</l>
             <l>So dark on mine.</l>
           </lg>
@@ -2086,17 +2056,17 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>The trembling fibres of my frame I feel</l>
             <l>That hallowed kiss.  Stay, blessed father, stay,</l>
             <l>And leave me never more alone on this</l>
-            <pb id="griffith_poems_130100" n="104"/>
+            <pb xml:id="griffith_poems_130100" n="104"/>
             <l>Cold desert of the earth.  If thou must go,</l>
             <l>Dear father, fold thy angel-wings around</l>
             <l>Thy child, and bear her to thy far blue home,</l>
             <l>To rest for ever with our God and thee.</l>
             <lb/>
             <l>BEDFORD, KY.</l>
-            <pb id="griffith_poems_130101" n="105"/>
+            <pb xml:id="griffith_poems_130101" n="105"/>
           </lg>
         </div>
-        <div id="griffith_poems_20" type="Poem">
+        <div xml:id="griffith_poems_20" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>The Lone One at the Old Trysting-Place.</head>
@@ -2115,7 +2085,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>Still shines above as bright as when it beamed,</l>
             <l>In eve's long past, a watchfire in the heavens,</l>
             <l>To guide <hi rend="italic">his</hi> steps to me</l>
-            <pb id="griffith_poems_130102" n="106"/>
+            <pb xml:id="griffith_poems_130102" n="106"/>
           </lg>
           <lg type="stanza">
             <l n="1">	Ah, here where once</l>
@@ -2140,7 +2110,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>So dark and drear, a light is breaking now,</l>
             <l>'Tis memory's holy star-gleam, 'tis a light</l>
             <l>From out the happy past.  Deep in my heart</l>
-            <pb id="griffith_poems_130103" n="107"/>
+            <pb xml:id="griffith_poems_130103" n="107"/>
             <l>There blooms a single flower, a lonely flower</l>
             <l>Or faded recollection, the "last rose"</l>
             <l>Of joy's departed Summer, a sweet bloom</l>
@@ -2165,7 +2135,7 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>With God and with His holy messengers</l>
             <l>That guard this sacred place.  A soft low prayer</l>
             <l>Is gently stirring all my heart's young leaves,</l>
-            <pb id="griffith_poems_130104" n="108"/>
+            <pb xml:id="griffith_poems_130104" n="108"/>
             <l>And breathing from my lips.  Oh I would ask</l>
             <l>For <hi rend="italic">him</hi> a charmed existence.  I would ask</l>
             <l>That on <hi rend="italic">my</hi> life the shadows lengthening</l>
@@ -2189,10 +2159,10 @@ ON VISTING HER HOUSE AFTER HER DEATH.</head>
             <l>Has gathered brightness and intensity</l>
             <l>From this lone eve's communion.  Dearest spot,</l>
             <l>Farewell! farewell!  I may not see thee more.</l>
-            <pb id="griffith_poems_130105" n="109"/>
+            <pb xml:id="griffith_poems_130105" n="109"/>
           </lg>
         </div>
-        <div id="griffith_poems_21" type="Poem">
+        <div xml:id="griffith_poems_21" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head><seg type="short-title">Lines to Miss -------</seg><lb/>
@@ -2214,7 +2184,7 @@ ON HER MARRIAGE.</head>
             <l>The home of peace, of happiness and love,</l>
             <l>Yet still 'twill be, where'er thy feet may roam,</l>
             <l>An ark of refuge for the wandering dove.</l>
-            <pb id="griffith_poems_130106" n="110"/>
+            <pb xml:id="griffith_poems_130106" n="110"/>
           </lg>
           <lg type="stanza">
             <l n="1">Within another's heart thy heart of pride,</l>
@@ -2241,10 +2211,10 @@ ON HER MARRIAGE.</head>
             <l>As beautiful as I behold thee here.</l>
             <lb/>
             <l>KENTUCKY, DEC. 3d.</l>
-            <pb id="griffith_poems_130107" n="111"/>
+            <pb xml:id="griffith_poems_130107" n="111"/>
           </lg>
         </div>
-        <div id="griffith_poems_22" type="Poem">
+        <div xml:id="griffith_poems_22" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>To ---------------.</head>
@@ -2260,7 +2230,7 @@ ON HER MARRIAGE.</head>
             <l>Thy face and form; no lovely blossom springs</l>
             <l>Beside my lonely pathway but exhales</l>
             <l>The perfume of thy breath.</l>
-            <pb id="griffith_poems_130108" n="112"/>
+            <pb xml:id="griffith_poems_130108" n="112"/>
           </lg>
           <lg type="stanza">
             <l n="1">	When thou art near,</l>
@@ -2285,7 +2255,7 @@ ON HER MARRIAGE.</head>
             <l>Through Heaven's serene abyss; and holy night</l>
             <l>Seems but a stole of solemn hue thrown round</l>
             <l>The radiance of thy soul.</l>
-            <pb id="griffith_poems_130109" n="113"/>
+            <pb xml:id="griffith_poems_130109" n="113"/>
           </lg>
           <lg type="stanza">
             <l n="1">	Thou art afar,</l>
@@ -2310,7 +2280,7 @@ ON HER MARRIAGE.</head>
             <l>Have fallen on thy blue-veined lids, and hushed</l>
             <l>Thy heart to rest.  Oh I would love to flit,</l>
             <l>The spirit of the zephyr, through thy dreams,</l>
-            <pb id="griffith_poems_130110" n="114"/>
+            <pb xml:id="griffith_poems_130110" n="114"/>
             <l>Waking to beauty and to melody</l>
             <l>Thy fancy's wild and leaping waves; to glide,</l>
             <l>A star-beam, through thy softly-shadowed soul,</l>
@@ -2333,7 +2303,7 @@ ON HER MARRIAGE.</head>
             <l>And with a trembling soul and frame I bow</l>
             <l>To its mysterious mastery.  Oh, unchain</l>
             <l>Thy victim, strong, and beauteous spirit, take</l>
-            <pb id="griffith_poems_130111" n="115"/>
+            <pb xml:id="griffith_poems_130111" n="115"/>
             <l>Thy magic fetter from my soul; unbind</l>
             <l>My wing and leave me free, as I have been,</l>
             <l>To wander with the birds, the waves, the winds,</l>
@@ -2341,10 +2311,10 @@ ON HER MARRIAGE.</head>
             <l>And through the blue and boundless cope of Heaven.</l>
             <lb/>
             <l>LOUISVILLE, KY., JANUARY 6, 1852.</l>
-            <pb id="griffith_poems_130112" n="116"/>
+            <pb xml:id="griffith_poems_130112" n="116"/>
           </lg>
         </div>
-        <div id="griffith_poems_23" type="Poem">
+        <div xml:id="griffith_poems_23" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>My Mother.</head>
@@ -2363,7 +2333,7 @@ ON HER MARRIAGE.</head>
           <lg type="stanza">
             <l n="1">	My thought retains</l>
             <l>No vestige, mother, of thy form or face--</l>
-            <pb id="griffith_poems_130113" n="117"/>
+            <pb xml:id="griffith_poems_130113" n="117"/>
             <l>Death took thee from me long ere memory</l>
             <l>Could paint the image of thy loveliness</l>
             <l>Upon my infant soul.  Yet many friends</l>
@@ -2387,7 +2357,7 @@ ON HER MARRIAGE.</head>
             <l>A picture of surpassing loveliness,</l>
             <l>And fondly named it thee; and oh I feel</l>
             <l>I could for ever kneel and worship it</l>
-            <pb id="griffith_poems_130114" n="118"/>
+            <pb xml:id="griffith_poems_130114" n="118"/>
             <l>In wild excess of love.  I do not know</l>
             <l>That e'er I heard thy voice, yet in my brain</l>
             <l>There is a soft mysterious melody</l>
@@ -2411,7 +2381,7 @@ ON HER MARRIAGE.</head>
             <l>To warn her of her perils?  Mother, now</l>
             <l>That child is weary of life's pilgrimage,</l>
             <l>Her spirit is oppressed on this dark shore</l>
-            <pb id="griffith_poems_130115" n="119"/>
+            <pb xml:id="griffith_poems_130115" n="119"/>
             <l>Of time; the burden of existence falls</l>
             <l>Upon a heart too weak and faint to bear</l>
             <l>Its cares and agonies; and oh, she longs</l>
@@ -2435,10 +2405,10 @@ ON HER MARRIAGE.</head>
             <l>From the dark stains of this mortality.</l>
             <lb/>
             <l>LOUISVILLE, OCT. 25.</l>
-            <pb id="griffith_poems_130116" n="120"/>
+            <pb xml:id="griffith_poems_130116" n="120"/>
           </lg>
         </div>
-        <div id="griffith_poems_24" type="Poem">
+        <div xml:id="griffith_poems_24" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>To J. R. Barrick.</head>
@@ -2457,7 +2427,7 @@ ON HER MARRIAGE.</head>
             <l>The world is bright, and if dark grief awhile</l>
             <l>Clouds the high visions of my spirit lone,</l>
             <l>I find no gloom in Nature's blessed smile.</l>
-            <pb id="griffith_poems_130117" n="121"/>
+            <pb xml:id="griffith_poems_130117" n="121"/>
             <l>The flowers still blow as in my childhood's years,</l>
             <l>The sunset hangs as lovely, on the sky,</l>
             <l>And the dear moon wakes still the happy tears</l>
@@ -2482,7 +2452,7 @@ ON HER MARRIAGE.</head>
             <l>From all earth's cares, its bitterness and strife,</l>
             <l>And, leaning on, thy noble spirit, learns</l>
             <l>To taste the glorious ecstasies of life.</l>
-            <pb id="griffith_poems_130118" n="122"/>
+            <pb xml:id="griffith_poems_130118" n="122"/>
           </lg>
           <lg type="stanza">
             <l n="1">Oh, earth to thee must be a Paradise,</l>
@@ -2493,10 +2463,10 @@ ON HER MARRIAGE.</head>
             <l>High angel-natures, love with thee to roam</l>
             <l>At morn, at eve, and in the silent night,</l>
             <l>And talk with thee of thy immortal home.</l>
-            <pb id="griffith_poems_130119" n="123"/>
+            <pb xml:id="griffith_poems_130119" n="123"/>
           </lg>
         </div>
-        <div id="griffith_poems_25" type="Poem">
+        <div xml:id="griffith_poems_25" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>The Orphan.</head>
@@ -2515,7 +2485,7 @@ ON HER MARRIAGE.</head>
             <l>To heave a sigh, or breathe one sorrowing moan;</l>
             <l>For men may mock the sighs and groans that start</l>
             <l>From the recesses of a breaking heart!</l>
-            <pb id="griffith_poems_130120" n="124"/>
+            <pb xml:id="griffith_poems_130120" n="124"/>
           </lg>
           <lg type="stanza">
             <l n="1">And when disease steals fiercely through her frame,</l>
@@ -2540,7 +2510,7 @@ ON HER MARRIAGE.</head>
             <l>Are for the lovely orphan bleeding still!</l>
             <l>He will be with her in her sore distress,</l>
             <l>A friend--a father to the fatherless.</l>
-            <pb id="griffith_poems_130121" n="125"/>
+            <pb xml:id="griffith_poems_130121" n="125"/>
           </lg>
           <lg type="stanza">
             <l n="1">Then lift thy head, poor orphan, in thy grief,</l>
@@ -2549,10 +2519,10 @@ ON HER MARRIAGE.</head>
             <l>And love thee with a deep, immortal love!</l>
             <l>He will uphold thee on life's stormy sea,</l>
             <l>And make thee blessed in eternity.</l>
-            <pb id="griffith_poems_130122" n="126"/>
+            <pb xml:id="griffith_poems_130122" n="126"/>
           </lg>
         </div>
-        <div id="griffith_poems_26" type="Poem">
+        <div xml:id="griffith_poems_26" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head><seg type="short-title">Impromptu.</seg><lb/>
@@ -2568,7 +2538,7 @@ ON RECEIVING A MAGNOLIA FLOWER FROM THE BEAUTIFUL SALLIE W.</head>
           <lg type="stanza">
             <l n="1">There is a magic in thy leaves, bright flower,</l>
             <l>That thrills me with its deep and mystic power,</l>
-            <pb id="griffith_poems_130123" n="127"/>
+            <pb xml:id="griffith_poems_130123" n="127"/>
             <l>And o'er the calm thoughts slumbering in my soul,</l>
             <l>Steals with a soft and beautiful control,</l>
             <l>The glowing visions of my life to bless</l>
@@ -2593,7 +2563,7 @@ ON RECEIVING A MAGNOLIA FLOWER FROM THE BEAUTIFUL SALLIE W.</head>
           <lg type="stanza">
             <l n="1">In thy sweet incense-breath, there is no spell</l>
             <l>Like those that round her presence ever dwell;</l>
-            <pb id="griffith_poems_130124" n="128"/>
+            <pb xml:id="griffith_poems_130124" n="128"/>
             <l>Thy gentle beauty is a thing to keep</l>
             <l>For ever in the spirit pure and deep;</l>
             <l>But she is God's own loveliest blossom, given</l>
@@ -2618,15 +2588,15 @@ ON RECEIVING A MAGNOLIA FLOWER FROM THE BEAUTIFUL SALLIE W.</head>
           <lg type="stanza">
             <l n="1">Ah, dearest blossom, as with sorrowing eye</l>
             <l>I watch thee fade, and feel thou soon must die,</l>
-            <pb id="griffith_poems_130125" n="129"/>
+            <pb xml:id="griffith_poems_130125" n="129"/>
             <l>I weep for thee, but still 'tis joy to know</l>
             <l>That her pure soul will keep its heavenly glow,</l>
             <l>Passing at length to yon blue sky afar,</l>
             <l>The brightest flower, changed to the brightest star.</l>
-            <pb id="griffith_poems_130126" n="130"/>
+            <pb xml:id="griffith_poems_130126" n="130"/>
           </lg>
         </div>
-        <div id="griffith_poems_27" type="Poem">
+        <div xml:id="griffith_poems_27" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>Life.</head>
@@ -2645,7 +2615,7 @@ ON RECEIVING A MAGNOLIA FLOWER FROM THE BEAUTIFUL SALLIE W.</head>
             <l>And myriad red and golden fruits hang low,</l>
             <l>And seem to woo my hand to pluck them.  Life</l>
             <l>To me is all my heart has ever dreamed</l>
-            <pb id="griffith_poems_130127" n="131"/>
+            <pb xml:id="griffith_poems_130127" n="131"/>
             <l>Of Eden land; it is a blooming bower,</l>
             <l>And I its merriest, happiest singing-bird.</l>
             <l>They tell us of a brighter, better clime,</l>
@@ -2669,7 +2639,7 @@ ON RECEIVING A MAGNOLIA FLOWER FROM THE BEAUTIFUL SALLIE W.</head>
           <lg type="stanza">
             <l n="1">	Old Time moved on,</l>
             <l>Smiling upon the gay and lovely girl,</l>
-            <pb id="griffith_poems_130128" n="132"/>
+            <pb xml:id="griffith_poems_130128" n="132"/>
             <l>And bearing for her, on his gentle plumes,</l>
             <l>All she could ask or crave.</l>
           </lg>
@@ -2692,7 +2662,7 @@ ON RECEIVING A MAGNOLIA FLOWER FROM THE BEAUTIFUL SALLIE W.</head>
             <l>In deep and utter solitude.  Her hair,</l>
             <l>That erst had wantoned on each passing gale</l>
             <l>So bright and free, was plainly gathered o'er</l>
-            <pb id="griffith_poems_130129" n="133"/>
+            <pb xml:id="griffith_poems_130129" n="133"/>
             <l>Her pale and stricken brow.  Her eye, that once</l>
             <l>Had danced so wildly to the melody</l>
             <l>Of her own soul's sweet fancies, looked through tears.</l>
@@ -2715,7 +2685,7 @@ ON RECEIVING A MAGNOLIA FLOWER FROM THE BEAUTIFUL SALLIE W.</head>
             <l>In yeasty wrath around me; and the winds</l>
             <l>That used to linger on my floating curls,</l>
             <l>And with their dew-lips kiss my rosy cheeks,</l>
-            <pb id="griffith_poems_130130" n="134"/>
+            <pb xml:id="griffith_poems_130130" n="134"/>
             <l>Have turned to winter blasts, and fiercely sweep</l>
             <l>Cold, cold and bitter o'er me.  Not a flower</l>
             <l>Blooms in my cheerless pathway; not a bird</l>
@@ -2727,10 +2697,10 @@ ON RECEIVING A MAGNOLIA FLOWER FROM THE BEAUTIFUL SALLIE W.</head>
             <l>To Thee I kneel in agony, and pray</l>
             <l>That Thou wilt take me from this dreary world</l>
             <l>To rest for ever in Thy smile of love."</l>
-            <pb id="griffith_poems_130131" n="135"/>
+            <pb xml:id="griffith_poems_130131" n="135"/>
           </lg>
         </div>
-        <div id="griffith_poems_28" type="Poem">
+        <div xml:id="griffith_poems_28" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head><seg type="short-title">The Young Mother.</seg><lb/>
@@ -2747,7 +2717,7 @@ AFFECTIONATELY INSCRIBED TO MRS. L. A. W., OF LITTLE ROCK.</head>
             <l>In slumber "lightly bound," her gentle form</l>
             <l>Is bending low, while blessed, heaven-born hopes</l>
             <l>Are beaming forth from her unshadowed heart,</l>
-            <pb id="griffith_poems_130132" n="136"/>
+            <pb xml:id="griffith_poems_130132" n="136"/>
             <l>And lighting up her pale and placid face</l>
             <l>As beautifully as the sunlight glows</l>
             <l>And trembles through a holy crystal fane.</l>
@@ -2770,7 +2740,7 @@ AFFECTIONATELY INSCRIBED TO MRS. L. A. W., OF LITTLE ROCK.</head>
             <l>Bright joy, thy first deep care--oh may it prove</l>
             <l>Thy latest blessing.  Since we parted last</l>
             <l>Full many changes have passed o'er our lives,</l>
-            <pb id="griffith_poems_130133" n="137"/>
+            <pb xml:id="griffith_poems_130133" n="137"/>
             <l>New ties around thy pure and noble heart</l>
             <l>Are twining, and they give to thy young life</l>
             <l>A bright wild charm.  Thus may it ever be</l>
@@ -2787,10 +2757,10 @@ AFFECTIONATELY INSCRIBED TO MRS. L. A. W., OF LITTLE ROCK.</head>
             <l>Be glorious blossoms on His Tree of Life.</l>
             <lb/>
             <l>LOUISVILLE, JUNE 2d.</l>
-            <pb id="griffith_poems_130134" n="138"/>
+            <pb xml:id="griffith_poems_130134" n="138"/>
           </lg>
         </div>
-        <div id="griffith_poems_29" type="Poem">
+        <div xml:id="griffith_poems_29" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>To C. W. A., of Taylorsville.</head>
@@ -2811,7 +2781,7 @@ AFFECTIONATELY INSCRIBED TO MRS. L. A. W., OF LITTLE ROCK.</head>
             <l n="1">	Minstrel, oft,</l>
             <l>Full oft, at twilight's calm and holy time,</l>
             <l>I've mused upon thy wild enchanting lays</l>
-            <pb id="griffith_poems_130135" n="139"/>
+            <pb xml:id="griffith_poems_130135" n="139"/>
             <l>Till I have blent a haunting thought of thee</l>
             <l>With the deep spirit of that sacred hour.</l>
             <l>And, in thy lofty inspiration, thou</l>
@@ -2834,7 +2804,7 @@ AFFECTIONATELY INSCRIBED TO MRS. L. A. W., OF LITTLE ROCK.</head>
             <l>The flowers, the waves, the zephyr, and the dew,</l>
             <l>And all the thousand thrilling harmonies</l>
             <l>Of Nature's holy lyre, shall link our souls</l>
-            <pb id="griffith_poems_130136" n="140"/>
+            <pb xml:id="griffith_poems_130136" n="140"/>
             <l>In sweet companionship.</l>
           </lg>
           <lg type="stanza">
@@ -2854,10 +2824,10 @@ AFFECTIONATELY INSCRIBED TO MRS. L. A. W., OF LITTLE ROCK.</head>
             <l>To hold sweet intercourse with thee; and when</l>
             <l>My thoughts and visions are of heaven, thy name</l>
             <l>Shall oft be spoken in my earnest prayers.</l>
-            <pb id="griffith_poems_130137" n="141"/>
+            <pb xml:id="griffith_poems_130137" n="141"/>
           </lg>
         </div>
-        <div id="griffith_poems_30" type="Poem">
+        <div xml:id="griffith_poems_30" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>To a friend.</head>
@@ -2876,7 +2846,7 @@ AFFECTIONATELY INSCRIBED TO MRS. L. A. W., OF LITTLE ROCK.</head>
             <l>Life's weary sands are failing fast.  When thou</l>
             <l>Lookest upon this still and haughty face,</l>
             <l>Dost thou e'er dream that passion's maddening tide</l>
-            <pb id="griffith_poems_130138" n="142"/>
+            <pb xml:id="griffith_poems_130138" n="142"/>
             <l>All wildly rolls below?  Ah, dost thou dream</l>
             <l>That smiles, which flit like golden shadows o'er</l>
             <l>My careless brow, have lost the power to soothe</l>
@@ -2899,10 +2869,10 @@ AFFECTIONATELY INSCRIBED TO MRS. L. A. W., OF LITTLE ROCK.</head>
             <l>Of her whom thou hast called thy sister dear.</l>
             <lb/>
             <l>LOUISVILLE, KY.</l>
-            <pb id="griffith_poems_130139" n="143"/>
+            <pb xml:id="griffith_poems_130139" n="143"/>
           </lg>
         </div>
-        <div id="griffith_poems_31" type="Poem">
+        <div xml:id="griffith_poems_31" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head><seg type="short-title">Broken Barbiton-Withered Laurel-Wreath</seg> and Broken Heart.<lb/>
@@ -2918,7 +2888,7 @@ A SCENE FROM BULWER'S ZANONI.</head>
             <l>In the blue diadem of night, and shapes</l>
             <l>Of loveliness and beauty seemed to steal</l>
             <l>Forth from the soft and deepening shades, as Love,</l>
-            <pb id="griffith_poems_130140" n="144"/>
+            <pb xml:id="griffith_poems_130140" n="144"/>
             <l>And star-eyed Hope, and pensive Memory</l>
             <l>Steal from the twilight of the heart.  Afar,</l>
             <l>Like a huge column moving in the heavens,</l>
@@ -2941,7 +2911,7 @@ A SCENE FROM BULWER'S ZANONI.</head>
             <l>The traces of despair, and woe, and death</l>
             <l>Were darkly visible.  The twilight's last</l>
             <l>Sweet, rosy smile of gentleness and love</l>
-            <pb id="griffith_poems_130141" n="145"/>
+            <pb xml:id="griffith_poems_130141" n="145"/>
             <l>Stole softly, calmly, beautifully through</l>
             <l>The parted vines that bloomed and clustered o'er</l>
             <l>The window of an humble cottage home,</l>
@@ -2964,7 +2934,7 @@ A SCENE FROM BULWER'S ZANONI.</head>
             <l>Broken and silent lay his barbiton,</l>
             <l>His own familiar, in whose spirit tones</l>
             <l>His spirit e'er had found in joy and grief</l>
-            <pb id="griffith_poems_130142" n="146"/>
+            <pb xml:id="griffith_poems_130142" n="146"/>
             <l>A faithful echo.  It had been his friend,</l>
             <l>True and unfailing, 'mid the darkened wrecks</l>
             <l>Of human friendships.  It had been his love,</l>
@@ -2987,7 +2957,7 @@ A SCENE FROM BULWER'S ZANONI.</head>
             <l n="1">	'Twas a scene</l>
             <l>To move the heart to tears.  The world around,</l>
             <l>The air, the earth, the sky, the ocean, seemed</l>
-            <pb id="griffith_poems_130143" n="147"/>
+            <pb xml:id="griffith_poems_130143" n="147"/>
             <l>Flooded with beauty; every isle that gleamed</l>
             <l>In the deep sea, and every sweet star isle</l>
             <l>That glittered in the blue sky, seemed a bright</l>
@@ -3000,10 +2970,10 @@ A SCENE FROM BULWER'S ZANONI.</head>
             <l>Unheeded by the careless race of men.</l>
             <lb/>
             <l>LOUISVILLE, FEBRUARY, 1852.</l>
-            <pb id="griffith_poems_130144" n="148"/>
+            <pb xml:id="griffith_poems_130144" n="148"/>
           </lg>
         </div>
-        <div id="griffith_poems_32" type="Poem">
+        <div xml:id="griffith_poems_32" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>The Orphan's Dream of fame.</head>
@@ -3023,7 +2993,7 @@ A SCENE FROM BULWER'S ZANONI.</head>
           <lg type="stanza">
             <l n="1">	I learned</l>
             <l>Glad music from the lark's free, gushing song,</l>
-            <pb id="griffith_poems_130145" n="149"/>
+            <pb xml:id="griffith_poems_130145" n="149"/>
             <l>And my heart's sad and mournful minstrelsy</l>
             <l>Found sweet interpretation in the low</l>
             <l>And gentle wailings of the stricken dove.</l>
@@ -3045,7 +3015,7 @@ A SCENE FROM BULWER'S ZANONI.</head>
             <l>And her soft words of cheer came to my soul</l>
             <l>On every gale of morn, and noon, and eve,</l>
             <l>And holy midnight.  I was happy then,</l>
-            <pb id="griffith_poems_130146" n="150"/>
+            <pb xml:id="griffith_poems_130146" n="150"/>
             <l>Ay, happy, my lost mother was in heaven,</l>
             <l>But Nature was my mother on the earth,</l>
             <l>And both seemed e'er to love me well.</l>
@@ -3068,7 +3038,7 @@ A SCENE FROM BULWER'S ZANONI.</head>
             <l>By those I longed to spurn beneath my feet.</l>
             <l>I wildly struggled for the world's applause,</l>
             <l>But trembled at the faintest word of blame.</l>
-            <pb id="griffith_poems_130147" n="151"/>
+            <pb xml:id="griffith_poems_130147" n="151"/>
             <l>As 'twere the voice of destiny.  I won</l>
             <l>The laurel crown, and with exulting heart</l>
             <l>I felt its thrilling pressure on my brow:</l>
@@ -3092,7 +3062,7 @@ A SCENE FROM BULWER'S ZANONI.</head>
             <l><hi rend="italic">That dream of fame</hi> has vanished from my life,</l>
             <l>And now I feel no pang of vain regret</l>
             <l>That it has perished thus.</l>
-            <pb id="griffith_poems_130148" n="152"/>
+            <pb xml:id="griffith_poems_130148" n="152"/>
           </lg>
           <lg type="stanza">
             <l n="1">	But I look back</l>
@@ -3107,10 +3077,10 @@ A SCENE FROM BULWER'S ZANONI.</head>
             <l>My mother Nature now is dead to me.</l>
             <lb/>
             <l>LOUISVILLE, 1852.</l>
-            <pb id="griffith_poems_130149" n="153"/>
+            <pb xml:id="griffith_poems_130149" n="153"/>
           </lg>
         </div>
-        <div id="griffith_poems_33" type="Poem">
+        <div xml:id="griffith_poems_33" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head><seg type="short-title">A Trifle to a friend</seg>,<lb/>
@@ -3126,7 +3096,7 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
             <l>From those who love thee in their hearts' deep cores.</l>
             <l>I've loved--I love thee, and in earnest prayer</l>
             <l>To Heaven, I ask, that, when oppressed with care,</l>
-            <pb id="griffith_poems_130150" n="154"/>
+            <pb xml:id="griffith_poems_130150" n="154"/>
             <l>Where Albion's gleaming cliffs are floating high,</l>
             <l>Like snowy clouds against her pale blue sky,</l>
             <l>Thou there may'st find a gentle friend, like me,</l>
@@ -3149,15 +3119,15 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
             <l>Or in gay France to "chase the glowing hours"</l>
             <l>With merry jest, and laugh, and song, and dance,</l>
             <l>Forgetful of dark time and dreary chance;</l>
-            <pb id="griffith_poems_130151" n="155"/>
+            <pb xml:id="griffith_poems_130151" n="155"/>
             <l>I pray thee, 'mid thy wanderings, still to keep</l>
             <l>Within thy memory beautiful and deep,</l>
             <l>A gentle thought of me, a holy spell</l>
             <l>In thy true soul--God bless thee, and farewell.</l>
-            <pb id="griffith_poems_130152" n="156"/>
+            <pb xml:id="griffith_poems_130152" n="156"/>
           </lg>
         </div>
-        <div id="griffith_poems_34" type="Poem">
+        <div xml:id="griffith_poems_34" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>The Urn of the Heart.</head>
@@ -3177,7 +3147,7 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
             <l>Around me from their pinions, in their swift</l>
             <l>And noiseless flight to old Eternity,</l>
             <l>Are treasured there.  A thousand buds and flowers,</l>
-            <pb id="griffith_poems_130153" n="157"/>
+            <pb xml:id="griffith_poems_130153" n="157"/>
             <l>That the cool dews of life's young morning bathed,</l>
             <l>That its soft gales fanned with their gentle wings,</l>
             <l>And that its genial sunbeams warmed to life,</l>
@@ -3199,7 +3169,7 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
             <l>I lift the lid softly and noiselessly,</l>
             <l>Lest some dark, wandering spirit of the air</l>
             <l>Perchance should catch with his quick ear the sound,</l>
-            <pb id="griffith_poems_130154" n="158"/>
+            <pb xml:id="griffith_poems_130154" n="158"/>
             <l>And steal my treasures.  With a glistening eye</l>
             <l>And leaping pulse, I tell them o'er and o'er,</l>
             <l>Musing on each, and hallow it with smiles,</l>
@@ -3212,10 +3182,10 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
             <l>But with a saddened heart, I close the lid,</l>
             <l>And once again return to busy life,</l>
             <l>To play my part amid its mockeries.</l>
-            <pb id="griffith_poems_130155" n="159"/>
+            <pb xml:id="griffith_poems_130155" n="159"/>
           </lg>
         </div>
-        <div id="griffith_poems_35" type="Poem">
+        <div xml:id="griffith_poems_35" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>Recollections.</head>
@@ -3234,7 +3204,7 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
             <l>Through the calm atmosphere serenity</l>
             <l>And loveliness and beauty are abroad</l>
             <l>O'er the whole world of nature</l>
-            <pb id="griffith_poems_130156" n="160"/>
+            <pb xml:id="griffith_poems_130156" n="160"/>
           </lg>
           <lg type="stanza">
             <l n="1">	At this hour,</l>
@@ -3259,7 +3229,7 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
             <l>Of now existence.  Softly, through the deep</l>
             <l>Green foliage of the grove, the beautiful</l>
             <l>White cottage peeps with its thick-blooming vines,</l>
-            <pb id="griffith_poems_130157" n="161"/>
+            <pb xml:id="griffith_poems_130157" n="161"/>
             <l>And in the distance the still church-yard, where</l>
             <l>Repose the cold, unthrobbing hearts of those</l>
             <l>I loved in childhood, lifts its marble shafts</l>
@@ -3282,7 +3252,7 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
             <l>My vanished childhood rises to my view</l>
             <l>In pale and melancholy beauty.  Life</l>
             <l>Since then hath been but desolate.  Alas!</l>
-            <pb id="griffith_poems_130158" n="162"/>
+            <pb xml:id="griffith_poems_130158" n="162"/>
             <l>What heart-chords have been broken, what bright dreams</l>
             <l>Been shadowed by the hue of grief.  No more</l>
             <l>The Egeria of my spirit-worship haunts</l>
@@ -3305,7 +3275,7 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
             <l>Since that all-mournful day, when, with a sad</l>
             <l>And breaking heart, and streaming eyes, I left</l>
             <l>The scenes of childhood, and went forth to find</l>
-            <pb id="griffith_poems_130159" n="163"/>
+            <pb xml:id="griffith_poems_130159" n="163"/>
             <l>A home amid the stranger crowds, where I</l>
             <l>Have learned to wear the mask that others wear,</l>
             <l>To smile while agony is in my soul.</l>
@@ -3316,10 +3286,10 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
             <l>To quench my faint and sinking spirit's thirst</l>
             <l>At young life's gushing fountains, and forget</l>
             <l>That I am not once more a happy child.</l>
-            <pb id="griffith_poems_130160" n="164"/>
+            <pb xml:id="griffith_poems_130160" n="164"/>
           </lg>
         </div>
-        <div id="griffith_poems_36" type="Poem">
+        <div xml:id="griffith_poems_36" type="Poem">
           <docAuthor>Griffith, Mattie [Martha]</docAuthor>
           <docAuthor>Browne, Mattie Griffith</docAuthor>
           <head>To ------, during his Illness.</head>
@@ -3339,7 +3309,7 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
             <l n="1">	I have marked</l>
             <l>Thy pale cheek growing paler; I have watched</l>
             <l>The bright, unearthly glitter of thine eye,</l>
-            <pb id="griffith_poems_130161" n="165"/>
+            <pb xml:id="griffith_poems_130161" n="165"/>
             <l>And seen the crimson spot upon thy brow,</l>
             <l>The omens of the grave.  Thy pallid lip</l>
             <l>Trembles as with a keen, unspoken pain,</l>
@@ -3362,7 +3332,7 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
             <l>Caught from the spirit-world.  Ay, its low tones</l>
             <l>Soften and melt, each day, as if they were</l>
             <l>Attuning, even now, their cadences</l>
-            <pb id="griffith_poems_130162" n="166"/>
+            <pb xml:id="griffith_poems_130162" n="166"/>
             <l>To join the angel harmonies that float</l>
             <l>Upon the air of Eden.</l>
           </lg>
@@ -3387,7 +3357,7 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
           <lg type="stanza">
             <l n="1">	Then live, oh live</l>
             <l>For me, for friends, for glory, for mankind!</l>
-            <pb id="griffith_poems_130163" n="167"/>
+            <pb xml:id="griffith_poems_130163" n="167"/>
             <l>Thy strength of soul has made thee conqueror</l>
             <l>In every mortal strife.  Oh struggle now</l>
             <l>With the last enemy!  Ah, well I know</l>
@@ -3404,4 +3374,4 @@ ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
       </div>
     </body>
   </text>
-</TEI.2>
+</TEI>

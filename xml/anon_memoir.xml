@@ -1,31 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
-<TEI.2 id="anon_memoir_13055">
-  <teiHeader type="text">
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anon_memoir_13055">
+  <teiHeader><fileDesc>
       <titleStmt>
         <title><seg type="short-title">Memoir Of Elizabeth Jones</seg>, a Little Indian Girl, Who Lived at
 the River-Credit Mission, Upper Canada, an electronic edition</title>
         <author>
-          <name reg="Anonymous" type="person">Anonymous</name>
+                  <name type="person"><choice><reg>Anonymous</reg><orig>Anonymous</orig></choice></name>
         </author>
         <respStmt>
           <resp>Compiled and edited
 by</resp>
           <name>Beck Center</name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent>50kb</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
-University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
+University</pubPlace><address>
           <addrLine>Atlanta,
 Georgia</addrLine>
-        </address>
-        <availability>
-          <p id="anon_memoir_1301">1996 Emory
+        </address><availability>
+          <p xml:id="anon_memoir_1301">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided this
@@ -33,9 +26,7 @@ header is included in its entirety.  For inquiries about commercial
 uses, contact either: Emory Women Writers Resource Project or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      <idno type="ark">http://pid.emory.edu/ark:/25593/179p6</idno></publicationStmt>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/179p6</idno></publicationStmt>
       <seriesStmt>
         <title>Emory Women Writers Resource Project</title>
       </seriesStmt>
@@ -45,21 +36,19 @@ Lived at the River-Credit Mission, Upper Canada. London: Published by
 <publisher>John Mason</publisher>, 14, City-Road: And Sold at 66,
 Patternoster-Row. <date>[18--?]</date></bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
+    </fileDesc><encodingDesc>
       <projectDesc>
-        <p id="anon_memoir_1302">This text is produced in conjunction with the Emory Women
+        <p xml:id="anon_memoir_1302">This text is produced in conjunction with the Emory Women
 Writers Resource Project.</p>
       </projectDesc>
       <classDecl>
-        <taxonomy id="lcsh">
+        <taxonomy xml:id="lcsh">
           <bibl>
             <title>Library of Congress Subject Headings</title>
           </bibl>
         </taxonomy>
       </classDecl>
-    </encodingDesc>
-    <profileDesc>
+    </encodingDesc><profileDesc>
       <creation>
         <rs type="collection">Native American</rs>
         <rs type="language">English</rs>
@@ -70,7 +59,7 @@ Writers Resource Project.</p>
         <date>1800-1899</date>
       </creation>
       <textClass>
-        <keywords scheme="lcsh">
+        <keywords scheme="#lcsh">
           <list>
             <item>Williams, Elizabeth Harvey, 1838-1841.</item>
             <item>Women authors, American--19th Century.</item>
@@ -83,41 +72,22 @@ Writers Resource Project.</p>
           </list>
         </keywords>
       </textClass>
-    </profileDesc>
-    <revisionDesc>
-      <change>
-        <date>2000</date>
-        <respStmt>
-          <name>Natalie Prestwich</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags inserted in compliance with TEI guidelines using
-TEILITE</item>
-      </change>
-      <change>
-        <date>2006</date>
-        <respStmt>
-          <name>Alden Mahler</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>TEI header elements changed to conform to new Beck
-	   Center standards.</item>
-      </change>
-    </revisionDesc>
-  </teiHeader>
-  <text id="anon_memoir_13054">
-    <body id="anon_memoir_13053">
-      <div id="anon_memoir_001" type="Book">
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Natalie Prestwich</name>SGML tags inserted in compliance with TEI guidelines using
+TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	   Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="anon_memoir_13054">
+    <body xml:id="anon_memoir_13053">
+      <div xml:id="anon_memoir_001" type="Book">
         <docAuthor>Anonymous</docAuthor>
         <head><seg type="short-title">MEMOIR OF ELIZABETH
 JONES</seg>, A LITTLE INDIAN GIRL, WHO LIVED AT THE RIVER-CREDIT MISSION,
 UPPER CANADA.</head>
-        <docDate>1838</docDate>
+        
         <bibl>LONDON:
 PUBLISHED BY JOHN MASON, 14, CITY-ROAD:  AND SOLD AT 66,
 PATTERNOSTER-ROW.</bibl>
-        <p id="anon_memoir_1303">Is it well with the child?  It is well!-2 Kings iv, 26.</p>
-        <div id="anon_memoir_002" n="1" type="Chapter">
+        <p xml:id="anon_memoir_1303">Is it well with the child?  It is well!-2 Kings iv, 26.</p>
+        <div xml:id="anon_memoir_002" n="1" type="Chapter">
           <head>Chapter
 I.  <lb/>ACCOUNT OF ELIZABETH'S FAMILY.</head>
           <epigraph>
@@ -127,11 +97,11 @@ I.  <lb/>ACCOUNT OF ELIZABETH'S FAMILY.</head>
               <l>Hears least."--WORDSWORTH.</l>
             </lg>
           </epigraph>
-          <p id="anon_memoir_1304">THE subject of the following memoir was a little Indian girl, whose
+          <p xml:id="anon_memoir_1304">THE subject of the following memoir was a little Indian girl, whose
 life's short history was rendered peculiarly interesting by
 circumstances of no common occurrence.  Her father, Mr. John Jones,
 whose Indian name is <hi rend="italic">Tyentenegen</hi>, is an Indian
-of the Oojebway<ref target="anon_memoir.002n1">*</ref><note id="anon_memoir.002n1" place="foot">*Commonly called Chippeway.</note>  nation, and brother to the Rev. Peter Jones,
+of the Oojebway<ref target="#anon_memoir.002n1">*</ref><note xml:id="anon_memoir.002n1" place="foot">*Commonly called Chippeway.</note>  nation, and brother to the Rev. Peter Jones,
 otherwise <hi rend="italic">Kahkewaquonaby</hi>, known as a Missionary
 to many in this country as well as amongst his own people.  The mother
 of Elizabeth, whose maiden name was Christiana Brant, was a
@@ -140,7 +110,7 @@ warrior of the Mohawk nation of Indians, who many years ago visited
 England, and niece of Mr. John Brant, also a Chief, who came over to
 this country about the years 1819 or 1820, and died of cholera in
 Canada, in the year 1832.</p>
-          <p id="anon_memoir_1305">Mrs. John Jones was a woman of strong
+          <p xml:id="anon_memoir_1305">Mrs. John Jones was a woman of strong
 mind, fine understanding, and good judgment.  She united to a most
 amiable disposition unassuming yet dignified manners; all who knew her
 loved and respected her.  Her influence and example amongst her Indian
@@ -148,13 +118,13 @@ neighbours was truly valuable.  Her advantages having been greater
 than theirs, they looked up to her for advice and instruction; and
 whatever she did or said was sure, if possible, to be imitated and
 remembered by the women in the village.</p>
-          <p id="anon_memoir_1306">Her house was the abode of peace and comfort; the Ministers and
+          <p xml:id="anon_memoir_1306">Her house was the abode of peace and comfort; the Ministers and
 others who visited the Mission, were not only delighted with the
 hospitality and kindness manifested, but most of all with that
 beautiful influence of real religion which shed so sweet a lustre, and
 sanctified every other blessing, diffusing joy and happiness to all
 around.</p>
-          <p id="anon_memoir_1307">In a newly-formed village, settled by Indians just
+          <p xml:id="anon_memoir_1307">In a newly-formed village, settled by Indians just
 emerging from the superstitions and long-rooted habits of their
 forefathers, persons accustomed from infancy to all the refinements of
 Christian and civilized life can hardly imagine how great the
@@ -170,7 +140,7 @@ bloom of health and loveliness, for a sudden translation to that
 better land, where little children, through the merits of a Saviour's
 blood, are welcomed with rapturous songs of praise? for "of such is
 the kingdom of heaven."</p>
-          <p id="anon_memoir_1308">Among the inscrutable arrangements of
+          <p xml:id="anon_memoir_1308">Among the inscrutable arrangements of
 divine providence is the removal of pious parents in the very midst of
 their important and interesting duties.  When, as in the instance of
 Mrs. J. Jones, a wife is taken, whose quiet influence, winning
@@ -180,7 +150,7 @@ essential to the welfare of her children, while her consistent example
 and wise counsel were so valuable in her neighbourhood, we shrink. and
 say, How is it?  But feeling must not be too clamorous for the voice
 to be heard, "Be still, and know that I am God."</p>
-          <p id="anon_memoir_1309">The writer of
+          <p xml:id="anon_memoir_1309">The writer of
 this little history came into the village of which Mrs. J. Jones was
 so distinguished as ornament, about two months before she was taken to
 a brighter sphere, and her duties, toils, and prayers exchanged for
@@ -189,7 +159,7 @@ usual health, although an inflammatory disease in the throat was
 carrying off many of her friends and neighbours, and she was then
 clothed in the habiliments of mourning for her excellent mother, who
 had fallen a sacrifice to the fatal epidemic.</p>
-          <p id="anon_memoir_13010">Shortly after
+          <p xml:id="anon_memoir_13010">Shortly after
 these painful occurrences she became the mother of a little boy; but
 joy for the event was soon turned into sorrow.  Every countenance wore
 the aspect of grief when it was known through the village that the
@@ -197,7 +167,7 @@ much-loved Christiana was about to be taken from them.  Being quite
 sensible of her danger, she committed her dear babe to the care of one
 who could nurse it, and seemed comforted by the promise that the
 writer of this little account would watch over her children after her
-happy spirit had returned to God who gave it.<ref target="anon_memoir.002n2">*</ref><note id="anon_memoir.002n2" place="foot">*The babe died a fortnight after its mother; and
+happy spirit had returned to God who gave it.<ref target="#anon_memoir.002n2">*</ref><note xml:id="anon_memoir.002n2" place="foot">*The babe died a fortnight after its mother; and
 from that time it has been esteemed a privilege by the writer of this
 narrative to supply, as far as the circumstances of the case allowed,
 the part of a guardian friend to the bereaved child; but a voyage to
@@ -212,13 +182,13 @@ motion.  Her patience under severe suffering was very great.  All fear
 of death was taken away; and when we knelt around her bed in prayer,
 her fervent "Amen" was often heard, and she evidently joined in spirit
 while her friends were singing that beautiful and appropriate hymn,</p>
-          <p id="anon_memoir_13011"/>
-          <p id="anon_memoir_13012">"On Jordan's stormy banks I stand," &amp;c</p>
-          <p id="anon_memoir_13013">On the morning of
+          <p xml:id="anon_memoir_13011"/>
+          <p xml:id="anon_memoir_13012">"On Jordan's stormy banks I stand," &amp;c</p>
+          <p xml:id="anon_memoir_13013">On the morning of
 Nov. 3d, 1833, her happy soul took wing for that better land where</p>
-          <p id="anon_memoir_13014">"Sickness, sorrow, pain, and death/Are felt and fear'd no
+          <p xml:id="anon_memoir_13014">"Sickness, sorrow, pain, and death/Are felt and fear'd no
 more."</p>
-          <p id="anon_memoir_13015">At her funeral, not only all the Indians, but many of
+          <p xml:id="anon_memoir_13015">At her funeral, not only all the Indians, but many of
 the white inhabitants, from the settlements around attended.  It was
 indeed an occasion of deep sorrow to commit to the silent grave one so
 young and beloved.  Who that ever witnessed such a scene but would
@@ -228,13 +198,13 @@ happy by the love of Jesus, which can alone take away the fear of
 death, so common to the heathen mind, and give them and all their
 mourning friends a good hope of a joyful resurrection to eternal
 life?</p>
-          <p id="anon_memoir_13016">The Rev. Egerton Ryerson, the first Missionary stationed
+          <p xml:id="anon_memoir_13016">The Rev. Egerton Ryerson, the first Missionary stationed
 at the Credit, preached her funeral sermon.  Having lived in her house
 during the whole year, in which he so successfully devoted himself to
 the spiritual and temporal interests of the Indians, he was well
 acquainted with her character, and bore ample testimony to her
 worth.</p>
-          <p id="anon_memoir_13017">Thus lived and died the mother of the dear child who
+          <p xml:id="anon_memoir_13017">Thus lived and died the mother of the dear child who
 will furnish the subject of the following short memoir.  Her memory is
 very dear to the writer, whose sincere desire and prayer to God is,
 that all the companions and school-fellows she has left behind may try
@@ -243,7 +213,7 @@ prepared to meet her again in that bright world of glory, where are
 gathered from all nations, people, kindred, and tongues, those who
 fear God and love Jesus Christ.</p>
         </div>
-        <div id="anon_memoir_003" n="2" type="Chapter">
+        <div xml:id="anon_memoir_003" n="2" type="Chapter">
           <head>Chapter
 II.  <lb/><seg type="short-title">DESCRIPTION OF ELIZABETH'S BIRTH-PLACE</seg> AND EARLY
 CHILDHOOD.</head>
@@ -258,18 +228,18 @@ when all alone</l>
 shade."</l>
             </lg>
           </epigraph>
-          <p id="anon_memoir_13018">THE native village of dear Elizabeth is beautifully situated about
+          <p xml:id="anon_memoir_13018">THE native village of dear Elizabeth is beautifully situated about
 sixteen miles from Toronto, the seat of government in Upper Canada.
 The road from thence to this peaceful Indian settlement opens to the
 eye of the traveller a diversified scene of land and water, hill and
 dale, the cultivated farm and the native forest.</p>
-          <p id="anon_memoir_13019">On the left
+          <p xml:id="anon_memoir_13019">On the left
 spread the expansive waters of the lake Ontario, now bearing on its
 magnificent bosom the stately steamboat, on which formerly the
 birch-bark canoe of the hardy Indian was only seen to glide.  To the
 right interminable woods form a fine back-ground to a country
 partially cultivated and settled.</p>
-          <p id="anon_memoir_13020">From the undulations of the
+          <p xml:id="anon_memoir_13020">From the undulations of the
 road the distant prospect is sometimes entirely obscured, and the tall
 dark pines throw around their deep shadows, giving a sense of
 loneliness and a tone of pensive feeling.  Glimpses are caught and
@@ -282,7 +252,7 @@ right, the lake stretching in the distance behind, you are conducted
 through park-like scenery to the peaceful spot where God has been
 pleased to plant a small Christian church, gathered from the
 wilderness, to show forth his praise.</p>
-          <p id="anon_memoir_13021">This little village
+          <p xml:id="anon_memoir_13021">This little village
 possesses many local advantages.  It is situated on the high and
 healthy banks of a fine river, whose beautiful, flowing waters, well
 supplied with fish, wind their undisturbed way through scenery of
@@ -304,7 +274,7 @@ white, with palms of victory in their hands, they are uniting with
 their sacred mother in singing, "Worthy is the Lamb that was slain to
 receive power, and riches, and wisdom, and strength, and honour, and
 glory, and blessing."</p>
-          <p id="anon_memoir_13022">Elizabeth Jones, whose Indian name was
+          <p xml:id="anon_memoir_13022">Elizabeth Jones, whose Indian name was
 <hi rend="italic">Sahgahjewaqua</hi>, which means "the rising sun,"
 was born on June 29, 1830.  From infancy she evinced a mild temper;
 and as her young mind gradually expanded, it was delightful to observe
@@ -325,7 +295,7 @@ to dissipate the sorrows of his heart.  Dear children, I wish all who
 read this little book would try and imitate Elizabeth Jones, and by
 their affectionate attentions to their parents show how much they love
 them.</p>
-          <p id="anon_memoir_13023">Although from the time I first knew this dear child, I
+          <p xml:id="anon_memoir_13023">Although from the time I first knew this dear child, I
 had seen much in her to love and admire, it was not till she became a
 resident in our family, in October, 1836, that I discovered those
 peculiar traits in her character which made her so especially dear to
@@ -361,7 +331,7 @@ Elizabeth took great delight in keeping them neat and clean:  and if
 children knew how much of their happiness and comfort depended on
 habits of order, they would be more particular in cultivating these
 good qualities."</p>
-          <p id="anon_memoir_13024">When I first took the entire charge of
+          <p xml:id="anon_memoir_13024">When I first took the entire charge of
 Elizabeth, she could only spell words of three letters; but such was
 her natural quickness, and laudable ambition for improvement, that in
 a few weeks she could read several little stories.  Having a good ear
@@ -386,7 +356,7 @@ information will show what the capacities of Indian children are; and
 I think prove that they only need the same privileges and blessings
 that English children enjoy, to make them equally clever and useful
 members of society.</p>
-          <p id="anon_memoir_13025">Another fine trait in Elizabeth's character
+          <p xml:id="anon_memoir_13025">Another fine trait in Elizabeth's character
 was a love of truth.  I could always depend on her word.  She had only
 to promise, and I felt quite satisfied obedience would follow.  O,
 dear children, what a lesson is this!  I can truly say that to have
@@ -402,7 +372,7 @@ wisdom's way;</l>
 may trust to all they say."</l>
           </lg>
         </div>
-        <div id="anon_memoir_004" n="3" type="Chapter">
+        <div xml:id="anon_memoir_004" n="3" type="Chapter">
           <head>Chapter
 III.  <lb/>ELIZABETH'S EARLY PIETY.</head>
           <epigraph>
@@ -412,12 +382,12 @@ III.  <lb/>ELIZABETH'S EARLY PIETY.</head>
 sacrifice."--WATTS.</l>
             </lg>
           </epigraph>
-          <p id="anon_memoir_13026">HAVING given this brief account of the lovely moral traits
+          <p xml:id="anon_memoir_13026">HAVING given this brief account of the lovely moral traits
 displayed in dear Elizabeth's character, I shall now endeavour to show
 how all these were heightened and polished by the sweet influence of
 the grace of God on her heart; at once causing her to act from love to
 him, and evidencing her early piety.</p>
-          <p id="anon_memoir_13027">She was very particular in
+          <p xml:id="anon_memoir_13027">She was very particular in
 offering up her morning and evening prayers; but this alone did not
 satisfy Elizabeth.  Often during the day have I known her go by
 herself and pray.  She would sometimes say to me, "Aunt, I want God to
@@ -427,7 +397,7 @@ who inspired this prayer fulfilled in her his own precious promise,
 "They that seek me early shall find me."  At other times she would
 say, "Aunt, do you know what I am thinking about?" "No, my dear;
 what?" "I am thinking about God and Jesus Christ."</p>
-          <p id="anon_memoir_13028">Once, when
+          <p xml:id="anon_memoir_13028">Once, when
 on a visit, the lady with whom she was staying said to her, when
 putting her to bed, "Elizabeth, as the night is cold, you may say your
 prayers in bed."  She immediately answered, "O no; do you think it is
@@ -435,12 +405,12 @@ right for me to get into bed to say my prayers?  As I am in bed now, I
 will say them this time in bed."  But after this, were the night ever
 so cold, she would pray and repeat her hymn before getting into
 bed.</p>
-          <p id="anon_memoir_13029">She was very fond of singing, and had a sweet voice.
+          <p xml:id="anon_memoir_13029">She was very fond of singing, and had a sweet voice.
 Often would she go about the house, or when in the garden we would
 hear her, singing the pretty hymns she had learned; and many a morning
 the first sounds that have saluted our ears have been the praises of
 God from her tuneful lips.</p>
-          <p id="anon_memoir_13030">It was also a great delight to her
+          <p xml:id="anon_memoir_13030">It was also a great delight to her
 to go to the house of God; and when there she evidenced by her
 behaviour that she had a proper sense of the solemnity of the services
 in which she was engaged.  During prayer she would kneel, and,
@@ -464,7 +434,7 @@ worship they consider that looking down is a more favourable attitude
 for attention, and that to fix their eyes on the speaker would be a
 mark of rudeness.  So that in this respect Elizabeth, having been
 differently taught, was an exception to the general rule.</p>
-          <p id="anon_memoir_13031">This
+          <p xml:id="anon_memoir_13031">This
 dear child was not only good herself, but anxious that other children
 should be so also.  When between three and four years old, she
 expressed considerable anxiety about a little boy who lived with her
@@ -477,20 +447,20 @@ then I should love her.  She immediately answered, "I will tell you
 what I had better do,--pray to God to make her a good child."  Saying
 this, she ran up stairs, and I heard her pray, but could not
 distinguish the words.</p>
-          <p id="anon_memoir_13032">The following is an extract from her
+          <p xml:id="anon_memoir_13032">The following is an extract from her
 father's letter to the Rev. Peter Jones:--"I cannot, dear brother,
 describe to you my feelings on the loss of my daughter.  You know how
 much I loved her; and how affectionate she was to me, and to all her
 relations.  She never disobeyed my orders, and I never knew her offend
 any person.  She would reprove them if she saw them doing any thing
 that was wrong, but it was always with great modesty.</p>
-          <p id="anon_memoir_13033">"About
+          <p xml:id="anon_memoir_13033">"About
 three years ago I remember to have done something that was not right,
 which she knew of; and the first time she saw me alone she mentioned
 it very affectionately, saying, 'Papa, you should not do so.'  I was
 so struck with the reproof, I caught her up in my arms, and with tears
 said, 'No, my child, I will never do so again.'"</p>
-          <p id="anon_memoir_13034">Having done a
+          <p xml:id="anon_memoir_13034">Having done a
 naughty thing herself one day, for which she was punished, when
 putting her to bed, she burst into tears; on being asked why she wept,
 she said, "I am really afraid God will send me to hell."  "Why do you
@@ -509,7 +479,7 @@ and God all day."  She often referred to her late naughty deed, and
 seemed bitterly to repent having done it.  She said one day to her
 father, "How good Jesus Christ was to die for the people!"  He asked
 her if she loved him for dying for her.  She replied, "Yes, I do."</p>
-          <p id="anon_memoir_13035">When about to leave home, last winter, for a month, our principal
+          <p xml:id="anon_memoir_13035">When about to leave home, last winter, for a month, our principal
 anxiety was concerning dear Elizabeth, under whose protection to place
 her during our absence.  However, this difficulty was soon settled;
 the Mission family offering most kindly to take the charge of her.
@@ -523,7 +493,7 @@ affliction.  Mrs. S. told me, she never knew a better child; she had
 so won their hearts, that they not only felt the greatest interest in
 her, but had considered it a pleasure, rather than a trouble, to have
 her with them.</p>
-          <p id="anon_memoir_13036">During her stay with this kind family, she was
+          <p xml:id="anon_memoir_13036">During her stay with this kind family, she was
 one day trying to teach a little boy (her senior) Watt's Catechism.
 They were in a room alone, but Mrs. S., being in an adjoining room,
 heard all that passed.  When she came to that question, "Does God love
@@ -539,12 +509,12 @@ argument, which far surpassed her years, which I cannot now remember.
 The testimony of her school-mistress is, that she was far beyond the
 generality of children, and her capacity for improvement equal to one
 who had seen twice her number of years.</p>
-          <p id="anon_memoir_13037">Thus lived this happy
+          <p xml:id="anon_memoir_13037">Thus lived this happy
 and contended little girl; not only good herself, but endeavouring to
 make all around her happy and good also.  I often thought, while she
 was with us, I had read of such children, but never knew such a
 one.</p>
-          <p id="anon_memoir_13038">On the Sunday evening previous to giving up the charge of
+          <p xml:id="anon_memoir_13038">On the Sunday evening previous to giving up the charge of
 this dear Elizabeth, our hearts felt exceedingly sorrowful at the
 thought.  It was one of those trials which only duty compelled us to
 acquiesce in; and our feelings were the more excited by her simple
@@ -570,14 +540,14 @@ better care and happier home in heaven.</p>
             <l>Legions of angels can't confine me there."</l>
           </lg>
         </div>
-        <div id="anon_memoir_005" n="4" type="Chapter">
+        <div xml:id="anon_memoir_005" n="4" type="Chapter">
           <head>Chapter
 IV.  <lb/>ELIZABETH'S PREMATURE DEATH.</head>
           <epigraph>
-            <p id="anon_memoir_13039">"I am the resurrection and the life."--John xi,
+            <p xml:id="anon_memoir_13039">"I am the resurrection and the life."--John xi,
 25.</p>
           </epigraph>
-          <p id="anon_memoir_13040">IN bringing the history of this dear child to a close, it is now my
+          <p xml:id="anon_memoir_13040">IN bringing the history of this dear child to a close, it is now my
 painful task to record the affecting circumstances that attended her
 death.  Perhaps some young persons may wonder what disease carried her
 away in the spring-time of life to an early grave.  Well do I remember
@@ -591,7 +561,7 @@ was transplanted in an instant to a more congenial clime, in the bloom
 of health, and with a buoyancy of spirits that had excited the remarks
 of those around her; illustrating in her own history that death has
 not always sickness for its harbinger.</p>
-          <p id="anon_memoir_13041">From the account
+          <p xml:id="anon_memoir_13041">From the account
 received, it appears that a kind friend residing at the port or mouth
 of the river Credit, about a mile and a half from the Indian village,
 had requested Elizabeth's father to let her spend a short time with
@@ -601,13 +571,13 @@ November, dear Elizabeth followed us to the waggon."  (Mr. Jones had
 married again.)  "She kissed her mamma and me, saying, 'Good-bye,
 mamma; good-bye, papa.'  Never shall I forget the spot where she
 stood; little thinking she was bidding us a final farewell."</p>
-          <p id="anon_memoir_13042">The month of November, which in England is usually very dreary, is
+          <p xml:id="anon_memoir_13042">The month of November, which in England is usually very dreary, is
 quite otherwise in Canada; and it appears the morning of the 20th was
 very fine.  This dear child arose in good health, and it would seem as
 though she felt an uncommon degree of joyousness and elasticity of
 spirits, which the freshness of a clear atmosphere tends to
 inspire.</p>
-          <p id="anon_memoir_13043">About noon, remarking how beautiful the day was, she
+          <p xml:id="anon_memoir_13043">About noon, remarking how beautiful the day was, she
 asked if she might take her accustomed walk over the adjacent bridge,
 that being drier and smoother than any other place.  Not suspecting
 any danger, after being properly equipped by her kind friend who had
@@ -626,7 +596,7 @@ purpose.  Night came on, and it was very dark and stormy; still the
 search continued, and long before day other kind friends went
 different roads toward to village, calling "Elizabeth, Elizabeth," but
 in vain; no voice answered to the anxious summons.</p>
-          <p id="anon_memoir_13044">As soon as
+          <p xml:id="anon_memoir_13044">As soon as
 daylight dawned, all the men, women, and boys joined in the melancholy
 search; making the woodlands echo with her name as they went
 sorrowfully on, till they reached the lake; when the Indians said she
@@ -635,7 +605,7 @@ about nine o'clock in the morning, the little bark of mortality was
 found, which had floated down the deep broad stream into an eddy near
 the pier, but the immortal spirit was landed in the haven of eternal
 rest.</p>
-          <p id="anon_memoir_13045">It was found on examination that there was a hole on the
+          <p xml:id="anon_memoir_13045">It was found on examination that there was a hole on the
 upper part of the bridge near the centre of the stream, occasioned by
 one of the planks having slipped out of its place; and it is supposed
 (for no one saw her) that the dear child, in passing over near the
@@ -643,7 +613,7 @@ side-railings, must have been looking another way, and thus slipped
 through the hole into a watery grave.  Thus, without a moment's
 warning, was she snatched away from the fond embraces of her mourning
 friends on earth to the bosom of her Saviour and her God.</p>
-          <p id="anon_memoir_13046">As
+          <p xml:id="anon_memoir_13046">As
 soon as the sad news reached her dear father, he hastened down; but,
 ah!  who can enter into the feelings of a parent on such a journey?
 None can describe them; and only parents who have lost such a child
@@ -664,7 +634,7 @@ dead to the earth, and new born to the skies,</l>
             <l>And heir of the
 kingdom of heaven."</l>
           </lg>
-          <p id="anon_memoir_13047">O, dear children, what a lesson is this!  Could any thing but the
+          <p xml:id="anon_memoir_13047">O, dear children, what a lesson is this!  Could any thing but the
 assurance that "sudden death" to her was "sudden glory" have comforted
 the heart of her sorrowing parent, and enabled him to write, "Her
 happy spirit is returned to God, whose praises she loved to sing, whom
@@ -675,7 +645,7 @@ learn with pleasure your catechism and hymns, be obedient to your
 parents, affectionate and kind to all; then you will be loved as she
 was loved; and should an early summons call you hence, you will be
 prepared to follow where she is gone.</p>
-          <p id="anon_memoir_13048">I have before noticed how
+          <p xml:id="anon_memoir_13048">I have before noticed how
 fond Elizabeth was of singing; and I think it would be well for
 children to cultivate this habit, and imitate her in this sweet employ
 of singing and making melody in their hearts unto the Lord.  The last
@@ -690,12 +660,12 @@ Saviour and my God?</l>
 you and me,</l>
             <l>And to purchase out pardon with blood."</l>
           </lg>
-          <p id="anon_memoir_13049">On Friday, the 24th, her remains were carried up to the Indian
+          <p xml:id="anon_memoir_13049">On Friday, the 24th, her remains were carried up to the Indian
 village, where the Missionary at the river Credit conducted the
 service, and preached a suitable sermon from Rev. i, 17, 18; in which
 he bore ample testimony to her early piety, amiable disposition, and
 remarkable intelligence.</p>
-          <p id="anon_memoir_13050">Her death had excited as much interest
+          <p xml:id="anon_memoir_13050">Her death had excited as much interest
 as is often produced by that of persons of a maturer age; and many
 respectable white inhabitants, from the distance of two or three miles
 round, attended the funeral.  After the sermon, the Indian children
@@ -732,7 +702,7 @@ rise to thee;</l>
             <l>How
 great our joys shall be."</l>
           </lg>
-          <p id="anon_memoir_13051">Six little girls carried her coffin from the chapel to the grave;
+          <p xml:id="anon_memoir_13051">Six little girls carried her coffin from the chapel to the grave;
 four following, bearing in their hands sprigs of evergreen, which they
 threw on the coffin after it was lowered into the ground.</p>
           <lg type="stanza">
@@ -758,7 +728,7 @@ grave's repose,</l>
             <l>And dissipate our woes."</l>
           </lg>
         </div>
-        <div id="anon_memoir_006" type="Chapter">
+        <div xml:id="anon_memoir_006" type="Chapter">
           <head>
             <seg type="short-title">LINES.</seg>
             <lb/>
@@ -766,7 +736,7 @@ grave's repose,</l>
 hearing that his little Girl was drowned in the River Credit.</hi>
           </head>
           <epigraph>
-            <p id="anon_memoir_13052">"She is not dead."--Matt. ix, 24.</p>
+            <p xml:id="anon_memoir_13052">"She is not dead."--Matt. ix, 24.</p>
           </epigraph>
           <lg type="stanza">
             <l>THOUGH those bright eyes have lost their fire,</l>
@@ -833,4 +803,4 @@ the realms of day;</l>
       </div>
     </body>
   </text>
-</TEI.2>
+</TEI>
