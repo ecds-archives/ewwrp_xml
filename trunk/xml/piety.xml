@@ -1,35 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
-<TEI.2 id="piety_13035">
-  <teiHeader>
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="piety_13035">
+  <teiHeader><fileDesc>
       <titleStmt>
         <title>Female Piety and Virtue, an electronic edition</title>
         <author>
-          <name reg="Anonymous" type="person">Anonymous</name>
+          <name type="person"><choice><reg>Anonymous</reg><orig>Anonymous</orig></choice></name>
         </author>
         <respStmt>
           <resp>Compiled and edited by Gitanjali Shahani</resp>
           <name>The Lewis H. Beck Center</name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>The Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>The Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
-        </address>
-        <availability>
-          <p id="piety_1301">2005 Emory University. Permission is granted to
+        </address><availability>
+          <p xml:id="piety_1301">2005 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the contributions to
 the work claimed by Emory University for non-profit educational purposes, provided 
 this header is included in its entirety.  For inquiries about commercial uses, contact
 either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2006</date>
-      <idno type="ark">http://pid.emory.edu/ark:/25593/17dwb</idno></publicationStmt>
+        </availability><date>2006</date><idno type="ark">http://pid.emory.edu/ark:/25593/17dwb</idno></publicationStmt>
       <seriesStmt>
         <title>Emory Women Writers Resource Project</title>
       </seriesStmt>
@@ -40,21 +31,19 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
   <hi rend="italic">Westminster-Hall</hi>, and H. WHITRIDGE in <hi rend="italic">Serle-Street</hi> near
    <hi rend="italic">Lincoln's-Inn Back-Gate</hi>, MDCCXXV.[ESTC date 1724]</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
+    </fileDesc><encodingDesc>
       <projectDesc>
-        <p id="piety_1302">This text is produced in conjunction with the 
+        <p xml:id="piety_1302">This text is produced in conjunction with the 
 Women Writers Resource Project at Emory University.</p>
       </projectDesc>
       <classDecl>
-        <taxonomy id="lcsh">
+        <taxonomy xml:id="lcsh">
           <bibl>
             <title>Library of Congress Subject Headings</title>
           </bibl>
         </taxonomy>
       </classDecl>
-    </encodingDesc>
-    <profileDesc>
+    </encodingDesc><profileDesc>
       <creation>
         <rs type="collection">Early Modern through the 18th Century</rs>
         <rs type="language">English</rs>
@@ -65,29 +54,18 @@ Women Writers Resource Project at Emory University.</p>
         <date>1700-1799</date>
       </creation>
       <textClass>
-        <keywords scheme="lcsh">
+        <keywords scheme="#lcsh">
           <list>
             <item>Women--Conduct of life--Early works to 1800.</item>
             <item>Poems--England--18th century.</item>
           </list>
         </keywords>
       </textClass>
-    </profileDesc>
-    <revisionDesc>
-      <change>
-        <date>2006</date>
-        <respStmt>
-          <name id="gs">Gitanjali Shahani</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-    </revisionDesc>
-  </teiHeader>
-  <text id="piety_13034">
-    <body id="piety_13033">
-      <div id="piety_001" type="Poem">
-        <pb id="piety_1303" n="[3]"/>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2006</date><label>Staff</label><name xml:id="gs">Gitanjali Shahani</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="piety_13034">
+    <body xml:id="piety_13033">
+      <div xml:id="piety_001" type="Poem">
+        <pb xml:id="piety_1303" n="[3]"/>
         <head>Female Piety, &amp;c.</head>
         <lg type="stanza">
           <l>VIRTUE or piety is all a cheat,</l>
@@ -99,7 +77,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">As</seg>
           </l>
-          <pb id="piety_1304" n="4"/>
+          <pb xml:id="piety_1304" n="4"/>
           <l>As bragadoceos seldom dare to fight,</l>
           <l>As fops are never perfectly polite;</l>
           <l>So they, who virtue and religion boast,</l>
@@ -114,16 +92,16 @@ Women Writers Resource Project at Emory University.</p>
           <l>'With foul aspersions, the defenceless sex;</l>
           <l>'Be not on helpless innocence severe;</l>
           <l>'Let what you say sufficiently appear,</l>
-          <l>'And make your railing by your reason clear.<corr resp="gs" sic="">'</corr></l>
+          <l>'And make your railing by your reason clear.<choice><corr>'</corr><sic/></choice></l>
           <l>
             <seg type="catch">'What</seg>
           </l>
-          <pb id="piety_1305" n="5"/>
+          <pb xml:id="piety_1305" n="5"/>
           <l>'What you require, sufficiently I'll do,</l>
           <l>'Sweet Sir! by reason, by example too;</l>
           <l>'To shew I follow justice more than spite,</l>
           <l>'I will not wrong them, but I'll do them right,</l>
-          <l>'And set their actions in a proper light.<corr resp="gs" sic="">'</corr></l>
+          <l>'And set their actions in a proper light.<choice><corr>'</corr><sic/></choice></l>
         </lg>
         <lg type="stanza">
           <l rend="indent"><hi rend="italic">Jezabel</hi>, <hi rend="italic">Messalina</hi>, hundreds more,</l>
@@ -138,7 +116,7 @@ Women Writers Resource Project at Emory University.</p>
         <l>
           <seg type="catch">I'll</seg>
         </l>
-        <pb id="piety_1306" n="6"/>
+        <pb xml:id="piety_1306" n="6"/>
         <lg type="stanza">
           <l rend="indent">I'll slightly pass th' <unclear reason="blurred text"><hi rend="italic">Ephesian</hi></unclear> matron too,</l>
           <l>Who chose (what any woman else wou'd do)</l>
@@ -160,7 +138,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">But</seg>
           </l>
-          <pb id="piety_1307" n="7"/>
+          <pb xml:id="piety_1307" n="7"/>
           <l>But mention those of whom kind rumour tells</l>
           <l>Far better things, and calls such miracles!</l>
           <l>To whom some others fitly I'll subjoin,</l>
@@ -180,12 +158,12 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">And</seg>
           </l>
-          <pb id="piety_1308" n="8"/>
+          <pb xml:id="piety_1308" n="8"/>
           <l>And then the lady (past redemption ill)</l>
           <l>Her precious blood might meer madness spill</l>
           <l>Because the filthy ruffian cross'd her will.</l>
           <l>(For willfulness sincerely they adore,</l>
-          <l>Not all their valu'd charms they rev'rence more <gap desc="punctuation mark" extent="one character" reason="illegible" resp="gs"/>)</l>
+          <l>Not all their valu'd charms they rev'rence more <gap extent="one character" reason="illegible" resp="#gs"/>)</l>
         </lg>
         <lg type="stanza">
           <l rend="indent">But had she in a proper humour been,</l>
@@ -197,7 +175,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">The</seg>
           </l>
-          <pb id="piety_1309" n="9"/>
+          <pb xml:id="piety_1309" n="9"/>
           <l>The resolute, the celebrated bride</l>
           <l>Had kill'd herself------before she had deny'd!</l>
         </lg>
@@ -217,9 +195,9 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">She</seg>
           </l>
-          <pb id="piety_13010" n="10"/>
+          <pb xml:id="piety_13010" n="10"/>
           <l>She might have thought the place to publick eyes</l>
-          <l>Too much expos'd, and fear'd more lurking spies <unclear reason="blurred text" resp="gs">:</unclear></l>
+          <l>Too much expos'd, and fear'd more lurking spies <unclear reason="blurred text" resp="#gs">:</unclear></l>
           <l>But had all things united well t'assure</l>
           <l>Such sparks were secret, and the place--secure;</l>
           <l>To have withdrawn, and made a cold excuse,</l>
@@ -232,7 +210,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>What the most famous were, or would have been.</l>
         </lg>
         <ab type="catch">Then</ab>
-        <pb id="piety_13011" n="11"/>
+        <pb xml:id="piety_13011" n="11"/>
         <lg type="couplet">
           <l rend="indent">Then let us leave what ancient records tell,</l>
           <l>Remarking what in later times befel.</l>
@@ -255,7 +233,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">Of</seg>
           </l>
-          <pb id="piety_13012" n="12"/>
+          <pb xml:id="piety_13012" n="12"/>
           <l>Of all the various creatures upon earth,</l>
           <l>They most abhor-----a man of real, worth!</l>
         </lg>
@@ -275,7 +253,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">The</seg>
           </l>
-          <pb id="piety_13013" n="13"/>
+          <pb xml:id="piety_13013" n="13"/>
           <l>The pious lady had the prudent care,</l>
           <l>Not to be unprovided-----of an heir!</l>
         </lg>
@@ -295,7 +273,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">Some</seg>
           </l>
-          <pb id="piety_13014" n="14"/>
+          <pb xml:id="piety_13014" n="14"/>
           <l>Some curious maids have found the gentle way</l>
           <l>To sooth their fancies with delicious play,</l>
           <l>And thus the raging, appetite allay;</l>
@@ -313,7 +291,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">Tempt</seg>
           </l>
-          <pb id="piety_13015" n="15"/>
+          <pb xml:id="piety_13015" n="15"/>
           <l>Tempt female frailty with successful ease,</l>
           <l>Like the pernicious fellowship of these!</l>
           <l>I knew a beauteous and blooming maid,</l>
@@ -331,7 +309,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>Not clime nor distance inclination change!</l>
         </lg>
         <ab type="catch">A la</ab>
-        <pb id="piety_13016" n="16"/>
+        <pb xml:id="piety_13016" n="16"/>
         <lg type="stanza">
           <l rend="indent">A lady fair, to wealthy <hi rend="italic">India's</hi> shore,</l>
           <l>Her self and reputation carry'd o'er</l>
@@ -349,7 +327,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">Thus,</seg>
           </l>
-          <pb id="piety_13017" n="17"/>
+          <pb xml:id="piety_13017" n="17"/>
           <l>Thus boldly dealt with country and with town,</l>
           <l>Op'ning her warehouse; yellow, black and brown,</l>
           <l>Goods of all colour, sort, and size went down:</l>
@@ -364,7 +342,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>And did but barely to the twenti'th yield.</l>
         </lg>
         <ab type="catch">Oh!</ab>
-        <pb id="piety_13018" n="18"/>
+        <pb xml:id="piety_13018" n="18"/>
         <lg type="stanza">
           <l rend="indent">Oh! rampant, and triumphant <hi rend="italic">British</hi> dame!</l>
           <l>How vast, as far extended, is thy fame!</l>
@@ -383,7 +361,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>From reason's clear, and well discov'ring light.</l>
         </lg>
         <ab type="catch">Now</ab>
-        <pb id="piety_13019" n="19"/>
+        <pb xml:id="piety_13019" n="19"/>
         <lg type="stanza">
           <l rend="indent">Now let us take a short and general view</l>
           <l>Of what they in religious matters do,</l>
@@ -403,7 +381,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">If</seg>
           </l>
-          <pb id="piety_13020" n="20"/>
+          <pb xml:id="piety_13020" n="20"/>
           <l>If the preceeding night, they've lost at play,</l>
           <l>Or have been baulk'd of their expected prey,</l>
           <l>A gloomy discontent o'er-casts the day;</l>
@@ -422,7 +400,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">Till</seg>
           </l>
-          <pb id="piety_13021" n="21"/>
+          <pb xml:id="piety_13021" n="21"/>
           <l>Till all the mass of dress, in order mov'd,</l>
           <l>The tempter is exaltedtaltod'ly improv'd;</l>
           <l>Till all is well adjusted, all made even,</l>
@@ -439,7 +417,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>Or cure, by sleep, the vapours, or the spleen.</l>
         </lg>
         <ab type="catch">Some</ab>
-        <pb id="piety_13022" n="22"/>
+        <pb xml:id="piety_13022" n="22"/>
         <lg type="stanza">
           <l rend="indent">Some few, indeed, with more devotion, make</l>
           <l>Their progress thither--for the preacher's sake!</l>
@@ -459,7 +437,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>Is, in their judgment, and their choice, the best.</l>
         </lg>
         <ab type="catch">Some</ab>
-        <pb id="piety_13023" n="23"/>
+        <pb xml:id="piety_13023" n="23"/>
         <lg type="stanza">
           <l rend="indent">Some go to church, with charitable mind,</l>
           <l>To pick up all reproachful ills they find;</l>
@@ -479,7 +457,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">Whither</seg>
           </l>
-          <pb id="piety_13024" n="24"/>
+          <pb xml:id="piety_13024" n="24"/>
           <l>Whither, some compact to commence, they range,</l>
           <l>And make the house of G---d the D-----l's exchange!</l>
           <l>But in our <hi rend="italic">Britain</hi>, heretofore, might be</l>
@@ -497,7 +475,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">Tho'</seg>
           </l>
-          <pb id="piety_13025" n="25"/>
+          <pb xml:id="piety_13025" n="25"/>
           <l>Tho' this immurement was a vain pretence,</l>
           <l>Nor suited real piety, or sense!</l>
         </lg>
@@ -519,7 +497,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">I will</seg>
           </l>
-          <pb id="piety_13026" n="26"/>
+          <pb xml:id="piety_13026" n="26"/>
           <l>I will, with curious, and impartial care,</l>
           <l>Slightly remark what modern zealots are.</l>
         </lg>
@@ -530,7 +508,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>And scarce prevails upon the rich, or wise;</l>
           <l>Few leave dear, pomp whose pompous things possess,</l>
           <l>Or sin abhor, who freely can transgress;</l>
-          <l>These, these for <corr resp="gs" sic="wordly">worldly"</corr> blessings only care;</l>
+          <l>These, these for <choice><corr>worldly"</corr><sic>wordly</sic></choice> blessings only care;</l>
           <l>Why shou'd they waste their lives in fruitless prayer?</l>
           <l>Seek joys to come, who here enjoyments share?</l>
           <l>But wretched nymphs, whom cruel love has cross'd;</l>
@@ -538,7 +516,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">Who</seg>
           </l>
-          <pb id="piety_13027" n="27"/>
+          <pb xml:id="piety_13027" n="27"/>
           <l>Who are in mind, or body thus distress'd</l>
           <l>Whit weight of poverty (that's conscience) press'd;</l>
           <l>Helpless, alas! they're to devotion driven,</l>
@@ -559,7 +537,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">Who</seg>
           </l>
-          <pb id="piety_13028" n="28"/>
+          <pb xml:id="piety_13028" n="28"/>
           <l>Who make licentious reprobates their prey;</l>
           <l>More honest, more religious too are they,</l>
           <l>And act far more sincerely----in their way;</l>
@@ -580,7 +558,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">The</seg>
           </l>
-          <pb id="piety_13029" n="29"/>
+          <pb xml:id="piety_13029" n="29"/>
           <l>The lurking sex, by stratagems like these</l>
           <l>Upon th' unknowing, or unguarded seize;</l>
           <l>In falshood thus their usurpation found,</l>
@@ -602,7 +580,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">False</seg>
           </l>
-          <pb id="piety_13030" n="30"/>
+          <pb xml:id="piety_13030" n="30"/>
           <l>False is their beauty, falshood is their trade;</l>
           <l>They seem for that, and for perdition made.</l>
         </lg>
@@ -621,7 +599,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">Yet,</seg>
           </l>
-          <pb id="piety_13031" n="31"/>
+          <pb xml:id="piety_13031" n="31"/>
           <l>Yet, if amongst the sly deceivers, are,</l>
           <l>Any sincerely virtuous, pious, fair;</l>
           <l>I will not rashly say of those--beware!</l>
@@ -640,7 +618,7 @@ Women Writers Resource Project at Emory University.</p>
           <l>
             <seg type="catch">Let</seg>
           </l>
-          <pb id="piety_13032" n="32"/>
+          <pb xml:id="piety_13032" n="32"/>
           <l>Let him his faculties of mind awake,</l>
           <l>His reason use, and strict enquiries make</l>
           <l>To shun the dreadful woe attending his mistake.</l>
@@ -649,4 +627,4 @@ Women Writers Resource Project at Emory University.</p>
       </div>
     </body>
   </text>
-</TEI.2>
+</TEI>

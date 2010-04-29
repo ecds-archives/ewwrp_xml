@@ -1,53 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
-<TEI.2 id="anderson_nowita_13018">
-  <teiHeader type="text">
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anderson_nowita_13018">
+  <teiHeader><fileDesc>
       <titleStmt>
         <title><seg type="short-title">Nowita, the Sweet Singer.</seg> A Romantic Tradition of
 	   Spavinaw, Indian Territory, an electronic edition</title>
         <author>
-          <name reg="Anderson, Mabel Washbourne" type="person">Mabel Washbourne Anderson</name>
+          <name type="person"><choice><reg>Anderson, Mabel Washbourne</reg><orig>Mabel Washbourne Anderson</orig></choice></name>
+          
         </author>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>Beck Center</name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent>25kb</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
-        </address>
-        <availability>
-          <p id="anderson_nowita_1301">1996 Emory University. Permission is granted to
+        </address><availability>
+          <p xml:id="anderson_nowita_1301">1996 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      <idno type="ark">http://pid.emory.edu/ark:/25593/179n2</idno></publicationStmt>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/179n2</idno></publicationStmt>
       <seriesStmt>
         <title>Emory Women Writers Resource Project</title>
       </seriesStmt>
       <sourceDesc>
         <bibl>Anderson, Mabel Washbourne. Nowita, the Sweet Singer. A Romantic Tradition of Spavinaw, Indian Territory. <publisher>Sturm's Statehood Magazine</publisher> 1 (Jan. <date>1906</date>): 86-9. Previously published in Indian Chieftain Aug. 23, 1900 and in Twin Territories 5 (Jan. 1903): 1-2.</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
+    </fileDesc><encodingDesc>
       <projectDesc>
-        <p id="anderson_nowita_1302">This text is produced in conjunction with the 
+        <p xml:id="anderson_nowita_1302">This text is produced in conjunction with the 
 Emory Women Writers Resource Project.</p>
       </projectDesc>
       <classDecl>
-        <taxonomy id="lcsh">
+        <taxonomy xml:id="lcsh">
           <bibl>
             <title>Library of Congress Subject Headings</title>
           </bibl>
         </taxonomy>
       </classDecl>
-    </encodingDesc>
-    <profileDesc>
+    </encodingDesc><profileDesc>
       <creation>
         <rs type="collection">Native American</rs>
         <rs type="language">English</rs>
@@ -58,7 +48,7 @@ Emory Women Writers Resource Project.</p>
         <date>1900-1999</date>
       </creation>
       <textClass>
-        <keywords scheme="lcsh">
+        <keywords scheme="#lcsh">
           <list>
             <item>American literature--20th Century--Fiction.</item>
             <item>Women authors, American--20th Century.</item>
@@ -68,44 +58,25 @@ Emory Women Writers Resource Project.</p>
           </list>
         </keywords>
       </textClass>
-    </profileDesc>
-    <revisionDesc>
-      <change>
-        <date>1999</date>
-        <respStmt>
-          <name>Anna Engle</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
-        <date>2006</date>
-        <respStmt>
-          <name>Alden Mahler</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>TEI header elements changed to conform to new Beck
-	   Center standards.</item>
-      </change>
-    </revisionDesc>
-  </teiHeader>
-  <text id="anderson_nowita_13017">
-    <body id="anderson_nowita_13016">
-      <div id="anderson_nowita_001" type="Text">
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	   Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="anderson_nowita_13017">
+    <body xml:id="anderson_nowita_13016">
+      <div xml:id="anderson_nowita_001" type="Text">
         <docAuthor>Anderson, Mabel Washbourne</docAuthor>
         <head><seg type="short-title">Nowita, the Sweet Singer.</seg> A Romantic Tradition of Spavinaw, Indian Territory.</head>
-        <docDate>1906</docDate>
+        
         <bibl><title>Sturm's Statehood Magazine</title>1 (Jan. 1906): 86-9.</bibl>
-        <p id="anderson_nowita_1303">Spavinaw is the most beautiful stream in the Cherokee Nation. Nourished by the sparkling waters of the many springs in that locality, it winds like a shining thread of crystal through the narrow valleys between the hills which bear its name; curving its way by circuitous route, as if reluctant to leave its native hills, the murmur of whose pines chant a tuneful accompaniment to the music of its waters.</p>
-        <p id="anderson_nowita_1304">Nestled among the hills and within these valleys are the homes of many of the fullblood Cherokees, who seek the seclusion and the quiet of the forests in preference to the open prairies, dotted with farms and towns and traversed by railroads. These little Indian cabins are scarcely less difficult to locate than are the haunts of the deer. Secluded in the summer by the luxuriant foliage of the forest trees, the unfamiliar traveler might well imagine, by the whispering of the pines, that "this is the forest primeval."</p>
-        <p id="anderson_nowita_1305">In one of the most picturesque spots of this section of the country stands a lonely Indian cabin which possesses more than ordinary interest to the stranger, for all the world loves a romance, as well as a lover. Tall pines and moss-grown rocks shelter the building from the gaze of the intruder. Fate seems to have chosen this site as a fit setting for the gem of romance that has made this cabin an object of interest and curiosity. It was once the home of a young Indian girl, the heroine of a romance that had its origin in the National High Schools of the Cherokee Nation, which are located at Tahlequah, the national capital. 'Tis the pathetic story of Nowita, a sweet singing Cherokee maiden, a pupil in the Female Seminary, and a young professor from the East, who taught in the Cherokee Male Seminary.</p>
-        <p id="anderson_nowita_1306">The Male and Female Seminaries were originally situated three miles from the town of Tahlequah, and separated from each other by the same distance of lonely prairie-lonely in the winter when the unbroken landscape lay bleak and colorless, but beautiful in the summer, when you might gaze as far as eye could reach over the green billows of waving grass, brightened with the variegated hues of many wild flowers, away in the distance to the purple line of the Boston and Ozark mountains.</p>
-        <p id="anderson_nowita_1307">It was an old custom, years ago, at the Female Seminary, to give a reception to the teachers and pupils of the Male Seminary, once every quarter, and every year, on the seventh day of May, the anniversary of the founding of the two schools, was celebrated by a picnic upon the beautiful banks of the winding Illinois, three miles away. Thus it came about that Nowita, the sweet singer, sang ballads in her own native tongue to the "pale face stranger" on "reception days," and on May-day picnics they wandered side by side down the lovely stream, allured from the society of the others by the music of its waters, gathering the spring violets as they went, which they afterward made into a wreath for Nowita's dark braids, all unconsciously weaving a bleeding heart among the purple blossoms, for the little Indian maid had learned the language of love more rapidly than she had acquired English, though unusually bright and advanced for her age and environments, her broken sentences and quaint expressions amused and charmed her admirer as much as the musical cadences of her voice.</p>
-        <p id="anderson_nowita_1309">So time went by and the young man realized that he welcomed with an indefinite eagerness every opportunity that threw him in the society of the young
-<pb id="anderson_nowita_1308" n="87 NOWITA, THE SWEET SINGER"/>
+        <p xml:id="anderson_nowita_1303">Spavinaw is the most beautiful stream in the Cherokee Nation. Nourished by the sparkling waters of the many springs in that locality, it winds like a shining thread of crystal through the narrow valleys between the hills which bear its name; curving its way by circuitous route, as if reluctant to leave its native hills, the murmur of whose pines chant a tuneful accompaniment to the music of its waters.</p>
+        <p xml:id="anderson_nowita_1304">Nestled among the hills and within these valleys are the homes of many of the fullblood Cherokees, who seek the seclusion and the quiet of the forests in preference to the open prairies, dotted with farms and towns and traversed by railroads. These little Indian cabins are scarcely less difficult to locate than are the haunts of the deer. Secluded in the summer by the luxuriant foliage of the forest trees, the unfamiliar traveler might well imagine, by the whispering of the pines, that "this is the forest primeval."</p>
+        <p xml:id="anderson_nowita_1305">In one of the most picturesque spots of this section of the country stands a lonely Indian cabin which possesses more than ordinary interest to the stranger, for all the world loves a romance, as well as a lover. Tall pines and moss-grown rocks shelter the building from the gaze of the intruder. Fate seems to have chosen this site as a fit setting for the gem of romance that has made this cabin an object of interest and curiosity. It was once the home of a young Indian girl, the heroine of a romance that had its origin in the National High Schools of the Cherokee Nation, which are located at Tahlequah, the national capital. 'Tis the pathetic story of Nowita, a sweet singing Cherokee maiden, a pupil in the Female Seminary, and a young professor from the East, who taught in the Cherokee Male Seminary.</p>
+        <p xml:id="anderson_nowita_1306">The Male and Female Seminaries were originally situated three miles from the town of Tahlequah, and separated from each other by the same distance of lonely prairie-lonely in the winter when the unbroken landscape lay bleak and colorless, but beautiful in the summer, when you might gaze as far as eye could reach over the green billows of waving grass, brightened with the variegated hues of many wild flowers, away in the distance to the purple line of the Boston and Ozark mountains.</p>
+        <p xml:id="anderson_nowita_1307">It was an old custom, years ago, at the Female Seminary, to give a reception to the teachers and pupils of the Male Seminary, once every quarter, and every year, on the seventh day of May, the anniversary of the founding of the two schools, was celebrated by a picnic upon the beautiful banks of the winding Illinois, three miles away. Thus it came about that Nowita, the sweet singer, sang ballads in her own native tongue to the "pale face stranger" on "reception days," and on May-day picnics they wandered side by side down the lovely stream, allured from the society of the others by the music of its waters, gathering the spring violets as they went, which they afterward made into a wreath for Nowita's dark braids, all unconsciously weaving a bleeding heart among the purple blossoms, for the little Indian maid had learned the language of love more rapidly than she had acquired English, though unusually bright and advanced for her age and environments, her broken sentences and quaint expressions amused and charmed her admirer as much as the musical cadences of her voice.</p>
+        <p xml:id="anderson_nowita_1309">So time went by and the young man realized that he welcomed with an indefinite eagerness every opportunity that threw him in the society of the young
+<pb xml:id="anderson_nowita_1308" n="87 NOWITA, THE SWEET SINGER"/>
 Indian girl, and noted, too, that her dark eyes, usually so serene and melancholy, shone with a happy lustre in his presence, and he found a vague and pathetic pleasure in the thought that the school days were almost over, and that their final parting was near.</p>
-        <p id="anderson_nowita_13010">But Fate, that with cruel and relentless hand had brought together these two young people so dissimilar by environments and nationality, decreed that one of them at least, should fulfill the destiny allotted to her. So, when the summer vacation came, and Nowita returned to the primitive home of her parents among the hills, contrary to the advice of his friend and the accusing memory of a pair of blue eyes among the green mountains of New Hampshire, the young professor joined a camping party for a fortnight's recreation on the banks of the Spavinaw, ostensibly to gather "Indian lore and legends." It is needless to say that he soon sought and found the home of Nowita, the object of his thoughts.</p>
-        <p id="anderson_nowita_13011">The old story begun at the school was renewed and continued among more romantic surroundings, and with fewer instructions, save for the grave rebuke and distrust written upon the austere faces of the girl's parents and acquaintances which found no expression in words, for whatever may be said of the refining influence of civilization upon the Indian, the dignity and native pride of a fullblood Cherokee are condeded by all who are at all familiar with their character. Cruel and revengeful they may be, when under oppression, and perhaps treacherous, but course or vulgar, never. This Indian romance of local celebrity is given below in parodical form:</p>
+        <p xml:id="anderson_nowita_13010">But Fate, that with cruel and relentless hand had brought together these two young people so dissimilar by environments and nationality, decreed that one of them at least, should fulfill the destiny allotted to her. So, when the summer vacation came, and Nowita returned to the primitive home of her parents among the hills, contrary to the advice of his friend and the accusing memory of a pair of blue eyes among the green mountains of New Hampshire, the young professor joined a camping party for a fortnight's recreation on the banks of the Spavinaw, ostensibly to gather "Indian lore and legends." It is needless to say that he soon sought and found the home of Nowita, the object of his thoughts.</p>
+        <p xml:id="anderson_nowita_13011">The old story begun at the school was renewed and continued among more romantic surroundings, and with fewer instructions, save for the grave rebuke and distrust written upon the austere faces of the girl's parents and acquaintances which found no expression in words, for whatever may be said of the refining influence of civilization upon the Indian, the dignity and native pride of a fullblood Cherokee are condeded by all who are at all familiar with their character. Cruel and revengeful they may be, when under oppression, and perhaps treacherous, but course or vulgar, never. This Indian romance of local celebrity is given below in parodical form:</p>
         <lg type="stanza">
           <l n="1">Should you ask me whence this story,</l>
           <l>Whence this romance and tradition</l>
@@ -164,15 +135,15 @@ Indian girl, and noted, too, that her dark eyes, usually so serene and melanchol
           <l>All the wild birds of the forest,</l>
           <l>All the singing brooks and rivers,</l>
           <l>All the breath of bursting blossoms</l>
-          <l>From the sweet wild honey suckle<ref target="anderson_nowita.002.ma6">6</ref><note id="anderson_nowita.002.ma6" n="6">"Wild Honeysuckle," a lovely species of the honeysuckle found in the Cherokee's Nation only among the rocks of Spavinaw.</note></l>
+          <l>From the sweet wild honey suckle<ref target="#anderson_nowita.002.ma6">6</ref><note xml:id="anderson_nowita.002.ma6" n="6">"Wild Honeysuckle," a lovely species of the honeysuckle found in the Cherokee's Nation only among the rocks of Spavinaw.</note></l>
           <l>And the calling of the pine trees</l>
           <l>From her home among the mountains,</l>
           <l>Failed to interest their comrade</l>
           <l>Or her homeward steps to hasten.</l>
           <l>Sad at heart, this forest maiden</l>
         </lg>
-        <p id="anderson_nowita_13013">
-          <pb id="anderson_nowita_13012" n="88 NOWITA, THE SWEET SINGER"/>
+        <p xml:id="anderson_nowita_13013">
+          <pb xml:id="anderson_nowita_13012" n="88 NOWITA, THE SWEET SINGER"/>
         </p>
         <lg type="stanza">
           <l>Left the village of Tahlequah,</l>
@@ -227,18 +198,18 @@ Indian girl, and noted, too, that her dark eyes, usually so serene and melanchol
           <l>Soon it would be taken from them.</l>
         </lg>
         <lg type="stanza">
-          <l>She must pour him con-noh-ha-neh.<ref target="anderson_nowita.002.ma1">1</ref><note id="anderson_nowita.002.ma1" n="1">"Connoh-ha-neh," the national drink of the Cherokees, made from the pounded grits of the new Indian corn. An old adage says, Drink Connoh-ha-neh with a Cherokee, and you will ever be among them.</note></l>
-          <l>She must make him sweet con-nutch-chee, <ref target="anderson_nowita.002.ma2">2</ref><note id="anderson_nowita.002.ma2" n="2">"Con-nutch-chee," a Cherokee dish prepared from the beaten meat of the hickory nut, including both the kernel and the shell.</note></l>
-          <l>He must smoke the pipe ta-lo-neh;<ref target="anderson_nowita.002.ma3">3</ref><note id="anderson_nowita.002.ma3" n="3">"Ta-lo-neh," a mixture of tobacco and dried leaves of the red sumach. Another old adage, current among the Cherokees says, Smoke Ta-lo-neh from the same pipe with a Cherokee and you will be friends forever.</note></l>
-          <l>And a magic chain of wampum<ref target="anderson_nowita.002.ma4">4</ref><note id="anderson_nowita.002.ma4" n="4">"Wampum Beads," beads made by the Cherokees many years ago from the bones of the squirrel and colored different shades. They were supposed to possess the magic power of preserving the wearer from the evil one and of keeping him in health.</note></l>
+          <l>She must pour him con-noh-ha-neh.<ref target="#anderson_nowita.002.ma1">1</ref><note xml:id="anderson_nowita.002.ma1" n="1">"Connoh-ha-neh," the national drink of the Cherokees, made from the pounded grits of the new Indian corn. An old adage says, Drink Connoh-ha-neh with a Cherokee, and you will ever be among them.</note></l>
+          <l>She must make him sweet con-nutch-chee, <ref target="#anderson_nowita.002.ma2">2</ref><note xml:id="anderson_nowita.002.ma2" n="2">"Con-nutch-chee," a Cherokee dish prepared from the beaten meat of the hickory nut, including both the kernel and the shell.</note></l>
+          <l>He must smoke the pipe ta-lo-neh;<ref target="#anderson_nowita.002.ma3">3</ref><note xml:id="anderson_nowita.002.ma3" n="3">"Ta-lo-neh," a mixture of tobacco and dried leaves of the red sumach. Another old adage, current among the Cherokees says, Smoke Ta-lo-neh from the same pipe with a Cherokee and you will be friends forever.</note></l>
+          <l>And a magic chain of wampum<ref target="#anderson_nowita.002.ma4">4</ref><note xml:id="anderson_nowita.002.ma4" n="4">"Wampum Beads," beads made by the Cherokees many years ago from the bones of the squirrel and colored different shades. They were supposed to possess the magic power of preserving the wearer from the evil one and of keeping him in health.</note></l>
           <l>From her ancient beads she gave him;</l>
-          <l>He must dive with Ooch-a-latah<ref target="anderson_nowita.002.ma5">5</ref><note id="anderson_nowita.002.ma5" n="5">"Ooch-a-la-tah," the last full blood Chief of the Cherokee Nation.</note></l>
+          <l>He must dive with Ooch-a-latah<ref target="#anderson_nowita.002.ma5">5</ref><note xml:id="anderson_nowita.002.ma5" n="5">"Ooch-a-la-tah," the last full blood Chief of the Cherokee Nation.</note></l>
           <l>He must friendly be among them,</l>
           <l>So they might begin to trust him,</l>
           <l>And her people be his people.</l>
           <l>So she made him buckskin slippers--</l>
           <l>"Moccasins all brightly beaded,"</l>
-          <l>And a hunting shirt of homespun<ref target="anderson_nowita.002.ma8">8</ref><note id="anderson_nowita.002.ma8" n="8">"Hunting Shirt," an ornamemtal article of apparel used in olden times by the Cherokees, which took the place of a coat. Now in disuse.</note></l>
+          <l>And a hunting shirt of homespun<ref target="#anderson_nowita.002.ma8">8</ref><note xml:id="anderson_nowita.002.ma8" n="8">"Hunting Shirt," an ornamemtal article of apparel used in olden times by the Cherokees, which took the place of a coat. Now in disuse.</note></l>
           <l>From her mother's loom she made him;</l>
           <l>"Taught him to flint and feather arrows"</l>
           <l>"How to shoot them when completed."</l>
@@ -285,8 +256,8 @@ Indian girl, and noted, too, that her dark eyes, usually so serene and melanchol
           <l>And the man for whom she waited,</l>
           <l>Never would come again to greet her.</l>
         </lg>
-        <p id="anderson_nowita_13015">
-          <pb id="anderson_nowita_13014" n="89 NOWITA, THE SWEET SINGER"/>
+        <p xml:id="anderson_nowita_13015">
+          <pb xml:id="anderson_nowita_13014" n="89 NOWITA, THE SWEET SINGER"/>
         </p>
         <lg type="stanza">
           <l>And the maiden, sadly singing</l>
@@ -353,7 +324,7 @@ Indian girl, and noted, too, that her dark eyes, usually so serene and melanchol
           <l>And her home among the mountains</l>
           <l>To this day is sought by strangers.</l>
           <l>If you go alone at twilight</l>
-          <l>To the caves beside the river<ref target="anderson_nowita.002.ma7">7</ref><note id="anderson_nowita.002.ma7" n="7">A cave on the shores of Spavinaw, where a low sound as of singing may be heard, borne on the waters of the interior of the cave, called by the natives De-cu-na-gus-ky-skilly, or, Singing Spirit.</note></l>
+          <l>To the caves beside the river<ref target="#anderson_nowita.002.ma7">7</ref><note xml:id="anderson_nowita.002.ma7" n="7">A cave on the shores of Spavinaw, where a low sound as of singing may be heard, borne on the waters of the interior of the cave, called by the natives De-cu-na-gus-ky-skilly, or, Singing Spirit.</note></l>
           <l>Where the lovers in the evening</l>
           <l>Rowed together in the gloaming,</l>
           <l>You may hear the repetition</l>
@@ -364,4 +335,4 @@ Indian girl, and noted, too, that her dark eyes, usually so serene and melanchol
       </div>
     </body>
   </text>
-</TEI.2>
+</TEI>

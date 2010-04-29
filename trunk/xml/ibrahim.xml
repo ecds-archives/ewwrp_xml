@@ -1,18 +1,16 @@
-<TEI.2 id="ibrahim.001">
-<teiHeader id="ibrahim.0002">
-<fileDesc>
+<!--needs lots of work-->
+
+
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ibrahim.001">
+<teiHeader xml:id="ibrahim.0002"><fileDesc>
    <titleStmt>
         <title>Ibrahim, or the Illustrious Bassa, an electronic edition</title>
         <author><name type="person" reg="Scudery, Madeleine de, 1607-1701">Madeleine de Scudery</name></author>
 <author><name type="person" reg="Scudery, Georges de, 1601-1667">Georges de Scudery</name></author>
 <author><name type="person" reg="Cogan, Henry">Henry Cogan</name></author>
       </titleStmt>
-      <extent></extent>
-      <publicationStmt>
-        <publisher>Emory University, Lewis H. Beck Center</publisher>
-        <pubPlace>Atlanta, Georgia</pubPlace>
-        <date>2009</date>
-        <availability>
+      <extent/>
+      <publicationStmt><publisher>Emory University, Lewis H. Beck Center</publisher><pubPlace>Atlanta, Georgia</pubPlace><date>2009</date><availability>
           <p>2009, Lewis H. Beck Center, Emory University.
 Emory University makes a claim of copyright only to original
 contributions made by the EWWRP
@@ -22,8 +20,7 @@ otherwise reproduce, distribute, or display the contributions to this
 work claimed by Emory University for non-profit educational purpofes,
 provided that this header is included in its entirety.  For further
 inquiries about this text's availability, please contact:<address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruss Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email: beckctr@emory.edu</addrLine></address></p>
-        </availability>
-      </publicationStmt>
+        </availability></publicationStmt>
       <seriesStmt>
         <title>Emory Women Writers Resource Project</title>
         <respStmt>
@@ -33,8 +30,7 @@ inquiries about this text's availability, please contact:<address><addrLine>Lewi
       <sourceDesc>
         <bibl><author>Scudery, Madeleine de and Henry Cogan</author> <title>Ibrahim, or the Illustrious Bassa</title><pubPlace>London</pubPlace>: <publisher>Humphrey Mossley, William Bentley, and Thomas Heath</publisher><date>1652</date></bibl>
       </sourceDesc>
-    </fileDesc>
- <encodingDesc>
+    </fileDesc><encodingDesc>
       <projectDesc>
         <p>This text was created by the Lewis H. Beck Center as a
 part of the Emory Women Writers Resource Project.  Project participants
@@ -63,12 +59,11 @@ been added by the encoder and do not appear in the original text.
 Digital page images are linked to the text file.</p>
       </editorialDecl>
       <classDecl>
-        <taxonomy id="lcsh">
+        <taxonomy xml:id="lcsh">
           <bibl>Library of Congress Subject Headings Catalog</bibl>
         </taxonomy>
       </classDecl>
-    </encodingDesc>
-<profileDesc>
+    </encodingDesc><profileDesc>
       <creation>
         <rs type="collection">Early Modern through the 18th Century</rs>
         <rs type="language">English</rs>
@@ -79,7 +74,7 @@ Digital page images are linked to the text file.</p>
         <date>1600=1699</date>
       </creation>
       <textClass>
-        <keywords scheme="lcsh">
+        <keywords scheme="#lcsh">
           <list>
             <item>English literature--Early modern, 1500-1700.</item>
             <item>Women--France--History--17th century--Sources.</item>
@@ -87,39 +82,28 @@ Digital page images are linked to the text file.</p>
 	    </list>
         </keywords>
       </textClass>
-    </profileDesc>
-    <revisionDesc>
-      <change>
-        <date>May 26, 2009</date>
-        <respStmt>
-          <name>Irene Middleton</name>
-          <resp>Beck Center Fellow.</resp>
-        </respStmt>
-        <item>XML tags inserted in compliance with TEI guidelines using TEILITE.</item>
-      </change>
-     </revisionDesc>
-</teiHeader>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>May 26, 2009</date><label>Beck Center Fellow.</label><name>Irene Middleton</name>XML tags inserted in compliance with TEI guidelines using TEILITE.</change></revisionDesc></teiHeader>
 
-<text id="ibrahim.300">
-<front id="ibrahim.301">
+<text xml:id="ibrahim.300">
+<front xml:id="ibrahim.301">
 <pb n="[i]"/>
-   <div id="ibrahim.303" type="frontispiece">
-    <figure id="ibrahim.304" entity="fig1"> <!-- FIX ME: need actual figure entity names *** -->
-      <figDesc>coat of arms labled 'Wm Constable Esq. F. R. S. &#x0026; F. A. S.'</figDesc>
+   <div xml:id="ibrahim.303" type="frontispiece">
+    <figure><graphic url="" xml:id="ibrahim.304"/> <!-- FIX ME: need actual figure entity names *** -->
+      <figDesc>coat of arms labled 'Wm Constable Esq. F. R. S. &amp; F. A. S.'</figDesc>
     </figure>
    </div>
 <pb n="[ii]"/>
 <pb n="[iii]"/>
 <pb n="[iv]"/>
 <pb n="[v]"/>
-   <div id="ibrahim.3010" type="frontispiece">
-    <figure id="ibrahim.3011" entity="fig2">  <!-- FIX ME: need actual figure entity names ***-->
+   <div xml:id="ibrahim.3010" type="frontispiece">
+    <figure><graphic url="" xml:id="ibrahim.3011"/>  <!-- FIX ME: need actual figure entity names ***-->
       <figDesc>Engraving labeled 'Ibrahim or The Illustrious Bassa.'</figDesc>
     </figure>
    </div>
 
 <pb n="[vi]" rend="inline" entity="fig3" pages="Title page"/>  <!-- FIX ME: need actual figure entity names ***-->
-   <titlePage id="ibrahim.305" type="full">
+   <titlePage xml:id="ibrahim.305" type="full">
      <docTitle>
        <titlePart type="main">IBRAHIM.</titlePart>
        <titlePart type="sub">OR THE ILLVSTRIOUS BASSA.</titlePart>
@@ -130,14 +114,14 @@ Digital page images are linked to the text file.</p>
       <docImprint>
 	 <pubPlace>LONDON,</pubPlace>
 	 <publisher>Printed for <hi rend="italic">Humphrey Mosley</hi>, and the Princes Armes in St. <hi rend="italic">Pauls</hi> Church-yard; <hi rend="italic">William Bentley</hi>, and <hi rend="italic">Thomas Heath</hi>, in <hi rend="italic">Cavent-Garden</hi>.</publisher>
-	 <docDate>M. DC. LII.</docDate>
+	 
        </docImprint>
    </titlePage>
 
 <pb n="[vii]"/>
 
 <pb n="[viii]"/>
-<div id="ibrahim0001" type="dedication" n="1">
+<div xml:id="ibrahim0001" type="dedication" n="1">
 <head>TO THE HIGH AND EXCELLENT LADY
 MARY, Dutches of <hi rend="italic">RICHMOND</hi> and <hi rend="italic">LENNOX</hi>.</head>
 <opener><salute><hi rend="italic">Madam</hi></salute></opener>
@@ -171,7 +155,7 @@ devoted servant<lb/>
 
 
 <pb n="[x]"/>
-<div id="ibrahim0002" type="preface" n="2">
+<div xml:id="ibrahim0002" type="preface" n="2">
 <head>THE PREFACE.</head>
 <p><hi rend="italic">I Do not know what kind of praise the Antients thought they
 gave to that Painter, who not able to end his work, finished
@@ -195,10 +179,10 @@ frame, and let you see, is not all that I have done, at leastwise all that I hav
 indevored to doe.</hi>
 </p>
 
-<p><hi rend="italic">Whereas we cannot be knowing but of that which others do teach us, &#x0026; that it
+<p><hi rend="italic">Whereas we cannot be knowing but of that which others do teach us, &amp; that it
 is for him that comes after, to follow them who preced him, I have beleeved, that
 for the laying the ground-plot of this work, we are to consult with the Grecians,
-who have been our first Masters, persue the course which they have held, &#x0026; <sic>iabour</sic> in imitating them to arrive at the same end, which those great men propounded to themselves. I have seen in those famous </hi>Romanzes<hi rend="italic"> of antiquity, that
+who have been our first Masters, persue the course which they have held, &amp; <sic>iabour</sic> in imitating them to arrive at the same end, which those great men propounded to themselves. I have seen in those famous </hi>Romanzes<hi rend="italic"> of antiquity, that
 in imitation of the Epique Poem there is a principall action whereunto all the
 rest, which raign over all the work, are fastned, and which makes them that they
 are not imployed, but for the conducting of it to its perfection. The action in</hi> 
@@ -215,11 +199,11 @@ nothing may be seen in them which is loose and unprofitable. Thus the mariage of
 work may tend to that conclusion; that there may be a strong connexion between
 them; and that, except the obstacle which fortune opposeth to the desires of my</hi>
 Heros<hi rend="italic">, all things may advance, or at lestwise indeavor to advance his mariage
-which is the end of my labor. Now those great Geniusses of antiquity, from wh&#x014D; I borrow my light, knowing that well-ordering is one of the principall parts of
+which is the end of my labor. Now those great Geniusses of antiquity, from whō I borrow my light, knowing that well-ordering is one of the principall parts of
 a piece, have given so excellent a one to their speaking pictures, that it would be
 as much stupididitie, as pride, not to imitate them. They have not done like those
 Painters, who present in one and the same cloth a Prince in the Cradle, upon the
-Throne, &#x0026; in the Tombe, perplexing, by this so little judicious a confusion, him,
+Throne, &amp; in the Tombe, perplexing, by this so little judicious a confusion, him,
 that considers their work; but with an incomparable adress they begin their History in the middle, so to give some suspence to the Reader, even from the first opening of the book; and to confine themselves within reasonable bounds they
 have made the History (as I likewise have done after them) not to last above a year, the rest being delivered by narration. Thus all things being ingeniously
 placed, and of a just greatness, no doubt but pleasure will redound from thence
@@ -247,7 +231,7 @@ a little of the visions of a burning Feaver; and one might demand of these
 Mesieurs with more reason, than the Duke of</hi> Ferara<hi rend="italic"> did of</hi> Ariosto<hi rend="italic">, after he had read his</hi> Olando, Messer Lodovico done diavolo havete pigliato tante coyonerie? <hi rend="italic">As for me, I hold, that the more naturall adventures are, the more satisfaction they give; and the ordinary course of the Sun seemes more mervailous to me, than the strange and deadly rayes of Comets; for which reason it is also that I have not caused so many Shipwracks, as there are in some antient</hi> Romanzes<hi rend="italic">; and to speak seriously</hi> Du Bartas <hi rend="italic">might say of these Authors,</hi>
 <q><lg><l>That with their word they bind,</l>
 <l>Or loose, at will, the blowing of the wind.</l></lg></q></p>
-<p><hi rend="italic">So as one might think that</hi> &#x00C6;olus <hi rend="italic">hath given them the Winds inclosed in a bagg as he gave them to</hi> Vlysses <hi rend="italic">so patly doe they unchain them; they make
+<p><hi rend="italic">So as one might think that</hi> Æolus <hi rend="italic">hath given them the Winds inclosed in a bagg as he gave them to</hi> Vlysses <hi rend="italic">so patly doe they unchain them; they make
 tempests and shipwracks when they please, they raise them on the Pacifique Sea,
 they find rocks and shelves where the most expert Pilots have never observed
 any: But they which dispose thus of the winds, know not, how the Prophet
@@ -282,7 +266,7 @@ things without him, it is not by the caprichioes of destinie, that I will judge 
 him; it is by the motions of his soul, and by that which he speaketh. I honor
 all them that write at this day; I know their <sic>persous</sic>, their workes, their merits; but as canonizing is for none but the dead, they will not take it ill is I doe
 not deifie them, since they are living. And in this occasion I propose no other
-example, than the great and incomparable</hi> Urf&#x00E9;<hi rend="italic">, certainly it must be acknowledged that he hath merited his reputation; that the love which all the earth
+example, than the great and incomparable</hi> Urfé<hi rend="italic">, certainly it must be acknowledged that he hath merited his reputation; that the love which all the earth
 beares him is just; and that so many different Nations, which have translated
 his Book into their tongues, had reason to doe it: as for me, I confess openly,
 that I am his adorer; these twenty yeares I have loved him; he is indeed admirable over all; he is fertile in his inventions, and in <sic>inventious</sic> reasonable;
@@ -294,12 +278,12 @@ soul; hee goes searching out in the bottom of hearts the most secret thoughes;
 and in the diversity of natures, which he represents, every one findes his own
 pourtrait,so that</hi>
 <q><lg><l>Is amongst mortalls any be</l>
-<l>That merits Altars, <hi rend="italic">Urs&#x00E9;'s</hi> he</l>
+<l>That merits Altars, <hi rend="italic">Ursé's</hi> he</l>
 <l>Who can alone pretend thereto.</l></lg></q></p>
 <p><hi rend="italic">Certainly there is nothing more important in this kinde of composition,
 than strongly to imprint the idea, or (to say better) the image of the</hi> Heroes
 <hi rend="italic">in the minde of the Reader, but in such sort, as is they were known to them; for
-that it is which interesseth him in their adventures, &#x0026; from thence his delight
+that it is which interesseth him in their adventures, &amp; from thence his delight
 commeth, now to make them be known perfectly, it is not sufficient to say how
 many times they have suffered shipwrack, and how times they have incountred robbers, but their inclinations must be made to appear by their
 discourse: otherwise one may rightly apply to these dumb</hi> Heroes<hi rend="italic"> that
@@ -341,7 +325,7 @@ when as the Turks speak to the Sultan, or he to his inferiors, I have never
 made use of it, and either of them doth use it to each other. Now for fear it
 may be objected unto me, that I have approached some incidents nearer than
 the History hath shewed them to be, great</hi> Virgil <hi rend="italic">shall be my warrant, who in
-his divine</hi> &#x00C6;neads<hi rend="italic"> hath made</hi> Dido <hi rend="italic">appear four Ages after her own; wherefore I have beleeved I might do of some moneths, what he hath done of so
+his divine</hi> Æneads<hi rend="italic"> hath made</hi> Dido <hi rend="italic">appear four Ages after her own; wherefore I have beleeved I might do of some moneths, what he hath done of so
 many years, and that I was not to be afraid of erring, as long as I followed
 so good a guide. I know not likewise whether some may not take it ill, that my</hi>
 Hero<hi rend="italic"> and</hi> Heroina <hi rend="italic">are not Kings; but besides that the generous do put no
@@ -396,8 +380,8 @@ Torrents; that that the less constraint it hath, the more perfection it hath; I 
 <pb n="1" ed="digital"/>
 <milestone n="[1]" ed="1652" unit="page"/>
 
-<div id="ibrahim1.0" type="part" n="1.0">
-<div id="ibrahim1.1" type="book" n="1.1">
+<div xml:id="ibrahim1.0" type="part" n="1.0">
+<div xml:id="ibrahim1.1" type="book" n="1.1">
 <head type="main">IBRAHIM, OR THE ILLUSTRIOUS BASSA.</head>
 <head type="sub">The First Part.</head>
 <head type="sub"><hi rend="italic">The First Book.</hi></head>
@@ -464,7 +448,7 @@ of the same color, as vvell as the habit of that illustrious <hi rend="italic">B
 great pearles, he carried in his hand, &amp; vvithout a Scabbard, the Scymitar Imperiall.
 The hundred Peiker, or footmen of the Grand Signior, follovved next, but in order,
 with bonnets of massive silver on their heads, in the midst wherof white feathers of
-an extraordinary greatness stuck in a quill covered with precious stones. Fifty Archers on foot went after them, with bovves &#x0026; arrowes in their hands, <sic>i nthe</sic> midst
+an extraordinary greatness stuck in a quill covered with precious stones. Fifty Archers on foot went after them, with bovves &amp; arrowes in their hands, <sic>i nthe</sic> midst
 of whom was <hi rend="italic">Sultan Soliman</hi>, arrayed in a roabe of cloth of gold, imbroidered with
 pearles, and diamonds; his Turbant was ardorned vvith five plumes of Hearons,
 and as many great jevvells of rich stones; and the furniture of his Horse vvas all
@@ -587,7 +571,7 @@ was originally of <hi rend="italic">Persia</hi>, yet spake she perfectly the <hi
 </p>
 
 <p><q><text><body>
-<div id="ibrahim1.1a" type="story" n="1.1a">
+<div xml:id="ibrahim1.1a" type="story" n="1.1a">
 <head><hi rend="italic">The History of</hi> Osman <hi rend="italic">and</hi> Alibech.</head>
 
 <p>I doubt not, my Lord, but thy Highness will find it strange, said this woman, her
@@ -943,7 +927,7 @@ prudence had been the only cause of <hi rend="italic">Solimans</hi> Triumph.</p>
 <pb n="14" ed="digital"/>
 <milestone n="14" ed="1652" unit="page"/>
 
-<div id="ibrahim1.2" type="book" n="1.2">
+<div xml:id="ibrahim1.2" type="book" n="1.2">
 <head type="main">IBRAHIM, OR THE ILLUSTRIOUS BASSA.</head>
 <head type="sub">The First Part.</head>
 <head type="sub"><hi rend="italic">The Second Book.</hi></head>
@@ -1058,7 +1042,7 @@ that I swear to thee by <hi rend="italic">ALLA</hi>, that as long as <hi rend="i
 shalt not die a violent death; judge now whether I can doe more, and whether
 thou hast not been too blame to doubt of the firmness of my affection. It is true,
 my Lord, said <hi rend="italic">Ibrahim</hi>, that I am the most ingratefull, and the most faulty of all
-men; but,my Lord,&#x2014;and as he would have proceeded, he was suffocated in such
+men; but,my Lord,—and as he would have proceeded, he was suffocated in such
 sort with grief, as it was impossible for him to speak in a long time. The Sultan,
 surprised with this unexpected emotion, knew not whereunto to attribute the
 
@@ -1081,7 +1065,7 @@ siting down on Cushions of cloth of Gold, <hi rend="italic">Ibrahim</hi> began t
 tearmes.</p>
 
 <p><q><text><body>
-<div id="ibrahim1.2a" type="story" n="1.2a">
+<div xml:id="ibrahim1.2a" type="story" n="1.2a">
 <head><hi rend="italic">The History of</hi> Iustiniano <hi rend="italic">and</hi> Isabella.</head>
 
 <p>THe City, where I took beginning, and that gives name to our Republique, is
@@ -1936,7 +1920,7 @@ of losing it, if she should so soon receive me into her State and alliance; afte
 she made me a protestation of fidelity, but in such tearms, as made me judge that
 she had not expressed all her thoughts: Yet was it not this ticket, that begot my
 dispair and my fury; a Letter from <hi rend="italic">Doria</hi>, which I had received the same way,
-cleared this &#x00E6;nigma most cruelly for me; by it I learned, that the Prince of <hi rend="italic">Masseran</hi>, whose state is situate between <hi rend="italic">Piedmont, Montserrat</hi>, and the <hi rend="italic">Millanese</hi>, being
+cleared this ænigma most cruelly for me; by it I learned, that the Prince of <hi rend="italic">Masseran</hi>, whose state is situate between <hi rend="italic">Piedmont, Montserrat</hi>, and the <hi rend="italic">Millanese</hi>, being
 imbarqued at <hi rend="italic">Villa-Franca</hi> to pass unto <hi rend="italic">Naples</hi>, where he had means, and business,
 had been caught by so furious a tempest three Leagues from the Port, that all the
 Pilots skill could not keep him from suffering shipwrack before <hi rend="italic">Monaco</hi>, where
@@ -2285,7 +2269,7 @@ deliver <hi rend="italic">Doria</hi>, and the Slave of <hi rend="italic">Monaco<
 <pb n="44" ed="digital"/>
 <milestone n="44" ed="1652" unit="page"/>
 
-<div id="ibrahim1.3" type="book" n="1.3">
+<div xml:id="ibrahim1.3" type="book" n="1.3">
 <head type="main">IBRAHIM, OR THE ILLUSTRIOUS BASSA.</head>
 <head type="sub">The First Part.</head>
 <head type="sub"><hi rend="italic">The Third Book.</hi></head>
@@ -2393,7 +2377,7 @@ opened it, and saw that it was thus.
 </p>
 
 <p><q><text><body>
-<div id="ibrahim1.3a" type="letter" n="1.3a">
+<div xml:id="ibrahim1.3a" type="letter" n="1.3a">
 <head><hi rend="italic">The Letter of</hi> Isabella <hi rend="italic">Princess of</hi> Monaco <hi rend="italic">to</hi> Iustiniano.</head>
 
 <p><hi rend="italic">SInce it is not enough for the felicity of <hi rend="italic">Isabella</hi> to know that you are living, but that
@@ -2550,7 +2534,7 @@ them the worshiping the images of men, of beasts, and of plants, and not the mak
 </p>
 
 <p><q><text><body>
-<div id="ibrahim1.3b" type="story" n="1.3b">
+<div xml:id="ibrahim1.3b" type="story" n="1.3b">
 <head type="sub"><hi rend="italic">The description of</hi> Ibrahims <hi rend="italic">Palace.</hi></head>
 
 <p>WHilst the Bassa was talking in this sort, he and his friend came still nearer to the Gate; where <hi rend="italic">Doria</hi> stayed to consider the superb front of a great Paviglion, which rose up into a Dome over the Gate, and that equally divided a long wall of white Marble, which made the inclosure of that great and marvailous fabrick. <hi rend="italic">Doria</hi> could not sufficiently admire three orders of columns of different Marbles, which adorned that Portall, whereof the basis and capitall, were of Brass,
@@ -3379,7 +3363,7 @@ Highness: According hereunto, <hi rend="italic">Ibrahim</hi> (whom we will herea
 <pb n="68" ed="digital"/>
 <milestone n="68" ed="1652" unit="page"/>
 
-<div id="ibrahim1.4" type="book" n="1.4">
+<div xml:id="ibrahim1.4" type="book" n="1.4">
 <head type="main">IBRAHIM, OR THE ILLUSTRIOUS BASSA.</head>
 <head type="sub">The First Part.</head>
 <head type="sub"><hi rend="italic">The Fourth Book.</hi></head>
@@ -3474,7 +3458,7 @@ whole assembly, began to speak in this sort.
 </p>
 
 <p><q><text><body>
-<div id="ibrahim1.4a" type="story" n="1.4a">
+<div xml:id="ibrahim1.4a" type="story" n="1.4a">
 <head type="sub"><hi rend="italic">The Oration of</hi> Antonio Lomelino <hi rend="italic">to the Duke and
 Senate of</hi> Genoua.</head>
 
@@ -3656,7 +3640,7 @@ hearken to the Letter, which the Interpreter expounded in this sort by the <sic>
 </p>
 
 <p><q><text><body>
-<div id="ibrahim1.4b" type="letter" n="1.4b">
+<div xml:id="ibrahim1.4b" type="letter" n="1.4b">
 <opener rend="bold">
 <hi rend="italic">I that am by the grace of the most High, and by the abundance of
 Miracles of the Chief of his Prophets, Emperor of the Victorious
@@ -3669,7 +3653,7 @@ the Duke and Senate of the Republique of</hi> Genoua.</opener>
 
 <p>If one of our Slaves had not found grace in our fight, we should soon have made
 you feel the force of our terrible sword, and our clemencie had not returned you, as
-it hath done, your Vessells, your goods, your people, &#x0026; your Ambassador; but is upon
+it hath done, your Vessells, your goods, your people, &amp; your Ambassador; but is upon
 condition that you cause the sentences to be revoked, which were given against <hi rend="italic">Justiniano</hi>, and against <hi rend="italic">Doria</hi>, and that they may fully enjoy their liberty, and their
 goods, as heretofore: For otherwise be you assured, that with all the power of our
 flourishing Empire, our Highness will come, and abase your pride, make himself
@@ -3782,7 +3766,7 @@ not already signed ihe grace of <hi rend="italic">Justiniano</hi> in considerati
 have forborn doing it, and embracing him; so true it is that vertue hath powerfull
 charmes for a generous soul. That venerable old man answered him with teares in
 his eyes, that he would never oppose <hi rend="italic">Alphonsoes</hi> friendship to him<unclear>;</unclear> that it was too just to be condemned; that owing him his life, and his liberty, he owed him all
- things; &#x0026; that not being so unreasonable as to remember an injury, &amp; not remember
+ things; &amp; that not being so unreasonable as to remember an injury, &amp; not remember
 
 
 
@@ -3860,7 +3844,7 @@ vvhich assured her that it vvas <hi rend="italic"><sic>Iustinianoes</sic></hi> h
 seal of the Letter for to read that vvhich follovvs here.</p>
 
 <p><q><text><body>
-<div id="ibrahim1.4c" type="letter" n="1.4c">
+<div xml:id="ibrahim1.4c" type="letter" n="1.4c">
 <head type="sub"><hi rend="italic">The Letter of</hi> <sic>Iustiniano</sic> <hi rend="italic">to the Princess of</hi> MONACO.</head>
 <p><hi rend="italic">AT Last fortune hath made a truce with me, and how constant soever she hath been
 persecuting me, my love hath vanquished her cruelty, and forced her to permit me to
@@ -3912,7 +3896,7 @@ Count perceiving <hi rend="italic"><sic>Iustinianoes</sic></hi> disorder, caused
 <milestone n="80     IBRAHIM, or     Part I." ed="1652" unit="page"/>
 
 <p><q><text><body>
-<div id="ibrahim1.4d" type="letter" n="1.4d">
+<div xml:id="ibrahim1.4d" type="letter" n="1.4d">
 
 <head type="sub"><hi rend="italic">The Letter of</hi> Isabella <hi rend="italic">to</hi> <sic>Iustiniano.</sic></head>
 <p><hi rend="italic">THe greatest crime that you are guilty of towards me is, that you came not to tell me
@@ -4060,7 +4044,7 @@ him in the great Hall of the Castle; and for the rest of it all their conversati
 was nothing but promises of loving one another eternally; and joy possest
 them in such sort, as there came not so much as one thought unto them of
 their misfortunes. But whereas it was late, <hi rend="italic"><sic>Iustiniano</sic></hi> lead the Princess back
-to her chamber, followed by <hi rend="italic">&#x00C6;milia</hi> her kinswoman, and all her women;
+to her chamber, followed by <hi rend="italic">Æmilia</hi> her kinswoman, and all her women;
 as for him he was conducted by the Officers of <hi rend="italic">Isabella</hi> to a lodging, which
 she had caused to be prepared for him,  and where the riches of the furniture
 made it appear, that she had omitted nothing for the receiving of him magnificently. The image of <hi rend="italic">Isabella</hi> so fully possessed his mind, as that of <hi rend="italic">Constantinople</hi> never came into his thought; the remembrance of what was past, nor the
@@ -4074,7 +4058,7 @@ desired to lie alone.
 <pb n="84" ed="digital"/>
 <milestone n="84" ed="1652" unit="page"/>
 
-<div id="ibrahim1.5" type="book" n="1.5">
+<div xml:id="ibrahim1.5" type="book" n="1.5">
 <head type="main">IBRAHIM, OR THE ILLUSTRIOUS BASSA.</head>
 <head type="sub">The First Part.</head>
 <head type="sub"><hi rend="italic">The Fifth Book.</hi></head>
@@ -4090,7 +4074,7 @@ to see her he would obey her with joy, her presence having
 this particular charm, that she rendred all places alike agreeable unto him, because he never considered any thing therein but her. This
 match being made, this fair Troop, as soon as dinner was done, began their walk;
 <hi rend="italic">Justiniano</hi> lent <hi rend="italic">Isabella</hi> his hand for to support her down to the Garden, whither
-one may easily go on foot, <hi rend="italic">Doria</hi> did the like to <hi rend="italic">&#x00C6;milia</hi>, and the rest of the women
+one may easily go on foot, <hi rend="italic">Doria</hi> did the like to <hi rend="italic">Æmilia</hi>, and the rest of the women
 together with the Princesses chiefest Officers followed after. Their journey being short, they quickly arrived whither they were to go; whereat first their talk
 was of the beauty of the place, of the situation thereof, of the ornaments which
 had been added to its naturall graces, and other indifferent things; but as soon as
@@ -4116,7 +4100,7 @@ make some at any time in his discourse, began to speak in this sort.</p>
 <milestone n="85     The Illustrious BASSA.     Book 5." ed="1652" unit="page"/>
 
 <p><q><text><body>
-<div id="ibrahim1.5a" type="story" n="1.5a">
+<div xml:id="ibrahim1.5a" type="story" n="1.5a">
 <head type="sub"><hi rend="italic">The Sequele of the History of</hi> Justiniano.</head>
 
 <p>THe cause of all my miseries being a crime which you have pardoned, I think
@@ -4329,7 +4313,7 @@ them that were without. This advice having satisfied him, he commanded to go and
 seiz on that plot; but as is the enemy had been acquainted with this design he advanced to dispute it with us. There it was, Madam, that I ceased to be slave for to be a
 soldier, for having taken a scimitar which I found amongst the dead bodies, I got into the head of our troops, with so much resolution, &amp; so much good fortune, as I did
 things there which I dare not relate: in the end, Madam, I inspired our soldiers with
-such valor, as reasuming courage we repulsed the enemy, &#x0026; seized on the place, whereof I have already spoken to you. But when I saw <hi rend="italic">Soliman</hi> in safety, I went and cast my
+such valor, as reasuming courage we repulsed the enemy, &amp; seized on the place, whereof I have already spoken to you. But when I saw <hi rend="italic">Soliman</hi> in safety, I went and cast my
 self amidst some of our forces, which were fighting still with those that were come
 out of the City; and perceiving that our souldiers were preparing to flie, in hope
 to get to the place where <hi rend="italic">Soliman</hi> was, I threatned to kill them if they returned
@@ -4461,7 +4445,7 @@ he might be inforced to fight; and as he was cunning and malicious, so he invent
 a trick that succeeded happily with him. He saw well, that the Grand Signiors presence was the soul of his Army, that his very sight inspired valor into his souldiers; 
 and that it would be hard to vanquish them, as long as he should be a witness
 of their courage; that he alone could heap wealth and honor on them: He sent then
-with all speed some of his faction to <hi rend="italic">Constantinople</hi>, to sow a rumor there that <hi rend="italic">Soliman</hi> was dead; that his Troops were defeated; &#x0026; that he was declared Emperor; making no question, out of the knowledge he had of the <hi rend="italic">Janizaries</hi> turbulent humor,
+with all speed some of his faction to <hi rend="italic">Constantinople</hi>, to sow a rumor there that <hi rend="italic">Soliman</hi> was dead; that his Troops were defeated; &amp; that he was declared Emperor; making no question, out of the knowledge he had of the <hi rend="italic">Janizaries</hi> turbulent humor,
 which alwaies remained for the guard of the Seraglio, but that they would make
 some disorder, that might recall <hi rend="italic">Soliman</hi> to <hi rend="italic">Constantinople</hi>; as indeed this sad and
 false news was no sooner published there, but it presently begot a terrible confusion.
@@ -4939,7 +4923,7 @@ knew concerning the life of <hi rend="italic">Soliman</hi>; it seeming unto her,
 </body></text></q></p>
 <p/>
 <p><q><text><body>
-<div id="ibrahim1.5b" type="story" n="1.5b">
+<div xml:id="ibrahim1.5b" type="story" n="1.5b">
 <head type="sub"><hi rend="italic">The History of the Princess</hi> Axiamira.</head>
 <p>AS soon as <hi rend="italic">Rustan</hi>, after he had quitted his Vessell in <hi rend="italic">Mingrelia</hi>, and had taken
 another upon the River of <hi rend="italic">Araxes</hi>, was arrived with his souldiers disguised
@@ -5281,7 +5265,7 @@ sort.
 </body></text></q></p>
 <p/>
 <p><q><text><body>
-<div id="ibrahim1.5c" type="story" n="1.5c">
+<div xml:id="ibrahim1.5c" type="story" n="1.5c">
 <head type="sub"><hi rend="italic">The Sequele of the History of</hi> <sic>Iustiniano</sic>.</head>
 <p>I Will not stand. Madam, to relate unto you, how I imployed my self after my return from <hi rend="italic">Natolia</hi>, in regard I know that <hi rend="italic">Doria</hi> purposed to let you understand, that <hi rend="italic">Ibrahims</hi> Palace was built by my direction, and how it was in that intervall of peace, and <hi rend="italic">assoon</hi> as I was Grand Viser, that I caused the ornaments thereof to be made, having seen that work finished but a little before <hi rend="italic">Doriaes</hi> arrivall at <hi rend="italic">Constantinople</hi>. It is true, said <hi rend="italic">Doria</hi>, that I have a desire to describe that inchanted Palace to her Excellency, and to acquaint her with all the magnificences, and all the grandeurs which you have quitted for her sake; and to make her comprehend a part of what I say, I am but to present her with that which the Grand Signior hath sent her; saying so, he drew out of his pocket a box of gold which <hi rend="italic">Soliman</hi> had delivered unto him, and having opened it, he let her see one of the goodliest things in the world. <hi rend="italic">Isabella</hi> was so surprised with the richness of this present, as she would not have received it, but at length <hi rend="italic">Doria</hi> having told her laughing, that he was not determined either to keep it, or to carry it back to <hi rend="italic">Constantinople</hi>, she was constrained to accept of it. <hi rend="italic">Doriaes</hi> jesting made <hi rend="italic">Justiniano</hi> fetch a great sigh, beginning
 
@@ -5346,34 +5330,34 @@ hated me with a serret hatred, because I had always favoured <hi rend="italic">M
 excellent Princes, and the children of <hi rend="italic">Soliman</hi>; for though this last be the sonne of <hi rend="italic">Roxelana</hi>, yet leaves she not to hate him, because he loveth <hi rend="italic">Mustapha</hi>: This hatred was the cause then that these two women opposed the voyage of <hi rend="italic">Persia</hi>, onely to contradict me, with so much adress and violence, as I stood in need of some extraordinary mean to destroy all their artifices. The first represented unto <hi rend="italic">Soliman</hi>, that the wars of the Orient had always been infortunate to the <hi rend="italic">Othomans</hi>; that his Armies would be exterminated with hunger and thirst, if he carried them to a place from whence his father <hi rend="italic">Selim</hi>, although victorious, brought back no other advantage, than the loss of his best souldiers. As for <hi rend="italic">Roxelana</hi>, she imployed nothing but her tears, wherewith alone she was more powerfull than reason it self; so that all these things being joyned to the loss of <hi rend="italic">Axiamira</hi>, wrought in such sort, as I saw almost an impossibility in diverting the storm which was ready to fall on Christendom: But in the end, after I had tried all wayes in vain, I bethought my self, how <hi rend="italic">Soliman</hi> being mightily perswaded that Judiciary Astrology is a Science
 which men may prastise with certainty, I might peradventure bring him to what
 I desired, if I could get an <hi rend="italic">Arabian</hi> come from <hi rend="italic">Damascus</hi>, that was an excellent
-Astrologer and Mathematician, called <hi rend="italic">Mul&#x00E9; Aral</hi>,  whom the people accused of
+Astrologer and Mathematician, called <hi rend="italic">Mulé Aral</hi>,  whom the people accused of
 Magick, by reason of the wonders which every day he did; hoping, after I had
 won him with gifts, to make him say unto <hi rend="italic">Soliman</hi> whatsoever I would have him.
 I sent then secretly unto <hi rend="italic">Damascius</hi>, not knowing how to meet with any other expedient that could satisfie me otherwise; and whereas my orders were as well executed as the Grand Signiors, it was not long before he was brought to me. In the
 mean space I was resolved to speak no more of this war to <hi rend="italic">Soliman</hi>, untill such time
-as that which I projected should utterly fail me. As soon as <hi rend="italic">Mul&#x00E9; Aral</hi> was arrived
+as that which I projected should utterly fail me. As soon as <hi rend="italic">Mulé Aral</hi> was arrived
 at <hi rend="italic">Constantinople</hi>, I talked with him in private, and after I had ingaged him absolutely to do what I would have him, I discovered my design unto him, which nevertheless I covered with the good and glory of the Empire, to the end too he might
 serve me the more faithfully. But this man told me, how he held it fit that the Stars
 should be observed, and his books consulted with a little about this war, because it
 might so happen, that without any imposture or lying he should be obliged to perswade <hi rend="italic">Soliman</hi> to this voyage; and howsoever, though the stars did not concur with
 our intentions, yet would he be sure to keep his word with me. I parted with him
 in this manner, having first intreated him to make a shew of the best effects of his Science at the Port, that so the Emperor might give the more credit to that which
-he was to say unto him. <hi rend="italic">Mul&#x00E9; Aral</hi> failed not in obeying me, for he had not been a
+he was to say unto him. <hi rend="italic">Mulé Aral</hi> failed not in obeying me, for he had not been a
 week at <hi rend="italic">Constantinople</hi> every one spoke of the prodigies he did; and whereas he
 was a great Physiognimist, he got a world of reputation in a short time. He foretold
 to some that they should die the next day, which failed not to fall out accordingly;
 to others he revealed the most secret adventures of their lives; and he was so happy 
-that of all the things which he assured, none mist, or at leastwise might receive a favorable interpretation; so that the report hereof being come to <hi rend="italic">Soliman</hi>, he sent for <hi rend="italic">Mul&#x00E9; Aral</hi>, who in his presence told the Bassa of the Sea such things, as extremely surprized him; for he confessed, that every particular of that which he had told him, had befallen him accordingly. The grand Signior commanded him to follow him into his
-Cabinet, where, as I knew afterwards, he declared unto him the most special passages of his life, &#x0026; principally his love to <hi rend="italic">Axiamira</hi> upon the sight of her picture, although I had not spoken to him of it; so as <hi rend="italic">Soliman</hi> being mightily perswaded of the Science of this man, asked him whether he thought that the war against the Persians
+that of all the things which he assured, none mist, or at leastwise might receive a favorable interpretation; so that the report hereof being come to <hi rend="italic">Soliman</hi>, he sent for <hi rend="italic">Mulé Aral</hi>, who in his presence told the Bassa of the Sea such things, as extremely surprized him; for he confessed, that every particular of that which he had told him, had befallen him accordingly. The grand Signior commanded him to follow him into his
+Cabinet, where, as I knew afterwards, he declared unto him the most special passages of his life, &amp; principally his love to <hi rend="italic">Axiamira</hi> upon the sight of her picture, although I had not spoken to him of it; so as <hi rend="italic">Soliman</hi> being mightily perswaded of the Science of this man, asked him whether he thought that the war against the Persians
 would be
-prosperous. But <hi rend="italic">Mul&#x00E9;</hi>, who desired to finish his figures and observations, &#x0026; to give the
+prosperous. But <hi rend="italic">Mulé</hi>, who desired to finish his figures and observations, &amp; to give the
 more weight to that which he should say, answered <hi rend="italic">Soliman</hi>, that things past were seen
 with more certainty in the physiognomy, than things to come; &amp; that for an affair of
 so great importance, he demanded of him only six days to satisfie him fully: and for
 the better carrying of the matter, he besought him to let him know the precise point
 of his nativity, albeit he had been acquainted with it before by me. <hi rend="italic">Soliman</hi> accorded
 him his desire, and having given him leave to depart, rested so satisfied of him
-as he was already disposed to govern his designs by <hi rend="italic">Mul&#x00E9; Aral</hi>'s answer; who
+as he was already disposed to govern his designs by <hi rend="italic">Mulé Aral</hi>'s answer; who
 
 
 
@@ -5386,18 +5370,18 @@ seemed to give credit to his words, to the end I might not disoblige him, althou
 the success of things afterwards made it good. The next day he went to <hi rend="italic">Soliman</hi>
 and with a confident countenance told him, that the war of <hi rend="italic">Hungary</hi> would prove
 unlucky to him if he undertook it, but that of <hi rend="italic">Persia</hi> glorious; and assured him further, that if he entred first into the Enemies Countrey, one of his Slaves, whom
-he very much loved, should Crown him King of <hi rend="italic">Persia</hi>. <hi rend="italic">Mul&#x00E9;</hi> accompanied this
+he very much loved, should Crown him King of <hi rend="italic">Persia</hi>. <hi rend="italic">Mulé</hi> accompanied this
 discourse with so many circumstances, which would be too long to repeat, as at
 length <hi rend="italic">Soliman</hi>, who was very scrupulous in all things, which he believed came from
 above, prepared himself for this war with as much precipitation, as he had had
-repugnancy to it before. As soon as <hi rend="italic">Mul&#x00E9;</hi> was gone, he sent for me, to command
+repugnancy to it before. As soon as <hi rend="italic">Mulé</hi> was gone, he sent for me, to command
 me to alter all the directions which he had given, and to cause all the Troops to be
 inrolled for <hi rend="italic">Persia</hi>: And whereas this Prince carried an unmeasurable affection
-to me, he had charged <hi rend="italic">Mul&#x00E9;</hi> not to discover any thing of that to me which he had
+to me, he had charged <hi rend="italic">Mulé</hi> not to discover any thing of that to me which he had
 said to him, desiring to make me believe how it was in consideration of me that he
 with-drew his Arms from Christendom, thereby to ingage me the more to his service. Whilst things were in this estate, an accident fell out which began to give
 great hope of this voyage of <hi rend="italic">Persia</hi>, and to confirm <hi rend="italic">Soliman</hi> in the good opinion
-which he had of <hi rend="italic">Mul&#x00E9; Aral</hi>; for it hapned that one <hi rend="italic">Ulama</hi>, Satrape of <hi rend="italic">Caramania</hi>,
+which he had of <hi rend="italic">Mulé Aral</hi>; for it hapned that one <hi rend="italic">Ulama</hi>, Satrape of <hi rend="italic">Caramania</hi>,
 a man of great account with the Sophy, who had maried one of his sisters to him,
 and though she dyed a little after this Mariage, yet did this alliance render him
 more considerable than before. This man, I say, having received some out-rage
@@ -5416,7 +5400,7 @@ were <hi rend="italic">Caramida, Medinum, Orfa</hi> and <hi rend="italic">Ancefa
 at, was the reduction of <hi rend="italic">Bagdet</hi>, where he was Crowned King of <hi rend="italic">Persia</hi> by the hands
 of the Caliph, who to do me honor, and to testifie that I had contributed somewhat to the happy success of this war, would needs have me serve in the Ceremony,
 and help him to set the Crown on the head of <hi rend="italic">Soliman</hi>; so that by this circumstance
-nothing was more to be added to <hi rend="italic">Mul&#x00E9; Arals</hi> Predictions, who at our return was
+nothing was more to be added to <hi rend="italic">Mulé Arals</hi> Predictions, who at our return was
 recompenced sufficiently. After this, his Highness bestowed some time in giving
 directions for all things before his return to <hi rend="italic">Constantinople</hi>, where he was resolved
 to be received in triumph, but a little sickness that he fell into by the way deferred this publique rejoycing, which nevertheless was performed within a while after; and I may say that this Triumph was as happy for me, as it was glorious for
@@ -5479,7 +5463,7 @@ pleasant, and the setting of the Sun was that evening so glorious, with the dive
 Clouds, and reflected on the Sea, as it is not to be thought strange, that a
 discourse so common should make up the conversation of such extraordinary
 persons. As for <hi rend="italic">Doria</hi>, he went along talking to the French Marquis, who led
-<hi rend="italic">&#x00C6;milia</hi> by the arm, that seemed not unpleasing to him: And in this manner they entred into the Castle, where the Princess treated them as
+<hi rend="italic">Æmilia</hi> by the arm, that seemed not unpleasing to him: And in this manner they entred into the Castle, where the Princess treated them as
 magnificently, as is she had been prepared of a long
 time to receive them.
 </p>
@@ -5494,8 +5478,8 @@ time to receive them.
 
 <pb n="117" ed="digital"/>
 <milestone n="1" ed="1652" unit="page"/>
-<div id="ibrahim2.0" type="part" n="2.0">
-<div id="ibrahim2.1" type="book" n="2.1">
+<div xml:id="ibrahim2.0" type="part" n="2.0">
+<div xml:id="ibrahim2.1" type="book" n="2.1">
 <head type="main">IBRAHIM: OR THE ILLUSTRIOUS BASSA.</head>
 <head type="sub">The second part.</head>
 <head type="sub"><hi rend="italic">The first</hi> Book.</head>
@@ -5563,7 +5547,7 @@ request which the Princess had made him, and began to speak in these termes.
 </p>
 
 <p><q><text><body>
-<div id="ibrahim2.1a" type="story" n="2.1a">
+<div xml:id="ibrahim2.1a" type="story" n="2.1a">
 <head type="sub" rend="italic">The History of the French Marquis</head>
 <p>I shall tell you then, Madam, that the Marquis is of an illustrious House, and of a
 Province in <hi rend="italic">France</hi>, the name whereof is not in my remembrance; and without
@@ -5573,42 +5557,42 @@ his country. And whereas he had alwaies lived at court, and in the warres, the l
 King <hi rend="italic">Francis</hi> shewed him a great deal of respect and good will, although hee was
 as then but very young. He had not been wanting then at the battell of <hi rend="italic">Pavy</hi>, where
 he had performed wonders in person, and so happily for his g!ory, as the King himself had been a witness of his valor; yet were there afterwards for all that three
-Gentlemen in his Country, whereof the one was called <hi rend="italic">Mars&#x00E9;</hi>, the second <hi rend="italic">Beniers</hi>,
+Gentlemen in his Country, whereof the one was called <hi rend="italic">Marsé</hi>, the second <hi rend="italic">Beniers</hi>,
 and the other <hi rend="italic">Dincourt</hi>, amongst whom fell out a quarrell, occasioned by the doubt
-of his valor. <hi rend="italic">Mars&#x00E9;</hi> had hated the Marquis of a long time, so as it is credible, that
+of his valor. <hi rend="italic">Marsé</hi> had hated the Marquis of a long time, so as it is credible, that
 being unable to finde out any other meanes to deface his glory, hee published
 openly, albeit neither he, nor the other two, had ever parted from their houses during the warre, that the Marquis had fled from the battell of <hi rend="italic">Pavy</hi>. This discourse
 
 
 <pb n="119" ed="digital"/>
 <milestone n="3     The Illustrious BASSA.     Book I." ed="1652" unit="page"/>
-comming to the Kings ear, at such time as the Marquis was not at the Court, nor had head any thing that was spoken against him, this Prince, who loved him dearly, thought he should oblige him, if he sought further into the matter. Hee sends for <hi rend="italic">Mars&#x00E9;</hi> then to know of him from whom he had received that which he had reported: <hi rend="italic">Mars&#x00E9;</hi> answers that a Gentleman, named <hi rend="italic">Dincourt</hi>, had assured it unto him, and <hi rend="italic">Dincourt</hi> appearing said, that contrarily <hi rend="italic">Mars&#x00E9;</hi> had told him, how he had heard it from one called <hi rend="italic">Beniers</hi>. <hi rend="italic">Dincourt</hi> seeing that <hi rend="italic">Mars&#x00E9;</hi> did not contradict him, besought the King that he might not bee involved in this affayr; the King grants his request, returns him home, and commands <hi rend="italic">Beniers</hi> to present himself, as he does: the King demands of him whether he had told <hi rend="italic">Mars&#x00E9;</hi>, that the Marquis had fled from the Battell of <hi rend="italic">Pavy: Beniers</hi> stoutly maintaines that he had never said any such thing, and gives the other the lye. The King, who was willing to force two men, who had not been in the warres, to fight, told them, that to discover which of them had been the author of this falsehood, he would have them fight a single combat, and that he would honour it with his presence. They accept of it, and the next
+comming to the Kings ear, at such time as the Marquis was not at the Court, nor had head any thing that was spoken against him, this Prince, who loved him dearly, thought he should oblige him, if he sought further into the matter. Hee sends for <hi rend="italic">Marsé</hi> then to know of him from whom he had received that which he had reported: <hi rend="italic">Marsé</hi> answers that a Gentleman, named <hi rend="italic">Dincourt</hi>, had assured it unto him, and <hi rend="italic">Dincourt</hi> appearing said, that contrarily <hi rend="italic">Marsé</hi> had told him, how he had heard it from one called <hi rend="italic">Beniers</hi>. <hi rend="italic">Dincourt</hi> seeing that <hi rend="italic">Marsé</hi> did not contradict him, besought the King that he might not bee involved in this affayr; the King grants his request, returns him home, and commands <hi rend="italic">Beniers</hi> to present himself, as he does: the King demands of him whether he had told <hi rend="italic">Marsé</hi>, that the Marquis had fled from the Battell of <hi rend="italic">Pavy: Beniers</hi> stoutly maintaines that he had never said any such thing, and gives the other the lye. The King, who was willing to force two men, who had not been in the warres, to fight, told them, that to discover which of them had been the author of this falsehood, he would have them fight a single combat, and that he would honour it with his presence. They accept of it, and the next
 day, the lists being prepared, and the King being placed on a scaffold with all his
-Court, and invironed with a great multitude of peoole, he <hi rend="italic">Beniers</hi> appear, conducted by a gentleman of his friends; and <hi rend="italic">Mars&#x00E9;</hi> at the other end of the field brought
+Court, and invironed with a great multitude of peoole, he <hi rend="italic">Beniers</hi> appear, conducted by a gentleman of his friends; and <hi rend="italic">Marsé</hi> at the other end of the field brought
 in by one of his kinimen. <hi rend="italic">Beniers</hi> would needs fight with two swords, and but half
 armed; so that either of them had a Corslet on with long tasses, sleeves of mail,
 gantlets, a cask on his head, a sword in his right hand, &amp; another in his left, with each
 of them a dagger by his side. This new spectacle drew the eyes of everyone upon them,
 but at length, after the sound of trumpets, the oaths, &amp; other ceremonies requisite in
 such like actions, they began their combat, wherein they both shewed a great deal of
-adress and valour. At the first <hi rend="italic">Mars&#x00E9;</hi> seemed to have some advantage of the other, he
+adress and valour. At the first <hi rend="italic">Marsé</hi> seemed to have some advantage of the other, he
 appeared more active, more ardent, and more vigorous; but towards the midst of the
-combat it was easie to judge, that <hi rend="italic">Beniers</hi> had made spare of his forces to give the other leasure to spend his. <hi rend="italic">Mars&#x00E9;</hi> grew faint, &amp; the other so couragious, as no man had
+combat it was easie to judge, that <hi rend="italic">Beniers</hi> had made spare of his forces to give the other leasure to spend his. <hi rend="italic">Marsé</hi> grew faint, &amp; the other so couragious, as no man had
 ever seen one fight more valiantly. They were a long time before they could hurt one
 another; for it hapned that those two swords, which each of them had, and that carried terror by the eyes to the heart of those who beheld two men armed in that manner, were notwithstanding against their intention a meanes to make the combat endure; in regard that the left hand sword served to ward the blowes which they gave
 one another, aswell as if each of them had had a buckler. When they perceived that
 their own armes kept them from destroying themselves, they cast away their swords
 both at once, and falling a grapling together with a great deal of precipitation they
 had recourse to their daggers: But <hi rend="italic">Beniers</hi> being the stronger, and the more delyver,
-hath <hi rend="italic">Mars&#x00E9;</hi> down under him, and his hand wherewith beheld his dagger being ingaged under the others, <hi rend="italic">Beniers</hi> seekes for nothing else but a place not desended by
+hath <hi rend="italic">Marsé</hi> down under him, and his hand wherewith beheld his dagger being ingaged under the others, <hi rend="italic">Beniers</hi> seekes for nothing else but a place not desended by
 his cuirace where he might kill him, &amp; already had he his arm lifted up for to stabb
 hem, whenas the King, who would not lose a man which had shewed so much courage, threw down his warder in the midst of the field to make them leave off, which
-caused the people to give a great shout for joy, whereat <hi rend="italic">Benires</hi> turning his head about gave <hi rend="italic">Mars&#x00E9;</hi> oportunity to disingage himself, and in this manner the Kings authority finished their combat. But admire. Madam, the caprichiousness of chance, by
+caused the people to give a great shout for joy, whereat <hi rend="italic">Benires</hi> turning his head about gave <hi rend="italic">Marsé</hi> oportunity to disingage himself, and in this manner the Kings authority finished their combat. But admire. Madam, the caprichiousness of chance, by
 this which I am coming to tell you: The Marquis, about whom the quarrell was, arrives in post at the very same Towne, where the combat was sought; he askes where
 the King is? and whereas the people are never well informed of things, he is only told,
 that he is beholding a combat, which he hath permitted unto two Gentlemen, who
 had required it of him. This novelty touches him with curiosity; he goes without
-further inquirie, or any thought that he had any interest in this affair: he comes thither, hee beholds the combat a while amongst the multitude, makes vowes for <hi rend="italic">Mars&#x00E9;</hi>,
+further inquirie, or any thought that he had any interest in this affair: he comes thither, hee beholds the combat a while amongst the multitude, makes vowes for <hi rend="italic">Marsé</hi>,
 whose demeanor and personage pleased him, wishes against his own proper interest
 that he may carry away the victory, and without knowing it takes his enemies part.
 But one of his friends having perceived him, approaches to him, and in few words
@@ -5635,7 +5619,7 @@ hath not permitted the combat then, but out of hope that my enemy would vanquish
 since <sic>assoon</sic> as it appeared that he had the worst, he retayned the hand of him that
 would have stabbed him, and saved the other from the punishment which he was going to receive: But it is just that he should perish by my hand; and that I should
 be revenged by my <sic>relf</sic>. In the mean time the press was so great, and the people
-so thronged together for to hear what the King said to<hi rend="italic"> Mars&#x00E9;</hi> and his adversary, as
+so thronged together for to hear what the King said to<hi rend="italic"> Marsé</hi> and his adversary, as
 the Marquis could not come neer him, till he had told them, that their courage had
 obliged him from having either of them acknowledged for the calumniator: and
 that in persuance of this grace he commanded them to publish every where, how they
@@ -5670,25 +5654,25 @@ himself amongst the press, he did so, as before he could be followed he took pos
 
 <pb n="121" ed="digital"/>
 <milestone n="5     The Illustrious BASSA.     Book I." ed="1652" unit="page"/>
-intent not to stir from thence but to be revenged. The King was much offended with this action of his, and although he loved the Marquis exceedingly, yet his authority seeming to be contemned thereby, he testified a great deal of displeasure for it. He charged <hi rend="italic">Mars&#x00E9;</hi> not fight with him, and yet commanded him to acknowledge every where, how that which he had said was false. This while the Marquis caused his enemy to be observed, and received news of whatsoever passed at Court; and whereas he hath a great and generous spirit, the alteration of the Kings favour towards him touched him so sensibly, as he desired his friends not to think of restoring him thereunto: He took 
+intent not to stir from thence but to be revenged. The King was much offended with this action of his, and although he loved the Marquis exceedingly, yet his authority seeming to be contemned thereby, he testified a great deal of displeasure for it. He charged <hi rend="italic">Marsé</hi> not fight with him, and yet commanded him to acknowledge every where, how that which he had said was false. This while the Marquis caused his enemy to be observed, and received news of whatsoever passed at Court; and whereas he hath a great and generous spirit, the alteration of the Kings favour towards him touched him so sensibly, as he desired his friends not to think of restoring him thereunto: He took 
 order secretly for his affairs, setled his estate,
 raised a mass of mony, great enough to undertake a long voyage; and that done,
-resolves to fight, not only with <hi rend="italic">Mars&#x00E9;</hi>, but also with <hi rend="italic">Beniers</hi>, not knowing, said he,
+resolves to fight, not only with <hi rend="italic">Marsé</hi>, but also with <hi rend="italic">Beniers</hi>, not knowing, said he,
 whether he had not spoken that which he disavowed; and after all, to quit the Kingdom for ever. But the latter gave him not leave to execute his design; for he died
-of sickness. As for <hi rend="italic">Mars&#x00E9;</hi>, as soon as he knew that he was returned into his countrey, he sent him a challenge; whereunto he answers, that in regard of the Kings
+of sickness. As for <hi rend="italic">Marsé</hi>, as soon as he knew that he was returned into his countrey, he sent him a challenge; whereunto he answers, that in regard of the Kings
 charge to the contrary, he could not accept of it. The Marquis netled with this
 refusall, resolved to force him to fight; and watching for him a good while after
-in a Wood, that was not far from <hi rend="italic">Mars&#x00E9;s</hi> house, and whither he went oftentimes
+in a Wood, that was not far from <hi rend="italic">Marsés</hi> house, and whither he went oftentimes
 to walk, he perceived one morning a Provost-Marshall, accompanied with two of
 his fellows, who came along thorough the Forrest; he hid himself for fear of discovery, and heard that one of them named him, and said that the King would have
 him apprehended if he could be found. This discourse obliged him to follow them
-afar off; but he was much astonished when hc saw them enter into <hi rend="italic">Mars&#x00E9;s</hi> house:
+afar off; but he was much astonished when hc saw them enter into <hi rend="italic">Marsés</hi> house:
 whereupon he no longer doubted, but that it would be impossible for him of a long
 time to find an opportunity to fight with him. He informs himself more particularly of the business; remains certain daies about this house, and at length learns,
-that the Provost-Marshall was sent to <hi rend="italic">Mars&#x00E9;</hi> to apprehend him; for the King had
+that the Provost-Marshall was sent to <hi rend="italic">Marsé</hi> to apprehend him; for the King had
 been advertised both of his retreat, and of the time when he departed to return into has Country; So that oppressed with many misfortunes, he resolved to go and pass
 away certain moneths in some other place, hoping that in the mean time they
-might peradventure be wearied with continuall guarding of <hi rend="italic">Mars&#x00E9;</hi>. He went then
+might peradventure be wearied with continuall guarding of <hi rend="italic">Marsé</hi>. He went then
 into <hi rend="italic">Provence</hi> for his more security, where one of his particular friends lived, that
 was retired from the Court. Being there, he understands that the Kings displeasure
 is pacified, and that his enemie is dead; so that the impossibility which he saw to be
@@ -5697,20 +5681,20 @@ Prince had not intreated him very well. He passeth into <hi rend="italic">Italie
 his Actions and Estate; and after he had seen all that is remarkable on this side the
 mountains, he staied in the end at <hi rend="italic">Genoua</hi>, where such pleasant things have arrived
 unto him, as one vvould hardly beleeve they vvere true, they vvere so extraordinary. You have much obliged me, said the Princess, by acquainting me vvith all
-these passages; but I vvould fain know, vvhat cause <hi rend="italic">Mars&#x00E9;</hi> had so to hate him? I
+these passages; but I vvould fain know, vvhat cause <hi rend="italic">Marsé</hi> had so to hate him? I
 rather think Madam (replyed the Count) that there was some love in the quarrel;
-if I be not deceived, <hi rend="italic">Mars&#x00E9;</hi> had four sisters, and the Marquis but one; and they were
+if I be not deceived, <hi rend="italic">Marsé</hi> had four sisters, and the Marquis but one; and they were
 both neighbours together in the country, so that visiting one another very often,
-according to the custom of <hi rend="italic">France</hi>, <hi rend="italic">Mars&#x00E9;</hi> fell in love with the Marquis his Sister
+according to the custom of <hi rend="italic">France</hi>, <hi rend="italic">Marsé</hi> fell in love with the Marquis his Sister
 and the Marquis, who alwaies returns Love with usury, became enamoured of all
 his four at once. He loved the eyes of the one, the stature of the other, the voyce of
 the third, and the wit of thelast. And in these four mayds, he said that he had the
-most accomplished Mistris in the worid. This folly lasted long <sic>enongh</sic> to give <hi rend="italic">Mars&#x00E9;</hi> leasure to become desperately in love with the Marquis his sister, who at her brothers intreaty had entertayned him very civily during certain moneths that he was away in the Province, albeit she could by no meanes indure him. In the mean while the time of his return being come, <hi rend="italic">Mars&#x00E9;</hi> begins to think seriously of his affaires, beleeves they will succeed well; and finding that the Marquis took great delight in resorting to his house, thinks to give him the choice of his four sisters, and by that exchange hopes to estabilish his felicity, and possess his Mistris. He
+most accomplished Mistris in the worid. This folly lasted long <sic>enongh</sic> to give <hi rend="italic">Marsé</hi> leasure to become desperately in love with the Marquis his sister, who at her brothers intreaty had entertayned him very civily during certain moneths that he was away in the Province, albeit she could by no meanes indure him. In the mean while the time of his return being come, <hi rend="italic">Marsé</hi> begins to think seriously of his affaires, beleeves they will succeed well; and finding that the Marquis took great delight in resorting to his house, thinks to give him the choice of his four sisters, and by that exchange hopes to estabilish his felicity, and possess his Mistris. He
 
 
 <pb n="122" ed="digital"/>
 <milestone n="6     IBRAHIM, or     Part 2." ed="1652" unit="page"/>
-imployes one therein, who was a friend both to him and the Marquis; gives him order to discover which of his Sisters he hath a mind to, that he may prepare her to intertain him the better. This friend acquits himself dexterously of his Commission, he repairs to the Marquis, speakes to him of <hi rend="italic">Mars&#x00E9;s</hi> Sisters, and demands of him
+imployes one therein, who was a friend both to him and the Marquis; gives him order to discover which of his Sisters he hath a mind to, that he may prepare her to intertain him the better. This friend acquits himself dexterously of his Commission, he repairs to the Marquis, speakes to him of <hi rend="italic">Marsés</hi> Sisters, and demands of him
 which of them pleaseth him most. He answers, that they please him all alike;
 that the eldest is plump, fair-hayr'd, white-skin'd; that she hath a great deal of
 sweetness in her eyes, and in her humour, but that it is great pity she is no taller.
@@ -5752,7 +5736,7 @@ of which he found things that touched his heart, and others that did not please
 him.</p>
 <p>This man then being in dispair of being able to acquit himself of his Commission, enquires howsoever, whether it be at Court, or in the Country, that he loves?
 The Marquis answers, how it is in the <sic>Coutry</sic> that he loves, and after this they
-part. <hi rend="italic">Alsac</hi> goes to <hi rend="italic">Mars&#x00E9;</hi>, and tels him that all the fruit of his voyage is, how
+part. <hi rend="italic">Alsac</hi> goes to <hi rend="italic">Marsé</hi>, and tels him that all the fruit of his voyage is, how
 he certainly knows that the Marquess is in love in their Country, and that of necessity it must be in his house, since there were no other Gentlewomen thereabout;
 but to understand precisely which of his Sisters held the chiefest place in his heart,
 was impossible for him to discover, so well had he spoken to him of all four, howbeit it seemed to him that the last touched him a little more than the rest; but
@@ -5760,11 +5744,11 @@ was impossible for him to discover, so well had he spoken to him of all four, ho
 
 <pb n="123" ed="digital"/>
 <milestone n="7     The Illustrious BASSA.     Book I." ed="1652" unit="page"/>
-this too was so uncertain, as he counselled him not to rely on it. <hi rend="italic">Mars&#x00E9;</hi> finds himself hereupon sufficiently troubled, howsoever he resolvs to clear himself therein, and beleeves that entertaining all his Sisters, one by one in particular, he may discover the truth; it being impossible, said he, but that I shall observe by their countenances, to which of them he hath spoken seriously of love. He sends for the eldest to him into his Cabinet, speaks to her with a great deal of testimony of good will, and to oblige her the more easily to discover her heart unto him, he assures her that he thinks of nothing with more care, than to establish her Fortune; that he should hardly resolve to marry before her; and at length, having made a turn or two, he demands of her whether the Marquis had ever given her any particular proofs of his affection, and whether that match would be agreeable unto her. This proposition having made her blush, she answers, casting down her eyes, that in this occasion she had no other will but his, and that she was ready to obey him. How it was true, that the Marquis had testified that he greatly esteemed her, and that in a hundred encounters he still seemed to prefer her before the rest, and that she also had known how to acknowledge his merit to the prejudice of them that came neer him; but that for three 
+this too was so uncertain, as he counselled him not to rely on it. <hi rend="italic">Marsé</hi> finds himself hereupon sufficiently troubled, howsoever he resolvs to clear himself therein, and beleeves that entertaining all his Sisters, one by one in particular, he may discover the truth; it being impossible, said he, but that I shall observe by their countenances, to which of them he hath spoken seriously of love. He sends for the eldest to him into his Cabinet, speaks to her with a great deal of testimony of good will, and to oblige her the more easily to discover her heart unto him, he assures her that he thinks of nothing with more care, than to establish her Fortune; that he should hardly resolve to marry before her; and at length, having made a turn or two, he demands of her whether the Marquis had ever given her any particular proofs of his affection, and whether that match would be agreeable unto her. This proposition having made her blush, she answers, casting down her eyes, that in this occasion she had no other will but his, and that she was ready to obey him. How it was true, that the Marquis had testified that he greatly esteemed her, and that in a hundred encounters he still seemed to prefer her before the rest, and that she also had known how to acknowledge his merit to the prejudice of them that came neer him; but that for three 
 or four dayes since he had
 applyed himself more in talking to the third than he was accustomed to do. This
 Maid giving no further marks in this discourse of the love the Marquis bore her,
-than that which she bore to him by the jealousie which she shewed, <hi rend="italic">Mars&#x00E9;</hi> was at a
+than that which she bore to him by the jealousie which she shewed, <hi rend="italic">Marsé</hi> was at a
 nonplus; he perceives by his Sisters speech, that the Marqtus had spoken to her
 of love; that she did not hate him; and that she suspects notwithstanding that he
 hath a mind to her which sings, although according to <hi rend="italic">Alsacs</hi> opinion it should
@@ -5784,7 +5768,7 @@ as for her, she could alwayes rule her will by his, but if he would permit her
 to speak the truth, she must confess unto him, that she could be contented to marry with a Courtier, being so strongly dis-inclined from the Country, as she could
 hardly resolve to talk with them that came to visit her. Her Brother promises to
 doe what he can to content her, and having charged her to be secret, he dismisses
-her, and sends for the third. What shall I make of all this (said <hi rend="italic">Mars&#x00E9;</hi> to himself) I cannot learn yet whether the Marquis be truly in love or no, however I
+her, and sends for the third. What shall I make of all this (said <hi rend="italic">Marsé</hi> to himself) I cannot learn yet whether the Marquis be truly in love or no, however I
 am sure that I have two Sisters which are already desperately in love with him,
 but it may be, continued he, that the other two will clear this <hi rend="italic">enigma</hi> unto me.
 In the mean time she whom he had sent for appears with her jocund humour; she
@@ -5792,14 +5776,14 @@ demands of him at the first dash, whether it were to propound a Lover unto her
 that he had sent for her so in secret; he answers her, that she was not deceived, for indeed it was to ask of her whether the affection of the Marquis did satisfie her?
 She replyes laughing, that the obligation which she had unto him for having
 taught her so many excellent ayrs, for having taken such pains to make her sing
-well, and to tune her Lute to her voice, deserved that her answer should be favourable unto him. But, said <hi rend="italic">Mars&#x00E9;</hi> to her, speak seriously, for though you be the third, yet if the Marquis loves you, you shall be the first married. Can you doubt of it, said she? and see you not that the conformity which is between us
+well, and to tune her Lute to her voice, deserved that her answer should be favourable unto him. But, said <hi rend="italic">Marsé</hi> to her, speak seriously, for though you be the third, yet if the Marquis loves you, you shall be the first married. Can you doubt of it, said she? and see you not that the conformity which is between us
 
 
 <pb n="124" ed="digital"/>
 <milestone n="8     IBRAHIM, or     Part 2." ed="1652" unit="page"/>
-must needs produce a fair affection? He is merry, I am not melancholick; he understands musick, and I can sing; he plays on the Lute, and so doe I; he dances admirably, and I doe not dance with an ill grace; in conclusion, there is a kind of I know not what invisible thing, called, as I think, Sympathy, which makes us that we cannot hate one another. I but, replied <hi rend="italic">Mars&#x00E9;</hi>, this is not enough, and you must tell me more seriously whether he loves you. Expect not any thing more serious from me, said she, for I should cease to be that I am, and preadventure should not please the Marquis, if I were wiser; wherefore be pleased to let me tell you only, that if he speaks to you with as good a grace when he demands me of you, as he did in discovering his passion unto me, I shall not answer him cruelly.
+must needs produce a fair affection? He is merry, I am not melancholick; he understands musick, and I can sing; he plays on the Lute, and so doe I; he dances admirably, and I doe not dance with an ill grace; in conclusion, there is a kind of I know not what invisible thing, called, as I think, Sympathy, which makes us that we cannot hate one another. I but, replied <hi rend="italic">Marsé</hi>, this is not enough, and you must tell me more seriously whether he loves you. Expect not any thing more serious from me, said she, for I should cease to be that I am, and preadventure should not please the Marquis, if I were wiser; wherefore be pleased to let me tell you only, that if he speaks to you with as good a grace when he demands me of you, as he did in discovering his passion unto me, I shall not answer him cruelly.
 After this she went away singing a Song which the Marquis
-had made for her, and left <hi rend="italic">Mars&#x00E9;</hi> so confounded, as he could scarcely beleeve
+had made for her, and left <hi rend="italic">Marsé</hi> so confounded, as he could scarcely beleeve
 what he had heard. But at length the last arrives, and whereas he knows that she
 had more wit than the rest, he also imployes more art in speaking to her: He
 cajols and carresses her; calls her his Favourite, and his dearest Sister; and after an hundred protestations of good will, conjures her to deal ingenuously with
@@ -5829,14 +5813,14 @@ for the interest of my Sisters, then I ruine my self with her; I lose the hope o
 possessing her; and it would be an ill way for one to prove his love unto a generous
 person, to kill her Brother. It is better for me then to dissemble a while; to observe all his actions; to endeavour yet to discover whom the Marquis is in love
 withall; and if at last I can learn nothing certain, then to propound unto him
-the choice of my Sisters, in demanding of his. Behold in what sort <hi rend="italic">Mars&#x00E9;</hi> reasoned with himself about so intricate an affair (at leastwise he hath recounted it
+the choice of my Sisters, in demanding of his. Behold in what sort <hi rend="italic">Marsé</hi> reasoned with himself about so intricate an affair (at leastwise he hath recounted it
 since in this manner.)  But as Marse was thus troubled at home, so was the Marquis in some sort with his Sister, who having another design with herself than
-the marrying of <hi rend="italic">Mars&#x00E9;</hi>, would have him dispense with her for entertaining him
+the marrying of <hi rend="italic">Marsé</hi>, would have him dispense with her for entertaining him
 any longer, and permit her to take all hope from him. Howbeit the Marquis,
 
 <pb n="125" ed="digital"/>
 <milestone n="9     The Illustrious BASSA.     Book I." ed="1652" unit="page"/>
-who could not endure that his Sisters rigour should deprive him of the favours of all <hi rend="italic">Mars&#x00E9;s</hi>, unto whom he durst not have gone any more, if once she should have put him into despair, could not consent unto her desires. Why, Sister, said he unto her, you see me to be a hundred leagues from the Court, in a solitary Country, where one can hardly behold any thing that so much as resembles a woman, and you will be so cruell as to deprive me of a company, wherein I meet with
+who could not endure that his Sisters rigour should deprive him of the favours of all <hi rend="italic">Marsés</hi>, unto whom he durst not have gone any more, if once she should have put him into despair, could not consent unto her desires. Why, Sister, said he unto her, you see me to be a hundred leagues from the Court, in a solitary Country, where one can hardly behold any thing that so much as resembles a woman, and you will be so cruell as to deprive me of a company, wherein I meet with
 four very amiable ones; so as if it be true that the loss of one Mistress brings an
 unquietness that cannot be ended but by Iron or Poyson, what doe you think will
 become of me, when you shall have taken from me four at a time, which I love passionately; and in a place where I can find no others? If I were at <hi rend="italic">Paris</hi>, I should comply with you herein, not onely for fower, but for thirty, being well assured that I
@@ -5879,7 +5863,7 @@ four, as the Turkes does, I am in no danger of being their husband. In this mann
 I shall be alwaies free, and alwaies amorous; and the impossibilitie that there is for
 them ever to be my wives, gives them a charm, which will make me love them untill I return again to the Court. Judge now after this, cruell sister, whether vou are
 to rob me of all my pleasures. You know, continued he, that I doe not cross yours,
-that I have never prest you to hearken to the sighes of <hi rend="italic">Mars&#x00E9;</hi>, more than vvas need
+that I have never prest you to hearken to the sighes of <hi rend="italic">Marsé</hi>, more than vvas need
 
 
 
@@ -5893,15 +5877,15 @@ long time yet pleasantly disputing on either part concerning this matter; but at
 last the Marquis his Sister, vvho vvould not lose so favourable an occasion to discover unto her Brother the design vvhich she had, gives him to understand, that during his absence, a Gentleman of their Neighbours, extreme rich, of great courage,
 and of much spirit, had fallen in love vvith her; and that he being to return from
 the Army in a short space, she was afraid lest some mischief might fall out between
-him and <hi rend="italic">Mars&#x00E9;</hi>. It is not that I have any affection for him, said this Maid  but I
-must confess to you, that I vvill never mary <hi rend="italic">Mars&#x00E9;</hi>, though I think I could resolve
+him and <hi rend="italic">Marsé</hi>. It is not that I have any affection for him, said this Maid  but I
+must confess to you, that I vvill never mary <hi rend="italic">Marsé</hi>, though I think I could resolve
 to be the others Wife. Come, my dear Sister, answered the Marquis, doe not disguise your thoughts; say that you are in love; that your passion is violent, and
 vvith these charming vvords you shall obtain of me all that you can desire; I vvill
 return to the Court eight dayes sooner than I vvould have done, to leave you the
-liberty to use <hi rend="italic">Mars&#x00E9;</hi> as you please; but vvhen I goe I will leave our Mother an absolute power to mary you according to your ovvn mind; for I am so glad to see
+liberty to use <hi rend="italic">Marsé</hi> as you please; but vvhen I goe I will leave our Mother an absolute power to mary you according to your ovvn mind; for I am so glad to see
 that you are not insensible, that I love you for it far more than I did. As they
-vvere thus talking, <hi rend="italic">Mars&#x00E9;</hi> arrives, the Marquis hides himself against his Sisters vvill,
-gets out at a back-gate, mounts on hors-back, and rides to <hi rend="italic">Mars&#x00E9;s</hi> house, vvhich
+vvere thus talking, <hi rend="italic">Marsé</hi> arrives, the Marquis hides himself against his Sisters vvill,
+gets out at a back-gate, mounts on hors-back, and rides to <hi rend="italic">Marsés</hi> house, vvhich
 vvas not far off, vvhere he finds those four fair Sisters, or to say better, his four Mistresses, all of them more joviall than ordinary, for they had every one in particular some hope to be the Marquis his Wife, by reason of the proposition their
 Brother had made to them of it. They had also attired themselves extraordinarily,
 to give him new wounds; for they knew well no day past without his visiting them.
@@ -5942,23 +5926,23 @@ made of the hair of all four; they laugh at it at first; they refuse him, or to 
 better, they make him the more earnest to intreat them for it; and at last they grant it him, still in the thought, that it is a trick whereby he will get the hair of her <sic>eh</sic> loves, without making shew that it should be a particular favour, or that she should have cause to be offended at it. This promise was soon executed; the youngest of these maids being the most dextrous, was she that plaited this hair together, and made a bracelet of it, where the different colour of their hair appeared all asunder. In labouring at this work, she laughed in her sleeve, so think how her Sisters were beguiled, if they beleeved that it was for them the Marquis had desired that which she was making; and the rest, who thought they were more cunning, mocked at the simplicity of their younger Sister, for taking such paines about a thing wherein she had so small a share. And those severall concealed opinions which they all had, gave them so strong a disposition to laugh, as upon the least pretext for it, they fell into it; finding too amidst their laughter occasion to redouble it, each of them beleeving in their mind, that the rest would not alwayes laugh with so good a will when once the Marquis should declare himself. As for him, who never lost time, after he had spoken to them all in generall, according to the French liberty, he spake to them in particular; he singles out one into a corner of the room, and there sayes gallantries to her; a little after he talkes with another at a window, which looks upon the garden, and seeming to admire the beauty of the flowers, he praises that of her eyes; he accompanies the youngest when she goes forth, and makes use of this occasion to  cajoll her. And when they
 walk in the garden, he sometimes draws one of them also from the rest, that he may
 be able to speak two or three words to her in private, or to ksss her hand. In the
-meantime, <hi rend="italic">Mars&#x00E9;</hi>, who had not received such caresses at the Marquis his house,
+meantime, <hi rend="italic">Marsé</hi>, who had not received such caresses at the Marquis his house,
 returns to his own, where he finds him still to be; he does what he can to make
-him stay all night, but the Marquis, who began to fear lest <hi rend="italic">Mars&#x00E9;</hi> should press him
+him stay all night, but the Marquis, who began to fear lest <hi rend="italic">Marsé</hi> should press him
 to explain himself, withstands it, parts from this fair company, carries away the
 bracelet, and comes back to his Sister, who was very melancholick. For it had
-happened, that her Lover being returned, had surprised her talking with <hi rend="italic">Mars&#x00E9;</hi>;
+happened, that her Lover being returned, had surprised her talking with <hi rend="italic">Marsé</hi>;
 and whether he had understood of his design, or that she had before acquainted him
 with it they had saluted one another very coldly, and had talked as men that took
 pleasure to contradict each other. So that, said she to the Marquis, after she had
 recounted unto him that which had befallen, I see the matter in a case to break
 forth, and suddenly to produce some mischief; it we doe not look to it in time.
 No such thing, answered the Marquis, for whereas I have promised nothing to
-<hi rend="italic">Mars&#x00E9;</hi>, and that he too hath not spoken to me of his love to you, or of any purpose he had to marry you; I may tell him if he moves me about it, that I am engaged to another, and to make that true, cause your Lover to come to me,
+<hi rend="italic">Marsé</hi>, and that he too hath not spoken to me of his love to you, or of any purpose he had to marry you; I may tell him if he moves me about it, that I am engaged to another, and to make that true, cause your Lover to come to me,
 aud I will promise him my consent. I know that thereby I shall banish my self
 from a place, where I have a great deal of pleasure; but since I am of necessity to
 be gone away within eight dayes to the Court, I could not make a better end of
-this adventure. For <hi rend="italic">Mars&#x00E9;</hi> forbidding me his house, I shall have a fair occasion
+this adventure. For <hi rend="italic">Marsé</hi> forbidding me his house, I shall have a fair occasion
 to write them a letter of adieu and despair: withall, continued he, I perceive that
 I begin to accustome my self to the favours which I receive from these Gentlewomen, so that now the happiness which love gives me, being turned into an habit,
 it is no longer hapiness to me. The Marquis his Sister was so astonished to hear
@@ -5979,13 +5963,13 @@ Master of his Estate, and of his own will, they resolved to accomplish this Mari
 <pb n="128" ed="digital"/>
 <milestone n="12     IBRAHIM, or     Part 2." ed="1652" unit="page"/>
 within four dayes, to the end that the Marquis, who was to return to the Court,
-might be at his sisters wedding. Things being in these termes, <hi rend="italic">Mars&#x00E9;</hi> arrives, who
+might be at his sisters wedding. Things being in these termes, <hi rend="italic">Marsé</hi> arrives, who
 was come on purpose to his Mistresses Mother, to discover his design unto her. As
 soon as the Marquis saw him enter, he descends, he goes and imbraces him, invites
 him to his sisters wedding, before he acquaints him to whom she is to be maryed;
 seemes to believe that he is not interessed therein; talks to him of dancing and
-joy; hoping thereby, that <hi rend="italic">Mars&#x00E9;</hi>, seeing the matter resolved, would not explain
-himself further, and peradventure would alter his mind. As indeed, <hi rend="italic">Mars&#x00E9;</hi> hearing
+joy; hoping thereby, that <hi rend="italic">Marsé</hi>, seeing the matter resolved, would not explain
+himself further, and peradventure would alter his mind. As indeed, <hi rend="italic">Marsé</hi> hearing
 this discourse, and knowing that his rivall was returned, makes no doubt but the
 Marquis spake the truth, onely he doubted, in regard of the manner of the Marquis
 his speech to him, whether he had observed that he affected his sister. He was mad
@@ -5998,18 +5982,18 @@ a conjuncture, he suffered himself to be conducted along by the Marquis, whose
 adress in this occasion was such, as without seeming to perceive any change in his
 countenance, he still continued talking to him of diversion and joy; and that too
 with imbracing and putting him gently on towards his Mothers chamber; whereunto as soon as ever they were entred, the Marquis presented his brother-in-law to
-<hi rend="italic">Mars&#x00E9;</hi>, who saluted him very coldly; in the mean time he had leasure to tell his
-Mother and his sister in two words, that to keep <hi rend="italic">Mars&#x00E9;</hi> from shewing his hatred
+<hi rend="italic">Marsé</hi>, who saluted him very coldly; in the mean time he had leasure to tell his
+Mother and his sister in two words, that to keep <hi rend="italic">Marsé</hi> from shewing his hatred
 and resentment, he was not to be left alone with anybody. After that civilities were rendred on either part, the Marquis thought it was fittting that he
 should entertain the company; he began then to quarrell with his sister, for
 that she was the cause of his rejoycing at a thing which was repugnant to
 his mind; but withall he was well assured, that this thing should never
-give him joy again, either for her, or any other, and that this compliance was no doubt the greatest mark he could render her of his love. <hi rend="italic">Mars&#x00E9;</hi>
+give him joy again, either for her, or any other, and that this compliance was no doubt the greatest mark he could render her of his love. <hi rend="italic">Marsé</hi>
 hearing this discourse, demanded ofhim, whether he meant mariage by that
 which he spake? and the Marquis without further delay, answered him laughing,
 that it was of that destroyer of love; of that Tyrant of libertie; of that enemy of pleasure;  which most commonly disjoynes all that Love hath united; which discovers all the defects of the mind and humor, to persons that believed they were altogether perfect; and that which was worse than ail the rest for him, which banishes love, inconstancie, and gallantry from amongst men, to introduce into the
 stead of it, jealousie of honor, a false constancie, and domestick cares. So that, as you
-speak (replyed <hi rend="italic">Mars&#x00E9;</hi> interrupting him) you believe it may be that you should
+speak (replyed <hi rend="italic">Marsé</hi> interrupting him) you believe it may be that you should
 much oblige one of your friends, if you should mary his Mistress to another. If he
 should tell me, answered the Marquis, that he would mary her, I should not contradict his intent, for I am so much an enemie to constraint, as I never oppose any
 thing; but otherwise if a worthy man of my friends should appear to me extremely
@@ -6019,7 +6003,7 @@ so far, as to give him a desire to doe so: And in the humor that I am, the great
 proof of affection that I can render unto a maid, when I become inamoured of her,
 is not to marry her: yea, and I have met with some, unto whom, the more favourably to receive my affection, and to testifie unto them the respest which I bare
 them, I have declared at the first sight, that in becoming their Servant, I had no design to become their Master; and in assuring them that I was their slave, I assured
-them that I would never be their Tyrant. It may be, replyed <hi rend="italic">Mars&#x00E9;</hi>, you have not
+them that I would never be their Tyrant. It may be, replyed <hi rend="italic">Marsé</hi>, you have not
 alwaies spoken so openly; that I have not, answered the Marquis, when I believed,
 that those whom I loved had wit enough not to suspect that I had any such bad intent; but howsoever I have never done or said any thing which could make them
 
@@ -6032,19 +6016,19 @@ should have some cause to fear, that one might imagine you had perswaded me
 to your opinion. I dare not say, replyed her Lover, that these maximes, which
 you condemn, have nothing in them that clashes with reason; nor also maintain
 that they have nothing in them but that which is bad; for I have too much love
-for the Sister, and too much respect for the Brother; but howsoever I am confident that you will not follow them. It is true, said <hi rend="italic">Mars&#x00E9;</hi>, tartly enough, that
+for the Sister, and too much respect for the Brother; but howsoever I am confident that you will not follow them. It is true, said <hi rend="italic">Marsé</hi>, tartly enough, that
 inconstancie is not that wherewith he is to be reproched; and I know not whether on the contrary, Vertue opposed will not prove to be the onely crime that may
 be imputed to him. The Marquis perceiving that the other was preparing himself to answer, and peradventure with bitterness, continued to speak of the injustice
 of men in the discerning of things. For, said he, if the diversity of good books
 renders a man knowing; if diversity of voyages serves him for an agreeable study, which illuminates his mind, and informs his judgment; if the diversity of
 fair arts is a knowledge that pleases; if the diversity of tongues passes for a laudable curiosity, why should one think that the diversity of loves can produce nothing that is good? And why will one have the grace of novelty, which is
-the charm of nature, to be a defect in love? For my part, said <hi rend="italic">Mars&#x00E9;</hi>,
+the charm of nature, to be a defect in love? For my part, said <hi rend="italic">Marsé</hi>,
 I will no longer oppose this doctrine, since an universall change cannot be but
 advantagious for me, glorious for some, and equitable for others. The hidden
 sence of this speech was easily understood by all the company; but the Marquis,
 who in this occasion did not desire to dive into things, alter'd the discourse, and
-said unto <hi rend="italic">Mars&#x00E9;</hi>, that his Sisters must needs honour this Wedding with their presence, and that he must rejoyce with them, for that they are not so neer to slavery.
-The honour that you will doe them, answered <hi rend="italic">Mars&#x00E9;;</hi>, will surprise them, not
+said unto <hi rend="italic">Marsé</hi>, that his Sisters must needs honour this Wedding with their presence, and that he must rejoyce with them, for that they are not so neer to slavery.
+The honour that you will doe them, answered <hi rend="italic">Marsé;</hi>, will surprise them, not
 because your civilities hath not given them occasion to attend more from you,
 but whereas this newes is unexpected, it is fit that I should goe and advertise
 them of it, to the end they may prepare themselves to receive the grace that you
@@ -6052,7 +6036,7 @@ will doe them. The Marquis pressed him extremely to pass away the rest of the
 day with them, but he would by no means stay; He invites him also to his Sisters
 Wedding, talks to him of Bals, Lutes, Musick, and of all the entertainments usuall in such like Feasts: whereunto the other answered still with speeches of a
 double sence. The two Rivals quipt one another civilly, which doubtless might
-have produced some unlucky adventure, had not the merry humour of the Marquis sweetned the conversation. <hi rend="italic">Mars&#x00E9;</hi> took his leave of the company, with a
+have produced some unlucky adventure, had not the merry humour of the Marquis sweetned the conversation. <hi rend="italic">Marsé</hi> took his leave of the company, with a
 forced countenance, which made them conceive that he had strange unquietness
 in his mind. He went home then with so much grief, as he could not longer conceal it, and to <sic>minish</sic> in some sort he desired to make his Sisters partakers of it.
 He sends for them, acquaints them with the mariage of his Mistress, tels them that
@@ -6078,7 +6062,7 @@ but as for the youngest, she was vext to the heart, for having so ill assured he
 conquest; and albeit she had a great deal of wit, yet she could not forbear shewing
 her choler. Howsoever the third continued still saying, that this adventure was a
 new charm, which she discovered in the Marquis, and that ingaged her to esteem of
-him the more. In the mean time the wedding day arrives; <hi rend="italic">Mars&#x00E9;</hi> feignes himself
+him the more. In the mean time the wedding day arrives; <hi rend="italic">Marsé</hi> feignes himself
 sick because he would not be at it; the sisters excuse themselves upon their brothers sickness: Howbeit the third makes a secret match with one of her kinswomen, that dwells not far of, to goe and see this feast in disguise; they mask themselves then very bravely, and appear in that assembly accompanied with certain
 men disguised too as they were. As soon as they were entred into the rooom, the
 Marquis knew her that touched his heart still; he approaches to her, makes her
@@ -6090,16 +6074,16 @@ gallantery, should not be beguiled between themselves. This said, this gentlewom
 will one to another, esteeming too much of themselves for ever speaking together again of love. She counselled the Marqnis not to come at their house, but since he
 was to be gone to the Court the day following to send a complament to her brother
 and her sisters, as indeeed he did. The Marquis took post the next morning, leaving
-his sister very well contented, <hi rend="italic">Mars&#x00E9;</hi> in despair, three of his sisters in choler enough<sic>.</sic>
-&amp; the other satisfied. Ever since that, Madam, there hath alwaies been a secret hate between these two houses, until such time as <hi rend="italic">Mars&#x00E9;</hi> made the report that caused the
-<sic>cmobat</sic>, which I have recounted unto you, &#x0026; that consequently hath so happily for us
+his sister very well contented, <hi rend="italic">Marsé</hi> in despair, three of his sisters in choler enough<sic>.</sic>
+&amp; the other satisfied. Ever since that, Madam, there hath alwaies been a secret hate between these two houses, until such time as <hi rend="italic">Marsé</hi> made the report that caused the
+<sic>cmobat</sic>, which I have recounted unto you, &amp; that consequently hath so happily for us
 brought the Marquis into <hi rend="italic">Italy</hi>. I confess, said the Princess, that the history hath
 much delighted me; and that I am much obliged unto you for acquainting me with
 so gallant and extraordinary a man. As she was saying so, the Marquis came into
 the chamber again; whereupon she began to charge him for keeping so long away
 from a company, which found his infinitely agreable to them<unclear>:</unclear> But he with a respective boldness, answered, that knowing very well how the Count would impart some part of his humor unto her, he feared not to acknowledge, that being
 in doubt he should not alwaies well remember what she was, and also what he was,
-he went away to expose himself to the lookes of the fair <hi rend="italic">&#x00C6;milia</hi>, to the end that
+he went away to expose himself to the lookes of the fair <hi rend="italic">Æmilia</hi>, to the end that
 having his heart replenished vvith love, he might have nothing but veneration for
 her. <hi rend="italic">Isabella</hi> could not forbear laughing though she blush'd in looking on <hi rend="italic">Justiniano</hi>: vvho told the Princess, that this foresight and respect of his, merited a great deal
 of acknovvledgment. And I too am resolved not to be ingratefull; but I fear vvhen
@@ -6283,11 +6267,11 @@ that hath nothing base, nothing abject; that produces none but fair thoughts; th
 
 <pb n="135" ed="digital"/>
 <milestone n="19     The Illustrious BASSA.     Book I." ed="1652" unit="page"/>
-propounds no recompence unto it self; and that hath no other aym but to love eternally. If I were of a humour to contradict the opinions of others (answered the Marquis, laughing, and looking on <hi rend="italic">Justiniano</hi>, and then on <hi rend="italic">Isabella</hi>) I could shew you in few words, that at the very same instant when as you maintain, that one cannot be pre-occupated by his inclinations, you do not consult so much with your reason, as with your sense: But let it suffice for the finishing of our dispute, that I will make you see by my experience, that my inclinations shall be alwayes stronger than my reason; and not to stay longer in giving you an example of it, know, that though I am by the most perfect Princess in the World, and in the conversation of the worthiest persons of <hi rend="italic">Italy</hi>, yet can I not chuse but be in some unquietness for that I doe not see the beautifull <hi rend="italic">&#x00C6;milia</hi>. The whole company could not forbear laughing at the freedome of the Marquis; and the Princess demanded of him, whether he had yet taught her Kinswomanthe French liberty, by
+propounds no recompence unto it self; and that hath no other aym but to love eternally. If I were of a humour to contradict the opinions of others (answered the Marquis, laughing, and looking on <hi rend="italic">Justiniano</hi>, and then on <hi rend="italic">Isabella</hi>) I could shew you in few words, that at the very same instant when as you maintain, that one cannot be pre-occupated by his inclinations, you do not consult so much with your reason, as with your sense: But let it suffice for the finishing of our dispute, that I will make you see by my experience, that my inclinations shall be alwayes stronger than my reason; and not to stay longer in giving you an example of it, know, that though I am by the most perfect Princess in the World, and in the conversation of the worthiest persons of <hi rend="italic">Italy</hi>, yet can I not chuse but be in some unquietness for that I doe not see the beautifull <hi rend="italic">Æmilia</hi>. The whole company could not forbear laughing at the freedome of the Marquis; and the Princess demanded of him, whether he had yet taught her Kinswomanthe French liberty, by
 having persuaded her to receive his visits without her permission. Madam, said
 he unto her, if any one be faulty in this occasion, it can be none but I; who going
 out of your chamber for the reason which I have declared unto you, I took the
-boldness to make use of your name, to be received into that of <hi rend="italic">&#x00C6;milia</hi>, from whence
+boldness to make use of your name, to be received into that of <hi rend="italic">Æmilia</hi>, from whence
 I had not departed as yet if she had not driven me away. <hi rend="italic">Justiniano</hi> seeing it grow
 late, wished the Count to bid the Princess good-night, for fear of incommodating
 her, by making her stay up too long; and though she made them a complement to
@@ -6311,7 +6295,7 @@ him, gave over talking, and slept more quietly than <hi rend="italic">Justiniano
 <pb n="136" ed="digital"/>
 <milestone n="20" ed="1652" unit="page"/>
 
-<div id="ibrahim2.2" type="book" n="2.2">
+<div xml:id="ibrahim2.2" type="book" n="2.2">
 <head type="main">IBRAHIM: OR THE ILLUSTRIOUS BASSA.</head>
 <head type="sub">The second part.</head>
 <head type="sub"><hi rend="italic">The second</hi> Book.</head>
@@ -6323,17 +6307,17 @@ Marquis bestow that whole day too upon her, and to pass it
 away the more agreeably she led them to <hi rend="italic">Monton</hi>, a little
 Town, some mile from <hi rend="italic">Monaco</hi>, where the Princes of her
 House had built a magnificent Paviglion, which she desired
-to shew unto the Marquis. <hi rend="italic">&#x00C6;milia</hi> finding her self better
+to shew unto the Marquis. <hi rend="italic">Æmilia</hi> finding her self better
 that night, made one also of the company, so that the Marquis was in the best humour of the World. And whereas the
 Princess observed that his respects were not displeasing to her kinswoman, she said
 to the Marquis, for to oblige him to talk, that whereas love ought to be without
-supercherie as well as war, he having not as yet declared himself to be <hi rend="italic">&#x00C6;milia's</hi>,
+supercherie as well as war, he having not as yet declared himself to be <hi rend="italic">Æmilia's</hi>,
 she might by his observance and services be induced to beleeve that he was capable
-of a solid affection, and so ingage her further than was fitting. <hi rend="italic">&#x00C6;milia</hi> blushed
+of a solid affection, and so ingage her further than was fitting. <hi rend="italic">Æmilia</hi> blushed
 at this discourse, and the Marquis without giving her leave to speak, assured the
 Princess, that he should not long conceal himself, and that the Count could confirm this truth unto her. Indeed, said the Count, he hath not used to keep himself
 from being knowen, and if he would take the paines to recount unto you the first
-adventure that befell him at <hi rend="italic">Genoua</hi>, his address would appear to the beautifull <hi rend="italic">&#x00C6;milia</hi>, and the relation no doubt would give your Excellencie much content. Withall it will be better walking towards the evening, than in the midst of the day, and
+adventure that befell him at <hi rend="italic">Genoua</hi>, his address would appear to the beautifull <hi rend="italic">Æmilia</hi>, and the relation no doubt would give your Excellencie much content. Withall it will be better walking towards the evening, than in the midst of the day, and
 you cannot pass it away better. The Princess, who was perswaded, that the Marquis his adventures could not chuse but be very pleasant, intreated him thereunto
 with a great deal of civilitie; he excuses himself a while, but in the end she conjures him to it in the name of his last Mistress; It is she indeed, answered he, that is
 most powerfull in my heart, and that makes me to obey. The Princess conducted
@@ -6343,7 +6327,7 @@ more free. After they were set down there on seates of ebony, covered with carna
 </p>
 
 <p><q><text><body>
-<div id="ibrahim2.2a" type="story" n="2.2a">
+<div xml:id="ibrahim2.2a" type="story" n="2.2a">
 <head rend="italic">The History of the feigned Astrologer.</head>
 
 <p>BEfore I begin the relation which I am going to make, remember, Madam,
@@ -6847,7 +6831,7 @@ ink in the Cabinet, and a Table-book, wherein we found a white leaf. She began
 then to write what I dictated unto her, which if I be not deceived was much after this manner.
 </p>
 <p><q><text><body>
-<div id="ibrahim2.2b" type="letter" n="2.2b">
+<div xml:id="ibrahim2.2b" type="letter" n="2.2b">
 <p><hi rend="italic">ALthough you goe in the night like an Angel of darkness, yet pass you with me
 for an Angel of light; wherefore I conjure you, O blessed Spirit, by Heaven,
 by Love, and by the Sympathies, to appear unto me before my window the night ensuning, as soon as the Moon shall be down, in the true form of</hi> Hortensio. <hi rend="italic">And doe
@@ -7306,7 +7290,7 @@ in, who appearing with an angry countenance put the whole company into a great
 confusion. <hi rend="italic">Leonardo</hi>, who perceived that this visit was not made in an accustomed
 hour, could not imagine the cause of it; <hi rend="italic">Livia</hi>, who before time had had some jealousie of <hi rend="italic">Aurelia</hi>, and knew that <hi rend="italic">Hortensio</hi> was not above five or six steps from thence in a green Arbor, could not tell what to think of it; <hi rend="italic">Leander</hi> though he was very
 certain that he had seen <hi rend="italic">Hortensio</hi> enter there, and <hi rend="italic">Leonardo</hi> follow him, yet was afraid that he should not keep his word with <hi rend="italic">Aurelia</hi>; <hi rend="italic">Hortensio</hi>, albeit he were hid,
-was not in the least pain, for that he coud not doubt that that he should have some share in <hi rend="italic">Aureliaes</hi> visit; <hi rend="italic">la Roche</hi> too was not very much at ease to see so great a company in the very same place where his traveller was, which still continued prating, though not heard of any but my self, who in conclusion was not without a great deal of unquietnes, to behold so many folks together, which in all likelyhood would complain of me. These severall reasonings, which I have declared unto you, were made for all that in one instant; for we were not long without knowing wherefore <hi rend="italic">Aurelia</hi> came; who, having neither father nor mother, &#x0026; living only under the tutition of an uncle, took more liberty to her self than ordinarily the Mayds of <hi rend="italic">Italy</hi> use to do. She advanced then with a boldness that amazed me, and addressing her speech to <hi rend="italic">Leonardo</hi>, without scarcely turning her eyes towards <hi rend="italic">Livia</hi>; Marvail not, said she 
+was not in the least pain, for that he coud not doubt that that he should have some share in <hi rend="italic">Aureliaes</hi> visit; <hi rend="italic">la Roche</hi> too was not very much at ease to see so great a company in the very same place where his traveller was, which still continued prating, though not heard of any but my self, who in conclusion was not without a great deal of unquietnes, to behold so many folks together, which in all likelyhood would complain of me. These severall reasonings, which I have declared unto you, were made for all that in one instant; for we were not long without knowing wherefore <hi rend="italic">Aurelia</hi> came; who, having neither father nor mother, &amp; living only under the tutition of an uncle, took more liberty to her self than ordinarily the Mayds of <hi rend="italic">Italy</hi> use to do. She advanced then with a boldness that amazed me, and addressing her speech to <hi rend="italic">Leonardo</hi>, without scarcely turning her eyes towards <hi rend="italic">Livia</hi>; Marvail not, said she 
 
 
 
@@ -7418,12 +7402,12 @@ friendship, which hath likewise produced yours too, Madam, and hath also given
 me the noblest passion that ever I had in my life. I must confess, sayd the Princess,
 that you are incomparable, and that in regard of what I have heard, there is none
 but will say how you are a dangerous enemy, and a pleasing friend. Ah, Madam,
-sayd the Marquis, do not ruin me with <hi rend="italic">&#x00C6;milia</hi>! no, no, sayd this mayd, for I promise you not to judge of you but by your self, who, as I beleeve, will perswade me
+sayd the Marquis, do not ruin me with <hi rend="italic">Æmilia</hi>! no, no, sayd this mayd, for I promise you not to judge of you but by your self, who, as I beleeve, will perswade me
 that, which her Excellency speaks of, better than she can, as eloquent as she is. I
 would fain know, sayd <hi rend="italic">Doria</hi>, speaking to the Marquis, whether they from whom
 you take your love, may pretend still to your friendship. Yes, answered he, provided they have been favourable to me; for as for the rest, they are so indifferent
 unto me, as it would be more advantageous for them, that I should hate them. This
-is a pretty discourse indeed, sayd <hi rend="italic">Justiniano</hi>, since that by this reason, the fair <hi rend="italic">&#x00C6;milia</hi>
+is a pretty discourse indeed, sayd <hi rend="italic">Justiniano</hi>, since that by this reason, the fair <hi rend="italic">Æmilia</hi>
 ought not to be cruell unto you, to the end she may by receiving your love favourably pretend one day to your friendship, I confess, said the Count, that the Marquis
 his opinion teaches me a new tenet, which I did not beleeve could be possible; I have
 always heard it sayd, that friendship is many times a way to love, but that love
@@ -7431,14 +7415,14 @@ should be the way to friendship, is a thing which hath but few examples, and no
 reason at all. This dispute would be a little too long, sayd the Princess, botn for the
 time and the place, and I think it were fitter for us to return unto <hi rend="italic">Monaco</hi> before
 the ending of the day, which will not permit us to walk; but this agreeable discourse hath given us so much satisfaction, as we have no reason to regret it. The
-whole company then arose; the Count led <hi rend="italic">Isabella</hi>; the Marquis <hi rend="italic">&#x00C6;milia</hi>; <hi rend="italic">Justiniano</hi> and
+whole company then arose; the Count led <hi rend="italic">Isabella</hi>; the Marquis <hi rend="italic">Æmilia</hi>; <hi rend="italic">Justiniano</hi> and
 <hi rend="italic">Doria</hi> went together; and the Princesses women, together with other of her servants,
 followed after without order. All this fair troop went aboord of the Galley which
 brought them thither, whereof the Princess never made use, but when she went to this
 place. The rest of the evening was wholly imployed in talking of the Marquis his
 adventures, each one repeating in particular that which had seemed most pleasant
 to them therein. <hi rend="italic">Isabella</hi> likewise caused her kinswoman, who had an excellent
-voyce, to sing; the Marquis plaid on the Lute, and sung also with the beautisul <hi rend="italic">&#x00C6;milia</hi>; so that concluding this day with Musick, they bid the Princess good night,
+voyce, to sing; the Marquis plaid on the Lute, and sung also with the beautisul <hi rend="italic">Æmilia</hi>; so that concluding this day with Musick, they bid the Princess good night,
 and retired to their lodgings.
 </p>
 </div></body></text></q></p>
@@ -7449,7 +7433,7 @@ and retired to their lodgings.
 
 <pb n="161" ed="digital"/>
 <milestone n="45" ed="1652" unit="page"/>
-<div id="ibrahim2.3" type="book" n="2.3">
+<div xml:id="ibrahim2.3" type="book" n="2.3">
 <head type="main">IBRAHIM: OR THE ILLUSTRIOUS BASSA.</head>
 <head type="sub">The second part.</head>
 <head type="sub"><hi rend="italic">The Third</hi> Book.</head>
@@ -7461,15 +7445,15 @@ Princess, who desired him to assure the Senate of her acknowledgement, and that 
 render them thanks in particular for the honor they had done
 her; The Marquis also kissed her robe; she caressed him very
 much, and prayed him to remember, that he left a Mistress at
-<hi rend="italic">Monaco</hi>, shewing him <hi rend="italic">&#x00C6;milia</hi>. The Marquis answered laughing, that he should not
+<hi rend="italic">Monaco</hi>, shewing him <hi rend="italic">Æmilia</hi>. The Marquis answered laughing, that he should not
 fail therein, and to the end she might not doubt of it, he would take the libertie
-to vvrite unto her. I shall be glad of that, said the Princess, and will enjoyn <hi rend="italic">&#x00C6;milia</hi> to receive your letters. In the mean time <hi rend="italic">Doria</hi>, vvho vvas in love vvith the
+to vvrite unto her. I shall be glad of that, said the Princess, and will enjoyn <hi rend="italic">Æmilia</hi> to receive your letters. In the mean time <hi rend="italic">Doria</hi>, vvho vvas in love vvith the
 Counts sister-in-law, named <hi rend="italic">Sophronia</hi>, began to be in some unquietness for that he
 did not return unto <hi rend="italic">Genoua</hi>; vvhich being observed by <hi rend="italic">Justiniano</hi>, he conjured him
 to abide no longer at <hi rend="italic">Monaco</hi>, and to go along vvith the Count. <hi rend="italic">Doria</hi> vvithstood it
 a vvhile, but at length he suffred himself to be persvvaded to that vvhich he desired.
 The Marquis vvas so dextrous, as he took the opportunity, vvhilst the rest vvere
-complementing with the Princess, to approch unto <hi rend="italic">&#x00C6;milia</hi>, for to assure her a
+complementing with the Princess, to approch unto <hi rend="italic">Æmilia</hi>, for to assure her a
 little more seriously than he had used to do, that he had such thoughts for her, as
 he had never before but onely for two or three of all that great multitude of vvomen vvhich he had loved in his time; it is likely he vvould have said more unto
 her, had not the Count gone away. They departed out of the Princesses chamber;
@@ -7502,7 +7486,7 @@ imployment; the remembrance of our felicities past, and of our then miseries fur
 But, continued she, these thoughts are too dolefull, for so happy a season as this is,
 wherein I see you; and we are not yet so far eloigned from the time in which we
 thought to have suffered shipwrack, as to look upon this Sea without dread or grief.
-The adventure of the Prince of <hi rend="italic">Salerno</hi>, and of <hi rend="italic">Don Fernando de Mendoza</hi>, said <hi rend="italic">&#x00C6;milia</hi> interrupting her, is not so inconsiderable, as that you should not be obliged
+The adventure of the Prince of <hi rend="italic">Salerno</hi>, and of <hi rend="italic">Don Fernando de Mendoza</hi>, said <hi rend="italic">Æmilia</hi> interrupting her, is not so inconsiderable, as that you should not be obliged
 to impart it unto a person who hath rendred you so exact an account of his life;
 but if either your modesty, or your compassion, doth hinder you from acquainting
 him with the effects of your beauty, and the mischiefes vvhich you have caused
@@ -7514,15 +7498,15 @@ she could to remit the matter to another time; but <hi rend="italic">Justiniano<
 the occasions of speaking of the end of his adventures, was willing to oblige the
 Princess to let him understand hers. When as the saw then that he was resolved for it,
 she took a pretext to go and write to <hi rend="italic">Leonardo</hi>, the Count of <hi rend="italic">Lauagnes</hi> wife, to the
-end she might not be present at <hi rend="italic">&#x00C6;miliaes</hi> relation. <hi rend="italic">Justiniano</hi> complained for that
+end she might not be present at <hi rend="italic">Æmiliaes</hi> relation. <hi rend="italic">Justiniano</hi> complained for that
 she deprived him of the sight of her, but whatsoever he could say, she entred into her
-Cabinet, saying she would punish him for his obstinate curiosity. She was no sooner gone, but <hi rend="italic">&#x00C6;milia</hi>, having first been permitted by <hi rend="italic">Isabella</hi> so to doe, began to
+Cabinet, saying she would punish him for his obstinate curiosity. She was no sooner gone, but <hi rend="italic">Æmilia</hi>, having first been permitted by <hi rend="italic">Isabella</hi> so to doe, began to
 speak in this sort to <hi rend="italic">Justiniano</hi>.
 </p>
 
 
 <p><q><text><body>
-<div id="ibrahim2.3a" type="story" n="2.3a">
+<div xml:id="ibrahim2.3a" type="story" n="2.3a">
 <head><hi rend="italic">The History of</hi> Isabella.</head>
 
 
@@ -7549,14 +7533,14 @@ ever obtain so much as the liberty to see her. She lived in this austere retired
 you had been seen at <hi rend="italic">Naples</hi>; whereupon she sent the Lieutenant of her guard unto you, who, as you know, found you in a place far from that where he vvent to seek you. It vvas much about that time, vvhen as, having lost my mother, I came against the Princesses mind, to shut up my self vvith her, she being unvvilling, as she said, that I should be made unhappy for her sake. But do vvhat she could, my intreaties vvere stronger than her reasons, so that she vvas contented to accord me that, which I demanded of her with so much affection. That false newes which had been reported of you gave her a true joy, and made her with the more ease constrain herself, and not seem to be the more supportable to me, she walked oftner than she was wont to doe; she retired less into her Cabinet, for the entertaining of her thoughts; and her compliance for me, together with the secret hope she had of seeing you again, wrought so powerfully upon her mind, as they dissipated a part of her grief, and put her soul in a more peaceable estate. She took pleasure in recounting to me your first adventures; she shewed me your letters, and the verses which you had made for her; and by the praises which I gave them, I quickly got more esteem, and love, from her than I had before. She suffered me also sometimes to sing an ayr
 unto her; and whereas she called to mind the passion which you had ever had for
 musick, I dare say, how it was more for the love of you, than for the love of me,
-that she retained one of your Rivalis in her service. <hi rend="italic">&#x00C6;milia</hi>, perceiving that this
+that she retained one of your Rivalis in her service. <hi rend="italic">Æmilia</hi>, perceiving that this
 discourse had made <hi rend="italic">Justiniano</hi> change colour, could not forbear laughing at it; and
 desiring to draw him out of the pain whereinto she had put him; Be patient, said she
 unto him, and judge not precipitously of a matter, for which you will afterwards
 without doubt repent you. I know, answered <hi rend="italic">Justiniano</hi>, that I should be unjust in
 desiring to be a judge of <hi rend="italic">Isabella</hi>; but I know withall that fear is inseparable from
 love, and that in this occasion I ought to give you some marks of it. I will soon
-make it cease, continued <hi rend="italic">&#x00C6;milia</hi>, but prepare your self to understand the most fantastick adventure, and the strangest incounter, that ever you heard off: You are to
+make it cease, continued <hi rend="italic">Æmilia</hi>, but prepare your self to understand the most fantastick adventure, and the strangest incounter, that ever you heard off: You are to
 know then, said she going on, how that great reputation of beauty which the Princess had all over <hi rend="italic">Italy</hi>, begot a curiosity at one and the same time in the mindes of the
 young Prince of <hi rend="italic">Salerno</hi>, and <hi rend="italic">Don Fernando de Mendoza</hi>, vvho for a long time had
 been in the War of <hi rend="italic">Milan</hi> under the Marquis of <hi rend="italic">Guast</hi>; and albeit they knevv not
@@ -7909,7 +7893,7 @@ himself heard his own sentence pronounced; nevertheless he had reason enough
 left to use his uttermost indeavour to conceal it, for fear he should be suspected of
 the Princess. As for <hi rend="italic">Don Fernando</hi>, the joy which he testified for this adventure was
 so great, as the Painter was the more confirmed in the opinion which he had. After
-the Prince of <hi rend="italic">Salernoes</hi> Messenger was gone, &#x0026; that the Princess had given him a diamond of great value, and that she had commanded him to be conducted to the
+the Prince of <hi rend="italic">Salernoes</hi> Messenger was gone, &amp; that the Princess had given him a diamond of great value, and that she had commanded him to be conducted to the
 Barque, vvhich vvas to carry him back to his Vessell, the Painter craved leave of
 her that he might accompany him vvith the rest, for he durst not speak to him, said
 he, unless it pleased her to permit him. You are discreet, said the Princess, and this
@@ -8084,7 +8068,7 @@ the matter; and then again the love which he bore to the Princess was so strong,
 
 <pb n="175" ed="digital"/>
 <milestone n="59     The Illustrious BASSA.     Book 3." ed="1652" unit="page"/>
-as he was resolved to perish, or possess her. In the mean time the Princess and I knew not what to think, nor what to resolve; and she demanding my advice about it, I knew not what to answer her. What think you of it, <hi rend="italic">&#x00C6;milia</hi>, said she unto me? This Painter, hath he lost his respect, or his reason? Is he an imposter, or a Prince? For my part, Madam, said I unto her, I cannot tell what to say to you of it; he hath had patience enough for a Pince, in the abode that he hath made here, and in the disputes which he hath had with <hi rend="italic">Don Fernando</hi>; But is must be acknowledged also that he hath too much wit, and too much boldness for a Painter. Whatsoever he is, said the Princess, he shall not stay in <hi rend="italic">Monaco</hi>. Madam, said I unto her, I am even of your mind, Prince or Painter, Lover or Enemy, it is fit he should be gone; But if by chance he be the latter, it should be done without ill-intreating him, for truly the loving you is no such great crime: And if it be the Prince of <hi rend="italic">Salerno</hi>, he is more unhappy than faulty, and more worthy of your pitty than of your indignation. I am of a contrary opinion, said the Princess unto me, for if he be a Prince I look
+as he was resolved to perish, or possess her. In the mean time the Princess and I knew not what to think, nor what to resolve; and she demanding my advice about it, I knew not what to answer her. What think you of it, <hi rend="italic">Æmilia</hi>, said she unto me? This Painter, hath he lost his respect, or his reason? Is he an imposter, or a Prince? For my part, Madam, said I unto her, I cannot tell what to say to you of it; he hath had patience enough for a Pince, in the abode that he hath made here, and in the disputes which he hath had with <hi rend="italic">Don Fernando</hi>; But is must be acknowledged also that he hath too much wit, and too much boldness for a Painter. Whatsoever he is, said the Princess, he shall not stay in <hi rend="italic">Monaco</hi>. Madam, said I unto her, I am even of your mind, Prince or Painter, Lover or Enemy, it is fit he should be gone; But if by chance he be the latter, it should be done without ill-intreating him, for truly the loving you is no such great crime: And if it be the Prince of <hi rend="italic">Salerno</hi>, he is more unhappy than faulty, and more worthy of your pitty than of your indignation. I am of a contrary opinion, said the Princess unto me, for if he be a Prince I look
 upon him as a dreadfull enemy; But if he be a senseless Painter, he is unworthy of my anger, and his folly may beget compassion in me.
 We reasoned in this manner all the evening, without being able to judge certainly
 whether this Painter were the Prince of <hi rend="italic">Salerno</hi>, or some one of his servants
@@ -8140,7 +8124,7 @@ affairs, no longer to defer his interprize, purposing to die, or to render himse
 Master of the Town, and possessor of the Princess: so that whilst we were all the
 afternoon seeing the Prince of <hi rend="italic">Salerno</hi> paint, he had been taking order for all things
 as well as the Captain of the Gate. Their designs being in these terms. You make
-me tremble with astonishment, said <hi rend="italic">Justiniano</hi>, interrupting <hi rend="italic">&#x00C6;milia</hi>. You will have
+me tremble with astonishment, said <hi rend="italic">Justiniano</hi>, interrupting <hi rend="italic">Æmilia</hi>. You will have
 yet more, continued she, when I shall tell you, that just about two hours after midnight, which by an extraordinary chance proved to be the very point, both of the
 Prince of <hi rend="italic">Salerno</hi>'s and <hi rend="italic">Don Fernando</hi>'s enterprize; that first having caused twelve
 souldiers to enter thorough the window of his chamber with the help of a lader
@@ -8160,7 +8144,7 @@ became in this occasion, when as maugre her resistance and mine, maugre her tear
 and maugre her cryes, she saw her self carryed away forcibly, by these souldiers,
 and led out of the Castle. I can indure no more, said <hi rend="italic">Justiniano</hi>, with as much
 grief, and almost as much choler as if he had seen his Mistress carryed away by
-force. Have patience, said <hi rend="italic">&#x00C6;milia</hi>, for yet you do not see all our Enemies. When
+force. Have patience, said <hi rend="italic">Æmilia</hi>, for yet you do not see all our Enemies. When
 as the Prince of <hi rend="italic">Salerno</hi> had forcibly carryed away the Princess, I followed her all
 in tears, and catching fast hold of one of the corners of her gown, we went in this
 sort even to the Gate of the Town, neither the Princess nor I having the power to
@@ -8262,7 +8246,7 @@ publish every where, that she was the admirablest creature on the whole earth.
 
 <pb n="179" ed="digital"/>
 <milestone n="63     The Illustrious BASSA.     Book 3." ed="1652" unit="page"/>
-The Princess answered with much discretion both to the one and to the other; and in this sort ended the adventure which she would not recount unto you, and which possessed me with so much fear, that though it be now three months since it hapned, I am not yet well recovered of it. <hi rend="italic">Justiniano</hi> thanked <hi rend="italic">&#x00C6;milia</hi> for the paines she had taken, commended her wit and her address; and after he had ended this complement, he saw the Princess come out of her Cabinet, who having heard <hi rend="italic">Justiniano</hi> talk, judged rightly that <hi rend="italic">&#x00C6;milia</hi> had finished her relation. This faithfull Lover no sooner saw her, but he complayned for that she would have concealed an adventure from him, where things had past, which heaped glory and confusion on him; how it was almost as much as to say, that she repented the having of too advantagious thoughts for him, in that she would not have let him have known them; but she answered him very obligingly, that the remembrance of others misfortunes alwaies touched her so sensibly, when as she esteemed herself the cause of them, as she thought she should render herself guilty of those of the Prince of <hi rend="italic">Salerno</hi> and <hi rend="italic">Don Fernando de Mendoza</hi>, if she should hear them without grief, and that having desired to avoyd all occasions that might bring her to a sense of sadness, in a time when she had the pleasure to see him, she had withdrawn herself. In this sort is was that <hi rend="italic">Isabella</hi> entertained <hi rend="italic">Justiniano</hi>, who ordered the conversation so dextrously, as he bad the Princess good night, without her pressing him to acquaint her vvith the end of his History.</p>
+The Princess answered with much discretion both to the one and to the other; and in this sort ended the adventure which she would not recount unto you, and which possessed me with so much fear, that though it be now three months since it hapned, I am not yet well recovered of it. <hi rend="italic">Justiniano</hi> thanked <hi rend="italic">Æmilia</hi> for the paines she had taken, commended her wit and her address; and after he had ended this complement, he saw the Princess come out of her Cabinet, who having heard <hi rend="italic">Justiniano</hi> talk, judged rightly that <hi rend="italic">Æmilia</hi> had finished her relation. This faithfull Lover no sooner saw her, but he complayned for that she would have concealed an adventure from him, where things had past, which heaped glory and confusion on him; how it was almost as much as to say, that she repented the having of too advantagious thoughts for him, in that she would not have let him have known them; but she answered him very obligingly, that the remembrance of others misfortunes alwaies touched her so sensibly, when as she esteemed herself the cause of them, as she thought she should render herself guilty of those of the Prince of <hi rend="italic">Salerno</hi> and <hi rend="italic">Don Fernando de Mendoza</hi>, if she should hear them without grief, and that having desired to avoyd all occasions that might bring her to a sense of sadness, in a time when she had the pleasure to see him, she had withdrawn herself. In this sort is was that <hi rend="italic">Isabella</hi> entertained <hi rend="italic">Justiniano</hi>, who ordered the conversation so dextrously, as he bad the Princess good night, without her pressing him to acquaint her vvith the end of his History.</p>
 </div>
 
 </body></text></q></p>
@@ -8273,7 +8257,7 @@ The Princess answered with much discretion both to the one and to the other; and
 
 <pb n="180" ed="digital"/>
 <milestone n="64" ed="1652" unit="page"/>
-<div id="ibrahim2.4" type="book" n="2.4">
+<div xml:id="ibrahim2.4" type="book" n="2.4">
 <head type="main">IBRAHIM: OR THE ILLUSTRIOUS BASSA.</head>
 <head type="sub">The second part.</head>
 <head type="sub"><hi rend="italic">The fourth</hi> Book.</head>
@@ -8505,7 +8489,7 @@ weakly reaching out her right hand to <hi rend="italic">Justiniano</hi>, who was
 so changed in an instant, as he could not forbear crying out pretty lowd. But forcing herself to speak, she bid him with a low voyce, not to fear the end of an evill,
 whereof the beginning was so violent, foreseeing well that fortune was not yet
 weary of persecuting her. But <hi rend="italic">Justiniano</hi> without answering her, opens the Cabinet
-door, calls her women, who frighted to see her in that case advertise <hi rend="italic">&#x00C6;milia</hi> of
+door, calls her women, who frighted to see her in that case advertise <hi rend="italic">Æmilia</hi> of
 it, and losing their respect in this sorrow, they demand of her all at once what she
 ayles? What her disease is? and so busie themselves in succoring her, as they render her no service at all. But she being unwilling to give them leisure to inquire
 into the cause of her sickness, did her uttermost for to tell them in half opening her
@@ -8541,7 +8525,7 @@ as indeed all that she said to <hi rend="italic">Justiniano</hi> was, comfort yo
 if you will have me live for the love of you, and be mindfull not to speak of our
 misfortunes, no not to <hi rend="italic">Doria</hi> himself if he comes hither. And whereas she saw that
 <hi rend="italic">Justiniano</hi> could not answer her without discovering his grief, she wrung him
-gently by the hand, and calling <hi rend="italic">&#x00C6;milia</hi>, she commanded her to have a care of
+gently by the hand, and calling <hi rend="italic">Æmilia</hi>, she commanded her to have a care of
 <hi rend="italic">Justiniano</hi>, untill her sickness was abated. This infortunate Lover, not daring to
 speak, for fear of augmenting the Princesses distemper, and making too much show
 of his dispair, which she would not have him to do, retired away without saying
@@ -8551,7 +8535,7 @@ was nothing in comparison of the eleventh day, for then <hi rend="italic">Justin
 had abandoned her all that time, absolutely beleeved that she was a dead body.
 The feaver was very much increased, her strength diminished, the remedies unprofitable; Nature seemed to want power, and to be so oppressed, as it was impossible
 to hope that she should escape. But in the midst of all those miseries, and in so
-great an extremity, the constancy of the Princess was admirable; who, notwithstanding <hi rend="italic">&#x00C6;miliaes</hi> teares, the cryes of her women, and <hi rend="italic">Justinianoes</hi> dispair, who
+great an extremity, the constancy of the Princess was admirable; who, notwithstanding <hi rend="italic">Æmiliaes</hi> teares, the cryes of her women, and <hi rend="italic">Justinianoes</hi> dispair, who
 was no longer in the termes to suffer himself to be constrained by reason, expressed
 such a tranquillity of mind, as it might well be judged, that life was not very dear
 unto her: Yet could she not for all that indure <hi rend="italic">Justinianoes</hi> lookes, nor see his teares
@@ -8600,7 +8584,7 @@ agreeable objects, did without doubt excite some more than ordinary joy in all
 the Assembly; and in so charming a place it had been very difficult for one not to
 have been wounded with love, which presents not it self but in the middest of pleasures and delights: And indeed <hi rend="italic">Doria</hi> was more powerfully touched therewith
 than before; <hi rend="italic">Horatio</hi> felt new flames for <hi rend="italic">Hippolita</hi>; <hi rend="italic">Alphonso</hi> began to look on <hi rend="italic">Leonida</hi> without indifferencie; and the Marquis seeing never a woman in the company with whom he had not been already as much in love as was possible for him to
-be, was constrained to conserve that still which he bare to <hi rend="italic">&#x00C6;milia</hi>; yet was it not
+be, was constrained to conserve that still which he bare to <hi rend="italic">Æmilia</hi>; yet was it not
 for all that so strong in him, as to keep him from complaining of this adventure;
 so that after they had spoken enough of <hi rend="italic">Justiniano</hi> and <hi rend="italic">Isabella</hi>, and that there was
 a certain kind of silence amongst the whole Assembly, which gave way to every
@@ -8610,7 +8594,7 @@ a certain kind of silence amongst the whole Assembly, which gave way to every
 <milestone n="72     IBRAHIM, or     Part 2." ed="1652" unit="page"/>
 one to begin some other discourse; I would never have believed, said he that being at <hi rend="italic">Genoua</hi> in the middest of twenty of the fairest persons of all <hi rend="italic">Italie</hi>, I should
 be constrained to send my mind to <hi rend="italic">Monaco</hi>, there to encounter my Mistress. It is
-not, continued he, because it is an effect of <hi rend="italic">&#x00C6;milia</hi>'s charms, or of the change of
+not, continued he, because it is an effect of <hi rend="italic">Æmilia</hi>'s charms, or of the change of
 my humor; but it is because I seeing never a woman here, for whom I have not
 already been in passion, I am inforced to conserve that for her still. And certainly
 if I had thought I should have tarried so long at <hi rend="italic">Genoua</hi>, I should have taken a better order for my affairs. I would have loved <hi rend="italic">Hypolita</hi> a full moneth, <hi rend="italic">Sophronia</hi>
@@ -8698,7 +8682,7 @@ full memories of their Heroes, who make narrations, which cause them to pass
 whole daies without eating, and nights without sleeping. For my part, said the
 Marquis, I found my self so ill with such another adventure at <hi rend="italic">Monaco</hi>, where I
 recounted my follies of <hi rend="italic">Genoua</hi> to the Princess, as I am fully resolved never to fall
-into the like again; and I should rather chuse to talk to the beautifull <hi rend="italic">&#x00C6;milia</hi>,
+into the like again; and I should rather chuse to talk to the beautifull <hi rend="italic">Æmilia</hi>,
 whom I did love, and still doe love whether I will or no, than play the Astrologer
 a second time. In the mean while <hi rend="italic">Doria</hi>, who was infinitely desirous to speak to <hi rend="italic">Sophronia</hi> of his growing passion, thought there was no better way to make the generall conversation cease, and bring on a more particular one, than to propound the
 Musick, for the charming of the Marquis his bad humor. To which effect then he
@@ -8906,7 +8890,7 @@ And whereas <hi rend="italic">Doria</hi> could not satisfie himself, he came out
 and went down to wait on <hi rend="italic">Horatio</hi>, whom she could not let part, without beholding him in such a sort, as he might easily perceive, that he was in better terms
 with her than when he came thither; for it is the custom of those that are easily
 angry, to be as easily pacified; to accuse, that one may justifie himself; and to complain, that they may be satisfied. In the mean time <hi rend="italic">Doria</hi> had no sooner left <hi rend="italic">Horatio</hi>,
-but the Marquis came to him for to show him a Letter, which he had written to <hi rend="italic">&#x00C6;milia</hi>. Why, said <hi rend="italic">Doria</hi> unto him, do you think of her still? I must needs
+but the Marquis came to him for to show him a Letter, which he had written to <hi rend="italic">Æmilia</hi>. Why, said <hi rend="italic">Doria</hi> unto him, do you think of her still? I must needs
 
 
 <pb n="195" ed="digital"/>
@@ -8914,9 +8898,9 @@ but the Marquis came to him for to show him a Letter, which he had written to <h
 think of her, said the Marquis, in the necessity I am in: But before you <sic>marvel-at</sic> my constancy, read that which you shall finde written in this paper, and <sic>hal ving</sic> opened it, he saw that it was thus.</p>
 
 <p><q><text><body>
-<div id="ibrahim2.4a" type="letter" n="2.4a">
-<head>The Marquis his Letter to <hi rend="italic">&#x00C6;milia</hi>.</head>
-<p><hi rend="italic">AFter the knowledge you have had of my humour, you will doubtless finde it strange, that the passion which you begot in my heart at</hi> Monaco, <hi rend="italic">should be conserved there still in</hi> Genoua, <hi rend="italic">and that an absence of three days hath not destroyed that which you established in a moment. I am for all that constrained thereunto by a necessary, which I never tried before, and though my mind be not changed, yet am I forced not to change you. Make use (fair</hi> &#x00C6;milia) <hi rend="italic">of a good which fortune presents you with; for not to abuse you, albeit you have the fairest eyes in the world, and that in the thought I presently am in, you are the most charming person that I know, my fidelitie is for all that rather an effect of my inconstancy, than of your beauty; for there being never a woman in</hi> Genoua <hi rend="italic">whom I have not loved, I am compelled to love you still, and to fear that Destiny will force me to become faithfull: But at least I can assure you, that if this misfortune should arrive unto me, there is none in the world that could render it so supportable unto me as you; and the passion I am in for your beauty is so strong, that I wish I may not be put to so hard and tryall, as not to be able to be absent from you, for fear I should be constrained to quit</hi> Italie, <hi rend="italic">or a leastwise</hi> Genoua, <hi rend="italic">rather than quit my inclinations.</hi></p>
+<div xml:id="ibrahim2.4a" type="letter" n="2.4a">
+<head>The Marquis his Letter to <hi rend="italic">Æmilia</hi>.</head>
+<p><hi rend="italic">AFter the knowledge you have had of my humour, you will doubtless finde it strange, that the passion which you begot in my heart at</hi> Monaco, <hi rend="italic">should be conserved there still in</hi> Genoua, <hi rend="italic">and that an absence of three days hath not destroyed that which you established in a moment. I am for all that constrained thereunto by a necessary, which I never tried before, and though my mind be not changed, yet am I forced not to change you. Make use (fair</hi> Æmilia) <hi rend="italic">of a good which fortune presents you with; for not to abuse you, albeit you have the fairest eyes in the world, and that in the thought I presently am in, you are the most charming person that I know, my fidelitie is for all that rather an effect of my inconstancy, than of your beauty; for there being never a woman in</hi> Genoua <hi rend="italic">whom I have not loved, I am compelled to love you still, and to fear that Destiny will force me to become faithfull: But at least I can assure you, that if this misfortune should arrive unto me, there is none in the world that could render it so supportable unto me as you; and the passion I am in for your beauty is so strong, that I wish I may not be put to so hard and tryall, as not to be able to be absent from you, for fear I should be constrained to quit</hi> Italie, <hi rend="italic">or a leastwise</hi> Genoua, <hi rend="italic">rather than quit my inclinations.</hi></p>
 </div>
 </body></text></q></p>
 
@@ -8945,7 +8929,7 @@ Princess was out of danger, went to <hi rend="italic">Justiniano</hi>'s lodging,
 permit<unclear>;</unclear> but the displeasure wherein he was, dispenced with him from being regular in his complements; he willed <hi rend="italic">la Roche</hi> for all that to render his back unto all
 them from whom he had received any, and to pray them not to think it strange if
 he returned not to <hi rend="italic">Genoua</hi> before the Princess were fully recovered. That done,
-<hi rend="italic">la Roche</hi> went to <hi rend="italic">&#x00C6;milia</hi> to deliver her his Masters Letter, which she reecived
+<hi rend="italic">la Roche</hi> went to <hi rend="italic">Æmilia</hi> to deliver her his Masters Letter, which she reecived
 
 
 
@@ -8960,8 +8944,8 @@ tearms.
 </p>
 
 <p><q><text><body>
-<div id="ibrahim2.4b" type="letter" n="2.4b">
-<head><hi rend="italic">&#x00C6;milias</hi> Letter to the Marquis.</head>
+<div xml:id="ibrahim2.4b" type="letter" n="2.4b">
+<head><hi rend="italic">Æmilias</hi> Letter to the Marquis.</head>
 <p><hi rend="italic">IT would be too much vanity in me to pretend unto the obtaining of that from you,
 which so great a number of fair persons could not oblige you to render unto them. Do
 not believe then that I regard you as a conquest, which I may never lose, but contrarily
@@ -8973,7 +8957,7 @@ fair kinswoman of mine, whom I conjure you to love, when at you shall no longer 
 worthy of that honor, to the end that in losing your love, I may at leastwise comfort my
 self with your sight, with your conversation, and with your friendship.</hi>
 </p>
-<closer><signed>&#x00C6;milia</signed>.</closer>
+<closer><signed>Æmilia</signed>.</closer>
 </div>
 </body></text></q></p>
 
@@ -8983,25 +8967,25 @@ of danger, the Physicians had absolutely forbidden any one from talking to her,
 no not so much as <hi rend="italic">Justiniano</hi>, who saw himself very soon kept from it by a stronger
 reason. For whether he had been too long without eating or sleeping, or that
 grief alone had been the cause of his indisposition, he found himself within a
-short time, in a sickness as desperate as that of the Princess, who not seeing him about her, was very inquisitive to know where he was. The Physicians and <hi rend="italic">&#x00C6;milia</hi>, who feared she would afflict her self too much if she knew the truth, told her,
+short time, in a sickness as desperate as that of the Princess, who not seeing him about her, was very inquisitive to know where he was. The Physicians and <hi rend="italic">Æmilia</hi>, who feared she would afflict her self too much if she knew the truth, told her,
 that <hi rend="italic">Justiniano</hi> having seen her quite out of danger, and being prest by an important affair which had befallen him at <hi rend="italic">Genoua</hi>, was gone thither with an intent to
 have returned back again before she should have taken notice of his departure.
 But when they saw <hi rend="italic">Justiniano</hi>'s sickness grow dangerous, and that the Princess
 was as much troubled with hearing no news of him, as she could have been if
 she had known the condition wherein he was, they conceived it was fit, fearing
-the sad event of <hi rend="italic">Justiniano</hi>'s malady, to acquaint her with that which they had concealed from her. <hi rend="italic">&#x00C6;milia</hi> was she that charged her self with this heavy Commission, she carried the matter so dextrously, as she ingaged the Princess to speak of
+the sad event of <hi rend="italic">Justiniano</hi>'s malady, to acquaint her with that which they had concealed from her. <hi rend="italic">Æmilia</hi> was she that charged her self with this heavy Commission, she carried the matter so dextrously, as she ingaged the Princess to speak of
 <hi rend="italic">Justiniano</hi>, and to marvell at his unexpected absence, and so unthought-of a silence.
-It would not be hard for me, answered <hi rend="italic">&#x00C6;milia</hi>, with a sad countenance, to take
+It would not be hard for me, answered <hi rend="italic">Æmilia</hi>, with a sad countenance, to take
 you out of this unquietness, if I did not fear to give you another greater than
 that. Whereupon the Princess, leaning with her right arm on the pillow, and
-with her left hand also drawing the curtain, fixed her look on <hi rend="italic">&#x00C6;milia</hi>, and
+with her left hand also drawing the curtain, fixed her look on <hi rend="italic">Æmilia</hi>, and
 after she had been a pretty while without speaking, as it were to divine
 of that which she should be acquainted with, she said unto her in such a
 fashion, as shewed that she would bee obeyed; disguise not the truth unto
 me, let me know my miserie as great as it is, and tell me whether
 <hi rend="italic">Justiniano</hi> be dead or unfaithfull; for provided he be neither the one nor the
 other, I shall receive all other misfortunes with a great deal of indifferencie.
-The last cannot be, answered <hi rend="italic">&#x00C6;milia</hi>, and heaven will not permit that the other
+The last cannot be, answered <hi rend="italic">Æmilia</hi>, and heaven will not permit that the other
 should arrive unto you. But not to disguise the truth unto you, <hi rend="italic">Justiniano</hi> never
 parted from <hi rend="italic">Monaco</hi>, and the fear alone of redoubling your sickness, in acquain-
 
@@ -9012,9 +8996,9 @@ parted from <hi rend="italic">Monaco</hi>, and the fear alone of redoubling your
 ting you with his, hath kept us from telling it to you; but finding it to continue
 longer than we thought it would, I held it my duty to advertise you of it. You are
 a cruell creature, replyed the Princess, to conceal a thing from me, which concernes my life. And what will <hi rend="italic">Justiniano</hi> say of the little care I had of him? It is by
-his order, answered <hi rend="italic">&#x00C6;milia</hi>, that we have caried the business in this sort. If you
+his order, answered <hi rend="italic">Æmilia</hi>, that we have caried the business in this sort. If you
 will have me pardon you this fault, said the Princess, so order the matter, that
-<hi rend="italic">Justiniano</hi> may not be surprised when he shall see me. <hi rend="italic">&#x00C6;milia</hi> did what she could
+<hi rend="italic">Justiniano</hi> may not be surprised when he shall see me. <hi rend="italic">Æmilia</hi> did what she could
 then to keep her from getting out of her bed, but neither her intreaties, nor the
 counsell of the Physicians, could alter her resolution. She calls her women, gets on
 a night-gown, and causing her self to be held up by the armes, she goes to <hi rend="italic">Justinioes</hi> lodging, whom she found so changed, as he could hardly be known. <sic>Assoon</sic> as
@@ -9044,7 +9028,7 @@ that <hi rend="italic">Doria</hi> having understood of his Friends sikness, was 
 desired to see him. The Physicians then approched to <hi rend="italic">Justinianoes</hi> bed side, and told
 the Princess, that if she loved his life, she was to let him rest so quiet, and suffer
 few to see him. <hi rend="italic">Justiniano</hi> intreated them to let him imbrace <hi rend="italic">Doria</hi>, who presently
-was brought in. This interview moved all them to pitty that saw it; for <hi rend="italic">Justiniano</hi> appeared so constant, <hi rend="italic">Doria</hi> so afflicted, and the Princess so forlorn, as it was impossible to forbear shedding of teares at so lamentable a spectacle. The chiefest of the Physicians coming to <hi rend="italic">Justiniano</hi>, and feeling his pulse, found that his feaver was increast, and judged by the unequall beating thereof, that the agitation of his spirit had redoubled that of his blood and humors; so that approching once more to the Princess, he told her that <hi rend="italic">Justiniano</hi> was not to be succoured with tears, and that she must absolutely be resolved to leave him to their conduct, and not to see him again till he was in a better estate. Since my sight is to deadly to him, replyed the Princess, I must obey you, but I beleive it will not be for any long time. This said, she went out of <hi rend="italic">Justinianoes</hi> chamber, after she had charged him again not to resist any remedy, and to <sic>remembrr</sic> that she would have him live. <hi rend="italic">Doria</hi> and <hi rend="italic">&#x00C6;milia</hi> helped to lead her to her chamber; but that which was wonderfull in this incounter, was, that the Princess, who had not been out of her bed since she thought she should have dyed, felt her self less weak than before, and the desire she had to be able to assist <hi rend="italic">Justiniano</hi> in person, whether the Physicians would or no, was so powerfull in her, as in four daies she found her self in an estate strong enough to be almost continually with <hi rend="italic">Justiniano</hi>, for the space of two monthes and a half,
+was brought in. This interview moved all them to pitty that saw it; for <hi rend="italic">Justiniano</hi> appeared so constant, <hi rend="italic">Doria</hi> so afflicted, and the Princess so forlorn, as it was impossible to forbear shedding of teares at so lamentable a spectacle. The chiefest of the Physicians coming to <hi rend="italic">Justiniano</hi>, and feeling his pulse, found that his feaver was increast, and judged by the unequall beating thereof, that the agitation of his spirit had redoubled that of his blood and humors; so that approching once more to the Princess, he told her that <hi rend="italic">Justiniano</hi> was not to be succoured with tears, and that she must absolutely be resolved to leave him to their conduct, and not to see him again till he was in a better estate. Since my sight is to deadly to him, replyed the Princess, I must obey you, but I beleive it will not be for any long time. This said, she went out of <hi rend="italic">Justinianoes</hi> chamber, after she had charged him again not to resist any remedy, and to <sic>remembrr</sic> that she would have him live. <hi rend="italic">Doria</hi> and <hi rend="italic">Æmilia</hi> helped to lead her to her chamber; but that which was wonderfull in this incounter, was, that the Princess, who had not been out of her bed since she thought she should have dyed, felt her self less weak than before, and the desire she had to be able to assist <hi rend="italic">Justiniano</hi> in person, whether the Physicians would or no, was so powerfull in her, as in four daies she found her self in an estate strong enough to be almost continually with <hi rend="italic">Justiniano</hi>, for the space of two monthes and a half,
 
 
 <pb n="198" ed="digital"/>
@@ -9142,7 +9126,7 @@ he took a pen, and inspired more by his grief than his wit, he traced these
 sad words.</p>
 
 <p><q><text><body>
-<div id="ibrahim2.4c" type="letter" n="2.4c">
+<div xml:id="ibrahim2.4c" type="letter" n="2.4c">
 <head><hi rend="italic">Justiniano</hi>'s Letter to <hi rend="italic">Isabella</hi>.</head>
 <p><hi rend="italic">NOt having been able to surmount your genorosity, either with my tears, or with my
 prayers, I have at length surmounted mine own apprehensions, both with my love, and
@@ -9288,7 +9272,7 @@ with nothing, but his misfortunes, and the incomparable <hi rend="italic">Isabel
 
 <pb n="203" ed="digital"/>
 <milestone n="87" ed="1652" unit="page"/>
-<div id="ibrahim2.5" type="book" n="2.5">
+<div xml:id="ibrahim2.5" type="book" n="2.5">
 <head type="main">IBRAHIM: OR THE ILLUSTRIOUS BASSA.</head>
 <head type="sub">The second part.</head>
 <head type="sub"><hi rend="italic">The fifth</hi> Book.</head>
@@ -9389,7 +9373,7 @@ he had learned that language perfectly enough, both to understand, and speak it.
 </p>
 
 <p><q><text><body>
-<div id="ibrahim2.5a" type="letter" n="2.5a">
+<div xml:id="ibrahim2.5a" type="letter" n="2.5a">
 <head><hi rend="italic">Ulama</hi>'s Letter to <hi rend="italic">Ibrahim</hi>.</head>
 <p><hi rend="italic">WHen as the injustice and tyranny of</hi> Tachmas <hi rend="italic">had forced me to seek out a
 sanctuary, to shelter my head in from a storm, which love and jealousie had raised
@@ -9480,7 +9464,7 @@ time enough to spare, I will intermix the History of her Father, which will not
 be unusefull for the intelligence of hers. <hi rend="italic">Axiamira</hi> consenting to it caused <hi rend="italic">Felixana</hi> to sit down by her, and <hi rend="italic">Halima</hi> began to speak in these terms.
 </p>
 <p><q><text><body>
-<div id="ibrahim2.5b" type="story" n="2.5b">
+<div xml:id="ibrahim2.5b" type="story" n="2.5b">
 <head><hi rend="italic">The History of</hi> Bajazet <hi rend="italic">and</hi> Roxelana.</head>
 <p>THey which know the birth, breeding, and first inclinations of <hi rend="italic">Roxelana</hi>, cannot marvail at the last things which she hath done; but contrarily they
 would have reason to find it strange, if she had not undertaken any thing to satisfie her ambition, which is the onely passion that reigns in her soul, and for
@@ -10604,9 +10588,9 @@ Castle of the seaven Towers, whither he went with an intention to ease the miser
 <pb n="233" ed="digital"/>
 <milestone n="I     Book I." ed="1652" unit="page"/>
 
-<div id="ibrahim3.0" type="part" n="3.0">
+<div xml:id="ibrahim3.0" type="part" n="3.0">
 
-<div id="ibrahim3.1" type="book" n="3.1">
+<div xml:id="ibrahim3.1" type="book" n="3.1">
 <head type="main">IBRAHIM: OR, THE ILLUSTRIOUS BASSA.</head>
 <head type="sub">The Third Part.</head>
 <head type="sub"><hi rend="italic">The First Book.</hi></head>
@@ -10657,7 +10641,7 @@ this written.
 </p>
 
 <p><q><text><body>
-<div id="ibrahim3.1a" type="letter" n="3.1a">
+<div xml:id="ibrahim3.1a" type="letter" n="3.1a">
 <head>ULAMA'S <hi rend="italic">Letter to</hi> FELIXANA.</head>
 
 <p><hi rend="italic">FOrtune not contented to make me suffer all your miseries in acquainting me with them,
@@ -10696,7 +10680,7 @@ know that by her which <hi rend="italic">Soliman</hi> would not tell him; so tha
 </p>
 
 <p><q><text><body>
-<div id="ibrahim3.1b" type="story" n="3.1b">
+<div xml:id="ibrahim3.1b" type="story" n="3.1b">
 <head><hi rend="italic">The History of the Princess</hi> AXIAMIRA, ULAMA, <hi rend="italic">and</hi> FELIXANA.</head>
 
 <p>THat which you desire to know of me, generous <hi rend="italic">Ibrahim</hi>, hath cost me so many tears
@@ -10993,7 +10977,7 @@ time should serve: <hi rend="italic">Deliment</hi> imagined how he might deceive
 of his love and his ambition; and <hi rend="italic">Ismael</hi> alone knew not very well what he was thinking on.
 As for me, I was so surprized with the insolency of <hi rend="italic">Deliment</hi> towards the Princess, of the artifice of <hi rend="italic">Perca</hi>, of the love of <hi rend="italic">Mahamed</hi>, and of that of the <hi rend="italic">Sophi</hi>, as I could scarcely speak. But <hi rend="italic">in fine</hi>, my Lord, that I may not amuse my self too long about petty things, having such great ones
 to tell you, you shall understand that we learned a little after, by the address of <hi rend="italic">Ulama</hi>, by the
-intelligence which I got from <hi rend="italic">Perca</hi>'s confident, and by the innocency &#x0026; simplicity of <hi rend="italic">Ismael</hi>,
+intelligence which I got from <hi rend="italic">Perca</hi>'s confident, and by the innocency &amp; simplicity of <hi rend="italic">Ismael</hi>,
 all the several designs of these interessed persons. As for the <hi rend="italic">Sophi</hi>, the greatest interest that he
 had in this affair, was only in my person; for though he durst not speak to me of his passion, for
 the reason I have alledged; yet was it so strong, as he was constrain'd to discover it to <hi rend="italic">Deliment</hi>,
@@ -11680,7 +11664,7 @@ after, she read that which you are going to hear: For whereas it was not long, a
 have read it over often enough, it hath always continued in my memory.</p>
 
 <p><q><text><body>
-<div id="ibrahim3.1c" type="letter" n="3.1c">
+<div xml:id="ibrahim3.1c" type="letter" n="3.1c">
 <head>ULAMA'S <hi rend="italic">Note to the Princess</hi> AXIAMIRA</head>
 <p><hi rend="italic">IF I did not know that in banishing me from the Court, you are deprived of the most faithful and most zealous of your servants, I should obey without murmuring, and I should
 absent my self with joy from a place, where vertue is not found but in the Princess</hi> Axiamira,
@@ -11702,7 +11686,7 @@ were these.
 </p>
 
 <p><q><text><body>
-<div id="ibrahim3.1d" type="letter" n="3.1d">
+<div xml:id="ibrahim3.1d" type="letter" n="3.1d">
 <head>ULAMA'S <hi rend="italic">Note to</hi> FELIXANA.</head>
 <p><hi rend="italic">IF you had not betrayed me, I should have dyed with grief, rather then have absented
 my self from you; but after your infidelity, my banishment is a grace; since I quitted
@@ -11957,7 +11941,7 @@ yet of me? Saying so, she opened <hi rend="italic">Ulama</hi>'s Letter, which sh
 </body></text></q></p>
 
 <p><q><text><body>
-<div id="ibrahim3.1e" type="letter" n="3.1e">
+<div xml:id="ibrahim3.1e" type="letter" n="3.1e">
 <head>ULAMA'S <hi rend="italic">Letter to the Princess of</hi> PERSIA.</head>
 <p><hi rend="italic">IF I did not well know, that to be an enemy to</hi> Deliment, <hi rend="italic">were to be the servant to the
 Princess</hi> Axiamira, <hi rend="italic">I should not be so bold as to write unto her, after I have dared to
@@ -11980,7 +11964,7 @@ she knew that the grand Visier was interessed therein. <hi rend="italic">Axiamir
 </p>
 
 <p><q><text><body>
-<div id="ibrahim3.1f" type="story" n="3.1f">
+<div xml:id="ibrahim3.1f" type="story" n="3.1f">
 <head><hi rend="italic">The History of</hi> ULAMA.</head>
 
 <p>I will not stand, Madam, to rehearse unto you the transports of joy which I observed in
@@ -12300,7 +12284,7 @@ of some unquietness to her, yet joy was of most power in her heart. But in regar
 
 <milestone rend="line" unit="section"/>
 
-<div id="ibrahim3.2" type="book" n="3.2">
+<div xml:id="ibrahim3.2" type="book" n="3.2">
 <head type="sub" rend="italic">The Second Book.</head>
 <p>THe hope of a more quiet life having restored the Princess <hi rend="italic">Axiamira</hi> to some strength, it was no sooner day, but having caused her self to be made ready, she sent to desire the grand <hi rend="italic">Visier</hi> he would do her the favour that she might see him. <hi rend="italic">Ibrahim</hi> having received this Order, went to the Princesses lodging; but when first he saw her, he remained as much surprized, as he had been at such time as he beheld her picture; for certainly she very much resembled <hi rend="italic">Isabella</hi>. Howbeit, respect drawing the Illustrious <hi rend="italic">Bassa</hi> out of this pleasing surprise, he saluted the princess wiht a great deal of submission, and assured her that she might absolutely dispose of him; that he came not but to offer her all that lay in his power, and to testifie unto her the grief he had to visit her in a plaace unworthy of her, and from whence he would labour to free her in a short time. The Princess answered to all these things both with very much spirit, civility, and greatness of courage. But when as <hi rend="italic">Ibrahim</hi> would dextrously have engaged her to the recital of her adventures, she desired him he would be pleased, that
 <hi rend="italic">Felixana</hi>, who had aheady acquainted him with part thereof, might continue the relating of
@@ -12311,7 +12295,7 @@ after she had received the Princesses Command for it, and that <hi rend="italic"
 </p>
 
 <p><q><text><body>
-<div id="ibrahim3.2a" type="book" n="3.2a">
+<div xml:id="ibrahim3.2a" type="book" n="3.2a">
 <head><hi rend="italic">The History of</hi> GIANGER <hi rend="italic">and</hi> MUSTAPHA.</head>
 
 <p>My imagination, representing to me all at once whatsoever I am to recount unto you, filleth
@@ -13886,7 +13870,7 @@ of no sorrow after that, which he had endured in absenting himself from <hi rend
 
 <milestone rend="line" unit="section"/>
 
-<div id="ibrahim3.3" type="book" n="3.3">
+<div xml:id="ibrahim3.3" type="book" n="3.3">
 <head type="sub" rend="italic">The Third Book.</head>
 
 
@@ -14250,7 +14234,7 @@ kindness, opened it, and reading it aloud, he saw that was thus.
 <milestone n="76     JBRAHIM, or     Part 3." ed="1652" unit="page"/>
 
 <p><q><text><body>
-<div id="ibrahim3.3a" type="letter" n="3.3a">
+<div xml:id="ibrahim3.3a" type="letter" n="3.3a">
 <head type="sub">AXIAMIRA's Letter to the SOPHI her Father</head>
 <opener><salute>My Lord,</salute></opener>
 <p><hi rend="italic">IF I had gone out of your Dominions of mine own accord, I should think my self obliged to
@@ -14591,7 +14575,7 @@ he retired, leaving <hi rend="italic">Isabella</hi> extreamly satisfied, both of
 
 <milestone rend="line" unit="section"/>
 
-<div id="ibrahim3.4" type="book" n="3.4">
+<div xml:id="ibrahim3.4" type="book" n="3.4">
 <head type="sub" rend="italic">The Fourth Book.</head>
 
 <p>AFter the <hi rend="italic">Grand Visier</hi> had waited upon the <hi rend="italic">Sultan</hi> forth, he returned to <hi rend="italic">Isabella</hi> with
@@ -15454,7 +15438,7 @@ of their sight.
 
 <milestone rend="line" unit="section"/>
 
-<div id="ibrahim3.5" type="book" n="3.5">
+<div xml:id="ibrahim3.5" type="book" n="3.5">
 <head type="sub" rend="italic">The Fifth Book.</head>
 <p>IT was no sooner day, but <hi rend="italic">Isabella</hi> sent to desire permission of the <hi rend="italic">Grand Signior</hi>, that she
 might go and visit her dear friends, which he durst not deny, so much was he afraid to
@@ -15479,7 +15463,7 @@ down there, <hi rend="italic">Alphonso</hi>, addressing himself to <hi rend="ita
 </p>
 
 <p><q><text><body>
-<div id="ibrahim3.5a" type="story" n="3.5a">
+<div xml:id="ibrahim3.5a" type="story" n="3.5a">
 <head type="sub"><hi rend="italic">The History of</hi> GIOVANNI LODOVICO <hi rend="italic">Count of</hi> LAVAGNA.</head>
 
 <p>SEeing our misfortunes, and your retirement, have made you almost a stranger in your own
@@ -15513,7 +15497,7 @@ him in the <hi rend="italic">Roman</hi> History observe the noble actions of tho
 for the safety of the Commonwealth; and the other made him oftentimes read the Conspiracy
 of <hi rend="italic">Catiline</hi>, the lives of <hi rend="italic">Tiberius</hi> and <hi rend="italic">Nero</hi>; Nevertheless whereas the Counts inclinations
 were too vertuous to love crimes, he followed not the advice of this same; but his Soul being withall too ambitious to be confined within the directions of <hi rend="italic">Pensa</hi>, he took a third way,
-and loved nothing so much as the reading of the lives of <hi rend="italic">Alexander</hi> and <hi rend="italic">C&#x00E6;sar</hi>, especially of
+and loved nothing so much as the reading of the lives of <hi rend="italic">Alexander</hi> and <hi rend="italic">Cæsar</hi>, especially of
 this last; and he was wont to say, that they which had called him Tyrant were to blame;
 since he can never be so, that aspires not to the soveraign power, but for the using of it well;
 and they which found themselves capable of governing people, were responable to Heaven for
@@ -15708,7 +15692,7 @@ this sort, one may well assure, that the people do sufficiently chastise themsel
 resolution, which carries them to shake off the yoke of a great and excellent Prince, to suffer
 to be imposed upon them that of two Tyrants, who will be so much the more cruel, by how
 much they are less accustmed to raign. Their weakness, being supported by the power of
-<hi rend="italic">C&#x00E6;sar</hi>, and rendred insolent by the great number of warlike Vessels, which we see in the Port,
+<hi rend="italic">Cæsar</hi>, and rendred insolent by the great number of warlike Vessels, which we see in the Port,
 will never suffer a couragious and resolute spirit. They will beleeve the high vertue of a man
 of condition too dangerous for their rising fortune to endure. They will make use of the ambitious Tides, of Fathersof their Country, and Restorers of the liberty, which have been
 given to <hi rend="italic">Andrea Doria</hi>, for the oppression of the most magnanimous, with the pretext of
@@ -15802,7 +15786,7 @@ such speed and so secretly, but the City, <hi rend="italic">Doria</hi>, or the E
 upon his neighbors affairs: And <hi rend="italic">Genoua</hi> it self, by reason of its <sic>scituation</sic> on the brink of the
 sea, is guarded as the key of that <hi rend="italic">State</hi>. The D<unclear>ut</unclear>chy of <hi rend="italic">Milan</hi>, which hath been a long
 time, both a prey and place of battel to the fortune of the <hi rend="italic">Imperial</hi> and <hi rend="italic">French</hi> Armies,
-makes <hi rend="italic">C&#x00E6;sar</hi> regard <hi rend="italic">Genoua</hi>, as the onely defence, and sole rampart, which covers his power
+makes <hi rend="italic">Cæsar</hi> regard <hi rend="italic">Genoua</hi>, as the onely defence, and sole rampart, which covers his power
 in <hi rend="italic">Italy</hi>. <hi rend="italic">Doria</hi> also serves the Emperor with twenty Gallies, but a great deal more with
 the good-will of the Citizens, who believe they are obliged unto him: Besides this, all the Coast of the River of <hi rend="italic">Genoua</hi>, especially towards the <hi rend="italic">Levant</hi>, is absolutely at his devotion. The
 City, that is still much troubled with the Tyranny of the <hi rend="italic">Duke</hi> of <hi rend="italic">Milan</hi>, and Government
@@ -15850,7 +15834,7 @@ of your enterprize, and the triumph of your combats. In what terms will you find
 self then? Which way will you turn your self for shame? Detested of the Nobles, whom
 you shall have betrayed; despised of the people, who will deride the means which have
 caused their utility and your ruine; abominable to your Country, as having ravished her of
-her liberty; in Enemy to <hi rend="italic">C&#x00E6;sar</hi>, the Protector of the Republique; suspected of the King
+her liberty; in Enemy to <hi rend="italic">Cæsar</hi>, the Protector of the Republique; suspected of the King
 of <hi rend="italic">France</hi>, who desires to have an absolute power at <hi rend="italic">Genoua</hi>; and hated of all the world,
 which naturally and reasonably abhors Treasons.
 </p>
@@ -15955,7 +15939,7 @@ the Empire over their equals. I do not deny but that there are some persons, who
 and dangerous actions are never commended till they are executed; but as soon as the happy
 success of the event shall have justified and authorized the greatness of your enterprize, the
 blame will be turned into admiration; and that which was called temerity and imprudence,
-will be termed valor and greatness of courage. As long as the first of the <hi rend="italic">C&#x00E6;sars</hi> was in Arms
+will be termed valor and greatness of courage. As long as the first of the <hi rend="italic">Cæsars</hi> was in Arms
 against <hi rend="italic">Pompey</hi>, and that the <hi rend="italic">Roman</hi> Empire was the cause of their conflicts, he had not only
 <hi rend="italic">Pompey</hi> for an adversary, but even all the Nobility were his most cruel foes. In the mean
 time as soon as he had defeated his Enemies mighty Army in the plains of <hi rend="italic">Pharsalia</hi>, and that
@@ -16083,7 +16067,7 @@ past compare. Yet would not our prudent Conspirator cast himself so absolutely i
 hands of the people, as to minister any jealousie thereby to the Nobles; but he used so just a
 temper in a conjuncture, where mediocrity was so hard to be observed, that the good-will
 of the one did not make him lose the friendship of the others. And to that effect, though
-<hi rend="italic">Jannetin</hi> was become very insolent, since <hi rend="italic">C&#x00E6;sar</hi> had admitted him for <hi rend="italic">Generalissimo</hi> after the
+<hi rend="italic">Jannetin</hi> was become very insolent, since <hi rend="italic">Cæsar</hi> had admitted him for <hi rend="italic">Generalissimo</hi> after the
 death of <hi rend="italic">Andrea</hi>; though he would be no longer followed by young men but for interest;
 though he would be no longer served but for fear; though his arrogance had even carried him
 to offer some ill usage to the Count; yet began he not only to go oftner to <hi rend="italic">Andrea</hi> then he
@@ -16917,8 +16901,8 @@ to the old <hi rend="italic">Serraglio</hi> with the same magnificence, as she c
 <pb n="361" ed="digital"/>
 <milestone n="129     Book I." ed="1652" unit="page"/>
 
-<div id="ibrahim4.0" type="part" n="4.0">
-<div id="ibrahim4.1" type="book" n="4.1">
+<div xml:id="ibrahim4.0" type="part" n="4.0">
+<div xml:id="ibrahim4.1" type="book" n="4.1">
 <head type="main">IBRAHIM: OR, THE ILLUSTRIOUS BASSA.</head>
 <head type="sub">The Fourth Part.</head>
 <head type="sub"><hi rend="italic">The First Book.</hi></head>
@@ -16998,7 +16982,7 @@ could not take it ill, that any thing should be known which she had done. <hi re
 <milestone n="131     The Jllustrious BASSA.     Book I." ed="1652" unit="page"/>
 
 <p><q><text><body>
-<div id="ibrahim4.1a" type="story" n="4.1a">
+<div xml:id="ibrahim4.1a" type="story" n="4.1a">
 <head type="sub"><hi rend="italic">The History of</hi> HIPOLITA, SOPHRONIA, <hi rend="italic">and</hi> LEONIDA.</head>
 <p>I Will not renew <hi rend="italic">Sophronia</hi>'s sorrow in particularizing unto you the loss of <hi rend="italic">Leonora</hi>, since it
 will suffice me to tell you, that her end had no other cause but her affliction; and that her
@@ -17111,7 +17095,7 @@ in <hi rend="italic">Marocco</hi>, and without making vows for the victory, eith
 wished that their Arms would fall out of their hands, and that Reason might be stronger in
 them then ambition. But things went not after this sort; for after many encounters, wherein the Kings of <hi rend="italic">Marocco</hi>, and <hi rend="italic">Taradant</hi>, had each in their turn had the better and the worse,
 the chance of war being fallen in the end on <hi rend="italic">Hamet</hi>, she saw <hi rend="italic">Muley Zidan</hi> her Husband return almost alone of all his whole Army, which had been utterly defeated, and acquaint her
-with tears in his eyes, that his Father, and a Brother which he had, named <hi rend="italic">Muley Bua&#x00E7;on</hi>,
+with tears in his eyes, that his Father, and a Brother which he had, named <hi rend="italic">Muley Buaçon</hi>,
 were prisoners in the hands of <hi rend="italic">Mahomet</hi>. This vertuous Princess hearing this news, had generosity enough to weep for the victories of her Father; and when as she saw that her Husband, after he had assembled together all the <hi rend="italic">Alfaquis</hi>, Cavaliers, and Captains that were in
 <hi rend="italic">Marocco</hi> to advise on that which might be done, found out no expedient which could be
 commodious for him, she presenced her self unto the Councel, and demanded the permission
@@ -17126,7 +17110,7 @@ her Father-in-law, nothing but death alone should keep her from returning back t
 The voyage of this sage Princess was not fruitless; and albeit that her Father was one of the
 greatest Politicians in the World, and one of the most ambitious Princes on the Earth, yet
 her Reasons, her Tears, and her Prayers drew him to grant her the liberty of <hi rend="italic">Hamet</hi> and
-<hi rend="italic">Muley Bua&#x00E7;on</hi>, and by a Treaty, as reasonable as if <hi rend="italic">Hamet</hi> had not been a prisoner, they
+<hi rend="italic">Muley Buaçon</hi>, and by a Treaty, as reasonable as if <hi rend="italic">Hamet</hi> had not been a prisoner, they
 contracted a peace which seemed inviolable.
 </p>
 <p>But scarcely was <hi rend="italic">Mariama</hi> re-entred into <hi rend="italic">Marocco</hi> as it were in triumph, after she had
@@ -18218,7 +18202,7 @@ observe the order he had given.
 <pb n="387" ed="digital"/>
 <milestone n="155     The Jllustrious BASSA.     Book 2." ed="1652" unit="page"/>
 
-<div id="ibrahim4.2" type="book" n="4.2">
+<div xml:id="ibrahim4.2" type="book" n="4.2">
 <milestone rend="line" unit="section"/>
 
 <head type="sub" rend="italic">The Second Book.</head>
@@ -18369,7 +18353,7 @@ began, and spake in this sort.
 
 
 <p><q><text><body>
-<div id="ibrahim4.2a" type="story" n="4.2a">
+<div xml:id="ibrahim4.2a" type="story" n="4.2a">
 <head type="sub"><hi rend="italic">The History of</hi> LEONIDA.</head>
 
 <p>THe Adventures of <hi rend="italic">Leonida</hi> have something so extraordinary in them, as they are to be
@@ -18579,7 +18563,7 @@ remember the words precisely, I shall meet with at least-wise the true sence of 
 
 
 <p><q><text><body>
-<div id="ibrahim4.2b" type="letter" n="4.2b">
+<div xml:id="ibrahim4.2b" type="letter" n="4.2b">
 <head type="sub">OCTAVIO'S <hi rend="italic">Letter to</hi> LEONIDA.</head>
 <p><hi rend="italic">BEing unable either to cease from loving you, or to see you in the possession of
 another, I am going to seek for death, as the onely remedy which I can finde
@@ -19048,7 +19032,7 @@ discourse, the Marquis acquitted himself of his promise in this sort.
 <milestone n="171     The Jllustrious BASSA.     Book 2." ed="1652" unit="page"/>
 
 <p><q><text><body>
-<div id="ibrahim4.2c" type="story" n="4.2c">
+<div xml:id="ibrahim4.2c" type="story" n="4.2c">
 <head type="sub">The History of the too good Slave.</head>
 
 <p>NEver was any so happy in servitude as I, and never did happiness produce an effect like
@@ -19346,7 +19330,7 @@ day without annoy, without care, and without melancholy.
 
 <milestone rend="line" unit="section"/>
 
-<div id="ibrahim4.3" type="book" n="4.3">
+<div xml:id="ibrahim4.3" type="book" n="4.3">
 <head type="sub" rend="italic">The Third Book.</head> 
 
 <p>WHil'st this agreeable Company endeavored to forget their present misfortunes, by
@@ -19775,7 +19759,7 @@ for the interest of <hi rend="italic">Isabella</hi>, he wrote to him in these te
 
 
 <p><q><text><body>
-<div id="ibrahim4.3a" type="letter" n="4.3a">
+<div xml:id="ibrahim4.3a" type="letter" n="4.3a">
 <opener>
 <byline>IBRAHIM BASSA, <hi rend="italic">By the Grace of</hi> Alla <hi rend="italic">supream Secretary, and chief Visier of the most mighty and most invincible Monarch, Sultan</hi> Soliman, <hi rend="italic">his Lievtenant General, and absolute Governor of the Affairs of his State, throughout the whole extent of his most flourishing and great Empire.</hi></byline>
 <salute>TO TACHMAS SOPHY of <hi rend="italic">Persia</hi>.</salute>
@@ -19817,7 +19801,7 @@ draw up his Challenge, which he wrote in these terms.
 </p>
 
 <p><q><text><body>
-<div id="ibrahim4.3b" type="letter" n="4.3b">
+<div xml:id="ibrahim4.3b" type="letter" n="4.3b">
 <opener>ULAMA's <hi rend="italic">Challenge to</hi> DELIMENT</opener>
 
 <p><hi rend="italic">Out of the fear I am in lest the day of Battel proving fatal unto you I shall not
@@ -19868,7 +19852,7 @@ saw that it was thus.
 <milestone n="187     The Jllustrious BASSA.     Book 3." ed="1652" unit="page"/>
 
 <p><q><text><body>
-<div id="ibrahim4.3c" type="letter" n="4.3c">
+<div xml:id="ibrahim4.3c" type="letter" n="4.3c">
 
 <opener><byline>SCACH TACHMAS, <hi rend="italic">Great King of Persia, Universal Caliph of the Sect of</hi> Aly;
 <hi rend="italic">Chief of the</hi> Caselbas; <hi rend="italic">Monarch of</hi> Parthia,
@@ -19902,7 +19886,7 @@ made him.
 
 
 <p><q><text><body>
-<div id="ibrahim4.3d" type="letter" n="4.3d">
+<div xml:id="ibrahim4.3d" type="letter" n="4.3d">
 
 <head>DELIMENT<hi rend="italic">'S Answer to</hi> ULAMA<hi rend="italic">'S Challenge.</hi>
 </head>
@@ -19973,7 +19957,7 @@ to speak to his Troops much after this sort.
 </p>
 
 <p><q><text><body>
-<div id="ibrahim4.3e" type="speech" n="4.3e">
+<div xml:id="ibrahim4.3e" type="speech" n="4.3e">
 
 <head>IBRAHIM<hi rend="italic">'S Oration to his Soldiers.</hi></head>
 
@@ -20188,7 +20172,7 @@ his travels.
 <pb n="425" ed="digital"/>
 <milestone n="193     The Illustrious BASSA.     Book 4." ed="1652" unit="page"/>
 
-<div id="ibrahim4.4" type="book" n="4.4">
+<div xml:id="ibrahim4.4" type="book" n="4.4">
 <head type="sub" rend="italic">The Fourth Book.</head> 
 
 
@@ -20253,7 +20237,7 @@ spake in this sort.
 </p>
 
 <p><q><text><body>
-<div id="ibrahim4.4a" type="story" n="4.4a">
+<div xml:id="ibrahim4.4a" type="story" n="4.4a">
 <head><hi rend="italic">The Sequele of the History of</hi> Osman <hi rend="italic">and</hi> Alibech.</head>
 
 <p>I Make no doubt, my Lord, but if the generosity of <hi rend="italic">Alibech</hi> mowed you at such
@@ -20596,7 +20580,7 @@ He was no sooner abord then, but he set sail; and his Pilot getting clear of the
 <milestone n="202     IBRAHIM, or     Part 4." ed="1652" unit="page"/>
 other vessells as well as he could, steered directly to <hi rend="italic">Arsalons</hi> Fleet. <hi rend="italic">Osman</hi>, on his side, being gotten abord of the Persians Brigantine, had taken the same course; so that when the broad of day began to appear, and that <hi rend="italic">Arsalon</hi>, wakened by his fury, and by the impatience hee was in for the return of him he had sent, and was
 
-mounted on the deck, he saw two vessells appear, one on the right hand, &#x0026; the other on the left, which was though they had had a purpose to advance equally, made with full sailes towards the place where he was. He knew at first his Brigantine, but for
+mounted on the deck, he saw two vessells appear, one on the right hand, &amp; the other on the left, which was though they had had a purpose to advance equally, made with full sailes towards the place where he was. He knew at first his Brigantine, but for
 the other, he could not apprehend who it was. <hi rend="italic">Osman</hi> on the other part, was not
 a little troubled to perceive, that the vessell vvhich he savv vvas one of his; <sic>hovvbe it</sic> he beleeved that his dear <hi rend="italic">Alibech</hi> hearing of his departure, had sent some one
 of the Commanders of his Fleet after him to retain him; buthe vvas much amazed,
@@ -20838,7 +20822,7 @@ taking a dagger, which had been brought to <hi rend="italic">Ismael</hi> out of 
 have armed himself, and seeing that she could not avoyd falling into the power of
 a people filled vvith fury, did yet what she could to get him to shew himself. Shee
 joyned threatnings to intreaties, and perceiving at last that all which shee said was
-in vain, &#x0026; that in an instant she should no longer be mistress of her self, rage so seized
+in vain, &amp; that in an instant she should no longer be mistress of her self, rage so seized
 on her soul, as presenting the dagger unto him with an extreme transport; Chuse, said
 she unto him, either to pierce my heart, or to doe what I would have you. And
 when as <hi rend="italic">Ismael</hi> had told her, that he would not doe either the one or the other, and
@@ -20997,7 +20981,7 @@ which he had.
 
 <pb n="443" ed="digital"/>
 <milestone n="211     The Illustrious BASSA.     Book 5." ed="1652" unit="page"/>
-<div id="ibrahim4.5" type="book" n="4.5">
+<div xml:id="ibrahim4.5" type="book" n="4.5">
 <head type="sub" rend="italic">The Fifth Book.</head>
 
 <p>THe Illustrious Bassa having past the whole night without sleeping, so much
@@ -21172,7 +21156,7 @@ the occasion for it, which instantly presented it self. For all those persons we
 that after a long absence it would have been some inhumanity to keep two
 hearts that loved one another so perfectly, from communicating their thoughts
 in private; so that presently after they were risen from meat, some went into
-the Cabinet, some into the Gallery, and <hi rend="italic">&#x00C6;milia</hi> alone remained in a corner of
+the Cabinet, some into the Gallery, and <hi rend="italic">Æmilia</hi> alone remained in a corner of
 the chamber with the French Marquis. In the mean time <hi rend="italic">Isabella</hi> was not without unquietness, the remembrance of what <hi rend="italic">Soliman</hi> had said to her possessed all
 her soul, and the incertainty wherein she was, whether she should impart it to
 <hi rend="italic"><sic>Jbrahim</sic></hi>, or whether she should not speak to him of it, put her minde upon the
@@ -21379,7 +21363,7 @@ sighing, and found that it was thus.
 </p>
 
 <p><q><text><body>
-<div id="ibrahim4.5a" type="letter" n="5.4a">
+<div xml:id="ibrahim4.5a" type="letter" n="5.4a">
 <head>Ibrahims <hi rend="italic">Letter to</hi> Soliman.</head>
 
 <p><hi rend="italic">HEaven be my witness, whether <sic>J</sic> could not more easily resolve to quit my life, than go <sic>ou tof</sic> thy Empire, without taking leave of thy Highness, where <sic>J</sic> not forced thereunto, both by an interest of hnoour, and by a sense of love. Thou knowset too well how exactly <sic>J</sic> have kept my word with thee, in comming to take my former chains upon me again, for thee to suspect <sic>J</sic> would commit a fault lightly. <sic>J</sic> could in consideration of thy Highness, quit</hi> Isabella <hi rend="italic">at</hi> Monaco, <hi rend="italic">but <sic>J</sic> confess that <sic>J</sic> could not abandon her at</hi> Constantinople. <hi rend="italic">In fine, my Lord, to excuse my fault, consider what love hath made thee do; this passion hath made thee forget the friendship which thou hadst promised me; it hath</hi>
@@ -21673,13 +21657,13 @@ his attendants, and revoke the sentence which I have given; but no delay must be
 for otherwise I shal draw the heavy wrath of heaven upon my head. <hi rend="italic">Roxelana</hi>, surprised
 with this discourse, would have kept them from obeying the grand Signior, untill she
 knew from whence this mutation came. But having commanded a second time, that one
-should go &#x0026; do that which he had ordained, she was compelled to consent unto it. What
+should go &amp; do that which he had ordained, she was compelled to consent unto it. What
 so sudden a change, said she unto him, is arrived in thy Highness mind? is it possible that
 <hi rend="italic">Soliman</hi>, whom I have heard an hundred times say, that repentance is a weakness, whereof he was not capable, should at length be possessed with it at this present? No, said <hi rend="italic">Soliman</hi> to her, I do not repent, but contrariwise that I may not repent, and that I may keep
 my word, I am carried to that which I do. The <hi rend="italic">Sultana</hi> having obliged him to explain
 himself more clearly, he informed her, how as he was laboring to remember the obligations wherein <hi rend="italic">Ibrahim</hi> was ingaged to him, to the end he might detest his ingratitude so
 much the more, his memory had represented unto him, how he would once have given
-him the <hi rend="italic">Sultana Asteria</hi> to wife, &#x0026; how at the same time, &#x0026; on the same day, to secure <hi rend="italic">Ibrahim</hi> from the fear which he seemed to have of the change of his fortune, he had sworn to him by <hi rend="italic">Alla</hi>, that as long as he lived he should not dy a violent death. After this, said he to her, Never ask me what hath made me alter my minde: I do not repent, I would still have <hi rend="italic"><sic>Jbrahim</sic></hi> destroyed, but being unable to put him to death without <sic>vio-</sic>
+him the <hi rend="italic">Sultana Asteria</hi> to wife, &amp; how at the same time, &amp; on the same day, to secure <hi rend="italic">Ibrahim</hi> from the fear which he seemed to have of the change of his fortune, he had sworn to him by <hi rend="italic">Alla</hi>, that as long as he lived he should not dy a violent death. After this, said he to her, Never ask me what hath made me alter my minde: I do not repent, I would still have <hi rend="italic"><sic>Jbrahim</sic></hi> destroyed, but being unable to put him to death without <sic>vio-</sic>
 
 
 
@@ -22156,4 +22140,4 @@ Posterity never to lose the remembrance of
 
 </body>
 </text>
-</TEI.2>
+</TEI>

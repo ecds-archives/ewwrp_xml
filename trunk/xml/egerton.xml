@@ -1,36 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
-<TEI.2 id="egerton_1308">
-  <teiHeader>
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egerton_1308">
+  <teiHeader><fileDesc>
       <titleStmt>
         <title><seg type="short-title">Female Advocate</seg> or, an Answer to a Late Satyr Against the Pride, Lust and Inconstancy, &amp;c. of Woman.
 Written by a Lady in Vindication of her Sex, an electronic edition</title>
         <author>
-          <name reg="Egerton, Sarah Fyge" type="person">Sarah Fyge Egerton</name>
+          <name type="person"><choice><reg>Egerton, Sarah Fyge</reg><orig>Sarah Fyge Egerton</orig></choice></name>
+
         </author>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>Beck Center</name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent>55kb</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
-        </address>
-        <availability>
-          <p id="egerton_1301">1996 Emory University. Permission is granted to
+        </address><availability>
+          <p xml:id="egerton_1301">1996 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the contributions to
 the work claimed by Emory University for non-profit educational purposes, provided 
 this header is included in its entirety.  For inquiries about commercial uses, contact
 either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      <idno type="ark">http://pid.emory.edu/ark:/25593/17bn5</idno></publicationStmt>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17bn5</idno></publicationStmt>
       <seriesStmt>
         <title>Emory Women Writers Resource Project</title>
       </seriesStmt>
@@ -43,20 +35,18 @@ London:
 <publisher>Printed by H. C. for John Taylor</publisher>, at the Globe in St. Pauls-Church_Yard.
 <date>1686</date>.</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
+    </fileDesc><encodingDesc>
       <projectDesc>
-        <p id="egerton_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+        <p xml:id="egerton_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
       </projectDesc>
       <classDecl>
-        <taxonomy id="lcsh">
+        <taxonomy xml:id="lcsh">
           <bibl>
             <title>Library of Congress Subject Headings</title>
           </bibl>
         </taxonomy>
       </classDecl>
-    </encodingDesc>
-    <profileDesc>
+    </encodingDesc><profileDesc>
       <creation>
         <rs type="collection">Early Modern through the 18th Century</rs>
         <rs type="collection">Women's Advocacy</rs>
@@ -68,7 +58,7 @@ London:
         <date>1600-1699</date>
       </creation>
       <textClass>
-        <keywords scheme="lcsh">
+        <keywords scheme="#lcsh">
           <list>
             <item>Women Poets, English--17th Century.</item>
             <item>Women--Social conditions--Poetry.</item>
@@ -77,40 +67,21 @@ London:
           </list>
         </keywords>
       </textClass>
-    </profileDesc>
-    <revisionDesc>
-      <change>
-        <date>1997</date>
-        <respStmt>
-          <name>Scott Ellis</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
-        <date>2006</date>
-        <respStmt>
-          <name>Alden Mahler</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>TEI header elements changed to conform to new Beck Center standards.</item>
-      </change>
-    </revisionDesc>
-  </teiHeader>
-  <text id="egerton_1307">
-    <body id="egerton_1306">
-      <div id="egerton_001" type="Introduction">
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="egerton_1307">
+    <body xml:id="egerton_1306">
+      <div xml:id="egerton_001" type="Introduction">
         <head><seg type="short-title">Female Advocate</seg> or, an Answer to a Late Satyr Against 
 the Pride, Lust and<lb/>
 Inconstancy, &amp;c. of Woman.<lb/>
 Written by a Lady in Vindication of her Sex.</head>
-        <p id="egerton_1303">Licens'd, June 2. 1686. R. P.<lb/>
+        <p xml:id="egerton_1303">Licens'd, June 2. 1686. R. P.<lb/>
 London:<lb/>
 Printed by H. C. for John Taylor, at the Globe in St. Pauls-Church_Yard.<lb/>
 1686.<lb/></p>
-        <div id="egerton_002" type="Part">
+        <div xml:id="egerton_002" type="Part">
           <head>To the Reader.</head>
-          <p id="egerton_1304">That which makes many Books come abroad into the World without Prefaces,
+          <p xml:id="egerton_1304">That which makes many Books come abroad into the World without Prefaces,
 is, the only Reason that incites me to one, VIZ. the Smalness of them;
 being willing to let my reader know why this is so: For as one great
 commendation of our Sex, is, to know much, and speak little, so my Virgin
@@ -148,7 +119,7 @@ Female; to which Place the latter seem to have the Claim, is the Opinion of
 one of its Votaires, S. F.</p>
         </div>
       </div>
-      <div id="egerton_003" type="Poem">
+      <div xml:id="egerton_003" type="Poem">
         <head><seg type="short-title">The Female Advocate</seg>, or An Answer to a late Satyr against the Pride, Lust
 and Inconstancy, &amp;c. of woman.</head>
         <lg type="stanza">
@@ -867,8 +838,8 @@ and Inconstancy, &amp;c. of woman.</head>
           <l>When Woman, your imagin'd Fiend, shall live</l>
           <l>Bless'd with the Joys that Heaven can always give.</l>
         </lg>
-        <p id="egerton_1305">FINIS.</p>
+        <p xml:id="egerton_1305">FINIS.</p>
       </div>
     </body>
   </text>
-</TEI.2>
+</TEI>

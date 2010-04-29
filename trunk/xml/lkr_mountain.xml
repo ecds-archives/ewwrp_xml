@@ -1,32 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
-<TEI.2 id="lkr_mountain_1309">
-  <teiHeader>
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_mountain_1309">
+  <teiHeader><fileDesc>
       <titleStmt>
         <title>The Stone Mountain of Georgia in the Long Ago.</title>
         <author>
-          <name reg="Rogers, Loula Kendall, 1838-1931" type="person">Mrs. Loula Kendall Rogers</name>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
         </author>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>Beck Center</name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent>10k</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
-        </address>
-        <availability>
-          <p id="lkr_mountain_1301">2008 Emory University. Permission is granted to
+        </address><availability>
+          <p xml:id="lkr_mountain_1301">2008 Emory University. Permission is granted to
 
 download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2008</date>
-      <idno type="ark">http://pid.emory.edu/ark:/25593/17ddd</idno></publicationStmt>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17ddd</idno></publicationStmt>
       <seriesStmt>
         <title>Emory Women Writers Resource Project</title>
       </seriesStmt>
@@ -39,24 +30,22 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
 
 	   Library, Emory University</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
+    </fileDesc><encodingDesc>
       <projectDesc>
-        <p id="lkr_mountain_1302">This digital text is produced from the Loula Kendall
+        <p xml:id="lkr_mountain_1302">This digital text is produced from the Loula Kendall
 
 	   Rogers Papers, generously loaned to the Beck Center by    	
 
 The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
       </projectDesc>
       <classDecl>
-        <taxonomy id="lcsh">
+        <taxonomy xml:id="lcsh">
           <bibl>
             <title>Library of Congress Subject Headings</title>
           </bibl>
         </taxonomy>
       </classDecl>
-    </encodingDesc>
-    <profileDesc>
+    </encodingDesc><profileDesc>
       <creation>
         <rs type="collection">Early 20th Century Literature</rs>
         <rs type="language">American</rs>
@@ -67,7 +56,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
         <date>1800-1899</date>
       </creation>
       <textClass>
-        <keywords scheme="lcsh">
+        <keywords scheme="#lcsh">
           <list>
             <item>Stone Mountain Memorial State Park (Ga.) History.</item>
             <item>Women authors, American--19th Century</item>
@@ -76,28 +65,17 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
           </list>
         </keywords>
       </textClass>
-    </profileDesc>
-    <revisionDesc>
-      <change>
-        <date>2008</date>
-        <respStmt>
-          <name>Stewart Varner</name>
-          <resp>Woodruff Graduate Fellow</resp>
-        </respStmt>
-        <item>XML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-    </revisionDesc>
-  </teiHeader>
-  <text id="lkr_mountain_1308">
-    <body id="lkr_mountain_1307">
-      <pb entity="lkr_mountain001" id="lkr_mountain_1303" n="[1]" pages="1"/>
-      <div id="lkr_mountain_1306" type="poem">
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_mountain_1308">
+    <body xml:id="lkr_mountain_1307">
+      <pb facs="lkr_mountain001" xml:id="lkr_mountain_1303" n="[1]"/>
+      <div xml:id="lkr_mountain_1306" type="poem">
         <head>
           <add>This is the poem that was written after visiting the Mountain in 1858</add>
           <lb/>
           <seg type="short-title">The Stone Mountain Of Georgia in the Long Ago.</seg>
         </head>
-        <p id="lkr_mountain_1304">One of the Wonders of the World.  Not a mass of loose<lb/>
+        <p xml:id="lkr_mountain_1304">One of the Wonders of the World.  Not a mass of loose<lb/>
 
       rocks, but <hi rend="underline">one</hi> mighty solid stone that lifts its regal<lb/>
 
@@ -127,7 +105,7 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
           <l>Who called us thither!  My young heart</l>
           <l>Thrilled Wildly o'er the inspiring scene </l>
           <l>Thus woven round me to impart</l>
-          <pb entity="lkr_mountain002" id="lkr_mountain_1305" n="2" pages="2"/>
+          <pb facs="lkr_mountain002" xml:id="lkr_mountain_1305" n="2"/>
           <l>Enchantment never dreamed before,</l>
           <l>For high above us in the air</l>
           <l>Through rift of chord that floated o'er</l>
@@ -160,4 +138,4 @@ The Manuscript, Archives, and Rare Book Library at Emory University.  The produc
       </div>
     </body>
   </text>
-</TEI.2>
+</TEI>

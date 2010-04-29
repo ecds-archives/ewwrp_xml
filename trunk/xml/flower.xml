@@ -1,51 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
-<TEI.2 id="flower_13082">
-  <teiHeader>
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="flower_13082">
+  <teiHeader><fileDesc>
       <titleStmt>
         <title>Flower of Youth: Poems in War Time, an electronic edition</title>
         <author>
-          <name reg="Tynan, Katharine, 1861-1931" type="person">Katharine Tynan</name>
+          <name type="person"><choice><reg>Tynan, Katharine, 1861-1931</reg><orig>Katharine Tynan</orig></choice></name>
         </author>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>Beck Center</name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent>100kb</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
-        </address>
-        <availability>
-          <p id="flower_1301">2001 Emory University. Permission is granted to
+        </address><availability>
+          <p xml:id="flower_1301">2001 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2001</date>
-      <idno type="ark">http://pid.emory.edu/ark:/25593/17c5b</idno></publicationStmt>
+        </availability><date>2001</date><idno type="ark">http://pid.emory.edu/ark:/25593/17c5b</idno></publicationStmt>
       <seriesStmt>
         <title>Emory Women Writers Resource Project</title>
       </seriesStmt>
       <sourceDesc>
         <bibl>Tynan, Katharine "Flower of Youth: Poems in War Time." London: <publisher>Sidgwick &amp; Jackson</publisher>, <date>1915</date>.  80 pages.</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
+    </fileDesc><encodingDesc>
       <projectDesc>
-        <p id="flower_1302">This digital text is produced from a first edition volume of Katharine Tynan's <hi rend="italic">Flower of Youth: Poems in War Time</hi> generously loaned to the Beck Center by Professor Harry Rusche.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+        <p xml:id="flower_1302">This digital text is produced from a first edition volume of Katharine Tynan's <hi rend="italic">Flower of Youth: Poems in War Time</hi> generously loaned to the Beck Center by Professor Harry Rusche.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
       </projectDesc>
       <classDecl>
-        <taxonomy id="lcsh">
+        <taxonomy xml:id="lcsh">
           <bibl>
             <title>Library of Congress Subject Headings</title>
           </bibl>
         </taxonomy>
       </classDecl>
-    </encodingDesc>
-    <profileDesc>
+    </encodingDesc><profileDesc>
       <creation>
         <rs type="collection">World War I</rs>
         <rs type="collection">Early 20th Century Literature</rs>
@@ -57,7 +46,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
         <date>1900-1999</date>
       </creation>
       <textClass>
-        <keywords scheme="lcsh">
+        <keywords scheme="#lcsh">
           <list>
             <item>World War, 1914-1918--Poetry.</item>
             <item>English poetry--Women authors--20th Century.</item>
@@ -65,35 +54,16 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
           </list>
         </keywords>
       </textClass>
-    </profileDesc>
-    <revisionDesc>
-      <change>
-        <date>2001</date>
-        <respStmt>
-          <name>Erika Farr</name>
-          <resp>Project Manager</resp>
-        </respStmt>
-        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
-        <date>2006</date>
-        <respStmt>
-          <name>Alden Mahler</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>TEI header elements changed to conform to new Beck Center standards.</item>
-      </change>
-    </revisionDesc>
-  </teiHeader>
-  <text id="flower_13081">
-    <body id="flower_13078">
-      <div id="flower_1" type="Poetry">
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2001</date><label>Project Manager</label><name>Erika Farr</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="flower_13081">
+    <body xml:id="flower_13078">
+      <div xml:id="flower_1" type="Poetry">
         <docAuthor>Katharine Tynan</docAuthor>
         <head rend="center">Flower of Youth: Poems in War Time</head>
-        <docDate>1915</docDate>
+        
         <bibl>London: Sidgwick and Johnson, LTD.</bibl>
-        <pb id="flower_1303" n="9 JOINING THE COLOURS"/>
-        <div id="flower_01" type="Poem">
+        <pb xml:id="flower_1303" n="9 JOINING THE COLOURS"/>
+        <div xml:id="flower_01" type="Poem">
           <head rend="center"><seg type="short-title">JOINING THE COLOURS</seg><lb/>
 	       (WEST KENTS, DUBLIN, <hi rend="italic">August</hi> 1914)</head>
           <lg type="stanza">
@@ -121,8 +91,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">Singing they pass. </l>
           </lg>
         </div>
-        <pb id="flower_1304" n="10 FLOWER OF YOUTH"/>
-        <div id="flower_02" type="Poem">
+        <pb xml:id="flower_1304" n="10 FLOWER OF YOUTH"/>
+        <div xml:id="flower_02" type="Poem">
           <head rend="center">THE LOWLANDS OF FLANDERS<lb/><hi rend="italic">(An Old Song Resung)</hi></head>
           <lg type="stanza">
             <l>THE night that I was married</l>
@@ -148,7 +118,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>I kissed my last and looked my last</l>
             <l rend="indent">Upon my lovely dear. </l>
           </lg>
-          <pb id="flower_1305" n="11 THE LOWLANDS OF FLANDERS"/>
+          <pb xml:id="flower_1305" n="11 THE LOWLANDS OF FLANDERS"/>
           <lg type="stanza">
             <l>The Lowlands of Flanders, </l>
             <l rend="indent">Their rivers run so red. </l>
@@ -174,8 +144,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">Betwixt my love and me. </l>
           </lg>
         </div>
-        <pb id="flower_1306" n="12 FLOWER OF YOUTH"/>
-        <div id="flower_43" type="Poem">
+        <pb xml:id="flower_1306" n="12 FLOWER OF YOUTH"/>
+        <div xml:id="flower_43" type="Poem">
           <head rend="center">THE CALL</head>
           <l rend="center">
             <hi rend="italic">I hear an Army!</hi>
@@ -201,7 +171,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
           <lg type="stanza">
             <l>Men from the ice-floes, men from the jungles come; </l>
             <l>This from the arms of his bride, that from his dead. </l>
-            <pb id="flower_1307" n="13 THE CALL"/>
+            <pb xml:id="flower_1307" n="13 THE CALL"/>
             <l>Men from the plough, the mart, the mill and the street</l>
             <l>They run:  they are heroes:  the fire fuses them all. </l>
             <l>Head uplifted and proud, like heroes they step, </l>
@@ -212,8 +182,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <hi rend="italic">I hear an Army!</hi>
           </l>
         </div>
-        <pb id="flower_1308" n="14 FLOWER OF YOUTH"/>
-        <div id="flower_03" type="Poem">
+        <pb xml:id="flower_1308" n="14 FLOWER OF YOUTH"/>
+        <div xml:id="flower_03" type="Poem">
           <head rend="center">THE GOLDEN BOY</head>
           <lg type="stanza">
             <l>IN times of peace, so clean and bright, </l>
@@ -239,7 +209,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>His garments stained with mud and slaughter</l>
             <l rend="indent">Would break the heart of Savile Row. </l>
           </lg>
-          <pb id="flower_1309" n="15 THE GOLDEN BOY"/>
+          <pb xml:id="flower_1309" n="15 THE GOLDEN BOY"/>
           <lg type="stanza">
             <l>The danger's in his blood like wine, </l>
             <l rend="indent">The old heroic passion leaps; </l>
@@ -265,8 +235,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">To give his England fighting sons. </l>
           </lg>
         </div>
-        <pb id="flower_13010" n="16 FLOWER OF YOUTH"/>
-        <div id="flower_04" type="Poem">
+        <pb xml:id="flower_13010" n="16 FLOWER OF YOUTH"/>
+        <div xml:id="flower_04" type="Poem">
           <head rend="center">THE GREAT CHANCE</head>
           <lg type="stanza">
             <l>NOW strikes the hour upon the clock</l>
@@ -292,7 +262,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>In shining raiment white and good, </l>
             <l rend="indent">Beyond the wise, home-keeping man. </l>
           </lg>
-          <pb id="flower_13011" n="17 THE GREAT CHANCE"/>
+          <pb xml:id="flower_13011" n="17 THE GREAT CHANCE"/>
           <lg type="stanza">
             <l>Somewhere to-night--no tears be shed!-- </l>
             <l rend="indent">With shaking hands they turn the sheet</l>
@@ -306,8 +276,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">"Our splendid son is dead!" they say. </l>
           </lg>
         </div>
-        <pb id="flower_13012" n="18 FLOWER OF YOUTH"/>
-        <div id="flower_05" type="Poem">
+        <pb xml:id="flower_13012" n="18 FLOWER OF YOUTH"/>
+        <div xml:id="flower_05" type="Poem">
           <head rend="center">THE WATCHERS</head>
           <lg type="stanza">
             <l>THE cottages all lie asleep; </l>
@@ -333,7 +303,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Our peace is builded sure and strong</l>
             <l rend="indent">No evil beast can creep inside. </l>
           </lg>
-          <pb id="flower_13013" n="19 THE WATCHERS"/>
+          <pb xml:id="flower_13013" n="19 THE WATCHERS"/>
           <lg type="stanza">
             <l>St Patrick and St Brigid hold</l>
             <l rend="indent">The vale its little houses all, </l>
@@ -359,8 +329,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">The Belgians mourn, the Belgians weep? </l>
           </lg>
         </div>
-        <pb id="flower_13014" n="20 FLOWER OF YOUTH"/>
-        <div id="flower_06" type="Poem">
+        <pb xml:id="flower_13014" n="20 FLOWER OF YOUTH"/>
+        <div xml:id="flower_06" type="Poem">
           <head rend="center">THE BRIDE</head>
           <lg type="stanza">
             <l>WEAVE me no wreath of orange blossom, </l>
@@ -386,7 +356,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Oh, love, God have you in His keeping, </l>
             <l rend="indent"> The day you leave your true-love's door. </l>
           </lg>
-          <pb id="flower_13015" n="21 THE BRIDE"/>
+          <pb xml:id="flower_13015" n="21 THE BRIDE"/>
           <lg type="stanza">
             <l>Gay is the golden harvest spreading, </l>
             <l rend="indent">The orchard's all in rose and gold; </l>
@@ -400,8 +370,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent"> See, I am smiling! Love-till death! </l>
           </lg>
         </div>
-        <pb id="flower_13016" n="22 FLOWER OF YOUTH"/>
-        <div id="flower_07" type="Poem">
+        <pb xml:id="flower_13016" n="22 FLOWER OF YOUTH"/>
+        <div xml:id="flower_07" type="Poem">
           <head rend="center">THE RIDERS</head>
           <lg type="stanza">
             <l>RHEIMS is down in fire and smoke, </l>
@@ -435,7 +405,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Where Rheims burns, that was given</l>
             <l>By France to Mary, Queen of Heaven? </l>
           </lg>
-          <pb id="flower_13017" n="23 THE RIDERS"/>
+          <pb xml:id="flower_13017" n="23 THE RIDERS"/>
           <lg type="stanza">
             <l>O our Rheims, our Rheims is down, </l>
             <l>Naught is left of her renown. </l>
@@ -477,8 +447,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>And the hour of God's at the stroke. </l>
           </lg>
         </div>
-        <pb id="flower_13018" n="24 FLOWER OF YOUTH"/>
-        <div id="flower_08" type="Poem">
+        <pb xml:id="flower_13018" n="24 FLOWER OF YOUTH"/>
+        <div xml:id="flower_08" type="Poem">
           <head rend="center">"WHAT TURNED THE GERMANS BACK?"</head>
           <lg type="stanza">
             <l>WHAT turned the German myriads back</l>
@@ -504,7 +474,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l> "Turn back in God's Name!"  They went back. </l>
             <l>The tide is stemmed for her sweet sake. </l>
           </lg>
-          <pb id="flower_13019" n="25 'WHAT TURNED THE GERMANS BACK?'"/>
+          <pb xml:id="flower_13019" n="25 'WHAT TURNED THE GERMANS BACK?'"/>
           <lg type="stanza">
             <l>White Genevieve upon her hill</l>
             <l rend="indent">Prays, and the German hosts retreat. </l>
@@ -514,8 +484,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>The black, the speckled and the white. </l>
           </lg>
         </div>
-        <pb id="flower_13020" n="26 FLOWER OF YOUTH"/>
-        <div id="flower_09" type="Poem">
+        <pb xml:id="flower_13020" n="26 FLOWER OF YOUTH"/>
+        <div xml:id="flower_09" type="Poem">
           <head rend="center">A GIRL'S SONG</head>
           <lg type="stanza">
             <l>THE Meuse and Marne have little waves; </l>
@@ -541,7 +511,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Fall tenderly, O silver dews, </l>
             <l rend="indent">For here my dear Love lies asleep. </l>
           </lg>
-          <pb id="flower_13021" n="27 A GIRL'S SONG"/>
+          <pb xml:id="flower_13021" n="27 A GIRL'S SONG"/>
           <lg type="stanza">
             <l>The earth is on his sealèd eyes, </l>
             <l rend="indent"> The beauty marred that was my pride; </l>
@@ -555,8 +525,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">Where many sleep as sound as he. </l>
           </lg>
         </div>
-        <pb id="flower_13022" n="28 FLOWER OF YOUTH"/>
-        <div id="flower_10" type="Poem">
+        <pb xml:id="flower_13022" n="28 FLOWER OF YOUTH"/>
+        <div xml:id="flower_10" type="Poem">
           <head rend="center"> THE YOUNG MOTHER </head>
           <lg type="stanza">
             <l>IN dreadful times of tears and war</l>
@@ -587,8 +557,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>With frankincense and myrrh. </l>
           </lg>
         </div>
-        <pb id="flower_13023" n="29 THE TEMPLE"/>
-        <div id="flower_11" type="Poem">
+        <pb xml:id="flower_13023" n="29 THE TEMPLE"/>
+        <div xml:id="flower_11" type="Poem">
           <head rend="center">THE TEMPLE</head>
           <lg type="stanza">
             <l>WHAT of Louvain and of Rheims</l>
@@ -614,7 +584,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>For their mother's kiss. What brute</l>
             <l rend="indent">Dares deface the image of God? </l>
           </lg>
-          <pb id="flower_13024" n="30 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13024" n="30 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>Oh, the Temple's down! all marred</l>
             <l rend="indent">Gay and golden boys must lie: </l>
@@ -640,8 +610,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">They behold God and are glad. </l>
           </lg>
         </div>
-        <pb id="flower_13025" n="31 THE SUMMONS"/>
-        <div id="flower_12" type="Poem">
+        <pb xml:id="flower_13025" n="31 THE SUMMONS"/>
+        <div xml:id="flower_12" type="Poem">
           <head rend="center">THE SUMMONS<lb/>
 (V. L., 14<hi rend="italic">th September</hi>  1914)</head>
           <lg type="stanza">
@@ -668,7 +638,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Light from a merry star, </l>
             <l rend="indent">Singing and laughter? </l>
           </lg>
-          <pb id="flower_13026" n="32 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13026" n="32 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>Nay, but a face was his </l>
             <l rend="indent">Only in dreams, </l>
@@ -694,8 +664,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">For friend and lover. </l>
           </lg>
         </div>
-        <pb id="flower_13027" n="33 THE LITTLE FLOCK"/>
-        <div id="flower_13" type="Poem">
+        <pb xml:id="flower_13027" n="33 THE LITTLE FLOCK"/>
+        <div xml:id="flower_13" type="Poem">
           <head rend="center">THE LITTLE FLOCK</head>
           <lg type="stanza">
             <l>CHRIST, now keep the little flock</l>
@@ -721,7 +691,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>When they cry on Thee, come quick, </l>
             <l rend="indent">And their sickness shall be stayed. </l>
           </lg>
-          <pb id="flower_13028" n="34 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13028" n="34 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>Where Thou temperest the wind, </l>
             <l rend="indent">Where the drenching rains leave off, </l>
@@ -729,8 +699,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">Dear, they shall be well enough! </l>
           </lg>
         </div>
-        <pb id="flower_13029" n="35 A LAMENT"/>
-        <div id="flower_14" type="Poem">
+        <pb xml:id="flower_13029" n="35 A LAMENT"/>
+        <div xml:id="flower_14" type="Poem">
           <head rend="center">A LAMENT<lb/>
 (FOR <hi rend="italic">Holy Cross Day, </hi>  1914)</head>
           <lg type="stanza">
@@ -757,7 +727,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Left his new-made bride and chose</l>
             <l>The steep way that Honour goes. </l>
           </lg>
-          <pb id="flower_13030" n="36 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13030" n="36 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>Took for his the deathless song </l>
             <l>Of the love that knows no wrong: </l>
@@ -789,8 +759,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Where at Clouds they wait for day. </l>
           </lg>
         </div>
-        <pb id="flower_13031" n="37 A HERO"/>
-        <div id="flower_15" type="Poem">
+        <pb xml:id="flower_13031" n="37 A HERO"/>
+        <div xml:id="flower_15" type="Poem">
           <head rend="center">A HERO<lb/>
 (<hi rend="italic">September </hi> 1914)</head>
           <lg type="stanza">
@@ -817,7 +787,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Because we never guessed him for </l>
             <l>A hero in the disguise he wore. </l>
           </lg>
-          <pb id="flower_13032" n="38 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13032" n="38 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>It matters little how we live</l>
             <l rend="indent">So long as we may greatly die. </l>
@@ -827,8 +797,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>From us, and all such common folk. </l>
           </lg>
         </div>
-        <pb id="flower_13033" n="39 'MID THE PITEOUS HEAPS OF DEAD"/>
-        <div id="flower_16" type="Poem">
+        <pb xml:id="flower_13033" n="39 'MID THE PITEOUS HEAPS OF DEAD"/>
+        <div xml:id="flower_16" type="Poem">
           <head rend="center">'MID THE PITEOUS HEAPS OF DEAD</head>
           <lg type="stanza">
             <l>'MID the piteous heaps of dead </l>
@@ -854,7 +824,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="italic">Mother, I am dying, come!</l>
             <l rend="italic">Mother, I am lost from home!</l>
           </lg>
-          <pb id="flower_13034" n="40 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13034" n="40 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>Mary, Mother of all men, </l>
             <l>Come and comfort him in pain. </l>
@@ -874,8 +844,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>In the way that mothers know! </l>
           </lg>
         </div>
-        <pb id="flower_13035" n="41 TO ONE IN GRIEF"/>
-        <div id="flower_17" type="Poem">
+        <pb xml:id="flower_13035" n="41 TO ONE IN GRIEF"/>
+        <div xml:id="flower_17" type="Poem">
           <head rend="center">TO ONE IN GRIEF<lb/>
 (FOR <hi rend="italic">June </hi> 1913. <hi rend="italic">September</hi>  1914)</head>
           <lg type="stanza">
@@ -902,7 +872,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>One will come stepping light and take </l>
             <l>The tears the burden, the heart-break. </l>
           </lg>
-          <pb id="flower_13036" n="42 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13036" n="42 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>Happy is she who to Thine ears </l>
             <l rend="indent">Pours all her lamentations!  Yea, </l>
@@ -912,8 +882,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>For souls like hers that walk in white. </l>
           </lg>
         </div>
-        <pb id="flower_13037" n="43 INDIAN SUMMER"/>
-        <div id="flower_18" type="Poem">
+        <pb xml:id="flower_13037" n="43 INDIAN SUMMER"/>
+        <div xml:id="flower_18" type="Poem">
           <head rend="center">INDIAN SUMMER</head>
           <lg type="stanza">
             <l rend="center">
@@ -946,8 +916,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>The sun He bids stand still till the day is won. </l>
           </lg>
         </div>
-        <pb id="flower_13038" n="44 FLOWER OF YOUTH"/>
-        <div id="flower_19" type="Poem">
+        <pb xml:id="flower_13038" n="44 FLOWER OF YOUTH"/>
+        <div xml:id="flower_19" type="Poem">
           <head rend="center"><seg type="short-title">TO TWO BEREAVED</seg> <lb/>
 (FOR G. S. C., 20<hi rend="italic">th October, </hi>  R. S. C., 28<hi rend="italic">th October</hi>  1914)</head>
           <lg type="stanza">
@@ -974,7 +944,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>They shall be given to you again, </l>
             <l rend="indent">They shall sit down beside your fire. </l>
           </lg>
-          <pb id="flower_13039" n="45 TO TWO BEREAVED"/>
+          <pb xml:id="flower_13039" n="45 TO TWO BEREAVED"/>
           <lg type="stanza">
             <l>The young and laurelled heads shall shine, </l>
             <l rend="indent">Making a glory in your days</l>
@@ -994,8 +964,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">They shall go out from you no more. </l>
           </lg>
         </div>
-        <pb id="flower_13040" n="46 FLOWER OF YOUTH"/>
-        <div id="flower_20" type="Poem">
+        <pb xml:id="flower_13040" n="46 FLOWER OF YOUTH"/>
+        <div xml:id="flower_20" type="Poem">
           <head rend="center">AUTUMNAL</head>
           <lg type="stanza">
             <l>THE Autumn leaves are dying quietly, </l>
@@ -1019,8 +989,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Walks through deserted woods, moaning and sighing. </l>
           </lg>
         </div>
-        <pb id="flower_13041" n="47 MEDIATION"/>
-        <div id="flower_21" type="Poem">
+        <pb xml:id="flower_13041" n="47 MEDIATION"/>
+        <div xml:id="flower_21" type="Poem">
           <head rend="center">MEDIATION<lb/>
 (<hi rend="italic">After St Anselm</hi>)</head>
           <lg type="stanza">
@@ -1049,7 +1019,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="italic">I Present Christ's death and Pain</l>
             <l rend="italic">'Twixt Thine anger and these men. </l>
           </lg>
-          <pb id="flower_13042" n="48 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13042" n="48 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>Lord, they die by millions </l>
             <l rend="indent">And they look to Thee--take thought!-- </l>
@@ -1059,8 +1029,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Thee, the High judge, and their sin. </l>
           </lg>
         </div>
-        <pb id="flower_13043" n="49 THE HEROES"/>
-        <div id="flower_22" type="Poem">
+        <pb xml:id="flower_13043" n="49 THE HEROES"/>
+        <div xml:id="flower_22" type="Poem">
           <head rend="center">THE HEROES</head>
           <lg type="stanza">
             <l>By such strange and wonderful ways</l>
@@ -1086,7 +1056,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Starry constellations</l>
             <l rend="indent">In the way their fathers went? </l>
           </lg>
-          <pb id="flower_13044" n="50 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13044" n="50 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>From the innumerable grave</l>
             <l rend="indent">There will spring a world new-born, </l>
@@ -1100,8 +1070,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">Him a world worth dying for. </l>
           </lg>
         </div>
-        <pb id="flower_13045" n="51 THE GREAT MERCY"/>
-        <div id="flower_23" type="Poem">
+        <pb xml:id="flower_13045" n="51 THE GREAT MERCY"/>
+        <div xml:id="flower_23" type="Poem">
           <head rend="center">THE GREAT MERCY</head>
           <lg rend="italic" type="stanza">
             <l>Betwixt the saddle and the ground </l>
@@ -1131,7 +1101,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Thou hast said to beaten Death: <hi rend="italic">Go tell</hi></l>
             <l rend="italic">Of victories thou once hadst. All's well! </l>
           </lg>
-          <pb id="flower_13046" n="52 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13046" n="52 FLOWER OF YOUTH"/>
           <lg rend="italic" type="stanza">
             <l>Death, here none die but thee and Sin </l>
             <l>Now the great days of Life begin. </l>
@@ -1145,8 +1115,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Was Mercy sought and Mercy found.</l>
           </lg>
         </div>
-        <pb id="flower_13047" n="53 MEETINGS"/>
-        <div id="flower_24" type="Poem">
+        <pb xml:id="flower_13047" n="53 MEETINGS"/>
+        <div xml:id="flower_24" type="Poem">
           <head rend="center">MEETINGS</head>
           <lg type="stanza">
             <l>As up and down I fare by road and street </l>
@@ -1177,8 +1147,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Gives thanks for you, for you, proud sisters of mine! </l>
           </lg>
         </div>
-        <pb id="flower_13048" n="54 FLOWER OF YOUTH"/>
-        <div id="flower_25" type="Poem">
+        <pb xml:id="flower_13048" n="54 FLOWER OF YOUTH"/>
+        <div xml:id="flower_25" type="Poem">
           <head rend="center">FLOWER OF YOUTH</head>
           <lg type="stanza">
             <l>LEST Heaven be thronged with grey-beards hoary, </l>
@@ -1204,7 +1174,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>God who made boys so clean and good </l>
             <l>Smiles with the eyes of fatherhood. </l>
           </lg>
-          <pb id="flower_13049" n="55 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13049" n="55 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>Now Heaven is by the young invaded; </l>
             <l rend="indent">Their laughter's in the House of God. </l>
@@ -1222,15 +1192,15 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>And say:  "Thank God, he has enough!" </l>
           </lg>
         </div>
-        <div id="flower_26" type="insert">
+        <div xml:id="flower_26" type="insert">
           <head rend="center">"Flower of Youth"<lb/>
 (Pages 54, 55)</head>
-          <p id="flower_13050">In response to numerous applications, the publishers can supply copies of this poem printed separately at twopence each (post free, 2 1/2d., or a dozen copies,   2s. 1d.). The profits will be given to the Dublin Castle Red Cross Hospital.</p>
-          <p id="flower_13051">SIDGWICK &amp; JACKSON LTD.</p>
-          <p id="flower_13052">3 ADAM STREET, LONDON, W.C.</p>
+          <p xml:id="flower_13050">In response to numerous applications, the publishers can supply copies of this poem printed separately at twopence each (post free, 2 1/2d., or a dozen copies,   2s. 1d.). The profits will be given to the Dublin Castle Red Cross Hospital.</p>
+          <p xml:id="flower_13051">SIDGWICK &amp; JACKSON LTD.</p>
+          <p xml:id="flower_13052">3 ADAM STREET, LONDON, W.C.</p>
         </div>
-        <pb id="flower_13053" n="56 FLOWER OF YOUTH"/>
-        <div id="flower_27" type="Poem">
+        <pb xml:id="flower_13053" n="56 FLOWER OF YOUTH"/>
+        <div xml:id="flower_27" type="Poem">
           <head rend="center">"UNHOUSEL'D, UNANOINTED, UNANEL'D"</head>
           <lg type="stanza">
             <l>WHEN these men must go alone</l>
@@ -1261,8 +1231,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Where Thou are Sacrament and Priest. </l>
           </lg>
         </div>
-        <pb id="flower_13054" n="57 ALL SOULS"/>
-        <div id="flower_28" type="Poem">
+        <pb xml:id="flower_13054" n="57 ALL SOULS"/>
+        <div xml:id="flower_28" type="Poem">
           <head rend="center">ALL SOULS</head>
           <lg type="stanza">
             <l>THERE'S traffic in the worlds immortal, </l>
@@ -1289,8 +1259,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">The immortal Loves lift hearts and build. </l>
           </lg>
         </div>
-        <pb id="flower_13055" n="58 FLOWER OF YOUTH"/>
-        <div id="flower_29" type="Poem">
+        <pb xml:id="flower_13055" n="58 FLOWER OF YOUTH"/>
+        <div xml:id="flower_29" type="Poem">
           <head rend="center">THE PREDESTINED<lb/>
 (W. E. H. 6<hi rend="italic">th November</hi>  1914)</head>
           <lg type="stanza">
@@ -1317,7 +1287,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>It was very plain to see</l>
             <l rend="indent">The clear shining of your face. </l>
           </lg>
-          <pb id="flower_13056" n="59 THE PREDESTINED"/>
+          <pb xml:id="flower_13056" n="59 THE PREDESTINED"/>
           <lg type="stanza">
             <l>You are gone now: it's turned cold: </l>
             <l rend="indent">Very good you were and dear. </l>
@@ -1325,8 +1295,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">When we meet,--some other year. </l>
           </lg>
         </div>
-        <pb id="flower_13057" n="60 FLOWER OF YOUTH"/>
-        <div id="flower_30" type="Poem">
+        <pb xml:id="flower_13057" n="60 FLOWER OF YOUTH"/>
+        <div xml:id="flower_30" type="Poem">
           <head rend="center">THE OLD SOLDIER<lb/>
 (14<hi rend="italic">th November</hi>  1914)</head>
           <lg type="stanza">
@@ -1348,8 +1318,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">As they come home from the war and he at the door. </l>
           </lg>
         </div>
-        <pb id="flower_13058" n="61 THE FIELDS OF FRANCE"/>
-        <div id="flower_31" type="Poem">
+        <pb xml:id="flower_13058" n="61 THE FIELDS OF FRANCE"/>
+        <div xml:id="flower_31" type="Poem">
           <head rend="center">
             <seg type="short-title">THE FIELDS OF FRANCE</seg>
             <lb/>
@@ -1376,7 +1346,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Bears the younglings of the flock: </l>
             <l>Calls His poor sheep to come home </l>
             <l>And His sheep rise up and come. </l>
-            <pb id="flower_13059" n="62 FLOWER OF YOUTH"/>
+            <pb xml:id="flower_13059" n="62 FLOWER OF YOUTH"/>
             <l>They shall rest by a clear pool </l>
             <l>'Mid the pastures beautiful! </l>
           </lg>
@@ -1385,8 +1355,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Has come back another day. </l>
           </lg>
         </div>
-        <pb id="flower_13060" n="63 THE OPEN ROAD"/>
-        <div id="flower_32" type="Poem">
+        <pb xml:id="flower_13060" n="63 THE OPEN ROAD"/>
+        <div xml:id="flower_32" type="Poem">
           <head rend="center">THE OPEN ROAD</head>
           <lg type="stanza">
             <l>THE roads of the Sea</l>
@@ -1412,7 +1382,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>And men talked of famine</l>
             <l rend="indent">And a frozen hearth. </l>
           </lg>
-          <pb id="flower_13061" n="64 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13061" n="64 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>Yet the ships they go crowding</l>
             <l rend="indent">The roads of the sea; </l>
@@ -1443,7 +1413,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>When ye draw to the hearth-fire, </l>
             <l rend="indent">To praise the Lord, </l>
           </lg>
-          <pb id="flower_13062" n="65 THE OPEN ROAD "/>
+          <pb xml:id="flower_13062" n="65 THE OPEN ROAD "/>
           <lg type="stanza">
             <l>That the watch-dogs unsleeping</l>
             <l rend="indent">Keep the roads of the Sea, </l>
@@ -1451,8 +1421,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">Where the great ships be. </l>
           </lg>
         </div>
-        <pb id="flower_13063" n="66 FLOWER OF YOUTH"/>
-        <div id="flower_33" type="Poem">
+        <pb xml:id="flower_13063" n="66 FLOWER OF YOUTH"/>
+        <div xml:id="flower_33" type="Poem">
           <head rend="center">FOR THE AIRMEN<lb/>
 (<hi rend="italic">To</hi>  MAURICE HEWLETT)</head>
           <lg type="stanza">
@@ -1483,7 +1453,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Thy right hand be under the wing, </l>
             <l>Thy left hand for their steadying. </l>
           </lg>
-          <pb id="flower_13064" n="67 FOR THE AIRMEN"/>
+          <pb xml:id="flower_13064" n="67 FOR THE AIRMEN"/>
           <lg type="stanza">
             <l>The Wings of the birds of Heaven be nigh</l>
             <l>Lest their wings fail them and they die. </l>
@@ -1513,8 +1483,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Guard our flying loves when they follow. </l>
           </lg>
         </div>
-        <pb id="flower_13065" n="68 FLOWER OF YOUTH"/>
-        <div id="flower_34" type="Poem">
+        <pb xml:id="flower_13065" n="68 FLOWER OF YOUTH"/>
+        <div xml:id="flower_34" type="Poem">
           <head rend="center">CHRISTMAS IN THE YEAR OF THE WAR</head>
           <lg type="stanza">
             <l>NEVERTHELESS this Year of Grief</l>
@@ -1557,8 +1527,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Be still,--there is no death! </l>
           </lg>
         </div>
-        <pb id="flower_13066" n="69 A SONG FOR THE NEW YEAR"/>
-        <div id="flower_35" type="Poem">
+        <pb xml:id="flower_13066" n="69 A SONG FOR THE NEW YEAR"/>
+        <div xml:id="flower_35" type="Poem">
           <head rend="center">A SONG FOR THE NEW YEAR<lb/>
 1915</head>
           <lg type="stanza">
@@ -1586,8 +1556,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>They shall have sheltered havens out of sound of the sea. </l>
           </lg>
         </div>
-        <pb id="flower_13067" n="70 FLOWER OF YOUTH"/>
-        <div id="flower_36" type="Poem">
+        <pb xml:id="flower_13067" n="70 FLOWER OF YOUTH"/>
+        <div xml:id="flower_36" type="Poem">
           <head rend="center">DEAD--A PRISONER</head>
           <lg type="stanza">
             <l>HE died the loneliest death of all, </l>
@@ -1615,7 +1585,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="italic">For I have gotten a golden key&lt;</l>
             <l rend="italic">To set all lonesome prisoners free. </l>
           </lg>
-          <pb id="flower_13068" n="71 DEAD-A PRISONER"/>
+          <pb xml:id="flower_13068" n="71 DEAD-A PRISONER"/>
           <lg type="stanza">
             <l rend="italic">Yea they shall soar, shall spring aloft; </l>
             <l rend="indent">
@@ -1629,8 +1599,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>And they went out to the great day. </l>
           </lg>
         </div>
-        <pb id="flower_13069" n="72 FLOWER OF YOUTH"/>
-        <div id="flower_37" type="Poem">
+        <pb xml:id="flower_13069" n="72 FLOWER OF YOUTH"/>
+        <div xml:id="flower_37" type="Poem">
           <head rend="center"><seg type="short-title">TO R.A.A.</seg><lb/>
 (20<hi rend="italic">th October</hi>  1914. 24<hi rend="italic">th February</hi>  1915)</head>
           <lg type="stanza">
@@ -1658,8 +1628,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>"Was it not a great end ?" <hi rend="italic">A great end! </hi></l>
           </lg>
         </div>
-        <pb id="flower_13070" n="73 SALUTATION"/>
-        <div id="flower_38" type="Poem">
+        <pb xml:id="flower_13070" n="73 SALUTATION"/>
+        <div xml:id="flower_38" type="Poem">
           <head rend="center">SALUTATION</head>
           <lg type="stanza">
             <l>To you and you and you who have given</l>
@@ -1691,7 +1661,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Who thinks on common things and low</l>
             <l rend="indent">When your high sorrow takes the road? </l>
           </lg>
-          <pb id="flower_13071" n="74 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13071" n="74 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>O predestined and pre-elect </l>
             <l rend="indent">'Tis you must bear the glorious scars. </l>
@@ -1707,8 +1677,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             </l>
           </lg>
         </div>
-        <pb id="flower_13072" n="75 THE SAD SPRING"/>
-        <div id="flower_39" type="Poem">
+        <pb xml:id="flower_13072" n="75 THE SAD SPRING"/>
+        <div xml:id="flower_39" type="Poem">
           <head rend="center">THE SAD SPRING</head>
           <lg type="stanza">
             <l>THE Spring weeps, she is forlorn; </l>
@@ -1746,7 +1716,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>When her tears run down like rain, </l>
             <l rend="indent">Lord, bring Thou a handkerchief. </l>
           </lg>
-          <pb id="flower_13073" n="76 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13073" n="76 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>Wipe the widow's tears away, </l>
             <l rend="indent">Father orphan boys and girls. </l>
@@ -1754,8 +1724,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l rend="indent">With Thy hand upon their curls. </l>
           </lg>
         </div>
-        <pb id="flower_13074" n="77 A PRAYER"/>
-        <div id="flower_40" type="Poem">
+        <pb xml:id="flower_13074" n="77 A PRAYER"/>
+        <div xml:id="flower_40" type="Poem">
           <head rend="center">A PRAYER<lb/>
 	       (<hi rend="italic">For Those Who Shall Return</hi>)</head>
           <lg type="stanza">
@@ -1782,7 +1752,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Be they innocent of all</l>
             <l>Memories that affright, appal. </l>
           </lg>
-          <pb id="flower_13075" n="78 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13075" n="78 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>Let their ears love music still, </l>
             <l rend="indent">And their eyes rejoice to see</l>
@@ -1792,8 +1762,8 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Over dreadful nights and days. </l>
           </lg>
         </div>
-        <pb id="flower_13076" n="79 RESURRECTION"/>
-        <div id="flower_41" type="Poem">
+        <pb xml:id="flower_13076" n="79 RESURRECTION"/>
+        <div xml:id="flower_41" type="Poem">
           <head rend="center">RESURRECTION</head>
           <lg type="stanza">
             <l>Now the golden daffodil</l>
@@ -1819,7 +1789,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <l>Christ the Lord of Life is come, </l>
             <l rend="indent">Hath slain Death, and Life is born. </l>
           </lg>
-          <pb id="flower_13077" n="80 FLOWER OF YOUTH"/>
+          <pb xml:id="flower_13077" n="80 FLOWER OF YOUTH"/>
           <lg type="stanza">
             <l>Christ the Lord of Life new-risen, </l>
             <l rend="indent">Calls the sleepers that they rise--</l>
@@ -1847,10 +1817,10 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
         </div>
       </div>
     </body>
-    <back id="flower_13080">
-      <div id="flower_42" type="Colophon">
-        <p id="flower_13079">THE RIVERSIDE PRESS LIMITED, EDINBURGH</p>
+    <back xml:id="flower_13080">
+      <div xml:id="flower_42" type="Colophon">
+        <p xml:id="flower_13079">THE RIVERSIDE PRESS LIMITED, EDINBURGH</p>
       </div>
     </back>
   </text>
-</TEI.2>
+</TEI>

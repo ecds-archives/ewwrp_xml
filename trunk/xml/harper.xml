@@ -1,29 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./tgfw-tei.dtd">
-<TEI.2 id="harper_1307">
-  <teiHeader>
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="harper_1307">
+  <teiHeader><fileDesc>
       <titleStmt>
         <title>Our Greatest Want, an electronic edition</title>
         <author>
-          <name reg="Harper, Frances Ellen Watkins, 1825-1911" type="person">Frances Ellen Watkins Harper</name>
+          <name type="person"><choice><reg>Harper, Frances Ellen Watkins, 1825-1911</reg><orig>Frances Ellen Watkins Harper</orig></choice></name>
         </author>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name/>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent>15kb</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
-University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
+University</pubPlace><address>
           <addrLine>Atlanta,
 Georgia</addrLine>
-        </address>
-        <availability>
-          <p id="harper_1301">1996 Emory
+        </address><availability>
+          <p xml:id="harper_1301">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -31,29 +24,25 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Women Writers Resource Project or
 Lewis H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      <idno type="ark">http://pid.emory.edu/ark:/25593/17cd9</idno></publicationStmt>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17cd9</idno></publicationStmt>
       <seriesStmt>
         <title>Emory Women Writers Resource Project</title>
       </seriesStmt>
       <sourceDesc>
         <bibl>Our Greatest Want <date>[18--?]</date><title>The Anglo-African Magazine.  Vol. 1, No. 5.</title></bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
+    </fileDesc><encodingDesc>
       <projectDesc>
-        <p id="harper_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+        <p xml:id="harper_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
       </projectDesc>
       <classDecl>
-        <taxonomy id="lcsh">
+        <taxonomy xml:id="lcsh">
           <bibl>
             <title>Library of Congress Subject Headings</title>
           </bibl>
         </taxonomy>
       </classDecl>
-    </encodingDesc>
-    <profileDesc>
+    </encodingDesc><profileDesc>
       <creation>
         <rs type="collection">Abolition, Freedom, and Rights</rs>
         <rs type="language">English</rs>
@@ -64,40 +53,21 @@ University, Atlanta, Georgia 30322</p>
         <date>1800-1899</date>
       </creation>
       <textClass>
-        <keywords scheme="lcsh">
+        <keywords scheme="#lcsh">
           <list>
             <item>Women authors--Black.</item>
             <item>Spirituality and social renewal.</item>
           </list>
         </keywords>
       </textClass>
-    </profileDesc>
-    <revisionDesc>
-      <change>
-        <date>1997</date>
-        <respStmt>
-          <name>Natalie Prestwich</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags inserted in compliance with TEI guidelines using
-TEILITE</item>
-      </change>
-      <change>
-        <date>2006</date>
-        <respStmt>
-          <name>Alden Mahler</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>TEI header elements changed to conform to new Beck
-	    Center standards.</item>
-      </change>
-    </revisionDesc>
-  </teiHeader>
-  <text id="harper_1306">
-    <body id="harper_1305">
-      <div id="harper_001" type="Essay">
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Natalie Prestwich</name>SGML tags inserted in compliance with TEI guidelines using
+TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="harper_1306">
+    <body xml:id="harper_1305">
+      <div xml:id="harper_001" type="Essay">
         <head>Our Greatest Want. </head>
-        <p id="harper_1303">Leading ideas impress themselves upon communities and countries.  A
+        <p xml:id="harper_1303">Leading ideas impress themselves upon communities and countries.  A
 thought is evolved and thrown out among the masses, they receive it
 and it becomes inter-woven with their mental and moral life--if the
 thought be good the receivers are benefited, and helped onward to the
@@ -141,7 +111,7 @@ not gold or silver, talent or genius, but true men and true women.  We
 have millions of our race in the prison house of slavery, but have we
 yet a single Moses in freedom.  And if we had who among us would be
 led by him?</p>
-        <p id="harper_1304">I like the character of Moses.  He is the first disunionist we read
+        <p xml:id="harper_1304">I like the character of Moses.  He is the first disunionist we read
 of in the Jewish Scriptures.  The magnificence of Pharaoh's throne
 loomed up before his vision, its oriental splendors glittered before
 his eyes; but he turned from them all and chose rather to suffer with
@@ -179,4 +149,4 @@ the glorious idea of human brotherhood.</p>
       </div>
     </body>
   </text>
-</TEI.2>
+</TEI>
